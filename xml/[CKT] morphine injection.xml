@@ -1,0 +1,56 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "[CKT] morphine injection inj AMP">
+<dose><value>2</value>
+<value>2.5</value>
+<value>5</value>
+<value>7.5</value>
+<value>10</value>
+<value>15</value>
+<value>20</value>
+<value>50</value>
+<value>75</value>
+<value>100</value>
+<value>125</value>
+<value>150</value>
+<value>175</value>
+<value>200</value>
+</dose>
+<route><value>IM</value>
+<value>IV</value>
+<value>SC</value>
+</route>
+<strength><value>10 mg/mL</value>
+<value>15 mg/mL</value>
+<value>2 mg/mL</value>
+</strength>
+<frequency><value>Q4H</value>
+<value>Q4H  </value>
+<value>Q6H  </value>
+<value>Q8H  </value>
+<value>Q2H</value>
+<value>ONCE</value>
+</frequency>
+<instruction><value>5 minutes pre-procedure</value>
+<value>Loading dose.</value>
+</instruction>
+<volume><value>1 mL</value>
+</volume>
+<units><value>mg</value>
+<value>mcg/kg/dose</value>
+<value>mcg/kg </value>
+</units>
+<Population><value>Neonate</value>
+<value>Infant/Child</value>
+</Population>
+<IndicationPRN><value>Pain</value>
+</IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Analgesics and Antipyretics, Opiate Agonists</value>
+</AHFSName>
+<HighAlert><value>YES</value>
+</HighAlert>
+</drug>
