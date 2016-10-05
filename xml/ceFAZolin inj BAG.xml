@@ -4,7 +4,8 @@
 </dose>
 <route><value>IV</value>
 </route>
-<strength><value>100 g</value>
+<strength><value>1 g/50 mL</value>
+<value>100 g</value>
 </strength>
 <frequency><value>Q8H</value>
 <value>NOW</value>
@@ -17,13 +18,15 @@
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
-<AdditionalNotes><value>1 g / D5W 50 mL</value>
-<value>2 g / D5W 100 mL</value>
-</AdditionalNotes>
-<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=6661</value>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1302</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=6661</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>FR</value>
+<AHSFormularyStatus><value>Formulary with Usage guidelines, therapeutic interchange.</value>
+<value>Formulary with Restrictions.</value>
 </AHSFormularyStatus>
+<AHFSName><value>Antibacterials, Cephalosporins</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

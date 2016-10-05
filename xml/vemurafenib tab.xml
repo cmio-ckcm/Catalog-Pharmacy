@@ -1,0 +1,31 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "vemurafenib tab">
+<dose><value>960</value>
+<value>720</value>
+<value>480</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>240 mg</value>
+</strength>
+<frequency><value>BID</value>
+</frequency>
+<instruction><value>for 28 days. Administer in the morning and evening.</value>
+</instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population><value>ADULT</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Metastatic melanoma (BRAF mutation-positive). Dosage adjustment recommended for toxicities. No dose adjustment necessary for mild to moderate renal or hepatic impairment. Evaluate QT prolongation status. Patients 65 years and older experience more adverse efects from vemurafenib.</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=7304</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>Formulary with Restrictions.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antineoplastic Agents</value>
+</AHFSName>
+<HighAlert><value>YES</value>
+</HighAlert>
+</drug>

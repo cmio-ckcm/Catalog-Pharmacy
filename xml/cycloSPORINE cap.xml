@@ -3,7 +3,9 @@
 </dose>
 <route><value>PO </value>
 </route>
-<strength><value>25 mg</value>
+<strength><value>10 mg</value>
+<value>100 mg</value>
+<value>25 mg</value>
 <value>50 mg</value>
 </strength>
 <frequency><value>Q12H</value>
@@ -18,6 +20,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary with Restrictions.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Immunosuppressive Agents</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

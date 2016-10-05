@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "meningococcal group c conjugate vaccine inj SYR">
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "meningococcal group C conjugate vaccine inj SYR">
 <dose><value>0.5</value>
 </dose>
 <route><value>IM</value>
@@ -16,6 +16,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary with Restrictions.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Vaccines</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

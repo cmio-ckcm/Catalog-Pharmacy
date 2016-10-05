@@ -35,7 +35,9 @@
 <value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2413</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>FG</value>
+<AHSFormularyStatus><value>Formulary with Usage guidelines.</value>
 </AHSFormularyStatus>
+<AHFSName><value>Antibacterials, Penicillins</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

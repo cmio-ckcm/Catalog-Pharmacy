@@ -14,6 +14,9 @@
 </strength>
 <frequency><value>DAILY</value>
 <value>BID</value>
+<value>Q12H</value>
+<value>HS</value>
+<value>ONCE</value>
 </frequency>
 <instruction></instruction>
 <volume></volume>
@@ -24,6 +27,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Renin-Angiotensin-Aldosterone System Inhibitors, Angiotensin-Converting Enzyme Inhibitors</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

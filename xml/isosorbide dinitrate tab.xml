@@ -21,6 +21,9 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Vasodilating Agents, Nitrates and Nitrites</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

@@ -11,13 +11,16 @@
 <instruction><value>Administer with lunch.</value>
 </instruction>
 <volume></volume>
-<units><value>TAB</value>
+<units><value>tab</value>
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Multivitamin Preparations</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

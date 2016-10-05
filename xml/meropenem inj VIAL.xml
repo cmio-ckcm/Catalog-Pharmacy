@@ -27,7 +27,9 @@
 <value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2370</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>FRGTI</value>
+<AHSFormularyStatus><value>Formulary with Restrictions, Usage guidelines, Therapeutic Interchange.</value>
 </AHSFormularyStatus>
+<AHFSName><value>Antibacterials, Miscellaneous beta-Lactams</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

@@ -16,13 +16,16 @@
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
-<AdditionalNotes><value>Crohn&amp;apos;s Disease / Fistulizing Crohn&amp;apos;s Disease: followed by additional doses at 2 and 6 weeks after initial dose, then every 8 weeks thereafter.</value>
-<value>Fistulizing Crohn&amp;apos;s Disease in patients no longer responsing to 5 mg/kg treatment.</value>
-<value>Rheumatoid Arthritis: followed by additional doses at 2 and 6 weeks after initial dose, then every 8 weeks thereafter.</value>
+<AdditionalNotes><value>Crohn&amp;apos;s Disease / Fistulizing Crohn&amp;apos;s Disease: followed by additional doses at 2 and 6 weeks after initial dose, then every 8 weeks thereafter. Patients identified as carriers of Hepatitis B virus should be monitored for signs/symptoms of relapse of HBV infection throughout therapy and several months following termination of therapy.</value>
+<value>Fistulizing Crohn&amp;apos;s Disease in patients no longer responsing to 5 mg/kg treatment. Patients identified as carriers of Hepatitis B virus should be monitored for signs/symptoms of relapse of HBV infection throughout therapy and several months following termination of therapy.</value>
+<value>Rheumatoid Arthritis: followed by additional doses at 2 and 6 weeks after initial dose, then every 8 weeks thereafter. Patients identified as carriers of Hepatitis B virus should be monitored for signs/symptoms of relapse of HBV infection throughout therapy and several months following termination of therapy.</value>
 </AdditionalNotes>
 <BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3608</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary with Restrictions.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Disease-modifying Antirheumatic Agents</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

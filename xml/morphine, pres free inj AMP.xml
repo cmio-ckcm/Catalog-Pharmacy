@@ -1,0 +1,133 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "morphine, pres free inj AMP">
+<dose><value>30</value>
+<value>35</value>
+<value>40</value>
+<value>45</value>
+<value>50</value>
+<value>2</value>
+<value>2.5</value>
+<value>3</value>
+<value>4</value>
+<value>5</value>
+<value>0.1</value>
+<value>0.2</value>
+<value>0.3</value>
+<value>0.4</value>
+<value>0.5</value>
+<value>0.6</value>
+<value>0.7</value>
+<value>0.8</value>
+<value>0.15</value>
+<value>0.25</value>
+<value>0.35</value>
+</dose>
+<route><value>EPIDURAL</value>
+</route>
+<strength><value>0.5 mg/mL</value>
+<value>1 mg/mL</value>
+</strength>
+<frequency><value>ONCE</value>
+<value>CONTINUOUS</value>
+</frequency>
+<instruction><value>Continuous Infusion: 50 mcg/mL 10 mL EPIDURAL syringe, Titrate to desired effect.</value>
+<value>EPIDURAL PCA: 50 mcg/mL 10 mL syringe, Basal rate.</value>
+<value>EPIDURAL PCA: 50 mcg/mL 10 mL syringe, Demand dose with lockout interval of 10 minutes.</value>
+<value>EPIDURAL PCA: 50 mcg/mL 10 mL syringe, Demand dose with lockout interval of 11 minutes.</value>
+<value>EPIDURAL PCA: 50 mcg/mL 10 mL syringe, Demand dose with lockout interval of 12 minutes.</value>
+<value>EPIDURAL PCA: 50 mcg/mL 10 mL syringe, Demand dose with lockout interval of 13 minutes.</value>
+<value>EPIDURAL PCA: 50 mcg/mL 10 mL syringe, Demand dose with lockout interval of 14 minutes.</value>
+<value>EPIDURAL PCA: 50 mcg/mL 10 mL syringe, Demand dose with lockout interval of 15 minutes.</value>
+<value>EPIDURAL PCA: 50 mcg/mL 10 mL syringe, Demand dose with lockout interval of 16 minutes.</value>
+<value>EPIDURAL PCA: 50 mcg/mL 10 mL syringe, Demand dose with lockout interval of 17 minutes.</value>
+<value>EPIDURAL PCA: 50 mcg/mL 10 mL syringe, Demand dose with lockout interval of 18 minutes.</value>
+<value>EPIDURAL PCA: 50 mcg/mL 10 mL syringe, Demand dose with lockout interval of 19 minutes.</value>
+<value>EPIDURAL PCA: 50 mcg/mL 10 mL syringe, Demand dose with lockout interval of 20 minutes.</value>
+<value>Continuous Infusion: 100 mcg/mL 20 mL EPIDURAL syringe, Titrate to desired effect.</value>
+<value>EPIDURAL PCA: 100 mcg/mL 20 mL syringe, Basal rate.</value>
+<value>EPIDURAL PCA: 100 mcg/mL 20 mL syringe, Demand dose with lockout interval of 10 minutes.</value>
+<value>EPIDURAL PCA: 100 mcg/mL 20 mL syringe, Demand dose with lockout interval of 11 minutes.</value>
+<value>EPIDURAL PCA: 100 mcg/mL 20 mL syringe, Demand dose with lockout interval of 12 minutes.</value>
+<value>EPIDURAL PCA: 100 mcg/mL 20 mL syringe, Demand dose with lockout interval of 13 minutes.</value>
+<value>EPIDURAL PCA: 100 mcg/mL 20 mL syringe, Demand dose with lockout interval of 14 minutes.</value>
+<value>EPIDURAL PCA: 100 mcg/mL 20 mL syringe, Demand dose with lockout interval of 15 minutes.</value>
+<value>EPIDURAL PCA: 100 mcg/mL 20 mL syringe, Demand dose with lockout interval of 16 minutes.</value>
+<value>EPIDURAL PCA: 100 mcg/mL 20 mL syringe, Demand dose with lockout interval of 17 minutes.</value>
+<value>EPIDURAL PCA: 100 mcg/mL 20 mL syringe, Demand dose with lockout interval of 18 minutes.</value>
+<value>EPIDURAL PCA: 100 mcg/mL 20 mL syringe, Demand dose with lockout interval of 19 minutes.</value>
+<value>EPIDURAL PCA: 100 mcg/mL 20 mL syringe, Demand dose with lockout interval of 20 minutes.</value>
+<value>Continuous Infusion: 200 mcg/mL 10 mL EPIDURAL syringe, Titrate to desired effect.</value>
+<value>EPIDURAL PCA: 200 mcg/mL 10 mL syringe, Basal rate.</value>
+<value>EPIDURAL PCA: 200 mcg/mL 20 mL syringe, Demand dose with lockout interval of 10 minutes.</value>
+<value>EPIDURAL PCA: 200 mcg/mL 20 mL syringe, Demand dose with lockout interval of 11 minutes.</value>
+<value>EPIDURAL PCA: 200 mcg/mL 20 mL syringe, Demand dose with lockout interval of 12 minutes.</value>
+<value>EPIDURAL PCA: 200 mcg/mL 20 mL syringe, Demand dose with lockout interval of 13 minutes.</value>
+<value>EPIDURAL PCA: 200 mcg/mL 20 mL syringe, Demand dose with lockout interval of 14 minutes.</value>
+<value>EPIDURAL PCA: 200 mcg/mL 20 mL syringe, Demand dose with lockout interval of 15 minutes.</value>
+<value>EPIDURAL PCA: 200 mcg/mL 20 mL syringe, Demand dose with lockout interval of 16 minutes.</value>
+<value>EPIDURAL PCA: 200 mcg/mL 20 mL syringe, Demand dose with lockout interval of 17 minutes.</value>
+<value>EPIDURAL PCA: 200 mcg/mL 20 mL syringe, Demand dose with lockout interval of 18 minutes.</value>
+<value>EPIDURAL PCA: 200 mcg/mL 20 mL syringe, Demand dose with lockout interval of 19 minutes.</value>
+<value>EPIDURAL PCA: 200 mcg/mL 20 mL syringe, Demand dose with lockout interval of 20 minutes.</value>
+<value>Continuous Infusion: 500 mcg/mL 10 mL EPIDURAL syringe, Titrate to desired effect.</value>
+<value>EPIDURAL PCA: 500 mcg/mL 10 mL syringe, Basal rate.</value>
+<value>EPIDURAL PCA: 500 mcg/mL 10 mL syringe, Demand dose with lockout interval of 10 minutes.</value>
+<value>EPIDURAL PCA: 500 mcg/mL 10 mL syringe, Demand dose with lockout interval of 11 minutes.</value>
+<value>EPIDURAL PCA: 500 mcg/mL 10 mL syringe, Demand dose with lockout interval of 12 minutes.</value>
+<value>EPIDURAL PCA: 500 mcg/mL 10 mL syringe, Demand dose with lockout interval of 13 minutes.</value>
+<value>EPIDURAL PCA: 500 mcg/mL 10 mL syringe, Demand dose with lockout interval of 14 minutes.</value>
+<value>EPIDURAL PCA: 500 mcg/mL 10 mL syringe, Demand dose with lockout interval of 15 minutes.</value>
+<value>EPIDURAL PCA: 500 mcg/mL 10 mL syringe, Demand dose with lockout interval of 16 minutes.</value>
+<value>EPIDURAL PCA: 500 mcg/mL 10 mL syringe, Demand dose with lockout interval of 17 minutes.</value>
+<value>EPIDURAL PCA: 500 mcg/mL 10 mL syringe, Demand dose with lockout interval of 18 minutes.</value>
+<value>EPIDURAL PCA: 500 mcg/mL 10 mL syringe, Demand dose with lockout interval of 19 minutes.</value>
+<value>EPIDURAL PCA: 500 mcg/mL 10 mL syringe, Demand dose with lockout interval of 20 minutes.</value>
+<value>EPIDURAL PCA: 200 mcg/mL 10 mL syringe, Demand dose with lockout interval of 10 minutes.</value>
+<value>EPIDURAL PCA: 200 mcg/mL 10 mL syringe, Demand dose with lockout interval of 11 minutes.</value>
+<value>EPIDURAL PCA: 200 mcg/mL 10 mL syringe, Demand dose with lockout interval of 12 minutes.</value>
+<value>EPIDURAL PCA: 200 mcg/mL 10 mL syringe, Demand dose with lockout interval of 13 minutes.</value>
+<value>EPIDURAL PCA: 200 mcg/mL 10 mL syringe, Demand dose with lockout interval of 14 minutes.</value>
+<value>EPIDURAL PCA: 200 mcg/mL 10 mL syringe, Demand dose with lockout interval of 15 minutes.</value>
+<value>EPIDURAL PCA: 200 mcg/mL 10 mL syringe, Demand dose with lockout interval of 16 minutes.</value>
+<value>EPIDURAL PCA: 200 mcg/mL 10 mL syringe, Demand dose with lockout interval of 17 minutes.</value>
+<value>EPIDURAL PCA: 200 mcg/mL 10 mL syringe, Demand dose with lockout interval of 18 minutes.</value>
+<value>EPIDURAL PCA: 200 mcg/mL 10 mL syringe, Demand dose with lockout interval of 19 minutes.</value>
+<value>EPIDURAL PCA: 200 mcg/mL 10 mL syringe, Demand dose with lockout interval of 20 minutes.</value>
+<value>Continuous Infusion: 1 mg/mL 10 mL EPIDURAL syringe, Titrate to desired effect.</value>
+<value>EPIDURAL PCA: 1 mg/mL 10 mL syringe, Basal rate.</value>
+<value>EPIDURAL PCA: 1 mg/mL 10 mL syringe, Demand dose with lockout interval of 10 minutes.</value>
+<value>EPIDURAL PCA: 1 mg/mL 10 mL syringe, Demand dose with lockout interval of 11 minutes.</value>
+<value>EPIDURAL PCA: 1 mg/mL 10 mL syringe, Demand dose with lockout interval of 12 minutes.</value>
+<value>EPIDURAL PCA: 1 mg/mL 10 mL syringe, Demand dose with lockout interval of 13 minutes.</value>
+<value>EPIDURAL PCA: 1 mg/mL 10 mL syringe, Demand dose with lockout interval of 14 minutes.</value>
+<value>EPIDURAL PCA: 1 mg/mL 10 mL syringe, Demand dose with lockout interval of 15 minutes.</value>
+<value>EPIDURAL PCA: 1 mg/mL 10 mL syringe, Demand dose with lockout interval of 16 minutes.</value>
+<value>EPIDURAL PCA: 1 mg/mL 10 mL syringe, Demand dose with lockout interval of 17 minutes.</value>
+<value>EPIDURAL PCA: 1 mg/mL 10 mL syringe, Demand dose with lockout interval of 18 minutes.</value>
+<value>EPIDURAL PCA: 1 mg/mL 10 mL syringe, Demand dose with lockout interval of 19 minutes.</value>
+<value>EPIDURAL PCA: 1 mg/mL 10 mL syringe, Demand dose with lockout interval of 20 minutes.</value>
+</instruction>
+<volume><value>10 mL</value>
+<value>5 mL</value>
+</volume>
+<units><value>mcg/kg/dose</value>
+<value>mcg/kg/hour</value>
+<value>mg</value>
+<value>mg/hour</value>
+</units>
+<Population><value>Infant/Child</value>
+<value>Adult</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>MAXIMUM DOSE: 100 mcg/kg or 5 mg/day.</value>
+<value>Lockout period: 10 - 20 minutes</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Analgesics and Antipyretics, Opiate Agonists</value>
+</AHFSName>
+<HighAlert><value>YES</value>
+</HighAlert>
+</drug>

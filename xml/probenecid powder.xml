@@ -20,8 +20,9 @@
 <BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=5721</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>FG </value>
-<value>FG</value>
+<AHSFormularyStatus><value>Formulary with Usage guidelines.</value>
 </AHSFormularyStatus>
+<AHFSName><value>Uricosuric Agents</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

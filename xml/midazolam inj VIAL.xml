@@ -1,11 +1,11 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "midazolam inj VIAL">
-<dose><value>1</value>
+<dose><value>0.07</value>
+<value>0.08</value>
+<value>1</value>
 <value>2</value>
 <value>3</value>
 <value>4</value>
 <value>5</value>
-<value>0.07</value>
-<value>0.08</value>
 <value>0.15</value>
 <value>0.2</value>
 <value>0.25</value>
@@ -24,8 +24,8 @@
 <value>0.125</value>
 <value>0.175</value>
 </dose>
-<route><value>IV</value>
-<value>IM</value>
+<route><value>IM</value>
+<value>IV</value>
 <value>SC</value>
 </route>
 <strength><value>1 mg/mL</value>
@@ -36,10 +36,10 @@
 <value>Q2H</value>
 <value>CONTINUOUS</value>
 </frequency>
-<instruction><value>Administer by direct injection over 2  minutes.</value>
-<value>Administer by direct injection over 3 minutes.</value>
-<value>Administer 30 minutes preoperatively.</value>
+<instruction><value>Administer 30 minutes preoperatively.</value>
 <value>Administer 60 minutes preoperatively.</value>
+<value>Administer by direct injection over 2  minutes.</value>
+<value>Administer by direct injection over 3 minutes.</value>
 <value>Continuous infusion: 1 mg/mL 50 mL IV bag, titrated to desired effect as per Richmond Agitation Sedation Scale (RASS).</value>
 <value>Continuous infusion: 1 mg/mL 50 mL IV bag, titrated to desired effect.</value>
 <value>Continuous infusion: 1 mg/mL 100 mL IV bag, titrated to desired effect as per Richmond Agitation Sedation Scale (RASS).</value>
@@ -51,8 +51,8 @@
 <value>5 mL</value>
 <value>1 mL</value>
 </volume>
-<units><value>mg</value>
-<value>mg/kg</value>
+<units><value>mg/kg</value>
+<value>mg</value>
 <value>mg/hour</value>
 <value>mg/kg/hour</value>
 </units>
@@ -67,6 +67,10 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
-<HighAlert></HighAlert>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Anxiolytics, Sedatives, and Hypnotics, Benzodiazepines</value>
+</AHFSName>
+<HighAlert><value>YES</value>
+</HighAlert>
 </drug>

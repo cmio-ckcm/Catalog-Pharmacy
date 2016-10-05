@@ -1,0 +1,27 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "glycoptrronium-indacaterol cap INH">
+<dose><value>1</value>
+</dose>
+<route><value>INH</value>
+</route>
+<strength><value>50 mcg-110 mcg</value>
+</strength>
+<frequency><value>DAILY</value>
+</frequency>
+<instruction></instruction>
+<volume><value>6 dose</value>
+</volume>
+<units><value>cap</value>
+</units>
+<Population><value>ADULT</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=8161</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>Formulary with Restrictions.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Anticholinergic Agents, Antimuscarinics/Antispasmodics</value>
+</AHFSName>
+<HighAlert></HighAlert>
+</drug>

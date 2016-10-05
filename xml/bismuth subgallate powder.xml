@@ -20,7 +20,9 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus><value>F</value>
+<AHSFormularyStatus><value>Formulary.</value>
 </AHSFormularyStatus>
+<AHFSName><value>Antidiarrhea Agents</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

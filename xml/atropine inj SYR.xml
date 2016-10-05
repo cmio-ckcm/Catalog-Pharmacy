@@ -3,33 +3,33 @@
 <value>1</value>
 <value>2</value>
 <value>0.02</value>
+<value>0.01</value>
 <value>0.03</value>
 <value>0.04</value>
 <value>0.05</value>
-<value>0.01</value>
 </dose>
 <route><value>IV</value>
-<value>I.OSS</value>
+<value>INTRA-OSSEUS</value>
 <value>IM</value>
 <value>SC</value>
 </route>
 <strength><value>0.1 mg/mL</value>
 </strength>
 <frequency><value>ONCE</value>
-<value>Q4H  </value>
-<value>Q6H  </value>
 <value>Q4H</value>
 <value>Q6H</value>
+<value>Q4H  </value>
+<value>Q6H  </value>
 </frequency>
 <instruction><value>ONCE, may repeat in 3 to 5 minutes</value>
 <value>Administer at intervals of 5 to 60 MINUTES as required to control muscarinic symptoms in severe cholinergic poisoning</value>
-<value>Administer by direct injection over 1 minute for intubation.</value>
 <value>May repeat dose at intervals of 3 to 5 minutes for Bradycardia.</value>
 <value>Administer 30 minutes pre-operatively</value>
 <value>Administer 60 minutes pre-operatively</value>
-<value>Administer at intervals of 10 to 20 minutes until atropine effect observed, then every 1 to 4 hours for at least 24 hours.</value>
 <value>30 minutes pre-operatively</value>
 <value>60 minutes pre-operatively</value>
+<value>Administer by direct injection over 1 minute for intubation.</value>
+<value>Administer at intervals of 10 to 20 minutes until atropine effect observed, then every 1 to 4 hours for at least 24 hours.</value>
 </instruction>
 <volume><value>10 mL</value>
 <value>5 mL</value>
@@ -42,15 +42,18 @@
 </Population>
 <IndicationPRN></IndicationPRN>
 <AdditionalNotes><value>UP TO MAX DOSE OF 3 mg OR 0.04 mg/kg</value>
-<value>Neonates</value>
 <value>Child: MAX single dose = 0.5 mg. MAX total dose = 1 mg. </value>
-<value>Organophosphate or Carbamate poisoning</value>
 <value>Children/Infants &amp;gt; 5 kg to a MAX single dose of 0.4 mg. MINIMUM dose : 0.1 mg</value>
+<value>Neonates</value>
+<value>Organophosphate or Carbamate poisoning</value>
 </AdditionalNotes>
 <BackgroundInformation><value>Minimum dose NOT recommended</value>
 </BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary with Restrictions.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Anticholinergic Agents, Antimuscarinics/Antispasmodics</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

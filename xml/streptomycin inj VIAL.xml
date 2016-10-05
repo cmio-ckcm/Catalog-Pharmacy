@@ -4,14 +4,14 @@
 <value>20 - 40</value>
 <value>30</value>
 <value>7.5</value>
+<value>10 - 15</value>
+<value>1</value>
 <value>15</value>
 <value>25</value>
 <value>10</value>
-<value>1</value>
-<value>10 - 15</value>
 </dose>
-<route><value>IV</value>
-<value>IM</value>
+<route><value>IM</value>
+<value>IV</value>
 </route>
 <strength><value>1 g</value>
 </strength>
@@ -19,8 +19,8 @@
 <value>Q12H</value>
 <value>TWO TIMES WEEKLY</value>
 <value>Q8H</value>
-<value>Q6H  </value>
 <value>Q6H</value>
+<value>Q6H  </value>
 <value>Q24H</value>
 <value>Q48H</value>
 <value>Q72H</value>
@@ -35,8 +35,8 @@
 <units><value>mg/kg</value>
 <value>mg/kg/day</value>
 <value>mg/kg/dose</value>
-<value>g </value>
 <value>g</value>
+<value>g </value>
 </units>
 <Population><value>NEONATE</value>
 <value>INFANT</value>
@@ -48,6 +48,10 @@
 <AdditionalNotes><value>Tuberculosis</value>
 <value>Tuberculosis. Up to a MAXIMUM of 1.5 g/dose</value>
 <value>Plague</value>
+<value>Enterococcal Endocarditis</value>
+<value>Tularemia</value>
+<value>Plague. MAXIMUM: 2 g/day. Full treatment course is considered 10 days (CDC 2014; WHO 2009).</value>
+<value>Plague. Full treatment course is considered 10 days (CDC 2014; WHO 2009).</value>
 <value>Patients with CrCl 30 to 50 mL/minute.</value>
 <value>Patients with CrCl 10 to 29 mL/minute.</value>
 <value>Patients with CrCl less than 10 mL/minute.</value>
@@ -55,13 +59,12 @@
 <value>Active Tuberculosis. Maximum 1.5 g/dose.</value>
 <value>Active Tuberculosis, MAXIMUM: 750 mg/dose.</value>
 <value>Brucellosis</value>
-<value>Enterococcal Endocarditis</value>
-<value>Tularemia</value>
-<value>Plague. MAXIMUM: 2 g/day. Full treatment course is considered 10 days (CDC 2014; WHO 2009).</value>
-<value>Plague. Full treatment course is considered 10 days (CDC 2014; WHO 2009).</value>
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antibacterials, Aminoglycosides</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

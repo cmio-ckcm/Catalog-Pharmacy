@@ -16,6 +16,9 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Not a pharmacy product_pending DTC decision.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Skin and Mucous Membrane Agents, Sunscreen Agents</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

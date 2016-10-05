@@ -20,8 +20,10 @@
 <BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=6601</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>DEF</value>
+<AHSFormularyStatus><value>Formulary with Restrictions.</value>
 </AHSFormularyStatus>
-<HighAlert><value>HIGH ALERT MEDICATION</value>
+<AHFSName><value>Antineoplastic Agents</value>
+</AHFSName>
+<HighAlert><value>YES</value>
 </HighAlert>
 </drug>

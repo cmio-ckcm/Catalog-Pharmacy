@@ -3,7 +3,7 @@
 </dose>
 <route><value>PO</value>
 </route>
-<strength><value>24.4 g</value>
+<strength><value>31g</value>
 </strength>
 <frequency><value>STAT </value>
 </frequency>
@@ -16,6 +16,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Caloric Agents</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

@@ -21,9 +21,13 @@
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
-<AdditionalNotes></AdditionalNotes>
+<AdditionalNotes><value>Recommended Maximum dose: 40 mg per day. Higher doses can cause cardiac QT interval prolongation. Recommended 20 mg maximum dose for patients 65 years or older or have liver impairment or concurrent use of cimetidine. </value>
+</AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Psychotherapeutic Agents, Antidepressants</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

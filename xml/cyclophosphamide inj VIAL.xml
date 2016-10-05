@@ -6,7 +6,9 @@
 </dose>
 <route><value>IV</value>
 </route>
-<strength><value>500 mg</value>
+<strength><value>1000 mg</value>
+<value>2000 mg</value>
+<value>500 mg</value>
 </strength>
 <frequency><value>ONCE</value>
 </frequency>
@@ -32,10 +34,15 @@
 <value>If ANC is greater than or equal to 1.5 AND Plts are greater than or equal to 100 x 109/L: Give as ordered. If ANC is less than 1.5 OR Plts are less than 100 x 109/L: Delay 1 week.</value>
 <value>If ANC is greater than or equal to 1.5 AND Plts are greater than or equal to 100 x 109/L: Give as ordered. If ANC is less than 1.5 OR Plts are less than 100 x 109/L: Delay 1 week. [Part 1: Cycles 1, 2, 3, &amp; 4] </value>
 </AdditionalNotes>
-<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3359</value>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3360</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3361</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3359</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
-<HighAlert><value>HIGH ALERT MEDICATION</value>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antineoplastic Agents</value>
+</AHFSName>
+<HighAlert><value>YES</value>
 </HighAlert>
 </drug>

@@ -3,15 +3,20 @@
 </dose>
 <route><value>TOP</value>
 </route>
-<strength><value>7 mg/24 hour</value>
+<strength><value>14 mg/24 hour</value>
+<value>21 mg/24 hour</value>
+<value>7 mg/24 hour</value>
 </strength>
 <frequency><value>DAILY</value>
 </frequency>
-<instruction><value>Apply patch.</value>
+<instruction><value>Apply patch</value>
+<value>REMOVE nicotine 14 mg patch.</value>
+<value>Apply patch.</value>
+<value>REMOVE NICOTINE 21 mg PATCH</value>
 <value>REMOVE NICOTINE 7 mg PATCH</value>
 </instruction>
 <volume></volume>
-<units><value>PATCH</value>
+<units><value>patch</value>
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
@@ -19,6 +24,9 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Autonomic Drugs, Miscellaneous</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

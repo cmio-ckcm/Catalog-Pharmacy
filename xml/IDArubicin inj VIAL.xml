@@ -5,9 +5,9 @@
 </dose>
 <route><value>IV</value>
 </route>
-<strength><value>1 mg/mL</value>
-<value>10 mg</value>
+<strength><value>10 mg</value>
 <value>5 mg</value>
+<value>1 mg/mL</value>
 </strength>
 <frequency><value>ONCE</value>
 </frequency>
@@ -24,13 +24,15 @@
 <AdditionalNotes><value>ALL, ANLL. Recommend 50% dose reduction in patients with serum creatinine greater than 200 umol/L. In patients with serum Bilirubin 40 to 85 umol/L, suggest 50% dose reduction. If serum bilirubin level is greater than 85 umol/L; suggest omit dose.</value>
 <value>ALL. Recommend 50% dose reduction in patients with serum creatinine greater than 200 umol/L. In patients with serum Bilirubin 40 to 85 umol/L, suggest 50% dose reduction. If serum bilirubin level is greater than 85 umol/L; suggest omit dose.</value>
 </AdditionalNotes>
-<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3396</value>
-<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3399</value>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3399</value>
 <value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3398</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3396</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>F</value>
+<AHSFormularyStatus><value>Formulary.</value>
 </AHSFormularyStatus>
-<HighAlert><value>HIGH ALERT MEDICATION</value>
+<AHFSName><value>Antineoplastic Agents</value>
+</AHFSName>
+<HighAlert><value>YES</value>
 </HighAlert>
 </drug>

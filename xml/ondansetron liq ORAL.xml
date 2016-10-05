@@ -31,6 +31,9 @@
 </BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary with Usage guidelines.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antiemetics, 5-HT3 Receptor Antagonists</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

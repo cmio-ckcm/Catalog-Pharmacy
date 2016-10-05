@@ -19,6 +19,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antiparkinsonian Agents, Catechol-O-Methyltransferase (COMT) Inhibitors</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

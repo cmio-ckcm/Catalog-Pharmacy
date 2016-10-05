@@ -1,9 +1,10 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "sucrose liq ORAL">
-<dose><value>2</value>
+<dose><value>1</value>
+<value>2</value>
 </dose>
 <route><value>PO</value>
 </route>
-<strength><value>0.24</value>
+<strength><value>24%</value>
 </strength>
 <frequency><value>ONCE</value>
 </frequency>
@@ -22,6 +23,9 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Non-Formulary_pending DTC decision.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Caloric Agents</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

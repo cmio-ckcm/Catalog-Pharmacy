@@ -1,47 +1,50 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "levothyroxine inj VIAL">
-<dose><value>5 - 8</value>
-<value>1 - 5</value>
-<value>12.5 - 100</value>
+<dose><value>12.5 - 100</value>
 <value>1 - 3</value>
-<value>200 - 500</value>
 <value>50 - 200</value>
+<value>5 - 8</value>
+<value>1 - 5</value>
+<value>200 - 500</value>
 <value>20</value>
 <value>10</value>
 </dose>
-<route><value>IV</value>
-<value>IM</value>
+<route><value>IM</value>
+<value>IV</value>
 </route>
 <strength><value>500 mcg</value>
 </strength>
-<frequency><value>Q24H.</value>
-<value>DAILY</value>
+<frequency><value>DAILY</value>
+<value>Q24H.</value>
 <value>ONCE</value>
 <value>CONTINUOUS</value>
 </frequency>
 <instruction><value>Administer by continuous infusion.</value>
 </instruction>
 <volume></volume>
-<units><value>mcg/kg/dose</value>
-<value>mcg/kg</value>
-<value>mcg/day</value>
+<units><value>mcg/day</value>
 <value>mcg/kg/day</value>
+<value>mcg/kg/dose</value>
+<value>mcg/kg</value>
 <value>mcg</value>
 <value>mcg/hour</value>
 </units>
-<Population><value>NEONATES</value>
+<Population><value>ADULT</value>
+<value>NEONATES</value>
 <value>INFANTS/CHILDREN</value>
-<value>ADULT</value>
 <value>ADULTS</value>
 </Population>
 <IndicationPRN></IndicationPRN>
-<AdditionalNotes><value>Dosing approximately 50 - 75% of the oral dose.</value>
-<value>Daily for 7 to 10 days for TSH Suppression Therapy.</value>
-<value>Initial Dose: Myxedema Coma. </value>
+<AdditionalNotes><value>Daily for 7 to 10 days for TSH Suppression Therapy.</value>
 <value>Continue treatment until patient stable and oral dosing is feasible.</value>
+<value>Dosing approximately 50 - 75% of the oral dose.</value>
+<value>Initial Dose: Myxedema Coma. </value>
 <value>BOLUS DOSE, follow with infusion (10 mcg/hour).</value>
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary with Usage guidelines.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Thyroid Agents</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

@@ -10,8 +10,9 @@
 </dose>
 <route><value>IV</value>
 </route>
-<strength><value>2 000 mcg/mL</value>
-<value>4 000 mcg/mL</value>
+<strength><value>1000 mcg/mL</value>
+<value>2000 mcg/mL</value>
+<value>4000 mcg/mL</value>
 </strength>
 <frequency><value>CONTINUOUS</value>
 </frequency>
@@ -27,7 +28,10 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
-<HighAlert><value>HIGH ALERT MEDICATION</value>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Sympathomimetic (Adrenergic) Agents, beta-Adrenergic Agonists</value>
+</AHFSName>
+<HighAlert><value>YES</value>
 </HighAlert>
 </drug>

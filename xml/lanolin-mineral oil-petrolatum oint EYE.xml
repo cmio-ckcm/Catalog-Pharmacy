@@ -1,0 +1,30 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "lanolin-mineral oil-petrolatum oint EYE">
+<dose></dose>
+<route><value>OPHTH</value>
+</route>
+<strength></strength>
+<frequency><value>HS</value>
+<value>ONCE</value>
+</frequency>
+<instruction><value>Apply a small amount (one quarter inch) of ointment to inside of LEFT lower eyelid.</value>
+<value>Apply a small amount (one quarter inch) of ointment to inside of RIGHT lower eyelid.</value>
+<value>Apply a small amount (one quarter inch) of ointment to inside of lower eyelid(s).</value>
+<value>Apply a small amount (one quarter inch) of ointment to inside of LEFT lower eyelid for dryness of the eye.</value>
+<value>Apply a small amount (one quarter inch) of ointment to inside of RIGHT lower eyelid for dryness of the eye.</value>
+<value>Apply a small amount (one quarter inch) of ointment to inside of lower eyelid(s) for dryness of the eye.</value>
+</instruction>
+<volume><value>3.5 g</value>
+</volume>
+<units></units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>EENT Drugs, Miscellaneous</value>
+</AHFSName>
+<HighAlert></HighAlert>
+</drug>

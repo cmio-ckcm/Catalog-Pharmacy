@@ -2,8 +2,9 @@
 <dose><value>1000</value>
 </dose>
 <route><value>IM</value>
+<value>SC</value>
 </route>
-<strength><value>1 000 mcg/mL</value>
+<strength><value>1000 mcg/mL</value>
 </strength>
 <frequency><value>DAILY</value>
 <value>WEEKLY</value>
@@ -19,6 +20,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Vitamin B Complex</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

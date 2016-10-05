@@ -17,10 +17,13 @@
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
-<AdditionalNotes><value>15 mL = 20 mEq potassium</value>
+<AdditionalNotes><value>15 mL = 20 mMol potassium</value>
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Replacement Preparations</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

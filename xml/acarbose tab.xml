@@ -20,8 +20,10 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>F </value>
-<value>F</value>
+<AHSFormularyStatus><value>Formulary.</value>
 </AHSFormularyStatus>
-<HighAlert></HighAlert>
+<AHFSName><value>Antidiabetic Agents, alpha-Glucosidase Inhibitors</value>
+</AHFSName>
+<HighAlert><value>YES</value>
+</HighAlert>
 </drug>

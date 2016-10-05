@@ -4,7 +4,7 @@
 </dose>
 <route><value>OPHTH</value>
 </route>
-<strength><value>0.005</value>
+<strength><value>0.5%</value>
 </strength>
 <frequency><value>ONCE</value>
 <value>EVERY 5 MINUTES</value>
@@ -31,6 +31,9 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>EENT Drugs, Local Anesthetics, </value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

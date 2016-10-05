@@ -17,8 +17,10 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>F</value>
+<AHSFormularyStatus><value>Formulary.</value>
 </AHSFormularyStatus>
-<HighAlert><value>HIGH ALERT MEDICATION</value>
+<AHFSName><value>Caloric Agents</value>
+</AHFSName>
+<HighAlert><value>YES</value>
 </HighAlert>
 </drug>

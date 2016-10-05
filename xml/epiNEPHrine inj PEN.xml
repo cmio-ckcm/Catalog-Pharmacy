@@ -23,6 +23,10 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
-<HighAlert></HighAlert>
+<AHSFormularyStatus><value>Formulary with Restrictions.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Sympathomimetic (Adrenergic) Agents</value>
+</AHFSName>
+<HighAlert><value>YES</value>
+</HighAlert>
 </drug>

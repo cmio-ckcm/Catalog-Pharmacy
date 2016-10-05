@@ -1,17 +1,21 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "ibuprofen tab">
-<dose><value>400</value>
+<dose><value>200</value>
+<value>300</value>
+<value>400</value>
 <value>600</value>
 </dose>
 <route><value>PO</value>
 </route>
-<strength><value>400 mg</value>
+<strength><value>200 mg</value>
+<value>300 mg</value>
+<value>400 mg</value>
 <value>600 mg</value>
 </strength>
 <frequency><value>BID</value>
 <value>TID</value>
 <value>QID</value>
-<value>Q6H</value>
 <value>Q4H</value>
+<value>Q6H</value>
 <value>Q8H</value>
 </frequency>
 <instruction></instruction>
@@ -24,6 +28,9 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Analgesics and Antipyretics, Nonsteroidal Anti-inflammatory Agents</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

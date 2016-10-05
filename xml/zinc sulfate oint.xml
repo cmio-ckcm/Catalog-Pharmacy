@@ -2,7 +2,7 @@
 <dose></dose>
 <route><value>PR</value>
 </route>
-<strength><value>0.005</value>
+<strength><value>0.5%</value>
 </strength>
 <frequency><value>Q4H</value>
 <value>ONCE</value>
@@ -18,6 +18,9 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Gastrointestinal Drugs, Anti-inflammatory Agents</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

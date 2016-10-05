@@ -12,7 +12,9 @@
 <value>BID</value>
 </frequency>
 <instruction></instruction>
-<volume></volume>
+<volume><value>120 dose</value>
+<value>30 dose</value>
+</volume>
 <units><value>mcg</value>
 </units>
 <Population></Population>
@@ -20,6 +22,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Adrenals</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

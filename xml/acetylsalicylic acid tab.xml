@@ -14,10 +14,13 @@
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
-<AdditionalNotes></AdditionalNotes>
+<AdditionalNotes><value>Do not use in patients during last trimester of pregnancy or are  breastfeeding. Recommend use of alternative agents in children less than 18 years of age with chicken pox, cold or flu symptoms to prevent occurrence of Reye&amp;apos;s syndrome</value>
+</AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>F</value>
+<AHSFormularyStatus><value>Formulary.</value>
 </AHSFormularyStatus>
+<AHFSName><value>Analgesics and Antipyretics, Nonsteroidal Anti-inflammatory Agents</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

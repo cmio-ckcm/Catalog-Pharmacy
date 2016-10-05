@@ -1,9 +1,12 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "thiamine tab">
-<dose><value>50</value>
+<dose><value>100</value>
+<value>200</value>
+<value>50</value>
 </dose>
 <route><value>PO</value>
 </route>
-<strength><value>50 mg</value>
+<strength><value>100 mg</value>
+<value>50 mg</value>
 </strength>
 <frequency><value>DAILY</value>
 <value>BID</value>
@@ -17,6 +20,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Vitamin B Complex</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

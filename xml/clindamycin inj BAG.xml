@@ -1,9 +1,11 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "clindamycin inj BAG">
-<dose><value>900</value>
+<dose><value>600</value>
+<value>900</value>
 </dose>
 <route><value>IV</value>
 </route>
-<strength><value>18 mg/mL</value>
+<strength><value>12 mg/mL</value>
+<value>18 mg/mL</value>
 </strength>
 <frequency><value>Q8H</value>
 </frequency>
@@ -15,10 +17,13 @@
 <Population></Population>
 <IndicationPRN></IndicationPRN>
 <AdditionalNotes></AdditionalNotes>
-<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=6642</value>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=6641</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=6642</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>FGTI</value>
+<AHSFormularyStatus><value>Formulary with Usage guidelines, therapeutic interchange.</value>
 </AHSFormularyStatus>
+<AHFSName><value>Antibacterials, Miscellaneous</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

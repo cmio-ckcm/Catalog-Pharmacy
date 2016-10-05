@@ -1,5 +1,6 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "budesonide nebule">
-<dose><value>0.25</value>
+<dose><value>0.125</value>
+<value>0.25</value>
 <value>0.5</value>
 <value>0.75</value>
 <value>1</value>
@@ -8,7 +9,8 @@
 </dose>
 <route><value>INH</value>
 </route>
-<strength><value>0.25 mg/mL</value>
+<strength><value>0.125 mg/mL</value>
+<value>0.25 mg/mL</value>
 <value>0.5 mg/mL</value>
 </strength>
 <frequency><value>BID</value>
@@ -20,7 +22,10 @@
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
-<AdditionalNotes><value>0.25 MG = 1 ML</value>
+<AdditionalNotes><value>0.125 MG = 1 ML</value>
+<value>0.25 MG = 2 ML</value>
+<value>0.5 MG = 4 ML</value>
+<value>0.25 MG = 1 ML</value>
 <value>0.5 MG = 2 ML</value>
 <value>0.75 MG = 3 ML</value>
 <value>1 MG = 2 ML</value>
@@ -29,6 +34,9 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Adrenals</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

@@ -28,6 +28,10 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
-<HighAlert></HighAlert>
+<AHSFormularyStatus><value>Formulary with Restrictions, Usage guidelines.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antithrombotic Agents, Platelet-Aggregation Inhibitors</value>
+</AHFSName>
+<HighAlert><value>YES</value>
+</HighAlert>
 </drug>

@@ -14,7 +14,7 @@
 <value>Instill in each nostril for symtomatic relief of rhinorrhea.</value>
 </instruction>
 <volume></volume>
-<units><value>sprays</value>
+<units><value>spray</value>
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
@@ -22,6 +22,9 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Anticholinergic Agents, Antimuscarinics/Antispasmodics</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

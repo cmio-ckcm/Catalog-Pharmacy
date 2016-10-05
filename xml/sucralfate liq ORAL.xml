@@ -28,6 +28,9 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antiulcer Agents and Acid Suppressants, Protectants</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

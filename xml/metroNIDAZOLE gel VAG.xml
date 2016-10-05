@@ -3,13 +3,13 @@
 </dose>
 <route><value>INTRAVAGINALLY</value>
 </route>
-<strength><value>0.0075</value>
+<strength><value>0.75%</value>
 </strength>
 <frequency><value>DAILY</value>
 </frequency>
 <instruction></instruction>
 <volume></volume>
-<units><value>APPLICATORFUL</value>
+<units><value>applicatorful</value>
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
@@ -17,6 +17,9 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Skin and Mucous Membrane Agents, Antibacterials</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

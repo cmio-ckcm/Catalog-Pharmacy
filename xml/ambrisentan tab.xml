@@ -15,12 +15,15 @@
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
-<AdditionalNotes></AdditionalNotes>
+<AdditionalNotes><value>Use is contraindicated in patients with Idiopathic Pulmonary Fibrosis, with or withour pulmonary hypertension. Health Canada July 12, 2012.</value>
+</AdditionalNotes>
 <BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3494</value>
 <value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3493</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>FR</value>
+<AHSFormularyStatus><value>Formulary with Restrictions.</value>
 </AHSFormularyStatus>
+<AHFSName><value>Vasodilating Agents, Miscellaneous</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

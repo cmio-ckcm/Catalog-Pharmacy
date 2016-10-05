@@ -1,10 +1,10 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "dexamethasone-neomycin-polymyxin b drop EYE">
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "dexamethasone-neomycin-polymyxin B drop EYE">
 <dose><value>1</value>
 <value>2</value>
 </dose>
 <route><value>OPHTH</value>
 </route>
-<strength><value>1 mg-3.5 mg-6 000 unit/mL</value>
+<strength><value>1 mg-3.5 mg-6000 unit/mL</value>
 </strength>
 <frequency><value>Q1H</value>
 <value>Q2H</value>
@@ -33,6 +33,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>EENT Drugs, Anti-infectives, Antibacterials</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

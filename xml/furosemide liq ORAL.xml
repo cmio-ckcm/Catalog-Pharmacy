@@ -31,6 +31,9 @@
 </BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Diuretics, Loop Diuretics</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

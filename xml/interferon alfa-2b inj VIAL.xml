@@ -6,15 +6,17 @@
 <route><value>IM</value>
 <value>SC</value>
 </route>
-<strength><value>6 million unit/mL</value>
+<strength><value>10 million unit/mL</value>
+<value>6 million unit/mL</value>
 </strength>
 <frequency><value>THREE TIMES WEEKLY</value>
 <value>DAILY</value>
 </frequency>
 <instruction></instruction>
-<volume><value>3 mL</value>
+<volume><value>1 mL</value>
+<value>3 mL</value>
 </volume>
-<units><value>million IU</value>
+<units><value>million unit</value>
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
@@ -24,8 +26,12 @@
 <value>Aids-related Kaposi&amp;apos;s sarcoma: treatment for 10 to 12 weeks, followed by dose administered 3 times weekly.</value>
 <value>Aids-related Kaposi&amp;apos;s sarcoma</value>
 </AdditionalNotes>
-<BackgroundInformation></BackgroundInformation>
+<BackgroundInformation><value>Monitor blood pressure, heart rate and rhythm, temperature and hematologic indices.</value>
+</BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antivirals, Interferons</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

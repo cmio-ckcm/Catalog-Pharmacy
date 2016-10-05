@@ -15,8 +15,8 @@
 <value>Q4H</value>
 </frequency>
 <instruction><value>Administer immediately post-partum.</value>
-<value>May administer up to 5 doses.</value>
 <value>post-partum hemorrhage</value>
+<value>May administer up to 5 doses.</value>
 </instruction>
 <volume><value>1 mL</value>
 </volume>
@@ -31,6 +31,9 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Oxytocics</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

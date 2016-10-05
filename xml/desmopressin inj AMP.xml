@@ -6,8 +6,8 @@
 <value>3</value>
 <value>4</value>
 </dose>
-<route><value>SC</value>
-<value>IV</value>
+<route><value>IV</value>
+<value>SC</value>
 <value>IM</value>
 </route>
 <strength><value>15 mcg/mL</value>
@@ -24,12 +24,15 @@
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
-<AdditionalNotes><value>MAXIMUM DOSE: 20 mcg</value>
-<value>MAXIMUM DOSE: 20 mcg. Administer over 20-30 minutes</value>
+<AdditionalNotes><value>MAXIMUM DOSE: 20 mcg. Administer over 20-30 minutes</value>
+<value>MAXIMUM DOSE: 20 mcg</value>
 <value>Administer over 20-30 minutes</value>
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Pituitary</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

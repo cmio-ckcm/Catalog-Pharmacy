@@ -4,7 +4,7 @@
 </dose>
 <route><value>OPHTH</value>
 </route>
-<strength><value>0.003</value>
+<strength><value>0.3%</value>
 </strength>
 <frequency><value>Q2H</value>
 <value>Q4H</value>
@@ -47,6 +47,9 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>EENT Drugs, Anti-infectives, Antibacterials</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

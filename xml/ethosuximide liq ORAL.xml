@@ -29,6 +29,9 @@
 <BackgroundInformation><value>Dosage usually not &amp;gt; 1.5 gram daily</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Anticonvulsants, Succinimides</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

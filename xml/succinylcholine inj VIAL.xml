@@ -1,15 +1,15 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "succinylcholine inj VIAL">
-<dose><value>5 - 10</value>
+<dose><value>2.5 - 4</value>
+<value>5 - 10</value>
 <value>0.3 - 1.1</value>
 <value>0.04 - 0.07</value>
-<value>2.5 - 4</value>
 <value>0.5 - 10</value>
 <value>2 - 3</value>
 <value>0.3 - 0.6</value>
 <value>1</value>
 </dose>
-<route><value>IV</value>
-<value>IM</value>
+<route><value>IM</value>
+<value>IV</value>
 </route>
 <strength><value>20 mg/mL</value>
 </strength>
@@ -26,13 +26,13 @@
 <volume><value>10 mL</value>
 <value>20 mL</value>
 </volume>
-<units><value>mg</value>
-<value>mg/kg</value>
+<units><value>mg/kg</value>
+<value>mg</value>
 <value>mg/minute</value>
 </units>
 <Population><value>ADULT</value>
-<value>ADULT, short surgical procedures</value>
 <value>INFANT / CHILDREN</value>
+<value>ADULT, short surgical procedures</value>
 <value>INFANT, Initial dose: rapid sequence intubation.</value>
 <value>INFANT, maintenance dose: rapid sequence intubation.</value>
 <value>CHILDREN, Initial dose: rapid sequence intubation.</value>
@@ -45,7 +45,10 @@
 </BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
-<HighAlert><value>HIGH ALERT MEDICATION</value>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Skeletal Muscle Relaxants, Neuromuscular Blocking Agents</value>
+</AHFSName>
+<HighAlert><value>YES</value>
 </HighAlert>
 </drug>

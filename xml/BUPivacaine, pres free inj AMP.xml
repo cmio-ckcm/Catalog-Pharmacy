@@ -1,0 +1,27 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "BUPivacaine, pres free inj AMP">
+<dose><value>6 - 15</value>
+</dose>
+<route><value>INFILTRATION</value>
+</route>
+<strength><value>0.75%</value>
+</strength>
+<frequency><value>ONCE</value>
+</frequency>
+<instruction></instruction>
+<volume><value>2 mL</value>
+</volume>
+<units><value>mg/dose</value>
+</units>
+<Population><value>ADULT</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Spinal anesthesia.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Local Anesthetics</value>
+</AHFSName>
+<HighAlert></HighAlert>
+</drug>

@@ -22,6 +22,9 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Anticonvulsants, Anticonvulsants, Miscellaneous</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

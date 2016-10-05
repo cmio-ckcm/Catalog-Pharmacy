@@ -3,8 +3,8 @@
 <value>100</value>
 </dose>
 <route><value>IM</value>
-<value>SC</value>
 <value>IV</value>
+<value>SC</value>
 </route>
 <strength><value>50 mcg/mL</value>
 </strength>
@@ -16,7 +16,8 @@
 <value>Administer every 90 minutes.</value>
 <value>Administer every 2 hours.</value>
 </instruction>
-<volume><value>2 mL</value>
+<volume><value>10 mL</value>
+<value>2 mL</value>
 <value>20 mL</value>
 <value>5 mL</value>
 <value>50 mL</value>
@@ -30,6 +31,10 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
-<HighAlert></HighAlert>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Analgesics and Antipyretics, Opiate Agonists</value>
+</AHFSName>
+<HighAlert><value>YES</value>
+</HighAlert>
 </drug>

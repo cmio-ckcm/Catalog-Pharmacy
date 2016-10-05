@@ -22,6 +22,9 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary, Health Canada Special Access Programme.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Sympatholytic (Adrenergic Blocking) Agents, alpha-Adrenergic Blocking Agents</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

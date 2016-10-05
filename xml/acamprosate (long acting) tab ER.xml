@@ -1,0 +1,25 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "acamprosate (long acting) tab ER">
+<dose><value>333</value>
+<value>666</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>333 mg</value>
+</strength>
+<frequency><value>TID</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>Non-Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Central Nervous System Agents, Miscellaneous</value>
+</AHFSName>
+<HighAlert></HighAlert>
+</drug>

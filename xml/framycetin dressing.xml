@@ -2,7 +2,7 @@
 <dose></dose>
 <route><value>TOP</value>
 </route>
-<strength><value>0.01</value>
+<strength><value>1%</value>
 </strength>
 <frequency><value>DAILY</value>
 </frequency>
@@ -17,6 +17,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Skin and Mucous Membrane Agents, Antibacterials</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

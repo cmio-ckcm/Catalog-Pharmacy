@@ -2,20 +2,19 @@
 <dose><value>1.5</value>
 </dose>
 <route><value>OPHTH</value>
-<value>OPHT</value>
 </route>
-<strength><value>0.001</value>
+<strength><value>0.1%</value>
 </strength>
-<frequency><value>TID</value>
+<frequency><value>Q4H</value>
+<value>TID</value>
 <value>QID</value>
 <value>DAILY</value>
-<value>Q4H</value>
 </frequency>
-<instruction><value>Apply a small ribbon of ointment to the LEFT eye conjuctival sac.</value>
+<instruction><value>Apply to the conjunctival sac of each eye during night.</value>
+<value>Apply a small ribbon of ointment to the LEFT eye conjuctival sac.</value>
 <value>Apply a small ribbon of ointment to the RIGHT eye conjuctival sac.</value>
 <value>Apply a small ribbon of ointment to the affected eye(s) conjuctival sac.</value>
 <value>Apply a small ribbon of ointment to conjuctival sac of BOTH eyes.</value>
-<value>Apply to the conjunctival sac of each eye during night.</value>
 </instruction>
 <volume><value>3.5g</value>
 </volume>
@@ -26,6 +25,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>EENT Drugs, Anti-inflammatory Agents, Corticosteroids</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

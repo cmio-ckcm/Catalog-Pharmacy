@@ -1,0 +1,31 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "asparaginase (ERWINASE) inj VIAL">
+<dose><value>25 000</value>
+</dose>
+<route><value>IM</value>
+</route>
+<strength><value>10 000 unit</value>
+</strength>
+<frequency><value>WEEKLY</value>
+</frequency>
+<instruction><value>WEEKLY on days 29, 36 and 43. Observe patient for 1 hour post asparaginase.</value>
+<value>WEEKLY on DAY 1, 8 and 15. Observe patient for 1 hour post asparaginase.</value>
+</instruction>
+<volume></volume>
+<units><value>unit/m2</value>
+</units>
+<Population><value>ADULT</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>If abdominal pain present 72 hours or longer AND Amylase is greater than or equal to 3 X WLN: Permanently stop asparaginase. If abdominal pain present less than 72 hours AND Amylase less than 3 X WLN: HOLD asparaginase and resume when values return to baseline. If Amylase greater than or equal to 3 X WLN AND no abdominal pain: Check Lipase; if Lipase above normal: HOLD asparaginase. If Fibrinogen less than 1 g/L: HOLD asparaginase. If Fibrinogen is less than or equal to 0.5 g/L OR Fibrinogen is greater than 0.5 g/L and symptomatic: Give 10 units of cryoprecipitate. Repeat Fibrinogen daily until greater than 1 g/L.</value>
+<value>If abdominal pain present 72 hours or longer AND Amylase is greater than or equal to 3 X WLN: Permanently stop asparaginase. If abdominal pain present less than 72 hours AND Amylase less than 3 X WLN: HOLD asparaginase and resume when values return to baseline. If Amylase greater than 3 X WLN AND no abdominal pain: Check Lipase; if Lipase above normal: HOLD asparaginase. If Fibrinogen less than 1 g/L: HOLD asparaginase. If Fibrinogen is less than or equal to 0.5 g/L OR Fibrinogen is greater than 0.5 g/L and symptomatic: Give 10 units of cryoprecipitate. Repeat Fibrinogen daily until greater than 1 g/L. </value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3342</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>Formulary with Restrictions.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antineoplastic Agents</value>
+</AHFSName>
+<HighAlert><value>YES</value>
+</HighAlert>
+</drug>

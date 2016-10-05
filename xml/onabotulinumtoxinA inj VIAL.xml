@@ -22,6 +22,9 @@
 <BackgroundInformation><value>AHS Drug Formulary Restrictions:Acute Care: Restricted to the following indications: 1) The management of spasticity: a) in pediatric cerebral palsy patients who are either inpatients or will require a general anesthetic (i.e., in day surgery) for administration of the drug, OR b) management of focal spasticity in adult inpatients with conditions that have upper motor neuron involvement presenting with spasticity (e.g. stroke, brain injury, cerebral palsy, MS) that adversely affect the patient&amp;apos;s function, comfort and burden of care. AND 2.) To prescription by physiatrists, orthopedic surgeons, neurologists or, pediatricians trained in neuromotor rehabilitation.   Botulinum toxin administered in any outpatient clinic or EMG lab is considered non-formulary use and is not funded.</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary with Restrictions.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Other Miscellaneous Therapeutic Agents</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

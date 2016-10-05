@@ -1,6 +1,6 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "sodium chondroitin sulfate-sodium hyaluronidate inj SYR">
 <dose></dose>
-<route><value>INTRA-OCCULAR</value>
+<route><value>INTRA-OCULAR</value>
 </route>
 <strength><value>4%-3%</value>
 </strength>
@@ -19,6 +19,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary_pending DTC decision.</value>
+</AHSFormularyStatus>
+<AHFSName><value>EENT Drugs, Miscellaneous</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

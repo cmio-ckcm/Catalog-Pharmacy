@@ -3,7 +3,7 @@
 </dose>
 <route><value>PO</value>
 </route>
-<strength><value>1 000 mg</value>
+<strength><value>1000 mg</value>
 </strength>
 <frequency><value>BID</value>
 </frequency>
@@ -16,6 +16,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Replacement Preparations</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

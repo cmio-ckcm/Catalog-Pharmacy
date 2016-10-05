@@ -3,7 +3,7 @@
 </dose>
 <route><value>TOP</value>
 </route>
-<strength><value>0.0001</value>
+<strength><value>0.01%</value>
 </strength>
 <frequency><value>HS</value>
 </frequency>
@@ -12,15 +12,18 @@
 <value>Instill into RIGHT eye.</value>
 <value>Instill into BOTH eyes.</value>
 </instruction>
-<volume><value>3 mL</value>
+<volume><value>5 mL</value>
 </volume>
-<units><value>GTT</value>
+<units><value>gtt</value>
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>EENT Drugs, Antiglaucoma Agents, Prostaglandin Analogs</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

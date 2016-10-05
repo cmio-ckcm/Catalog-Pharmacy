@@ -1,35 +1,39 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "chloroprocaine inj VIAL">
-<dose><value>1 - 800</value>
+<dose><value>2 - 2.5</value>
+<value>15 - 25</value>
+<value>1 - 800</value>
 <value>2 - 3</value>
 <value>40 - 60</value>
 <value>30 - 40</value>
-<value>2 - 2.5</value>
-<value>15 - 25</value>
 </dose>
-<route><value>INFILTRATION</value>
-<value>EPIDURAL</value>
+<route><value>EPIDURAL</value>
+<value>INFILTRATION</value>
 </route>
-<strength><value>0.02</value>
+<strength><value>2%</value>
 </strength>
 <frequency><value>ONCE</value>
 </frequency>
 <instruction></instruction>
 <volume><value>20 mL</value>
 </volume>
-<units><value>mg</value>
-<value>mL</value>
+<units><value>mL</value>
+<value>mg</value>
 </units>
-<Population><value>ADULT. Local infiltration. MAXIMUM total dose: 800 mg.</value>
+<Population><value>ADULT. LUMBAR EPIDURAL.</value>
+<value>ADULT. Caudal</value>
+<value>ADULT. Local infiltration. MAXIMUM total dose: 800 mg.</value>
 <value>ADULT. Mandibular</value>
 <value>ADULT. Pudendal (each side) block. Total dose: 400 mg</value>
 <value>ADULT. Brachial plexus.</value>
-<value>ADULT. LUMBAR EPIDURAL.</value>
-<value>ADULT. Caudal</value>
 </Population>
 <IndicationPRN></IndicationPRN>
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
-<HighAlert></HighAlert>
+<AHSFormularyStatus><value>Formulary, Health Canada Special Access Programme.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Local Anesthetics</value>
+</AHFSName>
+<HighAlert><value>YES</value>
+</HighAlert>
 </drug>

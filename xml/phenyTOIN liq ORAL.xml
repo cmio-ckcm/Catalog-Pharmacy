@@ -33,6 +33,9 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Anticonvulsants, Hydantoins</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

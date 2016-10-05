@@ -6,7 +6,7 @@
 </dose>
 <route><value>INH</value>
 </route>
-<strength><value>0.999</value>
+<strength><value>99.9%</value>
 </strength>
 <frequency><value>ONCE</value>
 </frequency>
@@ -23,7 +23,10 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
-<HighAlert><value>HIGH ALERT MEDICATION</value>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>General Anesthetics, Inhalation Anesthetics</value>
+</AHFSName>
+<HighAlert><value>YES</value>
 </HighAlert>
 </drug>

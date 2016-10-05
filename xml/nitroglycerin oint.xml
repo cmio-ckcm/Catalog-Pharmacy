@@ -11,7 +11,7 @@
 </dose>
 <route><value>TOP</value>
 </route>
-<strength><value>0.02</value>
+<strength><value>2%</value>
 </strength>
 <frequency><value>HS</value>
 <value>Q3H</value>
@@ -37,6 +37,9 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Vasodilating Agents, Nitrates and Nitrites</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

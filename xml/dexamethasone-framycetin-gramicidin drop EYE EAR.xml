@@ -1,22 +1,19 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "dexamethasone-framycetin-gramicidin drop EYE EAR">
-<dose><value>2</value>
+<dose><value>1</value>
+<value>2</value>
 <value>3</value>
-<value>1</value>
 </dose>
-<route><value>OTIC</value>
-<value>OPHTH</value>
+<route><value>OPHTH</value>
+<value>OTIC</value>
 </route>
 <strength><value>0.5 mg-5 mg-0.05 mg/mL</value>
 </strength>
-<frequency><value>TID</value>
-<value>QID</value>
-<value>Q1H</value>
+<frequency><value>Q1H</value>
 <value>Q2H</value>
+<value>TID</value>
+<value>QID</value>
 </frequency>
-<instruction><value>Instill into affected ear(s).</value>
-<value>Instill into LEFT ear.</value>
-<value>Instill into RIGHT ear.</value>
-<value>Instill into LEFT eye Q1H until desired response obtained.</value>
+<instruction><value>Instill into LEFT eye Q1H until desired response obtained.</value>
 <value>Instill into LEFT eye Q2H until desired response obtained.</value>
 <value>Instill into LEFT eye.</value>
 <value>Instill into RIGHT eye Q1H until desired response obtained.</value>
@@ -28,6 +25,9 @@
 <value>Instill into BOTH eyes Q1H until desired response obtained.</value>
 <value>Instill into BOTH eyes Q2H until desired response obtained.</value>
 <value>Instill into BOTH eyes.</value>
+<value>Instill into affected ear(s).</value>
+<value>Instill into LEFT ear.</value>
+<value>Instill into RIGHT ear.</value>
 </instruction>
 <volume><value>8 mL</value>
 </volume>
@@ -39,6 +39,9 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>EENT Drugs, Anti-infectives, Antibacterials</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

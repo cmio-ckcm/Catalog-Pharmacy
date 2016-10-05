@@ -20,7 +20,9 @@
 <BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=6881</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>FR</value>
+<AHSFormularyStatus><value>Formulary with Restrictions.</value>
 </AHSFormularyStatus>
+<AHFSName><value>Antibacterials, Cephalosporins</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

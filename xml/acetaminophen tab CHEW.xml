@@ -17,11 +17,14 @@
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
-<AdditionalNotes></AdditionalNotes>
+<AdditionalNotes><value>Acetaminophen dosing from all sources not to exceed: CHILDREN =  65 mg/kg/24 hours. ADULTS: 4000 mg/24 hours.</value>
+</AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus><value>F</value>
+<AHSFormularyStatus><value>Formulary.</value>
 </AHSFormularyStatus>
+<AHFSName><value>Analgesics and Antipyretics, Miscellaneous</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

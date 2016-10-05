@@ -1,19 +1,33 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "naloxone inj AMP">
-<dose><value>0.4</value>
+<dose><value>0.2</value>
+<value>1</value>
+<value>0.4</value>
+<value>0.8</value>
+<value>0.1</value>
 <value>0.004</value>
 <value>0.25 - 2.4</value>
 </dose>
-<route><value>IV</value>
+<route><value>IM</value>
+<value>IV</value>
+<value>SC</value>
 </route>
-<strength><value>1 mg/mL</value>
+<strength><value>0.4 mg/ml</value>
+<value>1 mg/mL</value>
 </strength>
-<frequency><value>CONTINUOUS</value>
+<frequency><value>ONCE</value>
+<value>CONTINUOUS</value>
 </frequency>
-<instruction><value>Administer by continuous infusion.</value>
+<instruction><value>May repeat at 2 minute intervals to a MAXIMUM of 10 mg.</value>
+<value>May repeat at 3 minute intervals to a MAXIMUM of 10 mg.</value>
+<value>Administer over 15 minutes. May repeat up to every 2 hours.</value>
+<value>Administer by continuous infusion.</value>
 </instruction>
-<volume><value>2 mL</value>
+<volume><value>1 mL</value>
+<value>2 mL</value>
 </volume>
-<units><value>mg/hr</value>
+<units><value>mg</value>
+<value>mcg/kg </value>
+<value>mg/hr</value>
 <value>mg/kg/hour</value>
 <value>mcg/kg/hr</value>
 </units>
@@ -21,11 +35,15 @@
 <IndicationPRN></IndicationPRN>
 <AdditionalNotes><value>2 mg/500 mL Procincial concentration standard</value>
 </AdditionalNotes>
-<BackgroundInformation><value>Known/Suspected opioid overdose</value>
-<value>Post-Op opioid respiratory depression reversal</value>
+<BackgroundInformation><value>Post-Op opioid respiratory depression reversal</value>
 <value>Opioid-induced pruritis</value>
+<value>Known/Suspected opioid overdose</value>
 </BackgroundInformation>
-<PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Opiate Antagonists</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

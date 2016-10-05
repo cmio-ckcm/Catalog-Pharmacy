@@ -1,7 +1,7 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "ethacrynic acid inj VIAL">
 <dose><value>50</value>
-<value>0.5 - 1</value>
 <value>1</value>
+<value>0.5 - 1</value>
 </dose>
 <route><value>IV</value>
 <value>IV </value>
@@ -24,6 +24,9 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Diuretics, Loop Diuretics</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

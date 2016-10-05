@@ -6,7 +6,7 @@
 </dose>
 <route><value>IV</value>
 </route>
-<strength><value>0.25</value>
+<strength><value>25%</value>
 </strength>
 <frequency><value>ONCE</value>
 <value>THREE TIMES WEEKLY</value>
@@ -30,6 +30,9 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antidotes</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

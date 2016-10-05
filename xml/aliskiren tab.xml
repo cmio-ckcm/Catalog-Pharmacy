@@ -14,10 +14,13 @@
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
-<AdditionalNotes></AdditionalNotes>
+<AdditionalNotes><value>Aliskiren or Aliskiren-containing fixed combination products contraindicated in diabetic patients receiving an ACE inhibitor or Angiotensin receptor blocker product: increased incidence of non-fatal strokes, renal complications, hyperkalemia and hypotension; ALTITUDE study. Health Canada Advisory, 2012Jan18.</value>
+</AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>NF</value>
+<AHSFormularyStatus><value>Non-Formulary.</value>
 </AHSFormularyStatus>
+<AHFSName><value>Renin-Angiotensin-Aldosterone System Inhibitors, Renin Inhibitors</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

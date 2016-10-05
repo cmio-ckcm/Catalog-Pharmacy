@@ -1,0 +1,61 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "iron dextran inj VIAL">
+<dose><value>25</value>
+<value>50 - 100</value>
+<value>125</value>
+<value>250</value>
+<value>500</value>
+<value>50</value>
+<value>100</value>
+<value>10</value>
+<value>15</value>
+<value>0.2 - 1</value>
+<value>20</value>
+</dose>
+<route><value>IM</value>
+<value>IV</value>
+</route>
+<strength><value>50 mg/mL</value>
+</strength>
+<frequency><value>ONCE</value>
+<value>WEEKLY</value>
+<value>DAILY</value>
+</frequency>
+<instruction><value>Administer &amp;quot;TEST&amp;quot; dose, wait 1 hour. If no adverse reactions, continue to administer remainder of dose. </value>
+<value>Administer &amp;quot;TEST&amp;quot; dose over 15 minutes, wait 1 hour. If no adverse reactions, continue to administer remainder of dose. </value>
+<value>Administer during each dialysis for 10 doses.</value>
+</instruction>
+<volume><value>1 mL</value>
+<value>2 mL</value>
+</volume>
+<units><value>mg</value>
+<value>mg/kg/day</value>
+<value>mg/kg/week.</value>
+</units>
+<Population><value>ADULT</value>
+<value>CHILDREN</value>
+<value>INFANT / CHILDREN, weighing less than 10 kg.</value>
+<value>INFANT / CHILDREN, weighing 10 to 20 kg.</value>
+<value>INFANT / CHILDREN, weighing more than 20 kg.</value>
+<value>NEONATE</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Iron deficiency anemia</value>
+<value>Iron replacement for blood loss</value>
+<value>Anemia of chronic renal failure. Administer until a minimum cumulative dose of 1,000 mg is reached.</value>
+<value>Anemia of chronic renal failure: predialysis or peritoneal dialysis. Children weighing less than 10 kg. </value>
+<value>Anemia of chronic renal failure: predialysis or peritoneal dialysis. Children weighing 10 to 20 kg. </value>
+<value>Anemia of chronic renal failure: predialysis or peritoneal dialysis. Children weighing more than 20 kg. </value>
+<value>Anemia of chronic renal failure: hemodialysis. Children weighing less than 10 kg. </value>
+<value>Anemia of chronic renal failure: hemodialysis. Children weighing 10 to 20 kg. </value>
+<value>Anemia of chronic renal failure: hemodialysis. Children weighing more than 20 kg. </value>
+<value>Anemia of Prematurity.</value>
+<value>Anemia of chronic renal failure: hemodialysis.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antianemia Drugs, Iron Preparations</value>
+</AHFSName>
+<HighAlert></HighAlert>
+</drug>

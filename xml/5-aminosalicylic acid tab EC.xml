@@ -6,10 +6,9 @@
 </route>
 <strength><value>400 mg</value>
 </strength>
-<frequency><value>TID</value>
+<frequency><value>QID</value>
 </frequency>
-<instruction><value>Administer 1 hour before meals.</value>
-</instruction>
+<instruction></instruction>
 <volume></volume>
 <units><value>mg</value>
 </units>
@@ -18,6 +17,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Gastrointestinal Drugs, Anti-inflammatory Agents</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

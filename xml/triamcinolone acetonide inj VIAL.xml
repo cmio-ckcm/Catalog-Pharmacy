@@ -4,8 +4,8 @@
 <value>20 - 100</value>
 </dose>
 <route><value>INTRA-ARTICULAR</value>
-<value>INTRA-SYNOVIAL</value>
 <value>INTRA-LESIONAL</value>
+<value>INTRA-SYNOVIAL</value>
 <value>SUBLESIONAL</value>
 <value>IM</value>
 </route>
@@ -28,6 +28,9 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Adrenals</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

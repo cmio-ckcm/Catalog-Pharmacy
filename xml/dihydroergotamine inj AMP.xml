@@ -2,9 +2,9 @@
 <dose><value>1</value>
 <value>3</value>
 </dose>
-<route><value>IV</value>
+<route><value>IM</value>
+<value>IV</value>
 <value>SC</value>
-<value>IM</value>
 </route>
 <strength><value>1 mg/mL</value>
 </strength>
@@ -27,6 +27,9 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Sympatholytic (Adrenergic Blocking) Agents</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

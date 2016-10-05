@@ -5,7 +5,7 @@
 </dose>
 <route><value>PO</value>
 </route>
-<strength><value>0.78</value>
+<strength><value>78%</value>
 </strength>
 <frequency><value>HS</value>
 </frequency>
@@ -21,6 +21,9 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Non-Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Cathartics and Laxatives</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

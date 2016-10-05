@@ -1,10 +1,12 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "ketamine inj VIAL">
 <dose><value>5 - 10</value>
-<value>1 - 4.5</value>
 <value>2.5 - 10</value>
+<value>2 - 4</value>
+<value>3 - 7</value>
+<value>1 - 3.5</value>
+<value>1 - 4.5</value>
 <value>0.5 - 4.5</value>
 <value>10 - 30</value>
-<value>2 - 4</value>
 <value>0.2 - 0.75</value>
 <value>0.3 - 1.2</value>
 <value>5 - 20</value>
@@ -13,9 +15,7 @@
 <value>0.5</value>
 <value>1 - 2</value>
 <value>0.5 - 2</value>
-<value>3 - 7</value>
 <value>0.15 - 1</value>
-<value>1 - 3.5</value>
 <value>0.3 - 1.8 </value>
 <value>0.1 - 0.2</value>
 <value>0.1 - 1.2</value>
@@ -42,26 +42,29 @@
 <value>mg/kg/hour</value>
 </units>
 <Population><value>ADULT</value>
-<value>NEONATE</value>
 <value>INFANT / CHILDREN</value>
+<value>NEONATE</value>
 </Population>
 <IndicationPRN></IndicationPRN>
 <AdditionalNotes><value>Anesthesia (sole agent), induction.</value>
 <value>Anesthesia (sole agent), maintenance.</value>
-<value>Anesthesia (sole agent).</value>
 <value>Sedation/Analgesia with mechanical ventilation. Initial dose.</value>
+<value>Sedation and Analgesia with mechanical ventilation in critical care areas. Initial dose.</value>
+<value>Anesthesia (sole agent).</value>
 <value>Sedation/Analgesia with mechanical ventilation.</value>
 <value>Low-dose adjunct analgesia.</value>
 <value>Adjunct to opioid analgesia and for refractory cancer pain.</value>
 <value>Refractory Depression.</value>
 <value>Analgesia in NON-critical care areas. (LOW DOSE).</value>
 <value>Sedation and Analgesia with mechanical ventilation in critical care areas.</value>
-<value>Sedation and Analgesia with mechanical ventilation in critical care areas. Initial dose.</value>
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
-<HighAlert><value>HIGH ALERT MEDICATION</value>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>General Anesthetics, Miscellaneous</value>
+</AHFSName>
+<HighAlert><value>YES</value>
 </HighAlert>
 </drug>

@@ -17,6 +17,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Discontinued.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Genitourinary Smooth Muscle Relaxants</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

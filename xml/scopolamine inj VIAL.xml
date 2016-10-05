@@ -7,8 +7,8 @@
 <value>0.3 - 0.8</value>
 </dose>
 <route><value>IM</value>
-<value>SC</value>
 <value>IV</value>
+<value>SC</value>
 </route>
 <strength><value>0.4 mg/mL</value>
 <value>0.6 mg/mL</value>
@@ -49,6 +49,9 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Anticholinergic Agents, Antimuscarinics/Antispasmodics</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

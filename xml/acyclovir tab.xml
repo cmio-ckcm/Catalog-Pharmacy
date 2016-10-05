@@ -1,11 +1,17 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "acyclovir tab">
-<dose><value>800</value>
+<dose><value>200</value>
+<value>400</value>
+<value>800</value>
 </dose>
 <route><value>PO</value>
 </route>
-<strength><value>800 mg</value>
+<strength><value>200 mg</value>
+<value>400 mg</value>
+<value>800 mg</value>
 </strength>
 <frequency><value>FIVE TIMES DAILY</value>
+<value>TID</value>
+<value>BID</value>
 </frequency>
 <instruction><value>Administer doses q4h during the day. </value>
 </instruction>
@@ -14,10 +20,13 @@
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
-<AdditionalNotes></AdditionalNotes>
+<AdditionalNotes><value>FOR 10 DAYS</value>
+</AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>F</value>
+<AHSFormularyStatus><value>Formulary.</value>
 </AHSFormularyStatus>
+<AHFSName><value>Antivirals, Nucleosides and Nucleotides</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

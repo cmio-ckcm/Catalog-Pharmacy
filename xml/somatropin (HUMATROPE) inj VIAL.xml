@@ -1,0 +1,37 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "somatropin (HUMATROPE) inj VIAL">
+<dose><value>0.026 - 0.043</value>
+<value>0.06 - 0.1</value>
+<value>0 - 0.054</value>
+<value>0 - 0.125</value>
+<value>0 - 0.053</value>
+<value>0.05</value>
+<value>0 - 0.067</value>
+</dose>
+<route><value>SC</value>
+</route>
+<strength><value>5 mg</value>
+</strength>
+<frequency><value>DAILY</value>
+<value>THREE TIMES WEEKLY</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mg/kg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Growth hormone deficient pediatric patients.</value>
+<value>Turner&amp;apos;s syndrome</value>
+<value>Patients with idiopathic short stature.</value>
+<value>Patients with SHOX deficiency.</value>
+<value>Patients born small for gestational age.</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1933</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>Formulary with Restrictions.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Pituitary</value>
+</AHFSName>
+<HighAlert></HighAlert>
+</drug>

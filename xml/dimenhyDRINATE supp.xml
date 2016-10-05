@@ -1,13 +1,18 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "dimenhyDRINATE supp">
-<dose><value>50</value>
+<dose><value>100</value>
+<value>12.5</value>
+<value>25</value>
+<value>50</value>
 </dose>
 <route><value>PR</value>
 </route>
-<strength><value>50 mg</value>
+<strength><value>100 mg</value>
+<value>25 mg</value>
+<value>50 mg</value>
 </strength>
-<frequency><value>ONCE</value>
-<value>Q6H</value>
+<frequency><value>Q6H</value>
 <value>Q8H</value>
+<value>ONCE</value>
 <value>Q12H</value>
 </frequency>
 <instruction><value>Administer 30 minutes pre-procedure.</value>
@@ -22,6 +27,9 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antiemetics, Antihistamines</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

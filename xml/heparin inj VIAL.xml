@@ -1,37 +1,68 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "heparin inj VIAL">
-<dose><value>60</value>
-<value>12</value>
+<dose><value>5000</value>
+<value>10 000</value>
+<value>60</value>
 <value>80</value>
+<value>8000</value>
+<value>12</value>
 <value>18</value>
-<value>5000</value>
+<value>3</value>
+<value>2</value>
+<value>5</value>
 </dose>
-<route><value>IV</value>
+<route><value>CATHETER</value>
+<value>IV</value>
 <value>SC</value>
+<value>IV </value>
 </route>
-<strength><value>25 000 unit/mL</value>
-<value>5 000 unit/0.5 mL</value>
+<strength><value>1000 unit/mL</value>
+<value>10 000 unit/mL</value>
+<value>10 unit/mL</value>
+<value>25 000 unit/mL</value>
+<value>5000 unit/0.5 mL</value>
+<value>100 unit/mL</value>
 </strength>
 <frequency><value>ONCE</value>
-<value>CONTINUOUS</value>
 <value>Q8H</value>
 <value>Q12H</value>
+<value>CONTINUOUS</value>
 </frequency>
-<instruction><value>Administer by continuous infusion.</value>
+<instruction><value>Administer as per Intradialytic Heparin protocol</value>
+<value>Administer by continuous infusion.</value>
+<value>Administer into PICC line (non-groshong) following saline flush for maintenance of line patency</value>
+<value>Administer into peripheral catheter line following saline flush for maintenance of line patency.</value>
+<value>Administer into central catheter line following saline flush for maintenance of line patency.</value>
 </instruction>
-<volume><value>2 mL</value>
+<volume><value>10 mL</value>
+<value>1mL</value>
+<value>30 mL</value>
+<value>1 mL</value>
+<value>5 mL</value>
+<value>2 mL</value>
 </volume>
-<units><value>unit</value>
+<units><value>mL</value>
+<value>unit</value>
 <value>unit/kg/hour</value>
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
-<AdditionalNotes><value>Cardiac weight-adjusted protocol bolus dose. Maximum dose: 4,000 unit.</value>
-<value>Cardiac weight-adjusted protocol maintenance infusion. Maximum rate: 1,000 unit/hour.</value>
+<AdditionalNotes><value>5,000 unit = 0.5 mL</value>
+<value>Bolus dose</value>
+<value>Cardiac weight-adjusted protocol bolus dose. Maximum dose: 4,000 unit.</value>
 <value>DVT/PE weight-adjusted protocol bolus dose. Maximum dose 10,000 unit.</value>
+<value>8,000 unit = 0.8 mL</value>
+<value>Cardiac weight-adjusted protocol maintenance infusion. Maximum rate: 1,000 unit/hour.</value>
 <value>DVT/PE weight-adjusted protocol maintenance infusion. Maximum rate: 1,600 unit/hour.</value>
 </AdditionalNotes>
-<BackgroundInformation></BackgroundInformation>
-<PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
-<HighAlert></HighAlert>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1555</value>
+</BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus><value>Formulary.</value>
+<value>Formulary with Restrictions.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antithrombotic Agents, Anticoagulants</value>
+</AHFSName>
+<HighAlert><value>YES</value>
+</HighAlert>
 </drug>

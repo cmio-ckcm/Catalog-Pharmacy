@@ -4,8 +4,8 @@
 </dose>
 <route><value>OPHTH</value>
 </route>
-<strength><value>0.0012</value>
-<value>0.01</value>
+<strength><value>0.12%</value>
+<value>1%</value>
 </strength>
 <frequency><value>BID</value>
 <value>TID</value>
@@ -24,6 +24,9 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>EENT Drugs, Anti-inflammatory Agents, Corticosteroids</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

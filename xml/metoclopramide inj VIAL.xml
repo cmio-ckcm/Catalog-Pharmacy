@@ -32,6 +32,10 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Discontinued.</value>
+<value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Gastrointestinal Drugs, Prokinetic Agents</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

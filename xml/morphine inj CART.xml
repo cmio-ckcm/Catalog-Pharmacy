@@ -36,7 +36,10 @@
 </BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
-<HighAlert><value>HIGH ALERT MEDICATION</value>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Analgesics and Antipyretics, Opiate Agonists</value>
+</AHFSName>
+<HighAlert><value>YES</value>
 </HighAlert>
 </drug>

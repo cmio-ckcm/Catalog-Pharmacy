@@ -4,7 +4,7 @@
 </dose>
 <route><value>IM</value>
 </route>
-<strength><value>50,000 unit</value>
+<strength><value>50 000 unit</value>
 </strength>
 <frequency><value>BID</value>
 <value>TID</value>
@@ -21,6 +21,9 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antibacterials, Miscellaneous</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

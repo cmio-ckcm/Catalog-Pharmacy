@@ -21,6 +21,9 @@
 <BackgroundInformation><value>Dosing based upon dose weight range table provided by manufacturer.</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary with Restrictions.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Pulmonary Surfactants</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

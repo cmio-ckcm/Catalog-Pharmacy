@@ -2,7 +2,7 @@
 <dose></dose>
 <route><value>TOP </value>
 </route>
-<strength><value>0.0075</value>
+<strength><value>0.75%</value>
 </strength>
 <frequency><value>BID</value>
 </frequency>
@@ -16,6 +16,9 @@
 <BackgroundInformation><value>Apply in morning and evening to dry skin. Areas to be treated should be cleansed before application.</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Skin and Mucous Membrane Agents, Antibacterials</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

@@ -24,6 +24,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Gastrointestinal Drugs, Anti-inflammatory Agents</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

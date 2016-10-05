@@ -1,5 +1,11 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "pantoprazole inj VIAL">
 <dose><value>40</value>
+<value>1</value>
+<value>0.2</value>
+<value>1 - 2</value>
+<value>2</value>
+<value>0.18 - 0.2</value>
+<value>1.8 - 2</value>
 <value>80</value>
 <value>8</value>
 </dose>
@@ -9,22 +15,40 @@
 <strength><value>40 mg</value>
 </strength>
 <frequency><value>DAILY</value>
-<value>ONCE</value>
+<value>Q12H</value>
+<value>Q24H</value>
 <value>CONTINUOUS</value>
+<value>ONCE</value>
 </frequency>
 <instruction><value>ONCE, followed by continuous infusion.</value>
 <value>Administer as continuous infusion.</value>
 </instruction>
 <volume></volume>
 <units><value>mg</value>
+<value>mg/kg/dose</value>
+<value>mg/kg/hour</value>
 <value>mg/hour</value>
 </units>
-<Population></Population>
+<Population><value>ADULT</value>
+<value>NEONATE</value>
+<value>INFANT, CHILDREN</value>
+</Population>
 <IndicationPRN></IndicationPRN>
-<AdditionalNotes><value>200 mg/500mL</value>
+<AdditionalNotes><value>Administer up to 72 hours.</value>
+<value>Acid Supression, GERD: Up to a MAXIMUM dose of 40 mg/dose.</value>
+<value>patient weight: 5 to 15 kg: Upper GI bleed: Administer up to 72 hours.</value>
+<value>patient weight: 5 to 15 kg: Upper GI bleed: Initial dose.</value>
+<value>patient weight: 15 to 40 kg: Upper GI bleed: Administer up to 72 hours.</value>
+<value>patient weight: 15 to 40 kg: Upper GI bleed: Initial dose.</value>
+<value>patient weight: greater than 40 kg: Upper GI bleed: Initial dose.</value>
+<value>patient weight: greater than 40 kg: Upper GI bleed: Administer up to 72 hours.</value>
 </AdditionalNotes>
-<BackgroundInformation></BackgroundInformation>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=987</value>
+</BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary with Restrictions, Usage guidelines, Therapeutic Interchange.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antiulcer Agents and Acid Suppressants, Proton-pump Inhibitors</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

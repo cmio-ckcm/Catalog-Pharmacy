@@ -1,0 +1,24 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "fluticasone-vilanterol inhaler">
+<dose><value>1</value>
+</dose>
+<route><value>INH</value>
+</route>
+<strength><value>100 mcg-25 mcg</value>
+</strength>
+<frequency><value>DAILY</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>puff </value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>Formulary with Restrictions.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Sympathomimetic (Adrenergic) Agents, beta-Adrenergic Agonists</value>
+</AHFSName>
+<HighAlert></HighAlert>
+</drug>

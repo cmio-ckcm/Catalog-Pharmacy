@@ -1,10 +1,13 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "fluCONazole tab">
-<dose><value>50</value>
+<dose><value>100</value>
 <value>150</value>
+<value>200</value>
+<value>50</value>
 </dose>
 <route><value>PO</value>
 </route>
-<strength><value>50 mg</value>
+<strength><value>100 mg</value>
+<value>50 mg</value>
 </strength>
 <frequency><value>DAILY</value>
 <value>NOW</value>
@@ -20,6 +23,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary with Usage guidelines.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antifungals, Azoles</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

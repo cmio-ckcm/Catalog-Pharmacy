@@ -24,6 +24,9 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antianemia Drugs, Iron Preparations</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

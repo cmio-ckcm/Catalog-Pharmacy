@@ -1,0 +1,28 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "diclofenac (long acting) tab ER">
+<dose><value>100</value>
+<value>75</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>100 mg</value>
+<value>75 mg</value>
+</strength>
+<frequency><value>DAILY</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Doses of 150 mg per day for 4 weeks or longer are associated with increased risk of major vascular events. Recommended maximum daily dose: 100 mg per day. [Health Canada. October 6, 2014]</value>
+</AdditionalNotes>
+<BackgroundInformation><value>https://share.ahsnet.ca/teams/PSPP/ppublications/Drugs%20%20Therapeutics%20Backgrounder/Drugs%20and%20Therapeutics%20Backgrounder-diclofenac.pdf</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Analgesics and Antipyretics, Nonsteroidal Anti-inflammatory Agents</value>
+</AHFSName>
+<HighAlert></HighAlert>
+</drug>

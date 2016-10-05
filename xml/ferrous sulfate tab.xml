@@ -17,9 +17,13 @@
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
-<AdditionalNotes></AdditionalNotes>
+<AdditionalNotes><value>Ferrous sulfate 300mg provides 60 mg elemental iron. Treatment of adult iron deficiency anemia requires approximately 180mg elemental iron daily. Recommend 4 to 6 months treatment after hemoglobin levels normalize.</value>
+</AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antianemia Drugs, Iron Preparations</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

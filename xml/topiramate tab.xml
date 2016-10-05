@@ -1,11 +1,16 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "topiramate tab">
-<dose><value>25</value>
+<dose><value>100</value>
+<value>200</value>
+<value>400</value>
+<value>25</value>
 <value>50</value>
 <value>75</value>
 </dose>
 <route><value>PO</value>
 </route>
-<strength><value>25 mg</value>
+<strength><value>100 mg</value>
+<value>200 mg</value>
+<value>25 mg</value>
 </strength>
 <frequency><value>DAILY</value>
 <value>BID</value>
@@ -20,6 +25,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Anticonvulsants, Anticonvulsants, Miscellaneous</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

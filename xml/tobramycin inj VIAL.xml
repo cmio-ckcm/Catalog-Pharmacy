@@ -5,10 +5,14 @@
 <value>1</value>
 <value>1.5</value>
 <value>2</value>
+<value>4.5</value>
+<value>4</value>
 </dose>
 <route><value>IV</value>
 </route>
-<strength><value>40 mg/mL</value>
+<strength><value>1.2 g</value>
+<value>10 mg/mL</value>
+<value>40 mg/mL</value>
 </strength>
 <frequency><value>Q24H</value>
 <value>Q36H</value>
@@ -21,17 +25,31 @@
 <value>30 mL</value>
 </volume>
 <units><value>mg/kg</value>
+<value>mg/kg/dose</value>
 </units>
-<Population></Population>
+<Population><value>NEONATE, less than 7 days old, OR if 7 days or older AND less than 30 weeks post-conceptional age (PCA) OR any gestational age with significant PDA, asphyxia, renal impairment or ECMO.</value>
+<value>NEONATE, less than 7 days old, OR if 7 days or older AND 30 to 33 weeks post-conceptional age (PCA).</value>
+<value>NEONATE, less than 7 days old, OR if 7 days or older AND 34 to 44 weeks post-conceptional age (PCA).</value>
+<value>NEONATE, 7 days old or greater.</value>
+<value>NEONATE, less than 7 days old, OR if 7 days or older AND 30 to 35 weeks post-conceptional age (PCA) with no renal impairment.</value>
+<value>NEONATE, less than 7 days old, OR if 7 days or older AND 36 weeks or greater post-conceptional age (PCA) with no renal impairment.</value>
+<value>NEONATE, 7 days old or greater, OR if 7 days or older AND 36 weeks or greater post-conceptional age (PCA) with no renal impairment.</value>
+</Population>
 <IndicationPRN></IndicationPRN>
 <AdditionalNotes><value>use Ideal Body weight for dosing, Ajusted Body Weight for dosing obese patients.</value>
 <value>use Ideal Body weight for dosing, Ajusted Body Weight for dosing obese patients. Phenol-free product.</value>
 </AdditionalNotes>
-<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2540</value>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2543</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2539</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2540</value>
 <value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2541</value>
 <value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2542</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary with Usage guidelines_pending DTC decision.</value>
+<value>Formulary with Restrictions.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antibacterials, Aminoglycosides</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

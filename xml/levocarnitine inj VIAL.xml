@@ -1,6 +1,6 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "levocarnitine inj VIAL">
 <dose><value>8-20</value>
-<value>1-50</value>
+<value>1 - 50</value>
 <value>50 - 300</value>
 <value>50</value>
 <value>5 - 20</value>
@@ -45,6 +45,9 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Caloric Agents</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

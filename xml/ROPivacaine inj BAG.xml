@@ -4,7 +4,7 @@
 <value>12 - 28</value>
 <value>2 - 200</value>
 </dose>
-<route><value>EPI</value>
+<route><value>EPIDURAL</value>
 <value>INFILTRATION</value>
 <value>SPINAL</value>
 </route>
@@ -33,6 +33,10 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
-<HighAlert></HighAlert>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Local Anesthetics</value>
+</AHFSName>
+<HighAlert><value>YES</value>
+</HighAlert>
 </drug>

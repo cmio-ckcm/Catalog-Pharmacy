@@ -1,0 +1,32 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "methylphenidate (CONCERTA, long acting) tab ER">
+<dose><value>18</value>
+<value>36</value>
+<value>54</value>
+<value>27</value>
+<value>72</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>18 mg</value>
+<value>27 mg</value>
+<value>36 mg</value>
+<value>54 mg</value>
+</strength>
+<frequency><value>DAILY</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation><value>Concerta brand not interchangeable with Teva product (Teva-Methylphenidate ER-C).</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Anorexigenic Agents and Respiratory and Cerebral Stimulants, Miscellaneous</value>
+</AHFSName>
+<HighAlert></HighAlert>
+</drug>

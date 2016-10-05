@@ -3,7 +3,7 @@
 </dose>
 <route><value>OPHTH</value>
 </route>
-<strength><value>0.014</value>
+<strength><value>1.4%</value>
 </strength>
 <frequency><value>ONCE</value>
 </frequency>
@@ -21,6 +21,9 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>EENT Drugs, Miscellaneous</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

@@ -58,6 +58,9 @@
 <value>1800 mg = 3 tablets of 600 mg.</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Anthelmintics</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

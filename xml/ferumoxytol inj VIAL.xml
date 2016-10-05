@@ -30,6 +30,9 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Discontinued.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antianemia Drugs, Iron Preparations</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

@@ -1,30 +1,32 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "Name DOSAGE FORM">
-<dose><value>DOSE</value>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "Name Dosage Form">
+<dose><value>Dose</value>
 </dose>
-<route><value>ROUTE</value>
+<route><value>Route</value>
 </route>
-<strength><value>STRENGTH</value>
+<strength><value>Strength</value>
 </strength>
-<frequency><value>FREQUENCY</value>
+<frequency><value>Frequency</value>
 </frequency>
-<instruction><value>INSTRUCTIONS</value>
+<instruction><value>Instructions</value>
 </instruction>
-<volume><value>VOLUME</value>
+<volume><value>Volume</value>
 </volume>
-<units><value>UNITS</value>
+<units><value>Units</value>
 </units>
-<Population><value>POPULATION</value>
+<Population><value>Population</value>
 </Population>
-<IndicationPRN><value>INDICATION (PRN)</value>
+<IndicationPRN><value>PRN Indication</value>
 </IndicationPRN>
 <AdditionalNotes><value>Additional  notes</value>
 </AdditionalNotes>
-<BackgroundInformation><value>BACKGROUND INFORMATION</value>
+<BackgroundInformation><value>Background Information</value>
 </BackgroundInformation>
 <PRNInformation><value>PRN</value>
 </PRNInformation>
 <AHSFormularyStatus><value>AHS-Formulary Status</value>
 </AHSFormularyStatus>
-<HighAlert><value>HIGH ALERT MEDICATION</value>
+<AHFSName><value>AHFS Name (order view)</value>
+</AHFSName>
+<HighAlert><value>High Alert Medication</value>
 </HighAlert>
 </drug>

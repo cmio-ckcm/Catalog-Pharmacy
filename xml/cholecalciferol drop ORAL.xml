@@ -12,13 +12,16 @@
 </frequency>
 <instruction></instruction>
 <volume></volume>
-<units><value>UNITS</value>
+<units><value>unit</value>
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Vitamin D</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "multivitamin, child drop ORAL">
+<dose><value>1</value>
+<value>0.5</value>
+<value>0.75</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength></strength>
+<frequency><value>DAILY</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mL</value>
+</units>
+<Population><value>INFANT, CHILDREN</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation><value>Vitamin A content now 750 unit/mL (previously 1500 unit/mL).</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Multivitamin Preparations</value>
+</AHFSName>
+<HighAlert></HighAlert>
+</drug>

@@ -56,7 +56,10 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
-<HighAlert><value>HIGH ALERT MEDICATION</value>
+<AHSFormularyStatus><value>Discontinued.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Skeletal Muscle Relaxants, Neuromuscular Blocking Agents</value>
+</AHFSName>
+<HighAlert><value>YES</value>
 </HighAlert>
 </drug>

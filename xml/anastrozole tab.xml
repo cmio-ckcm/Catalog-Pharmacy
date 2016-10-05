@@ -17,7 +17,10 @@
 <BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3341</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>FG</value>
+<AHSFormularyStatus><value>Formulary.</value>
 </AHSFormularyStatus>
-<HighAlert></HighAlert>
+<AHFSName><value>Antineoplastic Agents</value>
+</AHFSName>
+<HighAlert><value>YES</value>
+</HighAlert>
 </drug>

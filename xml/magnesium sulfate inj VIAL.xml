@@ -78,8 +78,11 @@
 <value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3089</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>FR</value>
+<AHSFormularyStatus><value>Formulary.</value>
+<value>Formulary with Restrictions.</value>
 </AHSFormularyStatus>
-<HighAlert><value>HIGH ALERT MEDICATION</value>
+<AHFSName><value>Anticonvulsants, Anticonvulsants, Miscellaneous</value>
+</AHFSName>
+<HighAlert><value>YES</value>
 </HighAlert>
 </drug>

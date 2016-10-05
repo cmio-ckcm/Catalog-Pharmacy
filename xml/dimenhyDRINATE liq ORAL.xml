@@ -22,6 +22,9 @@
 </BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antiemetics, Antihistamines</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

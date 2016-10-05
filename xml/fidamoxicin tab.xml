@@ -18,6 +18,9 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Under review.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antibacterials, Macrolides</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

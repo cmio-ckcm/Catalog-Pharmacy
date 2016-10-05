@@ -27,7 +27,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>NF</value>
+<AHSFormularyStatus><value>Non-Formulary.</value>
 </AHSFormularyStatus>
+<AHFSName><value>Psychotherapeutic Agents, Antipsychotics</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

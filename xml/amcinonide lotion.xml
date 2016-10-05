@@ -2,7 +2,7 @@
 <dose></dose>
 <route><value>TOP</value>
 </route>
-<strength><value>0.001</value>
+<strength><value>0.1%</value>
 </strength>
 <frequency><value>DAILY</value>
 <value>BID</value>
@@ -16,7 +16,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>F</value>
+<AHSFormularyStatus><value>Formulary.</value>
 </AHSFormularyStatus>
+<AHFSName><value>Skin and Mucous Membrane Agents, Anti-inflammatory Agents</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

@@ -6,8 +6,8 @@
 <value>10</value>
 </dose>
 <route><value>IM</value>
-<value>SC</value>
 <value>IV</value>
+<value>SC</value>
 </route>
 <strength><value>5 mg/mL</value>
 </strength>
@@ -30,6 +30,9 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Psychotherapeutic Agents, Antipsychotics</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

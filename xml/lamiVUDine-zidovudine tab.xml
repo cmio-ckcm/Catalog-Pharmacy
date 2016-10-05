@@ -1,0 +1,26 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "lamiVUDine-zidovudine tab">
+<dose><value>1</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>150 mg-300 mg</value>
+</strength>
+<frequency><value>BID</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>tab</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Patients weighing at least 30kg. Recommended patients less than 30 kg body weight and/or CrCl less than 50 mL/minute received individualized dosing for each of lamiVUDine and zidovudine. </value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3282</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>Formulary with Restrictions.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antivirals, Antiretrovirals</value>
+</AHFSName>
+<HighAlert></HighAlert>
+</drug>

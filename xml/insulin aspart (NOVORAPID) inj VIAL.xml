@@ -1,0 +1,27 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "insulin aspart (NOVORAPID) inj VIAL">
+<dose></dose>
+<route><value>SC</value>
+</route>
+<strength><value>100 unit/mL</value>
+</strength>
+<frequency><value>ONCE</value>
+<value>TID</value>
+</frequency>
+<instruction><value>Administer immediately before meal.</value>
+</instruction>
+<volume><value>10 mL</value>
+</volume>
+<units><value>unit</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antidiabetic Agents, Insulins</value>
+</AHFSName>
+<HighAlert><value>YES</value>
+</HighAlert>
+</drug>

@@ -3,7 +3,7 @@
 </dose>
 <route><value>TOP </value>
 </route>
-<strength><value>0.05</value>
+<strength><value>5%</value>
 </strength>
 <frequency><value>ONCE</value>
 </frequency>
@@ -20,6 +20,9 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Skin and Mucous Membrane Agents, Antipruritics and Local Anesthetics</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

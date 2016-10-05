@@ -20,7 +20,9 @@
 <value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3520</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>FRG</value>
+<AHSFormularyStatus><value>Formulary with Restrictions, Usage guidelines.</value>
 </AHSFormularyStatus>
+<AHFSName><value>EENT Drugs, Antiglaucoma Agents, Miotics</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

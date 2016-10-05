@@ -19,6 +19,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Gastrointestinal Drugs, Prokinetic Agents</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

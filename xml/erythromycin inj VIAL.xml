@@ -5,7 +5,8 @@
 </dose>
 <route><value>IV</value>
 </route>
-<strength><value>500 mg</value>
+<strength><value>1 g</value>
+<value>500 mg</value>
 </strength>
 <frequency><value>Q6H</value>
 </frequency>
@@ -20,6 +21,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary with Therapeutic Interchange.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antibacterials, Macrolides</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

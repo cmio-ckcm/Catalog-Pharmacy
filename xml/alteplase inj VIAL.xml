@@ -36,7 +36,10 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>F</value>
+<AHSFormularyStatus><value>Formulary.</value>
 </AHSFormularyStatus>
-<HighAlert></HighAlert>
+<AHFSName><value>Antithrombotic Agents, Thrombolytic Agents</value>
+</AHFSName>
+<HighAlert><value>YES</value>
+</HighAlert>
 </drug>

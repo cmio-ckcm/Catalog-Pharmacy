@@ -7,19 +7,23 @@
 </strength>
 <frequency><value>DAILY</value>
 </frequency>
-<instruction></instruction>
+<instruction><value>for 28 days.</value>
+</instruction>
 <volume></volume>
 <units><value>mg</value>
 </units>
 <Population><value>ADULT</value>
 </Population>
 <IndicationPRN></IndicationPRN>
-<AdditionalNotes><value>Product dispensed under Erivedge Pregnancy Prevention Program. Dosage adjustments are managed by therapy interruptions.</value>
+<AdditionalNotes><value>Product dispensed under Erivedge Pregnancy Prevention Program. Dosage adjustments are managed by therapy interruptions. Contraindicated in female patients who are pregnant or at risk of becoming pregnant, femlae patients of childbearing potential who do not comply with the Erivedge Pregnancy Prevention Program and male patients who do not comply with the contraceptive measures of the Erivedge Pregnancy Prevention Program.</value>
 </AdditionalNotes>
 <BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=6761</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
-<HighAlert><value>HIGH ALERT MEDICATION</value>
+<AHSFormularyStatus><value>Formulary with Restrictions, Usage guidelines.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antineoplastic Agents</value>
+</AHFSName>
+<HighAlert><value>YES</value>
 </HighAlert>
 </drug>

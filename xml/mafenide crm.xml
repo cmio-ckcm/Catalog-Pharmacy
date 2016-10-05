@@ -2,7 +2,7 @@
 <dose></dose>
 <route><value>TOP</value>
 </route>
-<strength><value>0.085</value>
+<strength><value>8.5%</value>
 </strength>
 <frequency><value>DAILY</value>
 </frequency>
@@ -18,6 +18,9 @@
 <BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1296</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary with Restrictions. Health Canada Special Access Programme.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Skin and Mucous Membrane Agents, Local Anti-infectives, Miscellaneous</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

@@ -19,15 +19,12 @@
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
-<AdditionalNotes><value>25 mg = 1.25 mL</value>
-<value>50 mg = 2.5 mL</value>
-<value>100 mg = 5 mL</value>
-<value>200 mg = 10 mL</value>
-<value>300 mg = 15 mL</value>
-<value>400 mg = 20 mL</value>
-</AdditionalNotes>
+<AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Anticonvulsants, Anticonvulsants, Miscellaneous</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

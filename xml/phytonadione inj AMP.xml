@@ -2,12 +2,12 @@
 <dose><value>1</value>
 <value>0.5</value>
 <value>0.03</value>
-<value>1.5</value>
-<value>2</value>
 <value>2.5</value>
 <value>5</value>
 <value>7.5</value>
 <value>10</value>
+<value>1.5</value>
+<value>2</value>
 </dose>
 <route><value>IM</value>
 <value>IV</value>
@@ -32,6 +32,9 @@
 <BackgroundInformation><value>2012 Chest guidelines.</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Vitamin K Activity</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

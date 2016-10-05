@@ -102,7 +102,9 @@
 <BackgroundInformation><value>Uroprotextant for toxicity caused by cyclophosphamide, ifosfamide therapy.</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>F</value>
+<AHSFormularyStatus><value>Formulary.</value>
 </AHSFormularyStatus>
+<AHFSName><value>Protective Agents</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

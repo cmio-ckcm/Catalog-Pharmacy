@@ -1,10 +1,10 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "penicillin G sodium inj VIAL">
-<dose><value>100000</value>
-<value>150000</value>
-<value>200000</value>
-<value>250000</value>
-<value>400000</value>
-<value>50000</value>
+<dose><value>100 000</value>
+<value>150 000</value>
+<value>200 000</value>
+<value>250 000</value>
+<value>400 000</value>
+<value>50 000</value>
 <value>1 million</value>
 <value>2 million</value>
 <value>3 million</value>
@@ -26,9 +26,9 @@
 <value>Administer daily calculated dose in 6 equally divided doses.</value>
 </instruction>
 <volume></volume>
-<units><value>units/kg/day</value>
-<value>units/kg/dose</value>
-<value>UNITS</value>
+<units><value>unit/kg/day</value>
+<value>unit/kg/dose</value>
+<value>unit</value>
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
@@ -41,6 +41,9 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antibacterials, Penicillins</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

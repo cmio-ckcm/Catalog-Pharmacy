@@ -3,18 +3,18 @@
 <value>300</value>
 <value>2 - 4</value>
 </dose>
-<route><value>IV </value>
-<value>IV</value>
+<route><value>IM</value>
 <value>INH</value>
-<value>IM</value>
+<value>IV</value>
+<value>IV </value>
 </route>
 <strength><value>300 mg</value>
 </strength>
 <frequency><value>DAILY</value>
-<value>MONTHLY</value>
-<value>EVERY 4 WEEKS</value>
 <value>EVERY 2 WEEKS</value>
 <value>EVERY 3 WEEKS</value>
+<value>EVERY 4 WEEKS</value>
+<value>MONTHLY</value>
 <value>WEEKLY</value>
 <value>TWO TIMES WEEKLY</value>
 </frequency>
@@ -24,12 +24,12 @@
 <units><value>mg/kg</value>
 <value>mg</value>
 </units>
-<Population><value>ADULT. Treatment of Pneumocystis jiroveci.</value>
-<value>ADULT. Prophylaxis of Pneumocystis jiroveci.</value>
-<value>CHILDREN. Treatment of Pneumocystis jiroveci.</value>
+<Population><value>CHILDREN. Treatment of Pneumocystis jiroveci.</value>
 <value>CHILDREN. Prophylaxis of Pneumocystis jiroveci.</value>
+<value>ADULT. Prophylaxis of Pneumocystis jiroveci.</value>
 <value>ADULT. Leishmaniasis, visceral</value>
 <value>ADULT. Leishmaniasis, cutaneous</value>
+<value>ADULT. Treatment of Pneumocystis jiroveci.</value>
 </Population>
 <IndicationPRN></IndicationPRN>
 <AdditionalNotes><value>Recommended treamtment is 14 days. Benefits and risks of treament for longer than 14 days are not well defined.</value>
@@ -37,6 +37,9 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antiprotozoals, Miscellaneous</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

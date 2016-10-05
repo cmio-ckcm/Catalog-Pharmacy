@@ -19,7 +19,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>F</value>
+<AHSFormularyStatus><value>Formulary.</value>
 </AHSFormularyStatus>
+<AHFSName><value>Anxiolytics, Sedatives, and Hypnotics, Benzodiazepines</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

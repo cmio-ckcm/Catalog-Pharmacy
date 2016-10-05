@@ -27,10 +27,14 @@
 <value>Patients weighing 14 to 21 kg</value>
 <value>Patients weighing 21  to 29.9 kg.</value>
 </AdditionalNotes>
-<BackgroundInformation><value>50 mg = 1/2 tablet</value>
-<value>150 mg = 1/2 tablet</value>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3278</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3280</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3281</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary with Restrictions.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antivirals, Antiretrovirals</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

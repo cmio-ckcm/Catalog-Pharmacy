@@ -1,0 +1,30 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "romidepsin inj VIAL">
+<dose><value>14</value>
+<value>10</value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>10 mg</value>
+</strength>
+<frequency><value>WEEKLY</value>
+</frequency>
+<instruction><value>for 3 doses; DAY 1, 8 &amp; 15 of 28 day cycle. Administer dose diluted in 500 mL sodium chloride 0.9% over 4 hours.</value>
+</instruction>
+<volume></volume>
+<units><value>mg/m2 </value>
+</units>
+<Population><value>ADULT</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>A missed dose can be given unless it is within 5 days of the next scheduled dose.</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=8041</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>Formulary with Restrictions.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antineoplastic Agents</value>
+</AHFSName>
+<HighAlert><value>YES</value>
+</HighAlert>
+</drug>

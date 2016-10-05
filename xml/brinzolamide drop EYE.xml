@@ -3,7 +3,7 @@
 </dose>
 <route><value>TOP</value>
 </route>
-<strength><value>0.01</value>
+<strength><value>1%</value>
 </strength>
 <frequency><value>BID</value>
 <value>TID</value>
@@ -15,13 +15,16 @@
 </instruction>
 <volume><value>5 mL</value>
 </volume>
-<units><value>GTT</value>
+<units><value>gtt</value>
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>EENT Drugs, Antiglaucoma Agents, Carbonic Anhydrase Inhibitors</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

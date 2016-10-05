@@ -22,7 +22,9 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>F</value>
+<AHSFormularyStatus><value>Formulary.</value>
 </AHSFormularyStatus>
+<AHFSName><value>Antivirals, Nucleosides and Nucleotides</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

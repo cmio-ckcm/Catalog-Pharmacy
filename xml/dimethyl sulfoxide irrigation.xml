@@ -3,7 +3,7 @@
 </dose>
 <route><value>BLADDER INSTILLATION</value>
 </route>
-<strength><value>0.5</value>
+<strength><value>50%</value>
 </strength>
 <frequency><value>ONCE</value>
 </frequency>
@@ -18,6 +18,9 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Other Miscellaneous Therapeutic Agents</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

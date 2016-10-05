@@ -1,9 +1,9 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "nystatin liq ORAL">
-<dose><value>100000</value>
-<value>200000</value>
-<value>300000</value>
-<value>400000</value>
-<value>500000</value>
+<dose><value>100 000</value>
+<value>200 000</value>
+<value>300 000</value>
+<value>400 000</value>
+<value>500 000</value>
 </dose>
 <route><value>PO</value>
 </route>
@@ -22,10 +22,13 @@
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
-<AdditionalNotes><value>Swich and gargle in mouth prior to swallowing suspension</value>
+<AdditionalNotes><value>Swish and gargle in mouth prior to swallowing suspension</value>
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antifungals, Polyenes</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

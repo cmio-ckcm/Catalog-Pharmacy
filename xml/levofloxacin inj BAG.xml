@@ -1,5 +1,6 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "levofloxacin inj BAG">
-<dose><value>500</value>
+<dose><value>250</value>
+<value>500</value>
 <value>750</value>
 </dose>
 <route><value>IV</value>
@@ -10,7 +11,8 @@
 <value>Q48H</value>
 </frequency>
 <instruction></instruction>
-<volume><value>100 mL</value>
+<volume><value>50 mL</value>
+<value>100 mL</value>
 <value>150 mL</value>
 </volume>
 <units><value>mg</value>
@@ -20,6 +22,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary with Usage guidelines, therapeutic interchange.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antibacterials, Quinolones</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

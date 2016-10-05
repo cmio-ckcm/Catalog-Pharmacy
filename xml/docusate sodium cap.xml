@@ -18,10 +18,14 @@
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
-<AdditionalNotes></AdditionalNotes>
+<AdditionalNotes><value>Docusate salts are no more effective than placebo for the prevention and treatment of constipation. Alternative effective formulary options include polyethylene glycol 3350, psyllium, lactulose and magesium hydroxide. [AHS Drugs &amp; Therapeutics Backgrounder December, 2014.]</value>
+</AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Cathartics and Laxatives</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

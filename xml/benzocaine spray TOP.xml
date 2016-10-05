@@ -3,7 +3,7 @@
 </dose>
 <route><value>TOP</value>
 </route>
-<strength><value>0.2</value>
+<strength><value>20%</value>
 </strength>
 <frequency><value>ONCE</value>
 </frequency>
@@ -27,6 +27,9 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>EENT Drugs, Local Anesthetics, </value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

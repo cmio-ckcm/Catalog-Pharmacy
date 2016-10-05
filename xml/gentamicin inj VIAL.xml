@@ -42,6 +42,10 @@
 <value>use Ideal Body weight for dosing, Ajusted Body Weight for dosing obese patients.</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+<value>Formulary with Restrictions.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antibacterials, Aminoglycosides</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

@@ -1,10 +1,16 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "nicotine lozenge">
-<dose><value>4</value>
+<dose><value>1</value>
+<value>1 - 2</value>
+<value>2</value>
+<value>2 - 4</value>
+<value>4</value>
 <value>4 - 8</value>
 </dose>
 <route><value>BUCCAL</value>
 </route>
-<strength><value>4 mg</value>
+<strength><value>1 mg</value>
+<value>2 mg</value>
+<value>4 mg</value>
 </strength>
 <frequency><value>Q1H</value>
 <value>Q2H</value>
@@ -14,8 +20,9 @@
 <value>Q8H</value>
 <value>DAILY</value>
 </frequency>
-<instruction><value>Suck on lozenge until fully dissolved in mouth.</value>
+<instruction><value>Upon urge to smoke, suck on lozenge until fully dissolved in mouth.</value>
 <value>Upon strong temptation to smoke, suck on lozenge until fully dissolved in mouth.</value>
+<value>Suck on lozenge until fully dissolved in mouth.</value>
 </instruction>
 <volume></volume>
 <units><value>mg</value>
@@ -23,13 +30,20 @@
 <Population></Population>
 <IndicationPRN><value>Smoking cessation</value>
 </IndicationPRN>
-<AdditionalNotes><value>Initial treatment period: Weeks 1 to 6. Recommended a minimum of 8 lozenges per day. 4 mg dose recommended for patients who smoke their first cigarette within 30 minutes of waking up.</value>
+<AdditionalNotes><value>1 mg dose recommended for patients who smoke up to one pack per day. Maximum  daily dose is 25 of the 1 mg lozenges.</value>
+<value>Initial treatment period: Weeks 1 to 6. Recommended a minimum of 8 lozenges per day. 2 mg dose recommended for patients who smoke their first cigarette more than 30 minutes after waking up.</value>
+<value>Step down treatment peroid: Weeks 7 to 9. 2 mg dose recommended for patients who smoke their first cigarette more than 30 minutes after waking up.</value>
+<value>Step down treatment peroid: Weeks 10 to 12. 2 mg dose recommended for patients who smoke their first cigarette more than 30 minutes after waking up.</value>
+<value>Initial treatment period: Weeks 1 to 6. Recommended a minimum of 8 lozenges per day. 4 mg dose recommended for patients who smoke their first cigarette within 30 minutes of waking up.</value>
 <value>Step down treatment peroid: Weeks 7 to 9. 4 mg dose recommended for patients who smoke their first cigarette within 30 minutes of waking up.</value>
 <value>Step down treatment peroid: Weeks 10 to 12. 4 mg dose recommended for patients who smoke their first cigarette within 30 minutes of waking up.</value>
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Autonomic Drugs, Miscellaneous</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

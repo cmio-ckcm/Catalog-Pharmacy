@@ -41,6 +41,11 @@
 <value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2467</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary with Usage guidelines.</value>
+<value>Formulary with Restrictions.</value>
+<value>Formulary with Usage guidelines, therapeutic interchange.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antibacterials, Miscellaneous</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

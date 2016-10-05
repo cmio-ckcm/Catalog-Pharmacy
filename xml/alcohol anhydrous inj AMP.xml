@@ -19,7 +19,7 @@
 </dose>
 <route><value>IV</value>
 </route>
-<strength><value>1</value>
+<strength><value>100%</value>
 </strength>
 <frequency><value>ONCE</value>
 <value>CONTINUOUS</value>
@@ -42,7 +42,9 @@
 <BackgroundInformation><value>10% 500 mL IV bag</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>F</value>
+<AHSFormularyStatus><value>Formulary.</value>
 </AHSFormularyStatus>
+<AHFSName><value>Antidotes</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

@@ -3,7 +3,8 @@
 </dose>
 <route><value>PO</value>
 </route>
-<strength><value>20 mg</value>
+<strength><value>10 mg</value>
+<value>20 mg</value>
 </strength>
 <frequency><value>TID</value>
 </frequency>
@@ -17,6 +18,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Adrenals</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

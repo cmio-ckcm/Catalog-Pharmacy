@@ -6,7 +6,9 @@
 </dose>
 <route><value>PO</value>
 </route>
-<strength><value>6 000 unit-30 000 unit-19 000 unit</value>
+<strength><value>10 000 unit-11 200 unit-730 unit</value>
+<value>25 000 unit-25 500 unit-1600 unit</value>
+<value>6000 unit-30 000 unit-19 000 unit</value>
 </strength>
 <frequency><value>TID</value>
 <value>ONCE</value>
@@ -15,7 +17,7 @@
 <value>To be administered with snacks.</value>
 </instruction>
 <volume></volume>
-<units><value>CAP</value>
+<units><value>cap</value>
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
@@ -24,7 +26,9 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus><value>F</value>
+<AHSFormularyStatus><value>Formulary.</value>
 </AHSFormularyStatus>
+<AHFSName><value>Digestants</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

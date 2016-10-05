@@ -1,24 +1,24 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "dexamethasone inj VIAL">
-<dose><value>1</value>
-<value>2</value>
-<value>4</value>
+<dose><value>4</value>
 <value>6</value>
+<value>1</value>
+<value>2</value>
 <value>10</value>
 <value>20</value>
 <value>8</value>
 <value>12</value>
 </dose>
-<route><value>INTRA-ARTICULAR</value>
+<route><value>IM</value>
+<value>INTRA-ARTICULAR</value>
 <value>IV</value>
-<value>IM</value>
 </route>
 <strength><value>10 mg/mL</value>
 <value>4 mg/mL</value>
 </strength>
-<frequency><value>ONCE </value>
-<value>ONCE</value>
-<value>Q6H</value>
+<frequency><value>Q6H</value>
 <value>Q12H</value>
+<value>ONCE </value>
+<value>ONCE</value>
 <value>BID</value>
 <value>DAILY</value>
 </frequency>
@@ -99,6 +99,10 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+<value>Formulary with Usage guidelines.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Adrenals</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

@@ -13,7 +13,9 @@
 <route><value>PO</value>
 </route>
 <strength><value>100 mg</value>
+<value>200 mg</value>
 <value>25 mg</value>
+<value>50 mg</value>
 </strength>
 <frequency><value>DAILY</value>
 <value>HS</value>
@@ -27,10 +29,14 @@
 <AdditionalNotes><value>Gen-Clozapine: GenCAN Monitoring System (Mylan): https://www.gencan.ca/logon/logon.asp</value>
 </AdditionalNotes>
 <BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1065</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=8422</value>
 <value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1064</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=8421</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>FR</value>
+<AHSFormularyStatus><value>Formulary with Restrictions.</value>
 </AHSFormularyStatus>
+<AHFSName><value>Psychotherapeutic Agents, Antipsychotics</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "riociguat tab">
+<dose><value>0.5</value>
+<value>1</value>
+<value>1.5</value>
+<value>2</value>
+<value>2.5</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>0.5 mg</value>
+<value>1 mg</value>
+<value>1.5 mg</value>
+<value>2 mg</value>
+<value>2.5 mg</value>
+</strength>
+<frequency><value>TID</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Increased risk of mortality and serious adverse effects in patients with Pulmonary Hypertension associated with Idiopathic Interstitial Pneumonias. [Health Canada August 15, 2016]</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=8681</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=8682</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=8683</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=8684</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=8685</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>Formulary with Restrictions.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Vasodilating Agents</value>
+</AHFSName>
+<HighAlert></HighAlert>
+</drug>

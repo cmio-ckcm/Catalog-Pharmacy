@@ -1,0 +1,34 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "lurasidone tab">
+<dose><value>120</value>
+<value>20</value>
+<value>40</value>
+<value>60</value>
+<value>80</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>120 mg</value>
+<value>20 mg</value>
+<value>40 mg</value>
+<value>60 mg</value>
+<value>80 mg </value>
+</strength>
+<frequency><value>DAILY</value>
+</frequency>
+<instruction><value>Administer with a meal.</value>
+</instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population><value>ADULT</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Psychotherapeutic Agents, Antipsychotics</value>
+</AHFSName>
+<HighAlert></HighAlert>
+</drug>

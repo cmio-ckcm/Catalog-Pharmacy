@@ -21,6 +21,9 @@
 <BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3243</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary with Usage guidelines.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antivirals, Nucleosides and Nucleotides</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

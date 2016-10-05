@@ -24,6 +24,9 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Sympathomimetic (Adrenergic) Agents, alpha- and beta-Adrenergic Agonists</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

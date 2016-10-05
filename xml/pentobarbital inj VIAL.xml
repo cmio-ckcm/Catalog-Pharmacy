@@ -31,6 +31,9 @@
 </BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary, Health Canada Special Access Programme.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Anxiolytics, Sedatives, and Hypnotics, Barbiturates</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

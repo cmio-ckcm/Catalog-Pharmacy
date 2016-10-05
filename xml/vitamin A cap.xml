@@ -1,6 +1,6 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "vitamin A cap">
-<dose><value>10000</value>
-<value>20000</value>
+<dose><value>10 000</value>
+<value>20 000</value>
 </dose>
 <route><value>PO</value>
 </route>
@@ -17,6 +17,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Vitamin A</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

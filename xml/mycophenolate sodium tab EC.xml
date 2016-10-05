@@ -20,6 +20,9 @@
 <BackgroundInformation><value>AHS Specialized High Cost Drug Program: Restricted to  allogeneic renal transplant patients.</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary with Restrictions.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Immunosuppressive Agents</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

@@ -14,7 +14,7 @@
 </instruction>
 <volume><value>50 mL</value>
 </volume>
-<units><value>mL/M2</value>
+<units><value>mL/m2</value>
 <value>mL/kg </value>
 </units>
 <Population><value>ADULT</value>
@@ -27,7 +27,9 @@
 <BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=4658</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>FRSAP</value>
+<AHSFormularyStatus><value>Formulary with Restrictions. Health Canada Special Access Programme.</value>
 </AHSFormularyStatus>
+<AHFSName><value>Ammonia Detoxicants</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

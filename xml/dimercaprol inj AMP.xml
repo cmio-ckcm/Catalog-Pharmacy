@@ -34,6 +34,9 @@
 <value>Lead poisoning</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Heavy Metal Antagonists</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

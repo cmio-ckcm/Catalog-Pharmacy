@@ -4,10 +4,10 @@
 <value>0.06 - 0.16</value>
 <value>0.015</value>
 <value>0.03 - 0.1</value>
-<value>0.06 - 0.1</value>
 <value>0.015 - 0.04</value>
 <value>0.1</value>
 <value>0.02 - 0.04</value>
+<value>0.06 - 0.1</value>
 </dose>
 <route><value>IV</value>
 <value>IV </value>
@@ -28,16 +28,16 @@
 <instruction><value>Administer by direct injection.</value>
 <value>Administer by direct injection; to maintain skeletal muscle relaxation.</value>
 <value>LOADING DOSE: Followed by continuous infusion.</value>
-<value>Administer by continuous infusion, titrate dose to desired response.</value>
 <value>Administer by direct injection. May repeat dose PRN every 1 to 2 hours to maintain skeletal muscle relaxation.</value>
 <value>Administer by direct injection every 30 to 60 minutes PRN to maintain skeletal muscle relaxation.</value>
 <value>Administer by continuous infusion, titrate to desired response.</value>
+<value>Administer by continuous infusion, titrate dose to desired response.</value>
 </instruction>
 <volume><value>2 mL</value>
 </volume>
 <units><value>mg/kg</value>
-<value>mg/kg/hour</value>
 <value>mg/kg/dose</value>
+<value>mg/kg/hour</value>
 </units>
 <Population><value>ADULT. Adjunct to general anesthesia. Dosing interval of 25 to 60 minutes.</value>
 <value>ADULT. Endotracheal Intubation.</value>
@@ -53,7 +53,10 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
-<HighAlert><value>HIGH ALERT MEDICATION</value>
+<AHSFormularyStatus><value>Discontinued.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Skeletal Muscle Relaxants, Neuromuscular Blocking Agents</value>
+</AHFSName>
+<HighAlert><value>YES</value>
 </HighAlert>
 </drug>

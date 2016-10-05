@@ -19,6 +19,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Non-Formulary with Usage guidelines, therapeutic interchange.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antibacterials, Quinolones</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

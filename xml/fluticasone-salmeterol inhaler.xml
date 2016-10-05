@@ -11,13 +11,16 @@
 <instruction><value>Administer in the morning and evening.</value>
 </instruction>
 <volume></volume>
-<units><value>PUFFS</value>
+<units><value>puff </value>
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Sympathomimetic (Adrenergic) Agents, beta-Adrenergic Agonists</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

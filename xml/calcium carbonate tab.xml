@@ -1,9 +1,11 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "calcium carbonate tab">
-<dose><value>625</value>
+<dose><value>1250</value>
+<value>625</value>
 </dose>
 <route><value>PO</value>
 </route>
-<strength><value>625 mg</value>
+<strength><value>1250 mg</value>
+<value>625 mg</value>
 </strength>
 <frequency><value>DAILY</value>
 <value>TID</value>
@@ -15,10 +17,14 @@
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
-<AdditionalNotes><value>625 mg = 250 mg elemental calcium</value>
+<AdditionalNotes><value>1250 mg = 500 mg elemental Calcium</value>
+<value>625 mg = 250 mg elemental calcium</value>
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Replacement Preparations</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

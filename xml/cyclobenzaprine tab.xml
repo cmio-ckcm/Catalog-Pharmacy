@@ -20,6 +20,9 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Skeletal Muscle Relaxants, Centrally Acting Skeletal Muscle Relaxants</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

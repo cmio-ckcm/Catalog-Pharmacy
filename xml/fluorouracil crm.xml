@@ -2,7 +2,7 @@
 <dose></dose>
 <route><value>TOP</value>
 </route>
-<strength><value>0.05</value>
+<strength><value>5%</value>
 </strength>
 <frequency><value>BID</value>
 </frequency>
@@ -18,7 +18,9 @@
 <BackgroundInformation><value>Increased sensitivity to sunlight, use a sun block with a minimum 15 SPF. </value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>F</value>
+<AHSFormularyStatus><value>Formulary.</value>
 </AHSFormularyStatus>
+<AHFSName><value>Skin and Mucous Membrane Agents, Miscellaneous</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

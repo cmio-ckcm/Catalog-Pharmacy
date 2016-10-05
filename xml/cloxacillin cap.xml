@@ -1,9 +1,11 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "cloxacillin cap">
-<dose><value>500</value>
+<dose><value>250</value>
+<value>500</value>
 </dose>
 <route><value>PO</value>
 </route>
-<strength><value>500 mg</value>
+<strength><value>250 mg</value>
+<value>500 mg</value>
 </strength>
 <frequency><value>QID</value>
 <value>Q6H</value>
@@ -18,6 +20,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antibacterials, Penicillins</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

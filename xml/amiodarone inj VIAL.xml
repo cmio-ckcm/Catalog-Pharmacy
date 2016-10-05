@@ -47,22 +47,33 @@
 <value>mcg/kg</value>
 <value>mcg/kg/minute</value>
 </units>
-<Population></Population>
+<Population><value>ADULT</value>
+<value>INFANT/CHILDREN</value>
+<value>NEONATE</value>
+</Population>
 <IndicationPRN></IndicationPRN>
-<AdditionalNotes><value>ACLS - Cardiac Arrest due to pulseless V-Tav or V-Fib.</value>
+<AdditionalNotes><value>ACLS - Cardiac Arrest due to pulseless V-Tav or V-Fib. Not recommended for use in patients receiving Sovaldi or Harvoni in combination with another direct acting antiviral. Risk of serious symptomatic bradycardia. Health Canada: April 2, 2015. </value>
+<value>Step 1: Ventricular and Atrial Tachycardia protocol. Not recommended for use in patients receiving Sovaldi or Harvoni in combination with another direct acting antiviral. Risk of serious symptomatic bradycardia. Health Canada: April 2, 2015. </value>
+<value>Step 2: Ventricular and Atrial Tachycardia protocol. Not recommended for use in patients receiving Sovaldi or Harvoni in combination with another direct acting antiviral. Risk of serious symptomatic bradycardia. Health Canada: April 2, 2015. </value>
+<value>Step 3: Ventricular and Atrial Tachycardia protocol. Not recommended for use in patients receiving Sovaldi or Harvoni in combination with another direct acting antiviral. Risk of serious symptomatic bradycardia. Health Canada: April 2, 2015. </value>
+<value>Not recommended for use in patients receiving Sovaldi or Harvoni in combination with another direct acting antiviral. Risk of serious symptomatic bradycardia. Health Canada: April 2, 2015. </value>
+<value>PALS: Treatment of Pulseless V-Tach or V-Fib. Not recommended for use in patients receiving Sovaldi or Harvoni in combination with another direct acting antiviral. Risk of serious symptomatic bradycardia. Health Canada: April 2, 2015. </value>
+<value>Neonate: Refractory Perfusing Tachyarrhythmias</value>
+<value>ACLS - Cardiac Arrest due to pulseless V-Tav or V-Fib.</value>
 <value>Step 1: Ventricular and Atrial Tachycardia protocol</value>
 <value>Step 2: Ventricular and Atrial Tachycardia protocol</value>
 <value>Step 3: Ventricular and Atrial Tachycardia protocol</value>
 <value>PALS: Treatment of Pulseless V-Tach or V-Fib.</value>
 <value>Infant/Child dosing</value>
-<value>Neonate: Refractory Perfusing Tachyarrhythmias</value>
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus><value>F</value>
-<value>NF</value>
+<AHSFormularyStatus><value>Formulary.</value>
+<value>Discontinued.</value>
 </AHSFormularyStatus>
-<HighAlert><value>HIGH ALERT MEDICATION</value>
+<AHFSName><value>Cardiac Drugs, Antiarrhythmic Agents</value>
+</AHFSName>
+<HighAlert><value>YES</value>
 </HighAlert>
 </drug>

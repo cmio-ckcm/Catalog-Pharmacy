@@ -48,6 +48,9 @@
 <value>May repeat dose in 4 to 6 month intervals.</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Bone Resorption Inhibitors</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

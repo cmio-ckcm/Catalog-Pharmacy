@@ -1,0 +1,27 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "bisaCODyl   (DULCOLAX) supp">
+<dose><value>10</value>
+</dose>
+<route><value>PR </value>
+</route>
+<strength><value>10 mg</value>
+</strength>
+<frequency><value>DAILY</value>
+<value>ONCE</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN><value>Constipation</value>
+</IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus><value>Formulary with Therapeutic Interchange.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Cathartics and Laxatives</value>
+</AHFSName>
+<HighAlert></HighAlert>
+</drug>

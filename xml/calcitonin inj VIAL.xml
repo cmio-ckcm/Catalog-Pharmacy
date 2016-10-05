@@ -1,40 +1,43 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "calcitonin inj VIAL">
-<dose><value>1</value>
+<dose><value>4 - 8</value>
+<value>1</value>
 <value>100</value>
 <value>50 - 100</value>
-<value>4 - 8</value>
 </dose>
-<route><value>INTRACUTANEOUSLY</value>
+<route><value>IM</value>
+<value>INTRACUTANEOUSLY</value>
 <value>SC</value>
-<value>IM</value>
 </route>
 <strength><value>200 unit/mL</value>
 </strength>
-<frequency><value>ONCE</value>
-<value>DAILY</value>
-<value>THREE TIMES WEEKLY</value>
-<value>Q12H</value>
+<frequency><value>Q12H</value>
 <value>Q8H</value>
 <value>Q6H</value>
+<value>ONCE</value>
+<value>DAILY</value>
+<value>THREE TIMES WEEKLY</value>
 </frequency>
 <instruction><value>Test Dose: Administer intracutaneously on the flexor surface of the forearm. Observe injection site for 15 minutes for wheal or significant erythema.</value>
 </instruction>
 <volume><value>2 mL</value>
 </volume>
-<units><value>unit</value>
-<value>unit/kg</value>
+<units><value>unit/kg</value>
+<value>unit</value>
 </units>
 <Population><value>ADULT.</value>
 </Population>
 <IndicationPRN></IndicationPRN>
-<AdditionalNotes><value>Paget&amp;apos;s Disease. Initial dose.</value>
-<value>Paget&amp;apos;s Disease. Maintenance dose.</value>
-<value>Hypercalcemia</value>
+<AdditionalNotes><value>Hypercalcemia</value>
 <value>Hypercalcemia. MAXIMIM dose: 8 unit/kg every 6 hours.</value>
+<value>Paget&amp;apos;s Disease. Initial dose.</value>
+<value>Paget&amp;apos;s Disease. Maintenance dose.</value>
 </AdditionalNotes>
 <BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2003</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary with Restrictions.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Parathyroid</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

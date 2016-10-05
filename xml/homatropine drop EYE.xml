@@ -3,8 +3,8 @@
 </dose>
 <route><value>OPHTH</value>
 </route>
-<strength><value>0.02</value>
-<value>0.05</value>
+<strength><value>2%</value>
+<value>5%</value>
 </strength>
 <frequency><value>ONCE</value>
 <value>BID</value>
@@ -33,6 +33,9 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Discontinued.</value>
+</AHSFormularyStatus>
+<AHFSName><value>EENT Drugs, Mydriatics, </value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

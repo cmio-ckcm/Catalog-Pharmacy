@@ -1,14 +1,14 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "triamcinolone hexacetonide inj VIAL">
-<dose><value>1</value>
-<value>5 - 40</value>
-<value>20 - 100</value>
+<dose><value>20 - 100</value>
 <value>2.5 - 20</value>
+<value>1</value>
+<value>5 - 40</value>
 </dose>
-<route><value>INTRADERMAL</value>
-<value>SUBLESIONAL</value>
-<value>INTRA-SYNOVIAL</value>
-<value>IM</value>
+<route><value>IM</value>
 <value>INTRA-ARTICULAR</value>
+<value>INTRADERMAL</value>
+<value>INTRA-SYNOVIAL</value>
+<value>SUBLESIONAL</value>
 </route>
 <strength><value>20 mg/mL</value>
 </strength>
@@ -27,6 +27,9 @@
 <BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2344</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary, Health Canada Special Access Programme.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Adrenals</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

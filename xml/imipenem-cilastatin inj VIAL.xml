@@ -5,7 +5,7 @@
 </dose>
 <route><value>IV</value>
 </route>
-<strength><value>500 mg-500 mg</value>
+<strength><value>500 mg</value>
 </strength>
 <frequency><value>Q6H</value>
 <value>Q8H</value>
@@ -25,7 +25,9 @@
 <BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2367</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>FRG</value>
+<AHSFormularyStatus><value>Formulary with Restrictions, Usage guidelines.</value>
 </AHSFormularyStatus>
+<AHFSName><value>Antibacterials, Miscellaneous beta-Lactams</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

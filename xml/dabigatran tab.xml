@@ -15,9 +15,14 @@
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
-<AdditionalNotes></AdditionalNotes>
+<AdditionalNotes><value>Direct oral anticoagulants NOT indicated for treatment of cancer-associated thrombosis. Evidence supports LMWH agents.</value>
+</AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
-<HighAlert></HighAlert>
+<AHSFormularyStatus><value>Formulary with Restrictions, Usage guidelines.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antithrombotic Agents, Anticoagulants</value>
+</AHFSName>
+<HighAlert><value>YES</value>
+</HighAlert>
 </drug>

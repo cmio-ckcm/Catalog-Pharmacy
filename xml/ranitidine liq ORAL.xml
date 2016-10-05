@@ -30,6 +30,9 @@
 </BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antiulcer Agents and Acid Suppressants, Histamine H2-Antagonists</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>
