@@ -3,7 +3,7 @@
 </dose>
 <route><value>TOP</value>
 </route>
-<strength><value>0.02</value>
+<strength><value>2%</value>
 </strength>
 <frequency><value>TID</value>
 <value>BID</value>
@@ -22,6 +22,9 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>EENT Drugs, Antiglaucoma Agents, Carbonic Anhydrase Inhibitors</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

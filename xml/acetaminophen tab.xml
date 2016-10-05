@@ -30,11 +30,15 @@
 </Population>
 <IndicationPRN><value>for infusion reactions (chills, rigor, fever).</value>
 </IndicationPRN>
-<AdditionalNotes></AdditionalNotes>
+<AdditionalNotes><value>Recommended dosing for children 6 and up to 12 years of age: Maximum daily dose of 1625 mg (5 doses of 325 mg). Acetaminophen dosing from all sources not to exceed: CHILDREN =  65 mg/kg/24 hours. ADULTS: 4000 mg/24 hours.</value>
+<value>Acetaminophen dosing from all sources not to exceed: CHILDREN =  65 mg/kg/24 hours. ADULTS: 4000 mg/24 hours.</value>
+</AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus><value>F</value>
+<AHSFormularyStatus><value>Formulary.</value>
 </AHSFormularyStatus>
+<AHFSName><value>Analgesics and Antipyretics, Miscellaneous</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

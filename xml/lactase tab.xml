@@ -8,7 +8,7 @@
 </dose>
 <route><value>PO</value>
 </route>
-<strength><value>3 000 unit</value>
+<strength><value>3000 unit</value>
 </strength>
 <frequency><value>ONCE</value>
 </frequency>
@@ -23,6 +23,9 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Digestants</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

@@ -3,15 +3,15 @@
 <value>8</value>
 <value>16</value>
 </dose>
-<route><value>IV</value>
-<value>IM</value>
+<route><value>IM</value>
+<value>IV</value>
 <value>SC</value>
 </route>
 <strength><value>2 mg/mL</value>
 </strength>
-<frequency><value>ONCE</value>
-<value>Q3H</value>
+<frequency><value>Q3H</value>
 <value>Q4H</value>
+<value>ONCE</value>
 <value>DAILY</value>
 <value>Q8H</value>
 </frequency>
@@ -95,6 +95,9 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary with Usage guidelines, therapeutic interchange.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antiemetics, 5-HT3 Receptor Antagonists</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

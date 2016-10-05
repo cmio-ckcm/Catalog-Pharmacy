@@ -1,36 +1,36 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "BUPivacaine-epiNEPHrine inj VIAL">
-<dose><value>2 - 2.5</value>
-<value>25 - 50</value>
+<dose><value>25 - 50</value>
 <value>5 - 20</value>
+<value>2 - 2.5</value>
 <value>37.5 - 75</value>
 <value>12.5 - 125</value>
 <value>12.5 - 150</value>
 <value>50 - 100</value>
 </dose>
-<route><value>INFILTRATION</value>
-<value>EPIDURAL</value>
+<route><value>EPIDURAL</value>
+<value>INFILTRATION</value>
 </route>
 <strength><value>0.25%-1:200 000</value>
 <value>0.5%-1:200 000</value>
 </strength>
-<frequency><value>Q3H</value>
-<value>ONCE</value>
+<frequency><value>ONCE</value>
+<value>Q3H</value>
 <value>CONTINUOUS</value>
 </frequency>
 <instruction><value>Administer by Epidural continuous infusion.</value>
 </instruction>
 <volume><value>20 mL</value>
 </volume>
-<units><value>mg/kg</value>
-<value>mg/dose</value>
+<units><value>mg/dose</value>
 <value>mg/hour</value>
+<value>mg/kg</value>
 </units>
 <Population><value>ADULT</value>
 </Population>
 <IndicationPRN></IndicationPRN>
-<AdditionalNotes><value>Local Infiltration. MAXIMUM Dose: 400 mg/24 hours.</value>
-<value>MAXIMUM Dose: 400 mg/24 hours.</value>
+<AdditionalNotes><value>MAXIMUM Dose: 400 mg/24 hours.</value>
 <value>Caudal / Lumbar. MAXIMUM Dose: 400 mg/24 hours.</value>
+<value>Local Infiltration. MAXIMUM Dose: 400 mg/24 hours.</value>
 <value>Caudal. MAXIMUM dose: 400 mg/24 hours.</value>
 <value>Sympathetic Nerve. MAXIMUM dose: 400 mg/24 hours.</value>
 <value>Peripheral Nerve. MAXIMUM dose: 400 mg/ 24 hours.</value>
@@ -38,6 +38,10 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
-<HighAlert></HighAlert>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Local Anesthetics</value>
+</AHFSName>
+<HighAlert><value>YES</value>
+</HighAlert>
 </drug>

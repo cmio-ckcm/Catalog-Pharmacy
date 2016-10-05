@@ -4,7 +4,7 @@
 </dose>
 <route><value>INH</value>
 </route>
-<strength><value>0.9997</value>
+<strength><value>99.97%</value>
 </strength>
 <frequency><value>ONCE</value>
 </frequency>
@@ -23,7 +23,10 @@
 <BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=276</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
-<HighAlert><value>HIGH ALERT MEDICATION</value>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>General Anesthetics, Inhalation Anesthetics</value>
+</AHFSName>
+<HighAlert><value>YES</value>
 </HighAlert>
 </drug>

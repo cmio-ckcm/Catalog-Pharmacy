@@ -28,6 +28,9 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary with Usage guidelines, therapeutic interchange.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antibacterials, Miscellaneous</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

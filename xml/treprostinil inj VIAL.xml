@@ -1,8 +1,8 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "treprostinil inj VIAL">
 <dose><value>0.625 - 40</value>
 </dose>
-<route><value>SC</value>
-<value>IV</value>
+<route><value>IV</value>
+<value>SC</value>
 </route>
 <strength><value>1 mg/mL</value>
 <value>10 mg/mL</value>
@@ -27,6 +27,9 @@
 <value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2048</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary with Restrictions.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Vasodilating Agents, Miscellaneous</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

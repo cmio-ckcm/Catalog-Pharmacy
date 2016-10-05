@@ -1,9 +1,9 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "penicillin G benzathine inj SYR">
 <dose><value>1.2 million</value>
 <value>2.4 million</value>
-<value>600000</value>
-<value>50000</value>
-<value>25,000 - 50,000</value>
+<value>600 000</value>
+<value>50 000</value>
+<value>25 000 - 50 000</value>
 </dose>
 <route><value>IM</value>
 </route>
@@ -20,8 +20,8 @@
 </instruction>
 <volume><value>2 mL</value>
 </volume>
-<units><value>units</value>
-<value>units/kg</value>
+<units><value>unit</value>
+<value>unit/kg</value>
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
@@ -31,6 +31,9 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antibacterials, Penicillins</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

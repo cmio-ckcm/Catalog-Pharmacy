@@ -11,7 +11,7 @@
 </frequency>
 <instruction></instruction>
 <volume></volume>
-<units><value>TAB</value>
+<units><value>tab</value>
 </units>
 <Population></Population>
 <IndicationPRN><value>acid reflux</value>
@@ -20,7 +20,9 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus><value>F</value>
+<AHSFormularyStatus><value>Formulary.</value>
 </AHSFormularyStatus>
+<AHFSName><value>Antacids and Adsorbents</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

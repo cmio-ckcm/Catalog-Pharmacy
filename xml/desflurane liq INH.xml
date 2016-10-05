@@ -4,7 +4,7 @@
 </dose>
 <route><value>INH</value>
 </route>
-<strength><value>1</value>
+<strength><value>100%</value>
 </strength>
 <frequency><value>CONTINUOUS</value>
 </frequency>
@@ -20,7 +20,10 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
-<HighAlert><value>HIGH ALERT MEDICATION</value>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>General Anesthetics</value>
+</AHFSName>
+<HighAlert><value>YES</value>
 </HighAlert>
 </drug>

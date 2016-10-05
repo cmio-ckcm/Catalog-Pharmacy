@@ -1,8 +1,8 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "artesunate inj VIAL">
 <dose><value>2.4</value>
 </dose>
-<route><value>IV</value>
-<value>IM</value>
+<route><value>IM</value>
+<value>IV</value>
 </route>
 <strength><value>110 mg</value>
 </strength>
@@ -23,6 +23,9 @@
 <BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2579</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary with Usage guidelines. Health Canada Special Access Programme.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antiprotozoals, Antimalarials</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

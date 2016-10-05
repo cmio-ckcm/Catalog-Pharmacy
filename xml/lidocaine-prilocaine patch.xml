@@ -12,7 +12,7 @@
 <value>Apply to affected skin area(s) for 60 minutes prior to procedure.</value>
 </instruction>
 <volume></volume>
-<units><value>PATCH</value>
+<units><value>patch</value>
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
@@ -24,6 +24,9 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Skin and Mucous Membrane Agents, Antipruritics and Local Anesthetics</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

@@ -20,6 +20,9 @@
 <BackgroundInformation><value>Maximum recommended dose by weight range: 10 to 15 kg = 1 g/day, 16 to 30 kg = 1.5 g/day, &amp;gt;30 kg = 3 g/day.</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Anticonvulsants, Anticonvulsants, Miscellaneous</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

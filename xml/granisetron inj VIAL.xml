@@ -28,7 +28,9 @@
 <BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1652</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>FRG</value>
+<AHSFormularyStatus><value>Formulary with Restrictions, Usage guidelines.</value>
 </AHSFormularyStatus>
+<AHFSName><value>Antiemetics, 5-HT3 Receptor Antagonists</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

@@ -23,6 +23,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Renin-Angiotensin-Aldosterone System Inhibitors, Angiotensin II Receptor Antagonists</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

@@ -20,7 +20,9 @@
 <BackgroundInformation><value>Health Canada: Special Access Program (SAP)</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>FSAP</value>
+<AHSFormularyStatus><value>Formulary, Health Canada Special Access Programme.</value>
 </AHSFormularyStatus>
+<AHFSName><value>Anthelmintics</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

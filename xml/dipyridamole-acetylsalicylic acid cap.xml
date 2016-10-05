@@ -10,13 +10,16 @@
 </frequency>
 <instruction></instruction>
 <volume></volume>
-<units><value>CAP</value>
+<units><value>cap</value>
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Vasodilating Agents, Miscellaneous</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

@@ -3,7 +3,7 @@
 </dose>
 <route><value>INH</value>
 </route>
-<strength><value>0.07</value>
+<strength><value>7%</value>
 </strength>
 <frequency><value>Q12H</value>
 </frequency>
@@ -17,7 +17,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>F</value>
+<AHSFormularyStatus><value>Formulary.</value>
 </AHSFormularyStatus>
+<AHFSName><value>EENT Drugs, Miscellaneous</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

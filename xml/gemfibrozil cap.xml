@@ -21,6 +21,9 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antilipemic Agents, Fibric Acid Derivatives</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

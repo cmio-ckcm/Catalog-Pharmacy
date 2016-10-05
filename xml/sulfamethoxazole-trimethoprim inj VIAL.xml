@@ -30,14 +30,19 @@
 <value>INFANT / CHILDREN, aged 2 months and older</value>
 </Population>
 <IndicationPRN></IndicationPRN>
-<AdditionalNotes><value>Pneumocystitis jiroveci pneumonia (PJP)</value>
+<AdditionalNotes><value>Dosing based upon trimethoprim component.</value>
+<value>Pneumocystitis jiroveci pneumonia (PJP). Dosing based upon trimethoprim component.</value>
 <value>Pneumocystitis jiroveci pneumonia (PJP), prophylaxis. 10 mL injection solution provides 160 mg trimethoprim component. Maximum daily dose: trimethoprim 320 mg / sulfamethoxazole 1600mg.</value>
-<value>Mild - moderate infections.</value>
+<value>Mild - moderate infections. Dose based upon trimethoprim component.</value>
+<value>Serious infections / Pneumocystitis jiroveci pneuomonia. </value>
 <value>Serious infections / Pneumocystitis jiroveci pneuomonia</value>
 <value>Pneumocystitis jiroveci pneumonia (PJP), prophylaxis. Maximum daily dose: trimethoprim 320 mg / sulfamethoxazole 1600mg.</value>
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antibacterials, Sulfonamides</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

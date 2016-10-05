@@ -29,6 +29,9 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antiparkinsonian Agents, Dopamine Receptor Agonists</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

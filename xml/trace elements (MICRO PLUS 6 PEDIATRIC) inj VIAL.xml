@@ -1,0 +1,26 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "trace elements (MICRO PLUS 6 PEDIATRIC) inj VIAL">
+<dose></dose>
+<route><value>IV</value>
+</route>
+<strength><value>1 mL</value>
+</strength>
+<frequency><value>DAILY</value>
+</frequency>
+<instruction><value>Ordered as part of Parenteral Nutrition order.</value>
+</instruction>
+<volume><value>10 mL</value>
+</volume>
+<units><value>mL</value>
+</units>
+<Population><value>NEONATE / INFANT</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Replacement Preparations</value>
+</AHFSName>
+<HighAlert></HighAlert>
+</drug>

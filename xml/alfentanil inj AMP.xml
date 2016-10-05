@@ -45,7 +45,10 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>DC</value>
+<AHSFormularyStatus><value>Discontinued.</value>
 </AHSFormularyStatus>
-<HighAlert></HighAlert>
+<AHFSName><value>Analgesics and Antipyretics, Opiate Agonists</value>
+</AHFSName>
+<HighAlert><value>YES</value>
+</HighAlert>
 </drug>

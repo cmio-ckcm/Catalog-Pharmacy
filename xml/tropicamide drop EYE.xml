@@ -4,8 +4,8 @@
 </dose>
 <route><value>OPHTH</value>
 </route>
-<strength><value>0.005</value>
-<value>0.01</value>
+<strength><value>0.5%</value>
+<value>1%</value>
 </strength>
 <frequency><value>ONCE</value>
 <value>EVERY 5 MINUTES</value>
@@ -29,6 +29,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>EENT Drugs, Mydriatics, </value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

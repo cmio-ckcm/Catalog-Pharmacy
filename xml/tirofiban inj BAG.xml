@@ -26,7 +26,10 @@
 <BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1578</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
-<HighAlert><value>HIGH ALERT MEDICATION</value>
+<AHSFormularyStatus><value>Formulary with Restrictions, Usage guidelines.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antithrombotic Agents, Platelet-Aggregation Inhibitors</value>
+</AHFSName>
+<HighAlert><value>YES</value>
 </HighAlert>
 </drug>

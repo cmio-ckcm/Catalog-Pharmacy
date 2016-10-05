@@ -29,6 +29,9 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antimycobacterials, Antituberculosis Agents</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

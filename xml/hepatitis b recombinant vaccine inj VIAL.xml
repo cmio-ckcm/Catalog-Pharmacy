@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "hepatitis b recombinant vaccine inj VIAL">
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "hepatitis B recombinant vaccine inj VIAL">
 <dose><value>2.5</value>
 <value>5</value>
 <value>10</value>
@@ -15,7 +15,8 @@
 <value>Administer 3 doses at day 0, 7 and 21. Followup with an additional dose at 12 months.</value>
 <value>Administer 3 doses at 0, 1 and 2 months. Followup with a booster dose at 12 months.</value>
 </instruction>
-<volume></volume>
+<volume><value>3 mL</value>
+</volume>
 <units><value>mcg</value>
 </units>
 <Population><value>INFANT / CHILDREN, up to including 10 years of age.</value>
@@ -32,6 +33,9 @@
 <BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2261</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary with Restrictions.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Vaccines</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

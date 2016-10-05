@@ -19,7 +19,9 @@
 <BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=6501</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>FR</value>
+<AHSFormularyStatus><value>Formulary with Restrictions.</value>
 </AHSFormularyStatus>
+<AHFSName><value>Skin and Mucous Membrane Agents, Pigmenting Agents</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

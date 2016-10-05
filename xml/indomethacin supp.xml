@@ -1,9 +1,11 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "indomethacin supp">
-<dose><value>50</value>
+<dose><value>100</value>
+<value>50</value>
 </dose>
 <route><value>PR</value>
 </route>
-<strength><value>50 mg</value>
+<strength><value>100 mg</value>
+<value>50 mg</value>
 </strength>
 <frequency><value>HS</value>
 <value>BID</value>
@@ -15,9 +17,13 @@
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
-<AdditionalNotes></AdditionalNotes>
+<AdditionalNotes><value>Patients identified as carriers of Hepatitis B virus should be monitored for signs/symptoms of relapse of HBV infection throughout therapy and several months following termination of therapy.</value>
+</AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Analgesics and Antipyretics, Nonsteroidal Anti-inflammatory Agents</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

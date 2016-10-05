@@ -1,14 +1,19 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "benztropine tab">
-<dose><value>2</value>
+<dose><value>0.5</value>
+<value>1</value>
+<value>2</value>
 </dose>
 <route><value>PO</value>
 </route>
-<strength><value>2 mg</value>
+<strength><value>1 mg</value>
+<value>2 mg</value>
 </strength>
 <frequency><value>DAILY</value>
 <value>BID</value>
-<value>Q1H</value>
+<value>TID</value>
+<value>HS</value>
 <value>Q4H</value>
+<value>Q1H</value>
 <value>Q6H</value>
 <value>Q8H</value>
 </frequency>
@@ -18,10 +23,14 @@
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
-<AdditionalNotes></AdditionalNotes>
+<AdditionalNotes><value>1/2 X 1 MG</value>
+</AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Anticholinergic Agents, Antiparkinsonian Agents</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

@@ -31,7 +31,10 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
-<HighAlert><value>HIGH ALERT MEDICATION</value>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Hypotensive Agents, Direct Vasodilators</value>
+</AHFSName>
+<HighAlert><value>YES</value>
 </HighAlert>
 </drug>

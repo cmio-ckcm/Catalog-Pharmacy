@@ -13,7 +13,7 @@
 </instruction>
 <volume><value>100 mL</value>
 </volume>
-<units><value>mg/HR</value>
+<units><value>mg/hr</value>
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
@@ -21,6 +21,9 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Calcium-Channel Blocking Agents, Miscellaneous</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

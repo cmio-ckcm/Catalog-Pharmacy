@@ -2,7 +2,7 @@
 <dose></dose>
 <route><value>TOP</value>
 </route>
-<strength><value>0.75</value>
+<strength><value>75%</value>
 </strength>
 <frequency><value>ONCE</value>
 </frequency>
@@ -16,6 +16,9 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Not a pharmacy product.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Skin and Mucous Membrane Agents, Local Anti-infectives, Miscellaneous</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

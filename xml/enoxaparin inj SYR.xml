@@ -1,29 +1,37 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "enoxaparin inj SYR">
-<dose><value>30</value>
+<dose><value>1</value>
+<value>1.5</value>
+<value>30</value>
 <value>40</value>
-<value>1</value>
 </dose>
 <route><value>SC</value>
 </route>
-<strength><value>30 mg/0.3 mL</value>
+<strength><value>100 mg/1 mL</value>
+<value>30 mg/0.3 mL</value>
 <value>40 mg/0.4 mL</value>
 <value>60 mg/0.6 mL</value>
 <value>80 mg/0.8 mL</value>
 </strength>
-<frequency><value>Q12H</value>
-<value>BID</value>
+<frequency><value>BID</value>
 <value>DAILY</value>
+<value>Q12H</value>
 </frequency>
 <instruction></instruction>
 <volume></volume>
-<units><value>mg</value>
-<value>mg/kg</value>
+<units><value>mg/kg</value>
+<value>mg</value>
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
-<AdditionalNotes></AdditionalNotes>
+<AdditionalNotes><value>MAXIMUM: 100 mg</value>
+<value>MAXIMUM: 180 mg</value>
+</AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
-<HighAlert></HighAlert>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antithrombotic Agents, Anticoagulants</value>
+</AHFSName>
+<HighAlert><value>YES</value>
+</HighAlert>
 </drug>

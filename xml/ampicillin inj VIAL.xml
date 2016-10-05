@@ -13,7 +13,6 @@
 </strength>
 <frequency><value>Q6H</value>
 <value>Q4H</value>
-<value>Q6h</value>
 <value>Q12H</value>
 <value>Q8H</value>
 </frequency>
@@ -27,7 +26,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>F</value>
+<AHSFormularyStatus><value>Formulary.</value>
 </AHSFormularyStatus>
+<AHFSName><value>Antibacterials, Penicillins</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

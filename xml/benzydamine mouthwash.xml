@@ -3,7 +3,7 @@
 </dose>
 <route><value>GARGLE</value>
 </route>
-<strength><value>0.0015</value>
+<strength><value>0.15%</value>
 </strength>
 <frequency><value>TID</value>
 <value>QID</value>
@@ -22,6 +22,9 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>EENT Drugs, Mouthwashes and Gargles, </value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

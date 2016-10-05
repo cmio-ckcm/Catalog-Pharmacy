@@ -6,7 +6,7 @@
 </dose>
 <route><value>IV</value>
 </route>
-<strength><value>0.1</value>
+<strength><value>10%</value>
 </strength>
 <frequency><value>ONCE</value>
 </frequency>
@@ -30,6 +30,9 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Ocular Disorders</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

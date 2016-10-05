@@ -1,0 +1,28 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "enzalutamide cap">
+<dose><value>160</value>
+<value>80</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>40 mg</value>
+</strength>
+<frequency><value>DAILY</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Co-administration of CYP2C8 inhibitors increase plasma exposure of enzalutamide and should be avoided if possible.. Consideration should be may to reduce the dose to 80 mg DAILY when enzlautamide must be co-administered with a strong CYP2C8 inhibitor (gemfibrozil). Caution should be observed when administered with drugs known to cause QT/QTc prolongation. Additional INR monitoring is recommended in patients receiving warfarin or acenocoumarol.</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=6321</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>Formulary with Restrictions.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antineoplastic Agents</value>
+</AHFSName>
+<HighAlert><value>YES</value>
+</HighAlert>
+</drug>

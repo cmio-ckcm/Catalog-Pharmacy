@@ -1,11 +1,21 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "diazepam tab">
-<dose><value>2</value>
+<dose><value>10</value>
+<value>2.5</value>
+<value>5</value>
+<value>2</value>
 </dose>
 <route><value>PO</value>
 </route>
-<strength><value>2 mg</value>
+<strength><value>10 mg</value>
+<value>5 mg</value>
+<value>2 mg</value>
 </strength>
 <frequency><value>HS</value>
+<value>BID</value>
+<value>TID</value>
+<value>QID</value>
+<value>Q4H</value>
+<value>Q6H</value>
 </frequency>
 <instruction></instruction>
 <volume></volume>
@@ -15,7 +25,11 @@
 <IndicationPRN></IndicationPRN>
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
-<PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Anxiolytics, Sedatives, and Hypnotics, Benzodiazepines</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

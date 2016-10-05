@@ -1,0 +1,31 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "benzocaine-menthol lozenge">
+<dose><value>1</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>15 mg-2.3 mg</value>
+</strength>
+<frequency><value>ONCE</value>
+</frequency>
+<instruction><value>Suck on lozenge until fully dissoved in mouth.</value>
+</instruction>
+<volume></volume>
+<units><value>lozenge</value>
+</units>
+<Population><value>CHILDREN</value>
+<value>ADULT</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Children aged 5 to 8 years. Not recommended for children under 5 years of age.</value>
+<value>Children aged 9 to 13 years. Not recommended for children under 5 years of age.</value>
+<value>Children aged 14 to 18 years. Not recommended for children under 5 years of age.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>EENT Drugs, Local Anesthetics, </value>
+</AHFSName>
+<HighAlert></HighAlert>
+</drug>

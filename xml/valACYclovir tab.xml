@@ -5,7 +5,7 @@
 </dose>
 <route><value>PO</value>
 </route>
-<strength><value>1 000 mg</value>
+<strength><value>1000 mg</value>
 <value>500 mg</value>
 </strength>
 <frequency><value>BID</value>
@@ -23,7 +23,9 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>F</value>
+<AHSFormularyStatus><value>Formulary.</value>
 </AHSFormularyStatus>
+<AHFSName><value>Antivirals, Nucleosides and Nucleotides</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

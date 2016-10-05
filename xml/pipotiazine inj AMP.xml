@@ -21,6 +21,9 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Discontinued.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Psychotherapeutic Agents, Antipsychotics</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

@@ -21,6 +21,9 @@
 </BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary with Restrictions. Health Canada Special Access Programme.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Skin and Mucous Membrane Agents, Local Anti-infectives, Miscellaneous</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

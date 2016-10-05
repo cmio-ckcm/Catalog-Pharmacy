@@ -30,7 +30,9 @@
 <value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=6844</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>FR</value>
+<AHSFormularyStatus><value>Formulary with Restrictions.</value>
 </AHSFormularyStatus>
+<AHFSName><value>Anorexigenic Agents and Respiratory and Cerebral Stimulants, Amphetamines</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

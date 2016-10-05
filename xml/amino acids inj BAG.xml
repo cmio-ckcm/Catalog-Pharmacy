@@ -1,14 +1,16 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "amino acids inj BAG">
 <dose></dose>
-<route></route>
-<strength><value>0.1</value>
+<route><value>IV</value>
+</route>
+<strength><value>10%</value>
 </strength>
-<frequency></frequency>
+<frequency><value>CONTINUOUS</value>
+</frequency>
 <instruction><value>For pharmacy compounding of TPN solutions.</value>
 </instruction>
-<volume><value>1 000 mL</value>
+<volume><value>1000 mL</value>
 <value>250 mL</value>
-<value>3 000 mL</value>
+<value>3000 mL</value>
 </volume>
 <units></units>
 <Population><value>ADULT</value>
@@ -19,8 +21,10 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>F</value>
+<AHSFormularyStatus><value>Formulary.</value>
 </AHSFormularyStatus>
-<HighAlert><value>HIGH ALERT MEDICATION</value>
+<AHFSName><value>Caloric Agents</value>
+</AHFSName>
+<HighAlert><value>YES</value>
 </HighAlert>
 </drug>

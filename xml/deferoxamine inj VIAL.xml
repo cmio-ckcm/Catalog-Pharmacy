@@ -1,28 +1,28 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "deferoxamine inj VIAL">
-<dose><value>15</value>
-<value>50</value>
-<value>20 - 40</value>
-<value>40 - 50</value>
+<dose><value>50</value>
 <value>90</value>
 <value>45</value>
-<value>1 - 14</value>
 <value>5</value>
+<value>15</value>
+<value>20 - 40</value>
+<value>40 - 50</value>
+<value>1 - 14</value>
 </dose>
-<route><value>IV</value>
-<value>IM</value>
+<route><value>IM</value>
+<value>IV</value>
 <value>SC</value>
 </route>
 <strength><value>2 g</value>
 <value>500 mg</value>
 </strength>
-<frequency><value>CONTINUOUS</value>
-<value>Q6H</value>
-<value>DAILY</value>
+<frequency><value>Q6H</value>
 <value>ONCE</value>
 <value>Q4H</value>
 <value>Q8H</value>
 <value>Q12H</value>
 <value>WEEKLY</value>
+<value>CONTINUOUS</value>
+<value>DAILY</value>
 </frequency>
 <instruction><value>Administer by continuous infusion at a rate not exceeding 15 mg/kg/hour.</value>
 <value>Administer by infusion over 8 to 12 hours.</value>
@@ -30,31 +30,34 @@
 <value>Administer over 60 minutes during the last hour of the hemodialysis session.</value>
 </instruction>
 <volume></volume>
-<units><value>mg/kg/hour</value>
-<value>mg/kg/dose</value>
-<value>mg/kg/day</value>
+<units><value>mg/kg/dose</value>
 <value>mg/kg</value>
+<value>mg/kg/hour</value>
+<value>mg/kg/day</value>
 <value>g</value>
 </units>
 <Population><value>CHILDREN</value>
-<value>ADOLESCENT</value>
 <value>ADULT</value>
+<value>ADOLESCENT</value>
 </Population>
 <IndicationPRN></IndicationPRN>
 <AdditionalNotes><value>Acute iron toxicity. MAX dose: 6 g/day.</value>
-<value>Chronic iron toxicity. Usual MAX dose: 40 mg/kg/day administered 5 to 7 days weekly.</value>
-<value>Chronic iron toxicity. Usual MAX dose: 60 mg/kg/day administered 5 to 7 days weekly.</value>
-<value>Chronic iron toxicity. MAX dose: 2 g/day administered 3 to 7 days weekly.</value>
-<value>Acute iron intoxication. MAX dose: 80 mg/kg, depending on severity of poisoning. Continue treatment as long as patient remains symptomatic and/or urine colored, up to a MAX of 24 hours.</value>
 <value>Acute iron intoxication. Initial dose up to a MAXIMUM of 2 g/dose.</value>
 <value>Acute iron intoxication. Manufacturer-specified MAX dose is 6 g/24 hours, but higher doses often required. Doses of 16 g/day have been tolerated.</value>
+<value>Chronic Aluminum Overload: Continuous ambulatory or cyclic peritoneal dialysis patients with ESRF. 3 month treatment, after a 4 week washout period, repeat deferoxamine test.</value>
+<value>Chronic iron toxicity. Usual MAX dose: 40 mg/kg/day administered 5 to 7 days weekly.</value>
+<value>Chronic iron toxicity. Usual MAX dose: 60 mg/kg/day administered 5 to 7 days weekly.</value>
+<value>Acute iron intoxication. MAX dose: 80 mg/kg, depending on severity of poisoning. Continue treatment as long as patient remains symptomatic and/or urine colored, up to a MAX of 24 hours.</value>
 <value>Chronic Iron Overload. Individualize dose according to serum ferritin levels and 24 hour urinary iron excretion.</value>
 <value>Hemodialysis-Chronic Aluminum Overload in patients with ESRF</value>
-<value>Chronic Aluminum Overload: Continuous ambulatory or cyclic peritoneal dialysis patients with ESRF. 3 month treatment, after a 4 week washout period, repeat deferoxamine test.</value>
+<value>Chronic iron toxicity. MAX dose: 2 g/day administered 3 to 7 days weekly.</value>
 </AdditionalNotes>
 <BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=772</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Heavy Metal Antagonists</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

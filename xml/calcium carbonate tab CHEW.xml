@@ -1,12 +1,18 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "calcium carbonate tab CHEW">
-<dose><value>750</value>
+<dose><value>1000</value>
+<value>500</value>
+<value>750</value>
 </dose>
 <route><value>PO</value>
 </route>
-<strength><value>750 mg</value>
+<strength><value>1000 mg</value>
+<value>500 mg</value>
+<value>750 mg</value>
 </strength>
 <frequency><value>DAILY</value>
+<value>TID</value>
 <value>BID</value>
+<value>QID</value>
 <value>HS</value>
 </frequency>
 <instruction><value>Administer with lunch.</value>
@@ -20,6 +26,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antacids and Adsorbents</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

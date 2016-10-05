@@ -18,6 +18,9 @@
 <BackgroundInformation><value>17 g is approximately equal to one heaping tablespoon of powder.</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Cathartics and Laxatives</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

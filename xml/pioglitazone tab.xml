@@ -20,6 +20,10 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
-<HighAlert></HighAlert>
+<AHSFormularyStatus><value>Formulary with Restrictions.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antidiabetic Agents, Thiazolidinediones</value>
+</AHFSName>
+<HighAlert><value>YES</value>
+</HighAlert>
 </drug>

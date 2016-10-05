@@ -5,8 +5,8 @@
 </route>
 <strength><value>153.8 mg/mL</value>
 </strength>
-<frequency><value>BID</value>
-<value>TID</value>
+<frequency><value>TID</value>
+<value>BID</value>
 </frequency>
 <instruction></instruction>
 <volume><value>150 mL</value>
@@ -18,8 +18,12 @@
 <IndicationPRN></IndicationPRN>
 <AdditionalNotes><value>20 mg/mL of elemental calcium</value>
 </AdditionalNotes>
-<BackgroundInformation></BackgroundInformation>
+<BackgroundInformation><value>Contains sucralose.</value>
+</BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Replacement Preparations</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

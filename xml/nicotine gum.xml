@@ -1,9 +1,11 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "nicotine gum">
-<dose><value>4</value>
+<dose><value>2</value>
+<value>4</value>
 </dose>
 <route><value>BUCCAL</value>
 </route>
-<strength><value>4 mg</value>
+<strength><value>2 mg</value>
+<value>4 mg</value>
 </strength>
 <frequency><value>Q1H</value>
 <value>Q2H</value>
@@ -20,7 +22,10 @@
 <Population></Population>
 <IndicationPRN><value>Smoking cessation</value>
 </IndicationPRN>
-<AdditionalNotes><value>FIRST MONTH. Approximately one piece per hour is common for a pack a day smoker. Recommend 4 mg gum for patients with a score of 7 or greater using the Fagerstrom nicotine tolerance scale OR for patients who have cravings while using the 2 mg strength gum.</value>
+<AdditionalNotes><value>FIRST MONTH. Approximately one piece per hour is common for a pack a day smoker. Recommend 2 mg gum for patients with a score of 6 or less using the Fagerstrom nicotine tolerance scale.</value>
+<value>SECOND MONTH. Recommend 2 mg gum for patients with a score of 6 or less using the fagerstrom nicotine tolerance scale.</value>
+<value>THIRD MONTH. Recommend 2 mg gum for patients with a score of 6 or less using the fagerstrom nicotine tolerance scale.</value>
+<value>FIRST MONTH. Approximately one piece per hour is common for a pack a day smoker. Recommend 4 mg gum for patients with a score of 7 or greater using the Fagerstrom nicotine tolerance scale OR for patients who have cravings while using the 2 mg strength gum.</value>
 <value>SECOND MONTH. Recommend 4 mg gum for patients with a score of 7 or greater using the fagerstrom nicotine tolerance scale or for patients who have cravings while using the 2 mg strength gum.</value>
 <value>THIRD MONTH. Recommend 4 mg gum for patients with a score of 7 or greater using the fagerstrom nicotine tolerance scale or for patients who have cravings while using the 2 mg strength gum.</value>
 </AdditionalNotes>
@@ -28,6 +33,9 @@
 </BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Autonomic Drugs, Miscellaneous</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

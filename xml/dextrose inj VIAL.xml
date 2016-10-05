@@ -3,7 +3,7 @@
 </dose>
 <route><value>IV</value>
 </route>
-<strength><value>0.5</value>
+<strength><value>50%</value>
 </strength>
 <frequency><value>STAT</value>
 <value>ONCE</value>
@@ -20,7 +20,10 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
-<HighAlert><value>HIGH ALERT MEDICATION</value>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Caloric Agents</value>
+</AHFSName>
+<HighAlert><value>YES</value>
 </HighAlert>
 </drug>

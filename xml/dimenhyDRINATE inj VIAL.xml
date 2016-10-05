@@ -3,8 +3,8 @@
 <value>50</value>
 <value>100</value>
 </dose>
-<route><value>IV</value>
-<value>IM</value>
+<route><value>IM</value>
+<value>IV</value>
 </route>
 <strength><value>50 mg/mL</value>
 </strength>
@@ -23,6 +23,9 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antiemetics, Antihistamines</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

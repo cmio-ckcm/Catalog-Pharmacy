@@ -1,14 +1,14 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "calcium chloride inj VIAL">
-<dose><value>5</value>
-<value>10</value>
-<value>500</value>
+<dose><value>10</value>
 <value>1000</value>
+<value>5</value>
+<value>500</value>
 <value>2000</value>
 </dose>
-<route><value>IV </value>
-<value>IV</value>
+<route><value>IV</value>
+<value>IV </value>
 </route>
-<strength><value>0.1</value>
+<strength><value>100 mg/mL</value>
 </strength>
 <frequency><value>ONCE</value>
 </frequency>
@@ -30,8 +30,10 @@
 </BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus><value>FR</value>
+<AHSFormularyStatus><value>Formulary with Restrictions.</value>
 </AHSFormularyStatus>
-<HighAlert><value>HIGH ALERT MEDICATION</value>
+<AHFSName><value>Replacement Preparations</value>
+</AHFSName>
+<HighAlert><value>YES</value>
 </HighAlert>
 </drug>

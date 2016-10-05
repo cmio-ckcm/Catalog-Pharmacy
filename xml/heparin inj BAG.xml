@@ -6,14 +6,17 @@
 </dose>
 <route><value>IV</value>
 </route>
-<strength><value>50 unit/mL</value>
+<strength><value>100 unit/mL</value>
+<value>2 unit/mL</value>
+<value>50 unit/mL</value>
 </strength>
 <frequency><value>ONCE</value>
 <value>CONTINUOUS</value>
 </frequency>
 <instruction><value>Administer by continuous infusion.</value>
 </instruction>
-<volume><value>500 mL</value>
+<volume><value>250 mL</value>
+<value>500 mL</value>
 </volume>
 <units><value>unit</value>
 <value>unit/kg/hour</value>
@@ -25,8 +28,13 @@
 <value>DVT/PE weight-adjusted protocol bolus dose. Maximum dose 10,000 unit.</value>
 <value>DVT/PE weight-adjusted protocol maintenance infusion. Maximum rate: 1,600 unit/hour.</value>
 </AdditionalNotes>
-<BackgroundInformation></BackgroundInformation>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1548</value>
+</BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
-<HighAlert></HighAlert>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antithrombotic Agents, Anticoagulants</value>
+</AHFSName>
+<HighAlert><value>YES</value>
+</HighAlert>
 </drug>

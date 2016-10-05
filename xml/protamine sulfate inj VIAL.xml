@@ -63,6 +63,9 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antihemorrhagic Agents, Antiheparin Agents</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

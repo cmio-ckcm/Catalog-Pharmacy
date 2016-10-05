@@ -1,17 +1,27 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "methadone tab">
-<dose><value>25</value>
+<dose><value>1</value>
+<value>2</value>
+<value>3</value>
+<value>4</value>
+<value>10</value>
+<value>20</value>
+<value>30</value>
+<value>40</value>
+<value>25</value>
 <value>50</value>
 <value>5</value>
 <value>15</value>
 </dose>
 <route><value>PO</value>
 </route>
-<strength><value>25 mg</value>
+<strength><value>1 mg</value>
+<value>10 mg</value>
+<value>25 mg</value>
 <value>5 mg</value>
 </strength>
-<frequency><value>Q8H</value>
+<frequency><value>Q6H</value>
+<value>Q8H</value>
 <value>Q12H</value>
-<value>Q6H</value>
 </frequency>
 <instruction></instruction>
 <volume></volume>
@@ -23,6 +33,10 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
-<HighAlert></HighAlert>
+<AHSFormularyStatus><value>Formulary with Restrictions.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Analgesics and Antipyretics, Opiate Agonists</value>
+</AHFSName>
+<HighAlert><value>YES</value>
+</HighAlert>
 </drug>

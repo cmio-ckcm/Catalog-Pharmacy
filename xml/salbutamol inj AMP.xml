@@ -1,10 +1,10 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "salbutamol inj AMP">
 <dose><value>0.1 - 0.4</value>
 <value>4</value>
-<value>10</value>
 <value>0.2 - 10</value>
 <value>250</value>
 <value>5 - 20</value>
+<value>10</value>
 </dose>
 <route><value>IV</value>
 <value>IV </value>
@@ -39,7 +39,10 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
-<HighAlert><value>HIGH ALERT MEDICATION</value>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Sympathomimetic (Adrenergic) Agents, beta-Adrenergic Agonists</value>
+</AHFSName>
+<HighAlert><value>YES</value>
 </HighAlert>
 </drug>

@@ -5,7 +5,9 @@
 </dose>
 <route><value>IV</value>
 </route>
-<strength><value>500 mg</value>
+<strength><value>1 g</value>
+<value>2 g</value>
+<value>500 mg</value>
 </strength>
 <frequency><value>Q6H</value>
 <value>Q4H</value>
@@ -20,6 +22,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antibacterials, Penicillins</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

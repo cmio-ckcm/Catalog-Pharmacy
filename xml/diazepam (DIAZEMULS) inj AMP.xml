@@ -1,0 +1,34 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "diazepam (DIAZEMULS) inj AMP">
+<dose><value>2</value>
+<value>5</value>
+<value>10</value>
+</dose>
+<route><value>IM</value>
+<value>IV</value>
+<value>IV </value>
+</route>
+<strength><value>5 mg/mL</value>
+</strength>
+<frequency><value>ONCE</value>
+<value>Q3H</value>
+<value>Q4H</value>
+</frequency>
+<instruction><value>Administer 30 minutes pre-procedure.</value>
+</instruction>
+<volume><value>2 mL</value>
+</volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Administer at a maximum rate of 5 mg/minute.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus><value>Discontinued.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Anxiolytics, Sedatives, and Hypnotics, Benzodiazepines</value>
+</AHFSName>
+<HighAlert></HighAlert>
+</drug>

@@ -20,6 +20,9 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Not a pharmacy product.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Tuberculosis</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

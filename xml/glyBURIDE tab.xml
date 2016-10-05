@@ -20,6 +20,10 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
-<HighAlert></HighAlert>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antidiabetic Agents, Sulfonylureas</value>
+</AHFSName>
+<HighAlert><value>YES</value>
+</HighAlert>
 </drug>

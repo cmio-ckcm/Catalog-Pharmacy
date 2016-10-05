@@ -8,10 +8,10 @@
 <value>50</value>
 </dose>
 <route><value>IV</value>
-<value>INTRAOSSEUS</value>
+<value>INTRAOSSEOUS</value>
 </route>
-<strength><value>0.042</value>
-<value>0.084</value>
+<strength><value>4.2%</value>
+<value>8.4%</value>
 </strength>
 <frequency><value>ONCE</value>
 <value>CONTINUOUS</value>
@@ -46,8 +46,8 @@
 <IndicationPRN></IndicationPRN>
 <AdditionalNotes><value>Cardiac Arrest / Resuscitation.</value>
 <value>Metabolic Acidosis</value>
-<value>Cardiac Arrest.</value>
 <value>If unable to establish adequate IV access during cardiac arrest.</value>
+<value>Cardiac Arrest.</value>
 <value>Hyperkalemia</value>
 <value>Urinary alkalinization</value>
 <value>Contrast-Induced nephrotoxicity</value>
@@ -56,6 +56,9 @@
 </BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Alkalinizing Agents</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

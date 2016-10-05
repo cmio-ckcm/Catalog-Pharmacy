@@ -4,7 +4,7 @@
 </dose>
 <route><value>IV</value>
 </route>
-<strength><value>0.1</value>
+<strength><value>10%</value>
 </strength>
 <frequency><value>ONCE</value>
 </frequency>
@@ -23,6 +23,9 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Replacement Preparations</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

@@ -10,14 +10,16 @@
 </frequency>
 <instruction></instruction>
 <volume></volume>
-<units><value>CAP</value>
+<units><value>cap</value>
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>NF</value>
+<AHSFormularyStatus><value>Non-Formulary.</value>
 </AHSFormularyStatus>
+<AHFSName><value>Antidiarrhea Agents</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

@@ -26,6 +26,9 @@
 <BackgroundInformation><value>Recommended dosing for children aged 2 to 12 years.</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Psychotherapeutic Agents, Antipsychotics</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

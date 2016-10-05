@@ -1,15 +1,21 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "acetylsalicylic acid tab EC">
-<dose><value>81</value>
+<dose><value>325</value>
+<value>650</value>
+<value>81</value>
 <value>162</value>
 </dose>
 <route><value>PO</value>
 </route>
-<strength><value>81 mg</value>
+<strength><value>325 mg</value>
+<value>650 mg</value>
+<value>81 mg</value>
 </strength>
 <frequency><value>DAILY</value>
+<value>BID</value>
+<value>NOW</value>
+<value>QID</value>
 <value>LUNCH</value>
 <value>HS</value>
-<value>NOW</value>
 </frequency>
 <instruction></instruction>
 <volume></volume>
@@ -17,10 +23,13 @@
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
-<AdditionalNotes></AdditionalNotes>
+<AdditionalNotes><value>Do not use in patients during last trimester of pregnancy or are  breastfeeding. Recommend use of alternative agents in children less than 18 years of age with chicken pox, cold or flu symptoms to prevent occurrence of Reye&amp;apos;s syndrome</value>
+</AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>F</value>
+<AHSFormularyStatus><value>Formulary.</value>
 </AHSFormularyStatus>
+<AHFSName><value>Analgesics and Antipyretics, Nonsteroidal Anti-inflammatory Agents</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

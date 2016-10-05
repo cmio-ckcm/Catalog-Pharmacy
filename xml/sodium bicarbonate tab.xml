@@ -40,6 +40,9 @@
 </BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Alkalinizing Agents</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

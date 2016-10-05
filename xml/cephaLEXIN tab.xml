@@ -1,17 +1,21 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "cephaLEXIN tab">
-<dose><value>500</value>
+<dose><value>250</value>
+<value>500</value>
 </dose>
 <route><value>PO</value>
 </route>
-<strength><value>500 mg</value>
+<strength><value>250 mg</value>
+<value>500 mg</value>
 </strength>
-<frequency><value>BID</value>
+<frequency><value>QID</value>
 <value>TID</value>
-<value>QID</value>
+<value>BID</value>
 <value>Q6H</value>
 <value>Q8H</value>
 </frequency>
-<instruction></instruction>
+<instruction><value>QIDE</value>
+<value>TIDE</value>
+</instruction>
 <volume></volume>
 <units><value>mg</value>
 </units>
@@ -20,6 +24,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary with Usage guidelines.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antibacterials, Cephalosporins</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

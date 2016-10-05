@@ -20,7 +20,9 @@
 <BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1056</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>FGSAP</value>
+<AHSFormularyStatus><value>Formulary with Usage guidelines. Health Canada Special Access Programme.</value>
 </AHSFormularyStatus>
+<AHFSName><value>Uricosuric Agents</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

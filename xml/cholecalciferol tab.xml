@@ -6,7 +6,7 @@
 </dose>
 <route><value>PO</value>
 </route>
-<strength><value>1 000 unit</value>
+<strength><value>1000 unit</value>
 <value>400 unit</value>
 </strength>
 <frequency><value>DAILY</value>
@@ -23,6 +23,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Vitamin D</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

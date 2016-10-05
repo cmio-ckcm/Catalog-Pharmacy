@@ -2,7 +2,7 @@
 <dose></dose>
 <route><value>TOP</value>
 </route>
-<strength><value>0.15</value>
+<strength><value>15%</value>
 </strength>
 <frequency><value>ONCE</value>
 </frequency>
@@ -16,6 +16,9 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Not a pharmacy product_pending DTC decision.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Skin and Mucous Membrane Agents, Emollients, Demulcents, and Protectants</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

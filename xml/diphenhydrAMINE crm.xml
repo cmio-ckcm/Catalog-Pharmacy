@@ -2,7 +2,7 @@
 <dose></dose>
 <route><value>TOP</value>
 </route>
-<strength><value>0.02</value>
+<strength><value>2%</value>
 </strength>
 <frequency><value>TID</value>
 <value>QID</value>
@@ -21,6 +21,9 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Skin and Mucous Membrane Agents, Anti-infectives</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

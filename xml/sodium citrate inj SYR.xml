@@ -4,7 +4,7 @@
 </dose>
 <route><value>IV</value>
 </route>
-<strength><value>0.04</value>
+<strength><value>4%</value>
 </strength>
 <frequency><value>ONCE</value>
 </frequency>
@@ -18,6 +18,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary_pending DTC decision.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antithrombotic Agents, Anticoagulants</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

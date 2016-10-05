@@ -19,6 +19,9 @@
 <BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2055</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary, Health Canada Special Access Programme.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Sclerosing Agents</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

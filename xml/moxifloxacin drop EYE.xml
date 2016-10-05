@@ -3,7 +3,7 @@
 </dose>
 <route><value>OPHTH</value>
 </route>
-<strength><value>0.005</value>
+<strength><value>0.5%</value>
 </strength>
 <frequency><value>TID </value>
 <value>TID</value>
@@ -12,15 +12,19 @@
 <value>Instill into RIGHT eye.</value>
 <value>Instill into affected eye(s).</value>
 </instruction>
-<volume><value>1 mL</value>
+<volume><value>3 mL</value>
 </volume>
 <units><value>gtt</value>
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
 <AdditionalNotes></AdditionalNotes>
-<BackgroundInformation></BackgroundInformation>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2911</value>
+</BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary with Usage guidelines.</value>
+</AHSFormularyStatus>
+<AHFSName><value>EENT Drugs, Anti-infectives, Antibacterials</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

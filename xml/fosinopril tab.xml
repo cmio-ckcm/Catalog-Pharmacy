@@ -18,6 +18,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Renin-Angiotensin-Aldosterone System Inhibitors, Angiotensin-Converting Enzyme Inhibitors</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

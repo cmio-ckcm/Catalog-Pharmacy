@@ -6,8 +6,8 @@
 <value>0.5</value>
 <value>1</value>
 </dose>
-<route><value>IV</value>
-<value>IM</value>
+<route><value>IM</value>
+<value>IV</value>
 <value>SC</value>
 </route>
 <strength><value>10 mg/mL</value>
@@ -44,6 +44,9 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary with Therapeutic Interchange.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antiulcer Agents and Acid Suppressants, Histamine H2-Antagonists</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

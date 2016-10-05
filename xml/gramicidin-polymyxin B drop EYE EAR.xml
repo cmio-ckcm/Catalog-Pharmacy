@@ -24,7 +24,7 @@
 <value>Instill into affected ear(s).</value>
 <value>Instill into BOTH ears.</value>
 </instruction>
-<volume><value>10 mL</value>
+<volume><value>15 mL</value>
 </volume>
 <units><value>gtt</value>
 </units>
@@ -33,6 +33,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>EENT Drugs, Anti-infectives, Anti-infectives, Miscellaneous</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

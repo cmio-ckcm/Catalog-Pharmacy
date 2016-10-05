@@ -4,7 +4,8 @@
 </dose>
 <route><value>PO</value>
 </route>
-<strength><value>4 mg/mL</value>
+<strength><value>1 mg/mL</value>
+<value>4 mg/mL</value>
 </strength>
 <frequency><value>BID</value>
 <value>TID</value>
@@ -23,11 +24,16 @@
 <Population><value>CHILDREN</value>
 </Population>
 <IndicationPRN></IndicationPRN>
-<AdditionalNotes><value>NOT FOR USE IN NEONATES LESS THAN OR EQUAL TO 28 DAYS CORRECTED AGE. FOR NEONATES GREATER THAN 28 DAYS, CHECK WITH PHYSICIAN REGARDING PROPYLENE GLYCOL COMPONENT.</value>
+<AdditionalNotes><value>CHILDREN: Hypertension initial dosing</value>
+<value>CHILDREN: Hypertension maintenance dosing</value>
+<value>NOT FOR USE IN NEONATES LESS THAN OR EQUAL TO 28 DAYS CORRECTED AGE. FOR NEONATES GREATER THAN 28 DAYS, CHECK WITH PHYSICIAN REGARDING PROPYLENE GLYCOL COMPONENT.</value>
 </AdditionalNotes>
 <BackgroundInformation><value>CHILDREN: Hypertension initial dosing</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Hypotensive Agents, Direct Vasodilators</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

@@ -1,6 +1,6 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "epiNEPHrine hydrochloride liq TOP">
 <dose></dose>
-<route><value>TOPICAL</value>
+<route><value>TOP </value>
 </route>
 <strength><value>1 mg/mL</value>
 </strength>
@@ -20,6 +20,9 @@
 </BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>EENT Drugs, Vasoconstrictors, </value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "xylometazoline spray NAS">
+<dose><value>1 - 2</value>
+</dose>
+<route><value>NASAL</value>
+</route>
+<strength><value>0.05%</value>
+<value>0.1%</value>
+</strength>
+<frequency><value>Q8H</value>
+<value>Q10H</value>
+</frequency>
+<instruction><value>Administer into each nostril.</value>
+</instruction>
+<volume></volume>
+<units><value>spray</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>EENT Drugs, Vasoconstrictors, </value>
+</AHFSName>
+<HighAlert></HighAlert>
+</drug>

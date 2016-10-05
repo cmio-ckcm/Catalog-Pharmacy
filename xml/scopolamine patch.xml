@@ -12,13 +12,16 @@
 <value>Apply patch to hairless area behind ear the night before surgery and remove 24 hours post-surgery.</value>
 </instruction>
 <volume></volume>
-<units><value>PATCH</value>
+<units><value>patch</value>
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Anticholinergic Agents, Antimuscarinics/Antispasmodics</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

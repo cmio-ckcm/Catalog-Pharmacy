@@ -1,8 +1,8 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "dimethyl sulfoxide liq TOP">
 <dose></dose>
-<route><value>TOPICAL</value>
+<route><value>TOP </value>
 </route>
-<strength><value>0.99</value>
+<strength><value>99%</value>
 </strength>
 <frequency><value>TID</value>
 </frequency>
@@ -16,6 +16,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Other Miscellaneous Therapeutic Agents</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

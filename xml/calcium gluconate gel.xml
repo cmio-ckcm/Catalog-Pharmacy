@@ -1,8 +1,8 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "calcium gluconate gel">
 <dose></dose>
-<route><value>TOPICAL</value>
+<route><value>TOP </value>
 </route>
-<strength><value>0.025</value>
+<strength><value>2.5%</value>
 </strength>
 <frequency><value>Apply generously to affected area and massage into skin.</value>
 </frequency>
@@ -17,6 +17,9 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Skin and Mucous Membrane Agents, Miscellaneous</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

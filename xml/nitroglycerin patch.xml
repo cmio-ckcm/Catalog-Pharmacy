@@ -3,7 +3,9 @@
 </dose>
 <route><value>TOP</value>
 </route>
-<strength><value>0.6 mg/hour</value>
+<strength><value>0.2 mg/hour</value>
+<value>0.4 mg/hour</value>
+<value>0.6 mg/hour</value>
 <value>0.8 mg/hour</value>
 </strength>
 <frequency><value>DAILY</value>
@@ -12,7 +14,7 @@
 <value>REMOVE Nitroglycerin patch.</value>
 </instruction>
 <volume></volume>
-<units><value>PATCH</value>
+<units><value>patch</value>
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
@@ -20,6 +22,9 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Vasodilating Agents, Nitrates and Nitrites</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

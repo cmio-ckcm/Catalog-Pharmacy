@@ -1,7 +1,7 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "psyllium mucilloid powder">
-<dose><value>3</value>
-<value>4.5</value>
-<value>1</value>
+<dose><value>15</value>
+<value>20</value>
+<value>5</value>
 </dose>
 <route><value>PO</value>
 </route>
@@ -12,7 +12,7 @@
 </frequency>
 <instruction></instruction>
 <volume></volume>
-<units><value>TEASPOONSFUL</value>
+<units><value>g</value>
 </units>
 <Population></Population>
 <IndicationPRN><value>Constipation</value>
@@ -21,6 +21,9 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Cathartics and Laxatives</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

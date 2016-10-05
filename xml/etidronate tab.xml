@@ -13,9 +13,13 @@
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
-<AdditionalNotes></AdditionalNotes>
+<AdditionalNotes><value>The benefits of bisphosphonate drugs in preventing fractures associated with osteoporosis outweigh the risk of an atypical femur fracture (Health Canada; December 19, 2011)</value>
+</AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Bone Resorption Inhibitors</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

@@ -1,15 +1,19 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "pyridoxine tab">
-<dose><value>25</value>
+<dose><value>100</value>
+<value>200</value>
+<value>300</value>
+<value>25</value>
 <value>50</value>
 </dose>
 <route><value>PO</value>
 </route>
-<strength><value>25 mg</value>
+<strength><value>100 mg</value>
+<value>25 mg</value>
 <value>50 mg</value>
 </strength>
-<frequency><value>HS</value>
-<value>DAILY</value>
+<frequency><value>DAILY</value>
 <value>BID</value>
+<value>HS</value>
 </frequency>
 <instruction></instruction>
 <volume></volume>
@@ -20,6 +24,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Vitamin B Complex</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

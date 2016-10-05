@@ -21,6 +21,9 @@
 <value>200 mg  = 20 mL</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Non-Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antifungals, Azoles</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

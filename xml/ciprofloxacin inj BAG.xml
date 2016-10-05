@@ -20,6 +20,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary with Restrictions, Usage guidelines, Therapeutic Interchange_pending DTC decision.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antibacterials, Quinolones</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

@@ -12,7 +12,7 @@
 <instruction><value>for cigarette smoking urge.</value>
 </instruction>
 <volume></volume>
-<units><value>SPRAY</value>
+<units><value>spray</value>
 </units>
 <Population></Population>
 <IndicationPRN><value>Smoking cessation</value>
@@ -21,6 +21,9 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Autonomic Drugs, Miscellaneous</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

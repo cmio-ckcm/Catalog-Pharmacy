@@ -1,0 +1,31 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "magnesium tab">
+<dose><value>100</value>
+<value>200</value>
+<value>250</value>
+<value>50</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>100 mg</value>
+<value>250 mg</value>
+<value>50 mg</value>
+</strength>
+<frequency><value>DAILY</value>
+<value>BID</value>
+<value>TID</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Replacement Preparations</value>
+</AHFSName>
+<HighAlert></HighAlert>
+</drug>

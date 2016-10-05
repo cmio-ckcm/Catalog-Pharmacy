@@ -10,8 +10,10 @@
 <frequency><value>DAILY</value>
 <value>HS</value>
 <value>ONCE</value>
+<value>BID</value>
 </frequency>
-<instruction></instruction>
+<instruction><value>Administer in the morning and evening.</value>
+</instruction>
 <volume></volume>
 <units><value>mg</value>
 </units>
@@ -21,6 +23,10 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Non-Formulary.</value>
+<value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Second Generation Antihistamines</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

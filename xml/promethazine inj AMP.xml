@@ -33,8 +33,10 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus><value>DC</value>
+<AHSFormularyStatus><value>Discontinued.</value>
 </AHSFormularyStatus>
-<HighAlert><value>HIGH ALERT MEDICATION</value>
+<AHFSName><value>First Generation Antihistamines</value>
+</AHFSName>
+<HighAlert><value>YES</value>
 </HighAlert>
 </drug>

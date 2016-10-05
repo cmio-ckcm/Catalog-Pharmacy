@@ -1,25 +1,25 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "isoproterenol inj VIAL">
-<dose><value>2 - 10</value>
-<value>20</value>
+<dose><value>20</value>
+<value>2 - 10</value>
 <value>0.05 - 0.2</value>
 <value>0.01 - 0.02</value>
 <value>0.01 - 2</value>
 </dose>
-<route><value>IV</value>
-<value>INTRA-CARDIAC</value>
+<route><value>INTRA-CARDIAC</value>
+<value>IV</value>
 </route>
 <strength><value>0.2 mg/mL</value>
 </strength>
-<frequency><value>CONTINUOUS</value>
-<value>ONCE</value>
+<frequency><value>ONCE</value>
+<value>CONTINUOUS</value>
 </frequency>
 <instruction><value>Administer by continuous infusion. Titrate to desired response.</value>
 <value>Administer by direct injection.</value>
 </instruction>
 <volume><value>1 mL</value>
 </volume>
-<units><value>mcg/minute</value>
-<value>mcg</value>
+<units><value>mcg</value>
+<value>mcg/minute</value>
 <value>mcg/kg/minute</value>
 <value>mg</value>
 </units>
@@ -33,7 +33,10 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
-<HighAlert><value>HIGH ALERT MEDICATION</value>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Sympathomimetic (Adrenergic) Agents, beta-Adrenergic Agonists</value>
+</AHFSName>
+<HighAlert><value>YES</value>
 </HighAlert>
 </drug>

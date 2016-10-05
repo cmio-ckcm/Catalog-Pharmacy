@@ -2,8 +2,8 @@
 <dose><value>0.1 - 0.2</value>
 <value>0.1 - 0.3</value>
 <value>2.5 - 5</value>
-<value>1 - 5</value>
 <value>5 - 10</value>
+<value>1 - 5</value>
 </dose>
 <route><value>IV</value>
 <value>IV </value>
@@ -20,8 +20,8 @@
 </volume>
 <units><value>mg/kg/dose</value>
 <value>mg</value>
-<value>mcg/kg/minute</value>
 <value>mg/hour</value>
+<value>mcg/kg/minute</value>
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
@@ -34,6 +34,9 @@
 <value>In patients with hepatic cirrhosis, reduce dose to 20% to 50% of normal dose and monitor for abnormal PR prolongation or other adverse effects.</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Calcium-Channel Blocking Agents, Miscellaneous</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

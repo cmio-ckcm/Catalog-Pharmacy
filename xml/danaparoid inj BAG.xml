@@ -6,7 +6,8 @@
 </dose>
 <route><value>IV</value>
 </route>
-<strength><value>9 unit/mL</value>
+<strength><value>18 unit/mL</value>
+<value>9 unit/mL</value>
 </strength>
 <frequency><value>ONCE</value>
 <value>CONTINUOUS</value>
@@ -25,6 +26,10 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
-<HighAlert></HighAlert>
+<AHSFormularyStatus><value>Formulary with Restrictions.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antithrombotic Agents, Anticoagulants</value>
+</AHFSName>
+<HighAlert><value>YES</value>
+</HighAlert>
 </drug>

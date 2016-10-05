@@ -1,12 +1,12 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "fosphenytoin sodium inj VIAL">
-<dose><value>15 - 20</value>
-<value>10 - 20</value>
+<dose><value>10 - 20</value>
 <value>4 - 6</value>
 <value>4 - 8</value>
 <value>4 - 7</value>
+<value>15 - 20</value>
 </dose>
-<route><value>IV</value>
-<value>IM</value>
+<route><value>IM</value>
+<value>IV</value>
 </route>
 <strength><value>75 mg/mL</value>
 </strength>
@@ -30,13 +30,16 @@
 <value>INFANT / CHILDREN</value>
 </Population>
 <IndicationPRN></IndicationPRN>
-<AdditionalNotes><value>Status Epilepticus. 1.5 mg fosphenytoin sodium = 1 mg phenytoin sodium = 1 mg phenytoin Equivalent Units (PE).</value>
-<value>Nonemergent loading dose. 1.5 mg fosphenytoin sodium = 1 mg phenytoin sodium = 1 mg phenytoin Equivalent Units (PE).</value>
+<AdditionalNotes><value>Nonemergent loading dose. 1.5 mg fosphenytoin sodium = 1 mg phenytoin sodium = 1 mg phenytoin Equivalent Units (PE).</value>
 <value>Maintenance dose. 1.5 mg fosphenytoin sodium = 1 mg phenytoin sodium = 1 mg phenytoin Equivalent Units (PE).</value>
+<value>Status Epilepticus. 1.5 mg fosphenytoin sodium = 1 mg phenytoin sodium = 1 mg phenytoin Equivalent Units (PE).</value>
 </AdditionalNotes>
 <BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3627</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary with Restrictions.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Anticonvulsants, Hydantoins</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

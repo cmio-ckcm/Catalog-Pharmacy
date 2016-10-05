@@ -1,11 +1,14 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "5-aminosalicylic acid supp">
-<dose><value>500</value>
+<dose><value>1000</value>
+<value>500</value>
 </dose>
 <route><value>PR</value>
 </route>
-<strength><value>500 mg</value>
+<strength><value>1000 mg</value>
+<value>500 mg</value>
 </strength>
-<frequency><value>BID</value>
+<frequency><value>HS</value>
+<value>BID</value>
 <value>TID</value>
 </frequency>
 <instruction></instruction>
@@ -15,8 +18,12 @@
 <Population></Population>
 <IndicationPRN></IndicationPRN>
 <AdditionalNotes></AdditionalNotes>
-<BackgroundInformation></BackgroundInformation>
+<BackgroundInformation><value>Pentasa and Salofalk 1 g rectal suppositories are not interchangeable.</value>
+</BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Gastrointestinal Drugs, Anti-inflammatory Agents</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

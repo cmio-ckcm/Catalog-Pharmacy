@@ -6,7 +6,7 @@
 <value>800</value>
 </dose>
 <route><value>PO</value>
-<value>RECTAL</value>
+<value>PR </value>
 </route>
 <strength><value>100 mcg</value>
 <value>200 mcg</value>
@@ -27,6 +27,9 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antiulcer Agents and Acid Suppressants, Prostaglandins</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

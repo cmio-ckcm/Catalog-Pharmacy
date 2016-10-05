@@ -5,7 +5,7 @@
 </dose>
 <route><value>PR</value>
 </route>
-<strength><value>1</value>
+<strength><value>100%</value>
 </strength>
 <frequency><value>DAILY</value>
 </frequency>
@@ -24,6 +24,9 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Not a pharmacy product_pending DTC decision.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Cathartics and Laxatives</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

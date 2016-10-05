@@ -1,0 +1,30 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "lidocaine, liposomal crm">
+<dose><value>2.5</value>
+</dose>
+<route><value>TOP </value>
+</route>
+<strength><value>4%</value>
+</strength>
+<frequency><value>ONCE</value>
+<value>TID</value>
+<value>QID</value>
+<value>BID</value>
+</frequency>
+<instruction><value>Apply to affected area as a small mound.</value>
+<value>Apply to affected area.</value>
+</instruction>
+<volume></volume>
+<units><value>g</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Do not apply to mucous membranes, mouth, nose or eyes.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Skin and Mucous Membrane Agents, Antipruritics and Local Anesthetics</value>
+</AHFSName>
+<HighAlert></HighAlert>
+</drug>

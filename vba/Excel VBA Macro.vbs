@@ -1,5 +1,9 @@
+Option Explicit
+
 Function inArray(iArray, value)
 Dim found: found = False
+Dim i As Integer
+
 For i = 0 To UBound(iArray)
 If iArray(i) = value Then
 
@@ -13,7 +17,8 @@ End Function
 
 
 Function HTML_Encode(iString)
-  Dim i
+  Dim i As Integer
+  
   Dim tmp As String
   tmp = iString
  ' For i = 160 To 255
@@ -32,6 +37,8 @@ End Function
 
 Sub ExportToXML()
 
+Dim sModelDirectory As String
+Dim sHTMLDirectory As String
 
 Dim sh As Worksheet
 Dim rw As Range
@@ -40,7 +47,10 @@ Dim LastDrug, LastForm, CurrentDrug, CurrentForm, CurrentStrength, CurrentDose, 
 Dim CurrentInstruction, CurrentVolume, Currentunits As String
 Dim Currentroute As String
 
-Dim arraysize As Integer
+Dim objFSO_index, objFile_index As Variant
+Dim objFSO, objFile As Variant
+
+Dim arraysize, i As Integer
 
 
 Dim iDose As Integer
@@ -74,6 +84,7 @@ Dim unitss(50)
 iunits = 0
 
 
+Dim CurrentAdditionalNotes As String
 Dim iAdditionalNotes As Integer
 Dim AdditionalNotess(50)
 iAdditionalNotes = 0
@@ -109,16 +120,21 @@ Dim iAHSFormularyStatus As Integer
 Dim AHSFormularyStatuss(50)
 iAHSFormularyStatus = 0
 
+Dim CurrentAHFSName As String
+Dim iAHFSName As Integer
+Dim AHFSNames(50)
+iAHFSName = 0
+
 LastDrug = ""
 LastForm = ""
 
 RowCount = 0
 
+sModelDirectory = "D:\Catalog-Pharmacy\xml\"
+sHTMLDirectory = "D:\Catalog-Pharmacy\web\html\"
+
 Set objFSO_index = CreateObject("Scripting.FileSystemObject")
-indexFile = "c:\test\xml-models.html"
-Set objFile_index = objFSO_index.CreateTextFile(indexFile, True)
-
-
+Set objFile_index = objFSO_index.CreateTextFile(sHTMLDirectory + "xml-models.html", True)
 
 
 Set sh = ActiveSheet
@@ -126,44 +142,49 @@ For Each rw In sh.Rows
 
     LastDrug = CurrentDrug
     LastForm = CurrentForm
+    
+    ' column refs current at 4th oct 2016 [7b0f80733c13c81d0eeaf0623cb7971181b17001 github]
+   
     CurrentDrug = RTrim(sh.Cells(rw.Row, Range("E" & 1).Column).value)
-    CurrentForm = RTrim(sh.Cells(rw.Row, Range("L" & 1).Column).value)
+    CurrentForm = RTrim(sh.Cells(rw.Row, Range("O" & 1).Column).value)
     
+    If CurrentDrug = "tamoxifen" Then
+   '     MsgBox ("")
+    End If
         
-
+        
     
-    CurrentDose = HTML_Encode(sh.Cells(rw.Row, 15).value)
-    Currentroute = HTML_Encode(sh.Cells(rw.Row, 17).value)
-    CurrentStrength = HTML_Encode(sh.Cells(rw.Row, 10).value)
-    CurrentFrequency = HTML_Encode(sh.Cells(rw.Row, 18).value)
-    CurrentInstruction = HTML_Encode(sh.Cells(rw.Row, Range("U" & 1).Column).value)
-    CurrentVolume = HTML_Encode(sh.Cells(rw.Row, 11).value)
-    Currentunits = HTML_Encode(sh.Cells(rw.Row, 16).value)
-    CurrentAdditionalNotes = HTML_Encode(sh.Cells(rw.Row, 24).value)
-    CurrentPopulation = HTML_Encode(sh.Cells(rw.Row, 23).value)
-    CurrentIndicationPRN = HTML_Encode(sh.Cells(rw.Row, Range("T" & 1).Column).value)
-    CurrentBackgroundInformation = HTML_Encode(sh.Cells(rw.Row, 30).value)
-    CurrentPRNInformation = HTML_Encode(sh.Cells(rw.Row, 19).value)
-    CurrentAHSFormularyStatus = HTML_Encode(sh.Cells(rw.Row, 8).value)
-    CurrentHighAlert = HTML_Encode(sh.Cells(rw.Row, Range("AB" & 1).Column).value)
+    'TODO: Add in Maximum PRN Dose
+   
+    CurrentDose = HTML_Encode(sh.Cells(rw.Row, Range("S" & 1).Column).value)
+    Currentroute = HTML_Encode(sh.Cells(rw.Row, Range("U" & 1).Column).value)
+    CurrentStrength = HTML_Encode(sh.Cells(rw.Row, Range("M" & 1).Column).value)
+    CurrentFrequency = HTML_Encode(sh.Cells(rw.Row, Range("V" & 1).Column).value)
+    CurrentInstruction = HTML_Encode(sh.Cells(rw.Row, Range("Y" & 1).Column).value)
+    CurrentVolume = HTML_Encode(sh.Cells(rw.Row, Range("N" & 1).Column).value)
+    Currentunits = HTML_Encode(sh.Cells(rw.Row, Range("T" & 1).Column).value)
+    CurrentAdditionalNotes = HTML_Encode(sh.Cells(rw.Row, Range("AB" & 1).Column).value)
+    CurrentPopulation = HTML_Encode(sh.Cells(rw.Row, Range("AA" & 1).Column).value)
+    CurrentIndicationPRN = HTML_Encode(sh.Cells(rw.Row, Range("X" & 1).Column).value)
+    CurrentBackgroundInformation = HTML_Encode(sh.Cells(rw.Row, Range("AH" & 1).Column).value)
+    CurrentPRNInformation = HTML_Encode(sh.Cells(rw.Row, Range("W" & 1).Column).value)
+    CurrentAHSFormularyStatus = sh.Cells(rw.Row, Range("K" & 1).Column).value
+    CurrentAHSFormularyStatus = HTML_Encode(CurrentAHSFormularyStatus)
+    CurrentAHFSName = HTML_Encode(sh.Cells(rw.Row, Range("AL" & 1).Column).value)
+    CurrentHighAlert = HTML_Encode(sh.Cells(rw.Row, Range("AF" & 1).Column).value)
     
     If Not (CurrentDrug = LastDrug And CurrentForm = LastForm) And LastDrug <> "" Then 'new drugform
          ' write out last drug
          
         Set objFSO = CreateObject("Scripting.FileSystemObject")
         'outFile = "c:\test\" + Replace(LastDrug, "\", "") + " " + Replace(LastForm, "\", "") + ".xml"
-        outFile = "c:\test\" + Replace(LastDrug, "/", "") + " " + Replace(LastForm, "/", "") + ".xml"
-        Set objFile = objFSO.CreateTextFile(outFile, True)
 
-  '<tr>
-   ' <td>Berglunds snabbkop</td>
-  '</tr>
+        Set objFile = objFSO.CreateTextFile(sModelDirectory + Replace(LastDrug, "/", "") + " " + Replace(LastForm, "/", "") + ".xml", True)
+
         objFile_index.Write "<tr><td><a href=" + Chr(34) + "./" + Replace(LastDrug, "/", "") + " " + Replace(LastForm, "/", "") + ".xml" + Chr(34) + ">" + LastDrug + " " + LastForm + "</a><br></td></tr>" & vbCrLf ' link to model
-        
 
         objFile.Write "<?xml version=" + Chr(34) + "1.0" + Chr(34) + "?>"
         objFile.Write "<?xml-stylesheet type=" + Chr(34) + "text/xsl" + Chr(34) + " href=" + Chr(34) + "drug-table.xslt" + Chr(34) + "?>"
-        
         
         objFile.Write "<drug name = " + Chr(34) + LastDrug + " " + LastForm + Chr(34) + ">" & vbCrLf
         
@@ -274,6 +295,15 @@ For Each rw In sh.Rows
         iAHSFormularyStatus = 0
         Erase AHSFormularyStatuss
         
+        objFile.Write "<AHFSName>"
+        For i = 1 To iAHFSName
+           objFile.Write "<value>" & AHFSNames(i) & "</value>" & vbCrLf
+        Next
+        objFile.Write "</AHFSName>" & vbCrLf
+        iAHFSName = 0
+        Erase AHFSNames
+        
+        
         objFile.Write "<HighAlert>"
         For i = 1 To iHighAlert
            objFile.Write "<value>" & HighAlerts(i) & "</value>" & vbCrLf
@@ -383,6 +413,14 @@ For Each rw In sh.Rows
        AHSFormularyStatuss(iAHSFormularyStatus) = CurrentAHSFormularyStatus
     End If
 
+    
+    If Not (inArray(AHFSNames, CurrentAHFSName)) Then
+      
+       iAHFSName = iAHFSName + 1
+       AHFSNames(iAHFSName) = CurrentAHFSName
+    End If
+
+
     RowCount = RowCount + 1
     If CurrentDrug = "" Then Exit For
    ' If RowCount > 1000 Then Exit For
@@ -393,3 +431,5 @@ objFile_index.Close
 
 MsgBox (RowCount)
 End Sub
+
+

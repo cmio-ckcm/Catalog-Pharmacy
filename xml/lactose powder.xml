@@ -19,6 +19,9 @@
 <BackgroundInformation><value>Test may produce diarrhea and cramps.</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Intestinal Absorption</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

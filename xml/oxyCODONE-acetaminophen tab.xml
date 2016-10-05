@@ -16,7 +16,7 @@
 </frequency>
 <instruction></instruction>
 <volume></volume>
-<units><value>TAB</value>
+<units><value>tab</value>
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
@@ -24,6 +24,10 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
-<HighAlert></HighAlert>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Analgesics and Antipyretics, Opiate Agonists</value>
+</AHFSName>
+<HighAlert><value>YES</value>
+</HighAlert>
 </drug>

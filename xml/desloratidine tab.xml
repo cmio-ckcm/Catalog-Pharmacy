@@ -15,8 +15,12 @@
 <Population></Population>
 <IndicationPRN></IndicationPRN>
 <AdditionalNotes></AdditionalNotes>
-<BackgroundInformation></BackgroundInformation>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=128</value>
+</BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Non-Formulary with Therapeutic Interchange.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Second Generation Antihistamines</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

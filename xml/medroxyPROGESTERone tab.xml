@@ -1,10 +1,12 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "medroxyPROGESTERone tab">
-<dose><value>2.5</value>
+<dose><value>100</value>
+<value>2.5</value>
 <value>5</value>
 </dose>
 <route><value>PO</value>
 </route>
-<strength><value>2.5 mg</value>
+<strength><value>100 mg</value>
+<value>2.5 mg</value>
 <value>5 mg</value>
 </strength>
 <frequency><value>DAILY</value>
@@ -18,6 +20,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Progestins</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

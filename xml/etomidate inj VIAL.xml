@@ -38,7 +38,10 @@
 </BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
-<HighAlert><value>HIGH ALERT MEDICATION</value>
+<AHSFormularyStatus><value>Formulary, Health Canada Special Access Programme.</value>
+</AHSFormularyStatus>
+<AHFSName><value>General Anesthetics, Miscellaneous</value>
+</AHFSName>
+<HighAlert><value>YES</value>
 </HighAlert>
 </drug>

@@ -4,7 +4,7 @@
 <value>30</value>
 <value>40</value>
 </dose>
-<route><value>NASAL</value>
+<route><value>INTRANASAL</value>
 </route>
 <strength><value>10 mcg</value>
 </strength>
@@ -18,9 +18,13 @@
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
-<AdditionalNotes></AdditionalNotes>
+<AdditionalNotes><value>DDAVP spray is not indicated for use in children with Primary Nocturnal Enuresis.</value>
+</AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Pituitary</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "clarithromycin (long acting) tab ER">
+<dose><value>500</value>
+<value>1000</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>500 mg</value>
+</strength>
+<frequency><value>DAILY</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>with Food</value>
+<value>with Food.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>Formulary with Usage guidelines.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antibacterials, Macrolides</value>
+</AHFSName>
+<HighAlert></HighAlert>
+</drug>

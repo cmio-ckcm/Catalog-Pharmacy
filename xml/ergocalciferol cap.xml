@@ -1,6 +1,6 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "ergocalciferol cap">
-<dose><value>50000</value>
-<value>100000</value>
+<dose><value>50 000</value>
+<value>100 000</value>
 </dose>
 <route><value>PO</value>
 </route>
@@ -17,6 +17,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Vitamin D</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

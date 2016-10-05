@@ -29,6 +29,9 @@
 <value>CDA guidelines: 2015</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Caloric Agents</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

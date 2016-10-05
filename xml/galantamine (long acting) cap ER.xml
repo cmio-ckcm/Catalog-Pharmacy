@@ -1,0 +1,28 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "galantamine (long acting) cap ER">
+<dose><value>16</value>
+<value>24</value>
+<value>8</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>16 mg</value>
+<value>24 mg</value>
+<value>8 mg</value>
+</strength>
+<frequency><value>DAILY</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>Formulary with Restrictions.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Parasympathomimetic (Cholinergic) Agents</value>
+</AHFSName>
+<HighAlert></HighAlert>
+</drug>

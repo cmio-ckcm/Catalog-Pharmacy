@@ -10,7 +10,7 @@
 <instruction><value>Spray onto or under the tongue for relief of angina symptoms. May repeat dose twice at 5 (up to 10) minute intervals.</value>
 </instruction>
 <volume></volume>
-<units><value>dose</value>
+<units><value>spray</value>
 </units>
 <Population></Population>
 <IndicationPRN><value>Angina symptoms</value>
@@ -20,6 +20,9 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Vasodilating Agents, Nitrates and Nitrites</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

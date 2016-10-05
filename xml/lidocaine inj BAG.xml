@@ -2,9 +2,9 @@
 <dose><value>1 - 4</value>
 <value>30 - 50</value>
 <value>3 - 5 </value>
-<value>10</value>
 <value>10 - 50</value>
 <value>20 - 50</value>
+<value>10</value>
 </dose>
 <route><value>IV</value>
 <value>SC</value>
@@ -35,7 +35,10 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
-<HighAlert><value>HIGH ALERT MEDICATION</value>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Cardiac Drugs, Antiarrhythmic Agents</value>
+</AHFSName>
+<HighAlert><value>YES</value>
 </HighAlert>
 </drug>

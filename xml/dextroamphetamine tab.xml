@@ -20,6 +20,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Anorexigenic Agents and Respiratory and Cerebral Stimulants, Amphetamines</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

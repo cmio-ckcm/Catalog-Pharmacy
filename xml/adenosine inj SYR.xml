@@ -1,5 +1,6 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "adenosine inj SYR">
-<dose><value>12</value>
+<dose><value>6</value>
+<value>12</value>
 </dose>
 <route><value>IV</value>
 </route>
@@ -8,7 +9,8 @@
 <frequency><value>ONCE</value>
 </frequency>
 <instruction></instruction>
-<volume><value>4 mL</value>
+<volume><value>2 mL</value>
+<value>4 mL</value>
 </volume>
 <units><value>mg</value>
 </units>
@@ -17,8 +19,10 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>F</value>
+<AHSFormularyStatus><value>Formulary.</value>
 </AHSFormularyStatus>
-<HighAlert><value>HIGH ALERT MEDICATION</value>
+<AHFSName><value>Cardiac Drugs, Antiarrhythmic Agents</value>
+</AHFSName>
+<HighAlert><value>YES</value>
 </HighAlert>
 </drug>

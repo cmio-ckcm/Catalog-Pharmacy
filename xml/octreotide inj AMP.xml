@@ -1,8 +1,6 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "octreotide inj AMP">
 <dose><value>1 - 10</value>
 <value>10 - 40</value>
-<value>1 - 30</value>
-<value>1 - 1.5</value>
 <value>1 - 2</value>
 <value>1</value>
 <value>50</value>
@@ -12,31 +10,34 @@
 <value>200 - 300</value>
 <value>150 - 750</value>
 <value>50 - 100</value>
+<value>1 - 30</value>
+<value>1 - 1.5</value>
 <value>100</value>
 </dose>
 <route><value>IV</value>
 <value>SC</value>
 </route>
-<strength><value>50 mcg/mL</value>
+<strength><value>100 mcg/mL</value>
+<value>50 mcg/mL</value>
 </strength>
 <frequency><value>Q6H</value>
 <value>CONTINUOUS</value>
 <value>TID</value>
-<value>Q24H</value>
+<value>ONCE</value>
 <value>Q12H</value>
 <value>Q8H</value>
-<value>ONCE</value>
+<value>Q24H</value>
 </frequency>
 <instruction><value>Administer by continuous infusion. Titrate to desired effect.</value>
 <value>Administer daily calculated dose in 3 equally divided doses.</value>
+<value>Administer by continuous infusion. Titrate dose to response.</value>
 <value>Administer daily calculated dose in 2 equally divided doses.</value>
 <value>Administer daily calculated dose in 4 equally divided doses.</value>
-<value>may repeat dose in 6 hours as needed based upon blood glucose concentrations.</value>
-<value>may repeat dose in 12 hours as needed based upon blood glucose concentrations.</value>
-<value>Administer by continuous infusion. Titrate dose to response.</value>
 <value>Administer by direct injection.</value>
 <value>Administer by continuous infusion.</value>
 <value>based upon blood glucose concentrations.</value>
+<value>may repeat dose in 6 hours as needed based upon blood glucose concentrations.</value>
+<value>may repeat dose in 12 hours as needed based upon blood glucose concentrations.</value>
 <value>for 7 days. Initiate treatment on day of operation at least one hour pre-operatively.</value>
 </instruction>
 <volume><value>1 mL</value>
@@ -51,9 +52,6 @@
 </units>
 <Population><value>NEONATE: Hyperinsulinemic hypoglycemia</value>
 <value>NEONATE: Chylothorax.</value>
-<value>NEONATE: Diarrhea</value>
-<value>NEONATE: high output secretory diarrhea</value>
-<value>INFANT / CHILDREN: Treatment of Oral Hypoglycemic Overdose. </value>
 <value>INFANT / CHILDREN: GI Bleed / Esophageal Varices. </value>
 <value>INFANT / CHILDREN: Diarrhea</value>
 <value>ADULT: Acromegaly.</value>
@@ -61,6 +59,9 @@
 <value>ADULT: VIPoma</value>
 <value>ADULT: Bleeding Esophageal Varices</value>
 <value>ADULT: Hypoglycemia in Oral Hypoglycemic Poisoning.</value>
+<value>NEONATE: Diarrhea</value>
+<value>NEONATE: high output secretory diarrhea</value>
+<value>INFANT / CHILDREN: Treatment of Oral Hypoglycemic Overdose. </value>
 <value>ADULT: Prevention of complications following pancreatic surgery.</value>
 </Population>
 <IndicationPRN></IndicationPRN>
@@ -81,6 +82,9 @@
 </BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary with Restrictions, Usage guidelines.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Other Miscellaneous Therapeutic Agents</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

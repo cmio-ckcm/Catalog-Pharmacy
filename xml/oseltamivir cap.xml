@@ -1,9 +1,13 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "oseltamivir cap">
-<dose><value>75</value>
+<dose><value>30</value>
+<value>45</value>
+<value>75</value>
 </dose>
 <route><value>PO</value>
 </route>
-<strength><value>75 mg</value>
+<strength><value>30 mg</value>
+<value>45 mg</value>
+<value>75 mg</value>
 </strength>
 <frequency><value>DAILY</value>
 <value>BID</value>
@@ -20,6 +24,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary with Usage guidelines.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antivirals, Neuraminidase Inhibitors</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

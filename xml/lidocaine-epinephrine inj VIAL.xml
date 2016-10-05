@@ -1,19 +1,35 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "lidocaine-epinephrine inj VIAL">
-<dose><value>3 - 5</value>
-<value>60 - 100</value>
-<value>15 - 20</value>
+<dose><value>5</value>
+<value>50</value>
+<value>20 - 30</value>
+<value>200 - 300</value>
+<value>7</value>
+<value>1 - 40</value>
+<value>1 - 400</value>
+<value>2 - 5</value>
+<value>20 - 50</value>
+<value>3 - 5</value>
+<value>30 - 50</value>
+<value>10</value>
+<value>100</value>
+<value>40 - 50</value>
+<value>400 - 500</value>
+<value>30 - 40</value>
 <value>300 - 400</value>
 <value>3</value>
 <value>60</value>
 <value>15 - 25</value>
 <value>300 - 500</value>
 <value>10 - 15</value>
-<value>200 - 300</value>
+<value>60 - 100</value>
+<value>15 - 20</value>
 </dose>
-<route><value>INFILTRATION</value>
-<value>EPIDURAL</value>
+<route><value>EPIDURAL</value>
+<value>INFILTRATION</value>
 </route>
-<strength><value>2%-1:100 000</value>
+<strength><value>1%-1:100 000</value>
+<value>1%-1:200 000</value>
+<value>2%-1:100 000</value>
 <value>2%-1:200 000</value>
 </strength>
 <frequency><value>ONCE</value>
@@ -23,19 +39,33 @@
 </volume>
 <units><value>mL</value>
 <value>mg</value>
+<value>mg/kg</value>
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
-<AdditionalNotes><value>ADULT. Paravertebral (per segment) block.</value>
-<value>ADULT. Sciatic block.</value>
+<AdditionalNotes><value>ADULT. EPIDURAL. Dose includes &amp;quot;test&amp;quot; dose.</value>
+<value>ADULT. Caudal EPIDURAL. Dose includes &amp;quot;test&amp;quot; dose.</value>
+<value>INFANTS / CHILDREN</value>
+<value>Administer total dose slowly or in incremental doses.</value>
+<value>ADULT. Local infiltration. Administer total dose slowly or in incremental doses.</value>
+<value>ADULT. Intercostal (per nerve) block. Maximum total dose: 480 mg.</value>
+<value>ADULT. Paravertebral (per segment) block.</value>
+<value>ADULT. Pudendal (each side) block.</value>
+<value>ADULT. Brachial plexus (Axillary) block.</value>
+<value>ADULT. Brachial plexus (Supraclavicular interscalene and subclavian perivascular) block.</value>
+<value>ADULT. 3-in-1 (Femoral, obturator and lateral cutaneous) block.</value>
 <value>ADULT. EPIDURAL. TEST DOSE. Dose includes &amp;quot;test&amp;quot; dose.</value>
 <value>ADULT. Lumbar EPIDURAL. Dose includes &amp;quot;test&amp;quot; dose.</value>
 <value>ADULT. Thoracic EPIDURAL. Dose includes &amp;quot;test&amp;quot; dose.</value>
-<value>ADULT. Caudal EPIDURAL. Dose includes &amp;quot;test&amp;quot; dose.</value>
+<value>ADULT. Sciatic block.</value>
 </AdditionalNotes>
 <BackgroundInformation><value>Use cautiously in ischemic heart disease, cerebral vascular insufficiency and peripheral vascular disorders.</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
-<HighAlert></HighAlert>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Local Anesthetics</value>
+</AHFSName>
+<HighAlert><value>YES</value>
+</HighAlert>
 </drug>

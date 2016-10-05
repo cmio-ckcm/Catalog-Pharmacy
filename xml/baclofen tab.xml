@@ -25,6 +25,9 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>PRN</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Skeletal Muscle Relaxants, GABA-derivative Skeletal Muscle Relaxants</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

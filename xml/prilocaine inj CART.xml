@@ -4,7 +4,7 @@
 </dose>
 <route><value>INFILTRATION</value>
 </route>
-<strength><value>0.04</value>
+<strength><value>4%</value>
 </strength>
 <frequency><value>ONCE</value>
 </frequency>
@@ -21,6 +21,9 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Local Anesthetics</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

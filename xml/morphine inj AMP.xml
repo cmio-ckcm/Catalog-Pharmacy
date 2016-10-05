@@ -11,17 +11,16 @@
 <value>30</value>
 <value>40</value>
 <value>50</value>
-<value>100</value>
 <value>75</value>
+<value>100</value>
 <value>125</value>
 <value>150</value>
 <value>175</value>
 <value>200</value>
 </dose>
 <route><value>IM</value>
-<value>SC</value>
 <value>IV</value>
-<value>iv</value>
+<value>SC</value>
 </route>
 <strength><value>10 mg/mL</value>
 <value>15 mg/mL</value>
@@ -88,7 +87,10 @@
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
-<HighAlert><value>HIGH ALERT MEDICATION</value>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Analgesics and Antipyretics, Opiate Agonists</value>
+</AHFSName>
+<HighAlert><value>YES</value>
 </HighAlert>
 </drug>

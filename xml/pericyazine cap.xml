@@ -1,10 +1,15 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "pericyazine cap">
-<dose><value>5</value>
+<dose><value>10</value>
+<value>20</value>
+<value>30</value>
+<value>40</value>
+<value>5</value>
 <value>15</value>
 </dose>
 <route><value>PO</value>
 </route>
-<strength><value>5 mg</value>
+<strength><value>10 mg</value>
+<value>5 mg</value>
 </strength>
 <frequency><value>BID</value>
 <value>AM  </value>
@@ -21,6 +26,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Psychotherapeutic Agents, Antipsychotics</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

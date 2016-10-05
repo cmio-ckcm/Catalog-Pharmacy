@@ -24,14 +24,12 @@
 <IndicationPRN></IndicationPRN>
 <AdditionalNotes><value>Patients aged 3 months or older and weighing less than 30 kg. Dosing up to a MAXIMUM of 150 mg BID.</value>
 </AdditionalNotes>
-<BackgroundInformation><value>25 mg = 2.5 mL of 10mg/mL solution</value>
-<value>50 mg = 5 mL of 10mg/mL solution</value>
-<value>100 mg = 10 mL of 10 mg/mL solution</value>
-<value>35 mg = 3.5 mL of 10mg/mL solution</value>
-<value>15 mg = 1.5 mL of 10mg/mL solution</value>
-<value>10 mg = 1 mL of 10mg/mL solution</value>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3279</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary with Restrictions.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Antivirals, Antiretrovirals</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

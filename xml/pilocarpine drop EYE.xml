@@ -4,9 +4,9 @@
 </dose>
 <route><value>OPHTH</value>
 </route>
-<strength><value>0.01</value>
-<value>0.02</value>
-<value>0.04</value>
+<strength><value>1%</value>
+<value>2%</value>
+<value>4%</value>
 </strength>
 <frequency><value>BID</value>
 <value>TID</value>
@@ -25,6 +25,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>EENT Drugs, Antiglaucoma Agents, Miotics</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

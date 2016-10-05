@@ -4,7 +4,7 @@
 </dose>
 <route><value>TOP</value>
 </route>
-<strength><value>0.001</value>
+<strength><value>0.1%</value>
 </strength>
 <frequency><value>ONCE</value>
 <value>TID</value>
@@ -26,7 +26,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>NFTI</value>
+<AHSFormularyStatus><value>Non-Formulary with Therapeutic Interchange.</value>
 </AHSFormularyStatus>
+<AHFSName><value>EENT Drugs, Anti-inflammatory Agents, Nonsteroidal Anti-inflammatory Agents</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

@@ -19,8 +19,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>F </value>
-<value>F</value>
+<AHSFormularyStatus><value>Formulary.</value>
 </AHSFormularyStatus>
+<AHFSName><value>Sympatholytic (Adrenergic Blocking) Agents, alpha-Adrenergic Blocking Agents</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

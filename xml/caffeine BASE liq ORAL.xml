@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "caffeine BASE liq ORAL">
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "caffeine base liq ORAL">
 <dose><value>5 - 10</value>
 <value>2.5</value>
 </dose>
@@ -21,6 +21,9 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary, Health Canada Special Access Programme.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Anorexigenic Agents and Respiratory and Cerebral Stimulants, Miscellaneous</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

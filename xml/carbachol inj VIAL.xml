@@ -1,9 +1,9 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "carbachol inj VIAL">
 <dose><value>0.5</value>
 </dose>
-<route><value>INTRA-OCCULAR</value>
+<route><value>INTRA-OCULAR</value>
 </route>
-<strength><value>0.0001</value>
+<strength><value>0.01%</value>
 </strength>
 <frequency><value>ONCE</value>
 </frequency>
@@ -18,6 +18,9 @@
 <AdditionalNotes></AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>EENT Drugs, Antiglaucoma Agents, Miotics</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

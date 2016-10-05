@@ -20,7 +20,9 @@
 <BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3602</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>FR</value>
+<AHSFormularyStatus><value>Formulary with Restrictions.</value>
 </AHSFormularyStatus>
+<AHFSName><value>Sympatholytic (Adrenergic Blocking) Agents, alpha-Adrenergic Blocking Agents</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

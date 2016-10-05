@@ -16,13 +16,16 @@
 <Population><value>ADULT</value>
 </Population>
 <IndicationPRN></IndicationPRN>
-<AdditionalNotes><value>Hypercalcemia, Bone metastases and osteolytic lesions (CrCl greater than 60mL/minute.).</value>
-<value>Osteoporosis in postmenopausal women, glucocorticoid-induced in men. Administered annually.</value>
-<value>Prevention of postmenopausal osteoporosis, Paget&amp;apos;s disease.</value>
+<AdditionalNotes><value>Hypercalcemia, Bone metastases and osteolytic lesions (CrCl greater than 60mL/minute.). The benefits of bisphosphonate drugs in preventing fractures associated with osteoporosis outweigh the risk of an atypical femur fracture (Health Canada; December 19, 2011)</value>
+<value>Osteoporosis in postmenopausal women, glucocorticoid-induced in men. Administered annually. The benefits of bisphosphonate drugs in preventing fractures associated with osteoporosis outweigh the risk of an atypical femur fracture (Health Canada; December 19, 2011)</value>
+<value>Prevention of postmenopausal osteoporosis, Paget&amp;apos;s disease. The benefits of bisphosphonate drugs in preventing fractures associated with osteoporosis outweigh the risk of an atypical femur fracture (Health Canada; December 19, 2011)</value>
 </AdditionalNotes>
 <BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3606</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary with Restrictions.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Bone Resorption Inhibitors</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

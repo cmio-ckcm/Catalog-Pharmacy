@@ -36,6 +36,9 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Respiratory Smooth Muscle Relaxants</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

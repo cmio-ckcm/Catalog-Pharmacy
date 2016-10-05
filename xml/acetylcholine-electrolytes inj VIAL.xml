@@ -24,7 +24,9 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>F</value>
+<AHSFormularyStatus><value>Formulary.</value>
 </AHSFormularyStatus>
+<AHFSName><value>EENT Drugs, Antiglaucoma Agents, Miotics</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

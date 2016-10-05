@@ -1,0 +1,29 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "plerixafor inj VIAL">
+<dose><value>0.24</value>
+<value>0.16</value>
+</dose>
+<route><value>SC</value>
+</route>
+<strength><value>20 mg/mL</value>
+</strength>
+<frequency><value>DAILY</value>
+</frequency>
+<instruction><value>for 4 days.</value>
+</instruction>
+<volume><value>1.2 mL</value>
+</volume>
+<units><value>mg/kg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Renal dosing considerations: Creatinine Clearance greater than 50 mL/minute: 0.24 mg/kg DAILY (not to exceed 40 mg/day); Creratinine Clearance of 20 and up to 50 mL/minute: 0.16 mg/kg DAILY (not to exceed 27 mg/day).</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=4260</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>Formulary with Restrictions.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Hematopoietic Agents</value>
+</AHFSName>
+<HighAlert></HighAlert>
+</drug>

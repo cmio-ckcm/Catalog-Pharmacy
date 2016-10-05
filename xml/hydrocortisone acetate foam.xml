@@ -3,7 +3,7 @@
 </dose>
 <route><value>PR</value>
 </route>
-<strength><value>0.1</value>
+<strength><value>10%</value>
 </strength>
 <frequency><value>HS</value>
 <value>BID</value>
@@ -13,7 +13,7 @@
 <value>Administer at bedtime.</value>
 </instruction>
 <volume></volume>
-<units><value>APPLICATORFUL</value>
+<units><value>applicatorful</value>
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
@@ -21,7 +21,9 @@
 <BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1750</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>FG</value>
+<AHSFormularyStatus><value>Formulary with Usage guidelines.</value>
 </AHSFormularyStatus>
+<AHFSName><value>Skin and Mucous Membrane Agents, Anti-inflammatory Agents</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

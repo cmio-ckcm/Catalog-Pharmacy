@@ -27,7 +27,8 @@
 </units>
 <Population></Population>
 <IndicationPRN></IndicationPRN>
-<AdditionalNotes><value>To be administered 30 minutes prior to first food of the day with patient remaining in upright position for at least 30 minutes.</value>
+<AdditionalNotes><value>To be administered 30 minutes prior to first food of the day with patient remaining in upright position for at least 30 minutes. The benefits of bisphosphonate drugs in preventing fractures associated with osteoporosis outweigh the risk of an atypical femur fracture (Health Canada; December 19, 2011)</value>
+<value>To be administered 30 minutes prior to first food of the day with patient remaining in upright position for at least 30 minutes. The benefits of bisphosphonate drugs in preventing fractures associated with osteoporosis outweigh the risk of an atypical femur fracture (Health Canada; December 19, 2011)The benefits of bisphosphonate drugs in preventing fractures associated with osteoporosis outweigh the risk of an atypical fem</value>
 </AdditionalNotes>
 <BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3531</value>
 <value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3532</value>
@@ -35,8 +36,10 @@
 <value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3533</value>
 </BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>FR</value>
-<value>F</value>
+<AHSFormularyStatus><value>Formulary with Restrictions.</value>
+<value>Formulary.</value>
 </AHSFormularyStatus>
+<AHFSName><value>Bone Resorption Inhibitors</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>

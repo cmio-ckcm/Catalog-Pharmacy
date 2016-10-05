@@ -31,7 +31,10 @@
 </AdditionalNotes>
 <BackgroundInformation></BackgroundInformation>
 <PRNInformation></PRNInformation>
-<AHSFormularyStatus><value>F</value>
+<AHSFormularyStatus><value>Formulary.</value>
 </AHSFormularyStatus>
-<HighAlert></HighAlert>
+<AHFSName><value>Antifungals, Polyenes</value>
+</AHFSName>
+<HighAlert><value>YES</value>
+</HighAlert>
 </drug>

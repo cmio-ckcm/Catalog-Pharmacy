@@ -1,0 +1,34 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "somatropin (OMNITROPE) inj CART">
+<dose><value>0.023 - 0.034</value>
+<value>0.047</value>
+<value>0 - 0.067</value>
+<value>0 - 0.069</value>
+</dose>
+<route><value>SC</value>
+</route>
+<strength><value>10mg/1.5 mL</value>
+<value>5mg/1.5 mL</value>
+</strength>
+<frequency><value>DAILY</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mg/kg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Pediatric Growth Hormone Deficiency</value>
+<value>Turner&amp;apos;s syndrome</value>
+<value>Patients with idiopathic short stature.</value>
+<value>Patients born small for gestational age.</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=4044</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=4043</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>Formulary with Restrictions.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Pituitary</value>
+</AHFSName>
+<HighAlert></HighAlert>
+</drug>

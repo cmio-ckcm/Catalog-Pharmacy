@@ -2,28 +2,28 @@
 <dose><value>0.1</value>
 <value>0.2</value>
 <value>0.005</value>
-<value>0.2 - 0.6</value>
-<value>0.8 - 2.4</value>
 <value>4 - 10</value>
 <value>3 - 5</value>
 <value>4.4 - 8.8</value>
 <value>4.4 - 10</value>
+<value>0.2 - 0.6</value>
+<value>0.8 - 2.4</value>
 </dose>
-<route><value>IV</value>
-<value>IM</value>
+<route><value>IM</value>
+<value>IV</value>
 <value>SC</value>
 </route>
 <strength><value>0.2 mg/mL</value>
 </strength>
 <frequency><value>Q4H</value>
 <value>ONCE</value>
+<value>Q3H</value>
 <value>Q2H  </value>
 <value>Q3H  </value>
 <value>Q4H  </value>
 <value>Q6H  </value>
 <value>Q8H  </value>
 <value>CONTINUOUS</value>
-<value>Q3H</value>
 </frequency>
 <instruction><value>for 3 doses.</value>
 <value>for 4 doses.</value>
@@ -39,32 +39,35 @@
 </volume>
 <units><value>mg</value>
 <value>mg/kg</value>
-<value>mg/day</value>
 <value>mcg/kg/dose</value>
 <value>mcg/kg </value>
 <value>mcg/kg</value>
+<value>mg/day</value>
 </units>
 <Population><value>ADULT</value>
-<value>ADULT / CHILDREN</value>
 <value>CHILDREN</value>
 <value>NEONATE</value>
 <value>CHILDREN, 2 years of age and younger.</value>
 <value>CHILDREN, 2 years of age and older.</value>
+<value>ADULT / CHILDREN</value>
 </Population>
 <IndicationPRN><value>to reduce upper airway secretions.</value>
 </IndicationPRN>
 <AdditionalNotes><value>Gastroenterology</value>
 <value>Pre-anesthetic</value>
-<value>Neuromuscular blockade reversal. 0.2 mg for each 1 mg of neostigmine or 5 mg of pyridostigmine.</value>
-<value>Palliative Care</value>
 <value>Control of secretions.</value>
 <value>Pre-anesthetic. MAXIMUM dose: 0.1 mg</value>
+<value>Neuromuscular blockade reversal. 0.2 mg for each 1 mg of neostigmine or 5 mg of pyridostigmine.</value>
 <value>Intra-operative. MAXIMUM dose: 0.1 mg</value>
+<value>Palliative Care</value>
 </AdditionalNotes>
 <BackgroundInformation><value>Contains Benzyl Alcohol</value>
 </BackgroundInformation>
 <PRNInformation><value>YES</value>
 </PRNInformation>
-<AHSFormularyStatus></AHSFormularyStatus>
+<AHSFormularyStatus><value>Formulary.</value>
+</AHSFormularyStatus>
+<AHFSName><value>Anticholinergic Agents</value>
+</AHFSName>
 <HighAlert></HighAlert>
 </drug>
