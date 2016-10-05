@@ -1,0 +1,25 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "akabutu's mouthwash mouthwash">
+<dose><value>30</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength></strength>
+<frequency><value>Q4H</value>
+<value>Q6H</value>
+</frequency>
+<instruction><value>Swich solution in mouth and throat for one minute, then expell solution.</value>
+</instruction>
+<volume></volume>
+<units><value>mL</value>
+</units>
+<Population></Population>
+<IndicationPRN><value>mouth sores.</value>
+</IndicationPRN>
+<AdditionalNotes><value>Avoid eating or drinking for 30 minutes after use.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

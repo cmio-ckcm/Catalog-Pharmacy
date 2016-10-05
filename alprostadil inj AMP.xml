@@ -1,0 +1,31 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "alprostadil inj AMP">
+<dose><value>0.005</value>
+<value>0.01</value>
+<value>0.025</value>
+<value>0.03</value>
+<value>0.04</value>
+<value>0.05</value>
+<value>0.075</value>
+<value>0.1</value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>500 mcg/mL</value>
+</strength>
+<frequency><value>CONTINUOUS</value>
+</frequency>
+<instruction><value>Administer by continuous infusion.</value>
+</instruction>
+<volume><value>1 mL</value>
+</volume>
+<units><value>mcg/kg/minute</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>F</value>
+</AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

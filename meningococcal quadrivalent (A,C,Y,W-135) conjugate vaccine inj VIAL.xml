@@ -1,0 +1,24 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "meningococcal quadrivalent (A,C,Y,W-135) conjugate vaccine inj VIAL">
+<dose><value>0.5</value>
+</dose>
+<route><value>IM</value>
+</route>
+<strength></strength>
+<frequency><value>ONCE</value>
+<value>EVERY 3 MONTHS</value>
+</frequency>
+<instruction><value>for 2 doses administered at least 3 months apart.</value>
+</instruction>
+<volume></volume>
+<units><value>mL</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Adults and children 2 years of age and older.</value>
+<value>Infants and children 9 to 23 months of age.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

@@ -1,0 +1,24 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "sodium citrate inj BAG">
+<dose></dose>
+<route><value>IV</value>
+</route>
+<strength><value>0.04</value>
+</strength>
+<frequency><value>ONCE</value>
+<value>CONTINUOUS</value>
+</frequency>
+<instruction><value>As per protocol.</value>
+<value>Administer by continuous infusion.</value>
+</instruction>
+<volume><value>1 000 mL</value>
+</volume>
+<units><value>mL/Hour</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

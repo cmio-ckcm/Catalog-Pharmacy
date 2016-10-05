@@ -1,0 +1,28 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "enfuvirtide inj VIAL">
+<dose><value>27</value>
+<value>36</value>
+<value>45</value>
+<value>54</value>
+<value>63</value>
+<value>72</value>
+<value>81</value>
+<value>90</value>
+</dose>
+<route><value>SC</value>
+</route>
+<strength><value>108 mg</value>
+</strength>
+<frequency><value>BID</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

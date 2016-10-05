@@ -1,0 +1,25 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "doxycycline cap">
+<dose><value>100</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>100 mg</value>
+</strength>
+<frequency><value>DAILY</value>
+<value>BID</value>
+</frequency>
+<instruction><value>for 7 days.</value>
+</instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population><value>ADULT</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Alternate Chlamydia treatment in non-pregnant/non-lactating adults. </value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

@@ -1,0 +1,32 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "triamcinolone hexacetonide inj VIAL">
+<dose><value>1</value>
+<value>5 - 40</value>
+<value>20 - 100</value>
+<value>2.5 - 20</value>
+</dose>
+<route><value>INTRADERMAL</value>
+<value>SUBLESIONAL</value>
+<value>INTRA-SYNOVIAL</value>
+<value>IM</value>
+<value>INTRA-ARTICULAR</value>
+</route>
+<strength><value>20 mg/mL</value>
+</strength>
+<frequency><value>ONCE</value>
+</frequency>
+<instruction><value>Administer dose per injection site.</value>
+</instruction>
+<volume><value>1 mL</value>
+</volume>
+<units><value>mg</value>
+</units>
+<Population><value>ADULT</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2344</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

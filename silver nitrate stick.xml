@@ -1,0 +1,21 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "silver nitrate stick">
+<dose></dose>
+<route><value>TOP</value>
+</route>
+<strength><value>0.75</value>
+</strength>
+<frequency><value>ONCE</value>
+</frequency>
+<instruction><value>Moisten tip and apply to affected area.</value>
+</instruction>
+<volume></volume>
+<units></units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Suggested maximum of 3 treatments for warts and verrucae.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

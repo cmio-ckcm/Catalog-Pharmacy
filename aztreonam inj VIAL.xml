@@ -1,0 +1,53 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "aztreonam inj VIAL">
+<dose><value>500</value>
+<value>1</value>
+<value>2</value>
+<value>90 - 120</value>
+<value>150 - 200</value>
+<value>60</value>
+<value>90</value>
+<value>120</value>
+<value>75</value>
+</dose>
+<route><value>IV</value>
+<value>IM</value>
+<value>NEB</value>
+</route>
+<strength><value>1 g</value>
+<value>75 mg</value>
+</strength>
+<frequency><value>Q8H</value>
+<value>Q12H</value>
+<value>Q6H</value>
+<value>TID</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mg</value>
+<value>g</value>
+<value>mg/kg/day</value>
+</units>
+<Population><value>ADULT</value>
+<value>INFANT / CHILDREN</value>
+<value>NEONATE / INFANT</value>
+<value>ADULT / CHILDREN, aged 6 years and older.</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>UTI. Total daily dose of 2 to 3 grams. If Creatinine Clearnace is 10 to 30 mL/minute: 50% of usual dose at usual interval. If Creatinine Clearance is less than 10 mL/minute: 25% of usual dose at usual interval.</value>
+<value>Lower Respiratory Tract infection.. Total daily dose of 2 to 6 grams. If Creatinine Clearnace is 10 to 30 mL/minute: 50% of usual dose at usual interval. If Creatinine Clearance is less than 10 mL/minute: 25% of usual dose at usual interval.</value>
+<value>Systemic infection. MAXIMUM dose: 8 g/day. If Creatinine Clearnace is 10 to 30 mL/minute: 50% of usual dose at usual interval. If Creatinine Clearance is less than 10 mL/minute: 25% of usual dose at usual interval.</value>
+<value>MAXIMUM dose: 8 g/day. If Creatinine Clearnace is 10 to 30 mL/minute: 50% of usual dose at usual interval. If Creatinine Clearance is less than 10 mL/minute: 25% of usual dose at usual interval.</value>
+<value>Cystic Fibrosis. MAXIMUM dose: 8 g/day or 200 mg/kg/day, whichever is less. If Creatinine Clearnace is 10 to 30 mL/minute: 50% of usual dose at usual interval. If Creatinine Clearance is less than 10 mL/minute: 25% of usual dose at usual interval.</value>
+<value>Less than 1 month postnatal age 7 days or less AND body weight 2000 g or less.</value>
+<value>Less than 1 month postnatal age 7 days or less AND body weight greater than 2000 g.</value>
+<value>Postnatal age more than 7 days AND body weight 1200 g or less.</value>
+<value>Postnatal age more than 7 days AND body weight 1200 to 2000 g.</value>
+<value>Postnatal age more than 7 days AND body weight greater than 2000 g.</value>
+<value>Therapy cycle is 28 days of treatment followed by 28 days off therapy. Bronchodilator should be administered prior to dose.</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=4473</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

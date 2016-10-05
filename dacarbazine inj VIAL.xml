@@ -1,0 +1,48 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "dacarbazine inj VIAL">
+<dose><value>375</value>
+<value>1200</value>
+<value>220</value>
+<value>1000</value>
+<value>850</value>
+<value>250</value>
+<value>600</value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>600 mg</value>
+</strength>
+<frequency><value>ONCE</value>
+<value>DAILY</value>
+</frequency>
+<instruction><value>Administer over 2 hours diluted in 1000 mL D5W.</value>
+<value>for 3 days. Administer dose over 1 to 2 hours diluted in 250 mL 0.9% sodium chloride.</value>
+<value>for 3 days. Administer dose over 1 hour diluted in 250 mL 0.9% sodium chloride.</value>
+<value>Administer dose over 1 hour.</value>
+<value>for 5 days. Administer dose over 1 hour.</value>
+<value>for 3 days. Administer dose over 1 hour diluted in 250 mL D5W.</value>
+<value>for 2 doses. </value>
+</instruction>
+<volume></volume>
+<units><value>mg/m2</value>
+<value>mg/m2/day</value>
+</units>
+<Population><value>ADULT</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Hodgkin&amp;apos;s Lymphoma. For doses less than or equal to 1500mg, dilute dose in 500 mL 0.9% sodium chloride and administer over 1 hour. For doses greater than 1500 mg, dilute dose in 1000 mL 0.9% sodium chloride and administer over 1.5 to 2 hours.</value>
+<value>Sarcoma -Osteo. </value>
+<value>Metastatic Melanoma</value>
+<value>Melanoma</value>
+<value>Metastatic Melanoma. For doses less than or equal to 1500mg, dilute dose in 500 mL 0.9% sodium chloride and administer over 1 hour. For doses greater than 1500 mg, dilute dose in 1000 mL 0.9% sodium chloride and administer over 1.5 to 2 hours.</value>
+<value>Melanoma. For doses less than or equal to 1500mg, dilute dose in 500 mL D5W. For doses greater than 1500 mg, dilute dose in 1000 mL D5W.</value>
+<value>Malignant Melanoma</value>
+<value>Pheochromocytoma/Paraganglioma. For doses less than or equal to 1500mg, dilute dose in 500 mL D5W and administer dose over 1 to 1.5 hours. For doses greater than 1500 mg, dilute dose in 1000 mL D5W and administer dose over 1.5 to 2 hours.</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3369</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>F</value>
+</AHSFormularyStatus>
+<HighAlert><value>HIGH ALERT MEDICATION</value>
+</HighAlert>
+</drug>

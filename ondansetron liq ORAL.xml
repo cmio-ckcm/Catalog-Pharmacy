@@ -1,0 +1,36 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "ondansetron liq ORAL">
+<dose><value>8</value>
+<value>16</value>
+<value>4</value>
+</dose>
+<route><value>PO</value>
+<value>PO/IV</value>
+</route>
+<strength><value>0.8 mg/mL</value>
+</strength>
+<frequency><value>Q8H</value>
+<value>BID</value>
+<value>ONCE</value>
+<value>TID</value>
+<value>Q4H</value>
+<value>Q6H</value>
+</frequency>
+<instruction><value>Administer one hour pre-chemotherapy. Dose may also be administered by IV route.</value>
+<value>Administer two hours pre-chemotherapy. Dose may also be administered by IV route.</value>
+<value>for 3 days. Start the evening of chemotherapy. Dose may also be administered by IV route.</value>
+<value>Dose may also be administered by IV route.</value>
+<value>Administer 1 hour pre-operatively.</value>
+</instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_Formulary?search_details.aspx?id=1654</value>
+</BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

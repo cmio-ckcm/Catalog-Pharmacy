@@ -1,0 +1,42 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "alendronate tab">
+<dose><value>10</value>
+<value>40</value>
+<value>5</value>
+<value>70</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>10 mg</value>
+<value>40 mg</value>
+<value>5 mg</value>
+<value>70 mg</value>
+</strength>
+<frequency><value>DAILY</value>
+<value>WEEKLY</value>
+</frequency>
+<instruction><value>Administer on Sunday</value>
+<value>Administer on Monday</value>
+<value>Administer on Tuesday</value>
+<value>Administer on Wednesday</value>
+<value>Administer on Thursday</value>
+<value>Administer on Friday</value>
+<value>Administer on Saturday</value>
+</instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>To be administered 30 minutes prior to first food of the day with patient remaining in upright position for at least 30 minutes.</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3531</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3532</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3530</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3533</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>FR</value>
+<value>F</value>
+</AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

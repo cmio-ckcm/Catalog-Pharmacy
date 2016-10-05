@@ -1,0 +1,28 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "CARBOplatin inj">
+<dose><value>900</value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>10 mg/mL</value>
+</strength>
+<frequency><value>ONCE</value>
+</frequency>
+<instruction><value>DAY 1 of 21. Administer dose diluted in 250 to 500 mL D5W over 30 to 60 minutes.</value>
+</instruction>
+<volume><value>5 mL</value>
+</volume>
+<units><value>mg</value>
+</units>
+<Population><value>Vinorelbine and CARBOplatin with CONCURRENT RT. Non-Small Cell Lung Cancer.</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>DAY 1. If ANC greater than or equal to 1.5 AND Plts greater than or equal to 100 x 109/L, Give as ordered. If ANC less than 1.5 OR Plts less than 100 x 109/L: Delay one week. AUC of 6: Dose capping with Creatinine Clearance greater than or equal to 125 mL/minute.</value>
+<value>DAY 1. If ANC greater than or equal to 1.5 AND Plts greater than or equal to 100 x 109/L, Give as ordered. If ANC less than 1.5 OR Plts less than 100 x 109/L: Delay one week. Dose NOT capped and calculated using Calvert Formula. CARBOplatin Dose (mg) = target AUC x (CrCl + 25).</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3335</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert><value>HIGH ALERT MEDICATION</value>
+</HighAlert>
+</drug>

@@ -1,0 +1,44 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "potassium chloride in sterile water for injection inj BAG">
+<dose><value>100</value>
+<value>20</value>
+<value>50</value>
+<value>40</value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>10 mmol</value>
+<value>20 mmol</value>
+<value>40 mmol</value>
+</strength>
+<frequency><value>ONCE</value>
+</frequency>
+<instruction><value>Administer over 1 hour.</value>
+<value>DAY 1 of 21. Administer dose at maximum rate of 10 mmol/hour and at a maximum concentration of 10 mml/100 mL. (20 mmol is provided by 2 x potassium chloride 10 mmol/100 mL bags)</value>
+<value>DAY 2 of 21. Administer dose at maximum rate of 10 mmol/hour and at a maximum concentration of 10 mml/100 mL. (20 mmol is provided by 2 x potassium chloride 10 mmol/100 mL bags)</value>
+<value>DAY 3 of 21. Administer dose at maximum rate of 10 mmol/hour and at a maximum concentration of 10 mml/100 mL. (20 mmol is provided by 2 x potassium chloride 10 mmol/100 mL bags)</value>
+<value>Administer over 2 hours.</value>
+</instruction>
+<volume><value>100 mL</value>
+<value>50 mL</value>
+</volume>
+<units><value>mL/Hour</value>
+<value>mmol</value>
+</units>
+<Population><value>CISplatin/etoposide (IV). Small Cell Lung Cancer.</value>
+<value>ADULT</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Requirement  determined by physician.</value>
+<value>Central line administration only. </value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3008</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3055</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3035</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>F</value>
+<value>NF</value>
+</AHSFormularyStatus>
+<HighAlert><value>HIGH ALERT MEDICATION</value>
+</HighAlert>
+</drug>

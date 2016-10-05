@@ -1,0 +1,23 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "lidocaine liq ORAL">
+<dose><value>5</value>
+<value>10</value>
+<value>15</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>0.02</value>
+</strength>
+<frequency><value>ONCE</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mL</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

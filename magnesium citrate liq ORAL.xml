@@ -1,0 +1,36 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "magnesium citrate liq ORAL">
+<dose><value>300</value>
+<value>1</value>
+<value>1 - 3</value>
+<value>100 - 150</value>
+<value>150 - 300</value>
+</dose>
+<route><value>PO </value>
+<value>PO</value>
+</route>
+<strength><value>15 g/300 mL</value>
+</strength>
+<frequency><value>ONCE</value>
+<value>DAILY</value>
+</frequency>
+<instruction><value>ONCE. Refer to Bowel Evacuation procedure for additional fluid requirements.</value>
+<value>Follow dose with 250 mL of water.</value>
+</instruction>
+<volume></volume>
+<units><value>mL</value>
+<value>bottle</value>
+<value>mL/kg</value>
+</units>
+<Population></Population>
+<IndicationPRN><value>Constipation</value>
+</IndicationPRN>
+<AdditionalNotes><value>Suggested as short-term intermittent therapy for patients less than6 years of age.</value>
+<value>Suggested as short-term intermittent therapy for patients 6 to 12 years of age.</value>
+<value>Suggested as short-term intermittent therapy for patients 12 years of age and older.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

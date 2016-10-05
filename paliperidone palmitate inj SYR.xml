@@ -1,0 +1,38 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "paliperidone palmitate inj SYR">
+<dose><value>100</value>
+<value>150</value>
+<value>50</value>
+<value>75</value>
+</dose>
+<route><value>IM</value>
+</route>
+<strength><value>100 mg</value>
+<value>150 mg</value>
+<value>50 mg</value>
+<value>75 mg</value>
+</strength>
+<frequency><value>MONTHLY</value>
+<value>ONCE</value>
+</frequency>
+<instruction></instruction>
+<volume><value>1 mL</value>
+<value>1.5 mL</value>
+<value>0.5 mL</value>
+<value>0.75 mL</value>
+</volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=4142</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=4143</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=4140</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=4141</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>FR </value>
+<value>FR</value>
+</AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

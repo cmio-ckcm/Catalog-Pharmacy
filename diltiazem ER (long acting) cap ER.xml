@@ -1,0 +1,29 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "diltiazem ER (long acting) cap ER">
+<dose><value>120</value>
+<value>180</value>
+<value>360</value>
+<value>240</value>
+<value>300</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>120 mg</value>
+<value>180 mg</value>
+<value>240 mg</value>
+<value>300 mg</value>
+<value>360 mg</value>
+</strength>
+<frequency><value>DAILY</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

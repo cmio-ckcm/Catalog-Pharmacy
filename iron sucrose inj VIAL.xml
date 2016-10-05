@@ -1,0 +1,29 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "iron sucrose inj VIAL">
+<dose><value>100</value>
+<value>200</value>
+<value>300</value>
+<value>400</value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>20 mg/mL</value>
+</strength>
+<frequency><value>ONCE</value>
+</frequency>
+<instruction></instruction>
+<volume><value>5 mL</value>
+</volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Administer undiluted over 5 minutes</value>
+<value>Administer dose diluted in in 100 mL over at least 60 minutes</value>
+<value>Administer dose diluted in in 250 mL over at least  90 minutes</value>
+<value>Administer dose diluted in 250 ml over at least 2.5 hours</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "arsenic trioxide inj VIAL">
+<dose><value>0.15</value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>1 mg/mL</value>
+</strength>
+<frequency><value>DAILY</value>
+</frequency>
+<instruction><value>Dilute dose in 250 mL 0.9% sodium chloride and administer over 1 to 2 hours.</value>
+</instruction>
+<volume><value>10 mL</value>
+</volume>
+<units><value>mg/kg</value>
+</units>
+<Population><value>ADULT</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Induction: DAILY until bone marrow remission. Total not to exceed 60 doses. Consolidation: Begin 3 to 6 weeks after completion of induction, for a maximum of 25 doses in 5 weeks.</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=6461</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert><value>HIGH ALERT MEDICATION</value>
+</HighAlert>
+</drug>

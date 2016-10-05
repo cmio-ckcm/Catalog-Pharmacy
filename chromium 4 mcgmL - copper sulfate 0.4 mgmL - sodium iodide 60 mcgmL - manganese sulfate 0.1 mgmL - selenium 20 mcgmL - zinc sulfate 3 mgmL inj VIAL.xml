@@ -1,0 +1,23 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "chromium 4 mcg/mL - copper sulfate 0.4 mg/mL - sodium iodide 60 mcg/mL - manganese sulfate 0.1 mg/mL - selenium 20 mcg/mL - zinc sulfate 3 mg/mL inj VIAL">
+<dose></dose>
+<route><value>IV</value>
+</route>
+<strength><value>1 mL</value>
+</strength>
+<frequency><value>DAILY</value>
+</frequency>
+<instruction><value>Ordered as part of Parenteral Nutrition order.</value>
+</instruction>
+<volume><value>10 mL</value>
+</volume>
+<units><value>mL</value>
+</units>
+<Population><value>NEONATE / INFANT</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

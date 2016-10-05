@@ -1,0 +1,32 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "dihydroergotamine inj AMP">
+<dose><value>1</value>
+<value>3</value>
+</dose>
+<route><value>IV</value>
+<value>SC</value>
+<value>IM</value>
+</route>
+<strength><value>1 mg/mL</value>
+</strength>
+<frequency><value>ONCE</value>
+<value>Q8H</value>
+<value>CONTINUOUS</value>
+</frequency>
+<instruction><value>May repeat dose X 1.</value>
+<value>Administer by continuous infusion over 24 hour.</value>
+</instruction>
+<volume><value>1 mL</value>
+</volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Administer dose over 1 hour.</value>
+<value>Dilute 3 mg in 1000 mL NS</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

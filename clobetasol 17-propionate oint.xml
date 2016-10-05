@@ -1,0 +1,21 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "clobetasol 17-propionate oint">
+<dose></dose>
+<route><value>TOP</value>
+</route>
+<strength><value>0.0005</value>
+</strength>
+<frequency><value>DAILY</value>
+<value>BID</value>
+</frequency>
+<instruction><value>Apply a thin film to affected area and rub into area.</value>
+</instruction>
+<volume></volume>
+<units></units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

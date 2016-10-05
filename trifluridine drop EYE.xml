@@ -1,0 +1,30 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "trifluridine drop EYE">
+<dose><value>1</value>
+</dose>
+<route><value>OPHTH</value>
+</route>
+<strength><value>0.01</value>
+</strength>
+<frequency><value>Q2H</value>
+<value>Q4H</value>
+</frequency>
+<instruction><value>Instill onto cornea of LEFT eye, while awake. Maximum of 9 drops per day.</value>
+<value>Instill onto cornea of RIGHT eye, while awake. Maximum of 9 drops per day.</value>
+<value>Instill onto cornea of affected eye(s), while awake. Maximum of 9 drops per day.</value>
+<value>Instill onto cornea of LEFT eye, while awake. Maximum of 5 drops per day.</value>
+<value>Instill onto cornea of RIGHT eye, while awake. Maximum of 5 drops per day.</value>
+<value>Instill onto cornea of affected eye(s), while awake. Maximum of 5 drops per day.</value>
+</instruction>
+<volume></volume>
+<units><value>gtt</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Continue until lesion has completely re-epithelialized, then reduce dosage.</value>
+<value>Continue treatment for 7 days post-re-epithelialization.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

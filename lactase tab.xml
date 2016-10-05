@@ -1,0 +1,28 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "lactase tab">
+<dose><value>1</value>
+<value>2</value>
+<value>3</value>
+<value>4</value>
+<value>5</value>
+<value>6</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>3 000 unit</value>
+</strength>
+<frequency><value>ONCE</value>
+</frequency>
+<instruction><value>Swallow or chew tablets just prior to eating food containing lactose as required.</value>
+</instruction>
+<volume></volume>
+<units><value>tab</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

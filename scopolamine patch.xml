@@ -1,0 +1,24 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "scopolamine patch">
+<dose><value>1</value>
+</dose>
+<route><value>TOP</value>
+</route>
+<strength><value>1.5 mg</value>
+</strength>
+<frequency><value>Q72H</value>
+<value>ONCE</value>
+</frequency>
+<instruction><value>Apply patch to hairless area behind ear, change patch every 72 hours.</value>
+<value>Apply patch to hairless area behind ear the night before surgery and remove 24 hours post-surgery.</value>
+</instruction>
+<volume></volume>
+<units><value>PATCH</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

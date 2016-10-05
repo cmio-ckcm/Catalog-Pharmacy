@@ -1,0 +1,29 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "sodium tetradecyl sulfate inj VIAL">
+<dose><value>0.5 - 2</value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>10 mg/mL</value>
+<value>30 mg/mL</value>
+</strength>
+<frequency><value>ONCE</value>
+</frequency>
+<instruction><value>Administer slowly by direct injection into area requiring sclerosis.</value>
+<value>Administer directly into each varix.</value>
+</instruction>
+<volume><value>2 mL</value>
+</volume>
+<units><value>mL</value>
+</units>
+<Population><value>ADULT</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Varicose veins. Use 10 mg/mL concentration in small veins. Suggested MAXIMUM treatment dose is 10 mL.</value>
+<value>Esophageal varicies. Suggested MAXIMUM treatment dose is 20 mL per sclerotherapy session.</value>
+<value>Varicose veins. Use 30 mg/mL concentration for larger vericosities.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

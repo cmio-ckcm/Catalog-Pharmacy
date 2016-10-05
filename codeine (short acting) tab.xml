@@ -1,0 +1,27 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "codeine (short acting) tab">
+<dose><value>15</value>
+<value>30</value>
+<value>60</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>15 mg</value>
+<value>30 mg</value>
+</strength>
+<frequency><value>QID</value>
+<value>Q6H</value>
+<value>Q4H</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

@@ -1,0 +1,64 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "bortezomib inj VIAL">
+<dose><value>1.3</value>
+<value>1</value>
+<value>1.5</value>
+</dose>
+<route><value>SC</value>
+<value>IV</value>
+</route>
+<strength><value>3.5 mg</value>
+</strength>
+<frequency><value>ONCE</value>
+<value>WEEKLY</value>
+</frequency>
+<instruction><value>DAY -5. Administer once, as per AHS CancerControl Parenteral Drug Manual.  </value>
+<value>DAY -5. Administer over 3 to 5 seconds into a free flowing 100 mL 0.9% sodium chloride infusion. Run in the remaining 0.9% sodium chloride over 10 minutes.</value>
+<value>DAY -2. Administer once, as per AHS CancerControl Parenteral Drug Manual.  </value>
+<value>DAY -2. Administer over 3 to 5 seconds into a free flowing 100 mL 0.9% sodium chloride infusion. Run in the remaining 0.9% sodium chloride over 10 minutes.</value>
+<value>DAY +1. Administer once, as per AHS CancerControl Parenteral Drug Manual.  </value>
+<value>DAY +1. Administer over 3 to 5 seconds into a free flowing 100 mL 0.9% sodium chloride infusion. Run in the remaining 0.9% sodium chloride over 10 minutes.</value>
+<value>DAY +4. Administer once, as per AHS CancerControl Parenteral Drug Manual.  </value>
+<value>DAY +4. Administer over 3 to 5 seconds into a free flowing 100 mL 0.9% sodium chloride infusion. Run in the remaining 0.9% sodium chloride over 10 minutes.</value>
+<value>Administer on DAY -5 and DAY -2 prior to autologous stem cell transplant, as per AHS CancerControl Parenteral Drug Manual.  </value>
+<value>Administer on DAY -5 and DAY -2 prior to autologous stem cell transplant. Administer over 3 to 5 seconds.  </value>
+<value>DAY 1 of 42. Administer once, as per AHS CancerControl Parenteral Drug Manual.  </value>
+<value>DAY 1 of 42. Administer over 3 to 5 seconds into a free flowing 100 mL 0.9% sodium chloride infusion. Run in the remaining 0.9% sodium chloride over 10 minutes.</value>
+<value>DAY 8 of 42. Administer once, as per AHS CancerControl Parenteral Drug Manual.  </value>
+<value>DAY 8 of 42. Administer over 3 to 5 seconds into a free flowing 100 mL 0.9% sodium chloride infusion. Run in the remaining 0.9% sodium chloride over 10 minutes.</value>
+<value>DAY 22 of 42. Administer once, as per AHS CancerControl Parenteral Drug Manual.  </value>
+<value>DAY 22 of 42. Administer over 3 to 5 seconds into a free flowing 100 mL 0.9% sodium chloride infusion. Run in the remaining 0.9% sodium chloride over 10 minutes.</value>
+<value>DAY 29 of 42. Administer once, as per AHS CancerControl Parenteral Drug Manual.  </value>
+<value>DAY 29 of 42. Administer over 3 to 5 seconds into a free flowing 100 mL 0.9% sodium chloride infusion. Run in the remaining 0.9% sodium chloride over 10 minutes.</value>
+<value>DAY 1 of 21. Administer once, as per AHS CancerControl Parenteral Drug Manual.  </value>
+<value>DAY 1 of 21. Administer over 3 to 5 seconds into a free flowing 100 mL 0.9% sodium chloride infusion. Run in the remaining 0.9% sodium chloride over 10 minutes.</value>
+<value>DAY 4 of 21. Administer once, as per AHS CancerControl Parenteral Drug Manual.  </value>
+<value>DAY 4 of 21. Administer over 3 to 5 seconds into a free flowing 100 mL 0.9% sodium chloride infusion. Run in the remaining 0.9% sodium chloride over 10 minutes.</value>
+<value>DAY 8 of 21. Administer once, as per AHS CancerControl Parenteral Drug Manual.  </value>
+<value>DAY 8 of 21. Administer over 3 to 5 seconds into a free flowing 100 mL 0.9% sodium chloride infusion. Run in the remaining 0.9% sodium chloride over 10 minutes.</value>
+<value>DAY 11 of 21. Administer once, as per AHS CancerControl Parenteral Drug Manual.  </value>
+<value>DAY 11 of 21. Administer over 3 to 5 seconds into a free flowing 100 mL 0.9% sodium chloride infusion. Run in the remaining 0.9% sodium chloride over 10 minutes.</value>
+<value>DAY 1, 8, 15 and 22 of 28. Administer once weekly for 4 weeks, as per AHS CancerControl Parenteral Drug Manual.  </value>
+<value>DAY 1, 8, 15 and 22 of 28. Once weekly for 4 weeks. Administer dose over 3 to 5 seconds into a free flowing 100 mL 0.9% sodium chloride infusion. Run in the remaining 0.9% sodium chloride over 10 minutes.</value>
+</instruction>
+<volume></volume>
+<units><value>mg/m2</value>
+</units>
+<Population><value>ADULT</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>If ANC is greater than or equal to 1 X 109/L AND platelets are greater than or equal to 75 X 109/L: Give chemotherapy as ordered.</value>
+<value>There must be at least 72 hours between bortezomib doses.</value>
+<value>If ANC is greater than or equal to 1.0 X 109/L AND platelets are greater than or equal to 75 X 109/L: Proceed. If ANC is less than 1.0 X 109/L OR platelets are less than 75 X 109/L: HOLD. There must be at least 72 hours between bortezomib doses.</value>
+<value>If ANC is greater than or equal to 1.0 X 109/L AND platelets are greater than or equal to 75 X 109/L: Proceed. If ANC is less than 1.0 X 109/L OR platelets are less than 75 X 109/L: HOLD.</value>
+<value>If ANC is greater than or equal to 1.0 X 109/L AND platelets are greater than or equal to 75 X 109/L: Proceed. If ANC is less than 1.0 X 109/L OR platelets are less than 75 X 109/L: HOLD. </value>
+<value>If ANC is greater than or equal to 1.0 X 109/L AND platelets are greater than or equal to 75 X 109/L: Proceed with treatment. If ANC is less than 1.0 X 109/L OR platelets are less than 75 X 109/L: Dosage adjustment required. Notify prescriber.</value>
+<value>If ANC is greater than or equal to 1.0 X 109/L AND platelets are greater than or equal to 75 X 109/L: Proceed with treatment. If ANC is less than 1.0 X 109/L OR platelets are less than 75 X 109/L: Dosage adjustment required. Notify prescriber. At least 72 hours should elapse between consecutive bortezomib doses.</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3348</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>FR</value>
+</AHSFormularyStatus>
+<HighAlert><value>HIGH ALERT MEDICATION</value>
+</HighAlert>
+</drug>

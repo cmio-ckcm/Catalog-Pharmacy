@@ -1,0 +1,21 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "fluorescein sodium strip">
+<dose></dose>
+<route><value>OPHTH</value>
+</route>
+<strength><value>1 mg</value>
+</strength>
+<frequency><value>ONCE</value>
+</frequency>
+<instruction><value>Apply by touching the conjunctiva or fornix with moistened tip of strip. Have patient blink several times after application.</value>
+</instruction>
+<volume></volume>
+<units></units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Staining of anterior segment of eye. Moisten the strip prior to use with 1 or 2 drops of sterile saline.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

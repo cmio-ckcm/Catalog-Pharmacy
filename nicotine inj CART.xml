@@ -1,0 +1,23 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "nicotine inj CART">
+<dose><value>1</value>
+</dose>
+<route><value>INH</value>
+</route>
+<strength><value>10 mg</value>
+</strength>
+<frequency><value>ONCE</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>CARTRIDGE</value>
+</units>
+<Population></Population>
+<IndicationPRN><value>Smoking cessation</value>
+</IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

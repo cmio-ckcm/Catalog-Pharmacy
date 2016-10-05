@@ -1,0 +1,29 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "heparin inj SYR">
+<dose><value>2</value>
+<value>5</value>
+<value>3</value>
+</dose>
+<route><value>IV </value>
+<value>IV</value>
+</route>
+<strength><value>10 unit/mL</value>
+</strength>
+<frequency><value>ONCE</value>
+</frequency>
+<instruction><value>Administer into peripheral catheter line following saline flush for maintenance of line patency.</value>
+<value>Administer into central catheter line following saline flush for maintenance of line patency.</value>
+<value>Administer into PICC line (non-groshong) following saline flush for maintenance of line patency</value>
+</instruction>
+<volume><value>5 mL</value>
+</volume>
+<units><value>mL</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

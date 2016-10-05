@@ -1,0 +1,27 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "diclofenac diethylamine gel">
+<dose><value>2</value>
+<value>3</value>
+<value>4</value>
+</dose>
+<route><value>TOP</value>
+</route>
+<strength><value>0.0116</value>
+</strength>
+<frequency><value>TID</value>
+<value>QID</value>
+</frequency>
+<instruction><value>Rub dose gently into affected area. 2 g dose provided by a 4 cm strip of emulgel </value>
+<value>Rub dose gently into affected area. 2 g dose provided by a 6 cm strip of emulgel </value>
+<value>Rub dose gently into affected area. 2 g dose provided by a 8 cm strip of emulgel </value>
+</instruction>
+<volume></volume>
+<units><value>g</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

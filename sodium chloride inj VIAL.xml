@@ -1,0 +1,25 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "sodium chloride inj VIAL">
+<dose></dose>
+<route><value>IV</value>
+</route>
+<strength><value>4 mmol/mL</value>
+</strength>
+<frequency><value>ONCE</value>
+</frequency>
+<instruction></instruction>
+<volume><value>30 mL</value>
+</volume>
+<units><value>mmol</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>To be added to daily Parenteral Nutrition order by pharmacy</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3026</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>FR</value>
+</AHSFormularyStatus>
+<HighAlert><value>HIGH ALERT MEDICATION</value>
+</HighAlert>
+</drug>

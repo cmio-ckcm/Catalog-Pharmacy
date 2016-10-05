@@ -1,0 +1,24 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "nevirapine tab">
+<dose><value>200</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>200 mg</value>
+</strength>
+<frequency><value>DAILY</value>
+<value>BID</value>
+</frequency>
+<instruction><value>for first 14 days of treatment.</value>
+</instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation><value>Specialized High Cost Drug Program</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

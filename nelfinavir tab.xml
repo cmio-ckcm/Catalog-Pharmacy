@@ -1,0 +1,32 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "nelfinavir tab">
+<dose><value>1250</value>
+<value>750</value>
+<value>25 - 30</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>250 mg</value>
+<value>625 mg</value>
+</strength>
+<frequency><value>BID</value>
+<value>TID</value>
+</frequency>
+<instruction><value>Administer with breakfast and supper meals.</value>
+<value>Administer with meals.</value>
+<value>Administer in the morning and evening with food.</value>
+</instruction>
+<volume></volume>
+<units><value>mg</value>
+<value>mg/kg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>ADULTS.</value>
+<value>CHILDREN: 2 to 13 years. </value>
+</AdditionalNotes>
+<BackgroundInformation><value>Specialized High Cost Drug Program</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

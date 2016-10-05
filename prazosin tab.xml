@@ -1,0 +1,27 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "prazosin tab">
+<dose><value>2</value>
+<value>5</value>
+<value>1</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>2 mg</value>
+<value>5 mg</value>
+<value>1 mg</value>
+</strength>
+<frequency><value>BID</value>
+<value>TID</value>
+<value>DAILY</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

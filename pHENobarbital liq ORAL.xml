@@ -1,0 +1,31 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "pHENobarbital liq ORAL">
+<dose><value>60</value>
+<value>2</value>
+<value>15</value>
+<value>30</value>
+<value>45</value>
+<value>90</value>
+<value>120</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>5 mg/mL</value>
+</strength>
+<frequency><value>TID</value>
+<value>BID</value>
+<value>HS</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mg/m2</value>
+<value>mg/kg</value>
+<value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

@@ -1,0 +1,29 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "clodronate cap">
+<dose><value>800</value>
+<value>1600</value>
+<value>1200</value>
+<value>2400</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>400 mg</value>
+</strength>
+<frequency><value>BID</value>
+<value>DAILY</value>
+</frequency>
+<instruction><value>Administer 1 hour before food consumption.</value>
+</instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>NOT interchangeable with Clasteon brand.</value>
+<value>NOT interchangeable with Bonefos brand.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>F</value>
+</AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

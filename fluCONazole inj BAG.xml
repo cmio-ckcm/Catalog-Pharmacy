@@ -1,0 +1,58 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "fluCONazole inj BAG">
+<dose><value>100</value>
+<value>200</value>
+<value>400</value>
+<value>50</value>
+<value>12 - 25</value>
+<value>6</value>
+<value>7</value>
+<value>8</value>
+<value>9</value>
+<value>10</value>
+<value>11</value>
+<value>12</value>
+<value>3</value>
+<value>4</value>
+<value>5</value>
+<value>800</value>
+</dose>
+<route><value>IV </value>
+<value>IV</value>
+</route>
+<strength><value>2 mg/mL</value>
+</strength>
+<frequency><value>DAILY</value>
+<value>ONCE</value>
+<value>Q24H</value>
+<value>Q48H</value>
+<value>TWICE WEEKLY</value>
+</frequency>
+<instruction><value>Administer 50 mL from 200 mg/100 mL bag.</value>
+<value>Administer 2 X 200 mg/100 mL bags.</value>
+<value>Administer 25 mL from 200 mg/ 100 mL bag.</value>
+<value>LOADING DOSE:  Neonatal Invasive Candidiasis</value>
+<value>NEONATE: Administer as per age specific interval</value>
+<value>Dosage aimed at targeting Candida strains with higher MICs (4 - 8 mcg/mL).</value>
+<value>Administer 2 X 400 mg/200 mL bags.</value>
+</instruction>
+<volume><value>100 mL</value>
+<value>200 mL</value>
+</volume>
+<units><value>mg</value>
+<value>mg/kg</value>
+<value>mg/kg/dose</value>
+</units>
+<Population><value>NEONATE</value>
+<value>NEONATES</value>
+<value>INFANT/CHILD</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Dosing interval: Gestational age 29 weeks or less: Post-natal age (PNA) 0 to 14 days: Q48H, PNA more than 14 days: Q24H. Gestational age 30 weeks or more: PNA 0 to 7 days: Q48H, PNA more than 7 days: Q24H.</value>
+<value>400 mg/200 mL bag</value>
+</AdditionalNotes>
+<BackgroundInformation><value>MAXIMUM DOSE: 800 mg</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

@@ -1,0 +1,79 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "calcium gluconate inj VIAL">
+<dose><value>50 - 200</value>
+<value>60 - 100</value>
+<value>100 - 200</value>
+<value>500</value>
+<value>200 - 500</value>
+<value>1 - 2 </value>
+<value>5 - 20</value>
+<value>1 - 3.4</value>
+<value>500 - 3000</value>
+<value>1.1 - 2.2</value>
+<value>1 - 3</value>
+<value>60</value>
+<value>1</value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>100 mg/mL</value>
+</strength>
+<frequency><value>ONCE</value>
+<value>TID</value>
+<value>QID</value>
+<value>CONTINUOUS</value>
+<value>EVERY 2 MINUTES</value>
+<value>EVERY 3 MINUTES</value>
+</frequency>
+<instruction><value>Administer daily calculated dose in 3 equally divided doses.</value>
+<value>Administer daily calculated dose in 4 equally divided doses.</value>
+<value>Administer by continuous infusion.</value>
+<value>Administer dose over 5 to 10 minutes</value>
+<value>Administer dose over 10 minutes.</value>
+<value>Repeat as required until therapeutic response occurs.</value>
+<value>May repeat dose after 1 to 2 minutes if required.</value>
+<value>Administer dose over 30 minutes.</value>
+<value>Administer over 5 minutes, may repeat every 10 minutes.</value>
+<value>Administer until clinical response achieved.</value>
+<value>ONCE, repated as required until therapeutic response occurs.</value>
+<value>ONCE, may repeat dose after 1 to 2 minutes if required.</value>
+<value>ONCE, repeat as required until therapeutic response occurs.</value>
+</instruction>
+<volume><value>10 mL</value>
+<value>100 mL</value>
+<value>50 mL</value>
+</volume>
+<units><value>mg/kg/dose</value>
+<value>mg/kg/day</value>
+<value>g</value>
+<value>mg/kg/hour</value>
+<value>mg</value>
+</units>
+<Population><value>NEONATE</value>
+<value>INFANT/CHILDREN</value>
+<value>ADULT.</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Hypocalcemia. Calcium gluconate 100mg/mL = 9.3 mg/mL elemental calcium = 0.46 mEq/mL calcium = 0.23 mmol/mL calcium.</value>
+<value>Cardiac Arrest. MAXIMUM 3 g/dose. Calcium gluconate 100mg/mL = 9.3 mg/mL elemental calcium = 0.46 mEq/mL calcium = 0.23 mmol/mL calcium.</value>
+<value>Tetany, Initial dose. Calcium gluconate 100mg/mL = 9.3 mg/mL elemental calcium = 0.46 mEq/mL calcium = 0.23 mmol/mL calcium.</value>
+<value>Tetany, Follow-up dose. Calcium gluconate 100mg/mL = 9.3 mg/mL elemental calcium = 0.46 mEq/mL calcium = 0.23 mmol/mL calcium.</value>
+<value>Tetany, Initial dose, may repeat after 6 hours. Calcium gluconate 100mg/mL = 9.3 mg/mL elemental calcium = 0.46 mEq/mL calcium = 0.23 mmol/mL calcium.</value>
+<value>Acute Hypocalcemia.</value>
+<value>Hypocalcemic Tetany</value>
+<value>Hyperkalemia-induced Cardiac Arrhythmias</value>
+<value>Hypermagnesemia.</value>
+<value>Hydrofloric Acid Poisoning</value>
+<value>Calcium Channel Blocker Overdose. MAXIMUM: 3 g/dose. May repeat for 3 to 4 additional doses.</value>
+<value>Calcium Channel Blocker Overdose; life-threatening toxicity.</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3076</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3075</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3077</value>
+</BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus><value>FR</value>
+</AHSFormularyStatus>
+<HighAlert><value>HIGH ALERT MEDICATION</value>
+</HighAlert>
+</drug>

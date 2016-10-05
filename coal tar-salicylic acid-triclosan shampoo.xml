@@ -1,0 +1,20 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "coal tar-salicylic acid-triclosan shampoo">
+<dose></dose>
+<route><value>TOP</value>
+</route>
+<strength><value>5%-2%-0.3%</value>
+</strength>
+<frequency><value>TWO TIMES WEEKLY</value>
+</frequency>
+<instruction><value>Apply to wet hair and massage vigorously into scalp, then rinse scalp thoroughly.</value>
+</instruction>
+<volume></volume>
+<units></units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

@@ -1,0 +1,52 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "ciprofloxacin drop EYE">
+<dose><value>1</value>
+<value>2</value>
+</dose>
+<route><value>OPHTH</value>
+</route>
+<strength><value>0.003</value>
+</strength>
+<frequency><value>Q2H</value>
+<value>Q4H</value>
+<value>EVERY 15 MINUTES</value>
+<value>EVERY 30 MINUTES</value>
+<value>Q1H</value>
+</frequency>
+<instruction><value>Instill into conjunctival sac of LEFT eye Q2H while awake X 2 days.</value>
+<value>Instill into conjunctival sac of LEFT eye Q4H while awake X 5 days.</value>
+<value>Instill into conjunctival sac of RIGHT eye Q2H while awake X 2 days.</value>
+<value>Instill into conjunctival sac of RIGHT eye Q4H while awake X 5 days.</value>
+<value>Instill into conjunctival sac of affected eye(s) Q2H while awake X 2 days.</value>
+<value>Instill into conjunctival sac of affected eye(s) Q4H while awake X 5 days.</value>
+<value>Instill into conjunctival sac of BOTH eyes Q2H while awake X 2 days.</value>
+<value>Instill into conjunctival sac of BOTH eyes Q4H while awake X 5 days.</value>
+<value>DAY 1: Instill into LEFT eye Q15minutes for first 6 hours, followed by</value>
+<value>DAY 1: Instill into LEFT eye Q 30 minutes for remainder of DAY 1.</value>
+<value>DAY 2: Instill into LEFT eye Q1H. </value>
+<value>DAY 3-14: Instill into LEFT eye Q4H.</value>
+<value>DAY 1: Instill into RIGHT eye Q15minutes for first 6 hours, followed by</value>
+<value>DAY 1: Instill into RIGHT eye Q 30 minutes for remainder of DAY 1.</value>
+<value>DAY 2: Instill into RIGHT eye Q1H. </value>
+<value>DAY 3-14: Instill into RIGHT eye Q4H.</value>
+<value>DAY 1: Instill into affected eye Q15minutes for first 6 hours, followed by</value>
+<value>DAY 1: Instill into affected eye Q 30 minutes for remainder of DAY 1.</value>
+<value>DAY 2: Instill into affected eye Q1H. </value>
+<value>DAY 3-14: Instill into affected eye Q4H.</value>
+<value>DAY 1: Instill into BOTH eyes Q15minutes for first 6 hours, followed by</value>
+<value>DAY 1: Instill into BOTH eyes Q 30 minutes for remainder of DAY 1.</value>
+<value>DAY 2: Instill into BOTH eyes Q1H. </value>
+<value>DAY 3-14: Instill into BOTH eyes Q4H.</value>
+</instruction>
+<volume><value>5 mL</value>
+</volume>
+<units><value>gtt</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Corneal Ulcer</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

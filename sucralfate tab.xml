@@ -1,0 +1,26 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "sucralfate tab">
+<dose><value>1</value>
+<value>2</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>1 g</value>
+</strength>
+<frequency><value>QID</value>
+<value>BID</value>
+</frequency>
+<instruction><value>Administer 1 hour before meals and at bedtime.</value>
+<value>Administer in the morning and evening.</value>
+</instruction>
+<volume></volume>
+<units><value>g</value>
+</units>
+<Population><value>ADULT</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

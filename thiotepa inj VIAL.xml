@@ -1,0 +1,27 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "thiotepa inj VIAL">
+<dose><value>60</value>
+</dose>
+<route><value>INTRAVESICALLY</value>
+</route>
+<strength><value>15 mg</value>
+</strength>
+<frequency><value>WEEKLY</value>
+</frequency>
+<instruction><value>for 4 weeks. Retain solution for 2 hours.</value>
+</instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population><value>ADULT</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Bladder Cancer. Dilute dose in 30 to 60 mL 0.9% sodium chloride.</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3340</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>FSAP</value>
+</AHSFormularyStatus>
+<HighAlert><value>HIGH ALERT MEDICATION</value>
+</HighAlert>
+</drug>

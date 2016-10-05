@@ -1,0 +1,27 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "enalaprilat inj VIAL">
+<dose><value>0.625</value>
+<value>1.25</value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>1.25 mg/mL</value>
+</strength>
+<frequency><value>Q6H  </value>
+<value>ONCE</value>
+<value>Q6H</value>
+</frequency>
+<instruction></instruction>
+<volume><value>2 mL</value>
+</volume>
+<units><value>mg</value>
+<value>mg </value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Administer dose over 5 minutes</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

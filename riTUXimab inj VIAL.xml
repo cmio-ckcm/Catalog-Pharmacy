@@ -1,0 +1,34 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "riTUXimab inj VIAL">
+<dose><value>1000</value>
+<value>375</value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>10 mg/mL</value>
+</strength>
+<frequency><value>EVERY 2 WEEKS</value>
+<value>WEEKLY</value>
+</frequency>
+<instruction><value>for 2 doses.</value>
+<value>for 4 doses.</value>
+</instruction>
+<volume><value>10 mL</value>
+<value>50 mL</value>
+</volume>
+<units><value>mg</value>
+<value>mg/m2</value>
+</units>
+<Population><value>ADULT</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Rheumatoid Arthritis</value>
+<value>Vasculitis</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3315</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>DEF</value>
+</AHSFormularyStatus>
+<HighAlert><value>HIGH ALERT MEDICATION</value>
+</HighAlert>
+</drug>

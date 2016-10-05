@@ -1,0 +1,27 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "amoxicillin-clavulin tab">
+<dose><value>1</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>500 mg-125 mg</value>
+<value>875 mg-125 mg</value>
+</strength>
+<frequency><value>BID</value>
+<value>TID</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>TAB</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2408</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2409</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>FGTI</value>
+<value>FG</value>
+</AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

@@ -1,0 +1,29 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "ethacrynic acid inj VIAL">
+<dose><value>50</value>
+<value>0.5 - 1</value>
+<value>1</value>
+</dose>
+<route><value>IV</value>
+<value>IV </value>
+</route>
+<strength><value>50 mg</value>
+</strength>
+<frequency><value>ONCE</value>
+</frequency>
+<instruction><value>May repeat dose once if necessary at a new IV site.</value>
+<value>Reassess patient requirement every 12 to 24 hours.</value>
+</instruction>
+<volume></volume>
+<units><value>mg</value>
+<value>mg/kg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Max single dose: 100mg</value>
+<value>NEONATE</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

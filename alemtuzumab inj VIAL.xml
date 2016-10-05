@@ -1,0 +1,36 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "alemtuzumab inj VIAL">
+<dose><value>3</value>
+<value>10</value>
+<value>30</value>
+</dose>
+<route><value>IV</value>
+<value>SC</value>
+</route>
+<strength><value>30 mg/mL</value>
+</strength>
+<frequency><value>ONCE</value>
+<value>THREE TIMES WEEKLY</value>
+<value>DAILY</value>
+</frequency>
+<instruction><value>Administer dose on alternate days.</value>
+<value>for 3 days.</value>
+<value>for 2 days.</value>
+</instruction>
+<volume><value>1 mL</value>
+</volume>
+<units><value>mg</value>
+</units>
+<Population><value>ADULT</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Dosing titration. 1st dose=3 mg, 2nd increment: 10 mg, 3rd incrment: 30 mg. The dose should only be escalated if previous dose was well tolerated. (Less than or equal to Grade 2 infusion-related or injection site toxicities.)</value>
+<value>Monotherapy. If ANC is less than 0.25 X 109/L or platelets are less than 25 X 109/L: FIRST OCCURRENCE: HOLD treatment and resume at same dose when ANC is greater than or equal to 0.5 X 109/L AND platelets are greater than or equal to 50 X 109/L. SECOND OCCURRENCE: HOLD treatment and resume at 10 mg when ANC is greater than or equal to 0.5 X 109/L AND platelets are greater than or equal to 50 X 109/L. THIRD OCCURRENCE: Discontinue treatment. For patients with baseline ANC less than or equal to 0.25 AND/OR platelets less than or equal to 25 X 109/L; when ANC or platelets decrease to less than or equal to 50% of baseline value: FIRST OCCURRENCE: HOLD treatment and resume at same dose when ANC and platelets return to baseline, SECOND OCCURRENCE: HOLD treatment and resume at 10 mg when ANC and platelets return to baseline, THIRD OCCURRENCE: Discontinue treatment. IF the delay between doses is greater than or equal to 7 days, restart dose escalation at 3 mg. There are no dose modifications recommended for lymphopenia.For infusion reactions NCI grade 3 or higher, HOLD therapy and restart when stable at same or lower dose increment.</value>
+<value>FluCam protocol = 28 days up to 6 cycles. If ANC is greater than or equal to 1 X 109/L AND platelets are greater than or equal to 100 X 109/L: Give as ordered. If ANC is less than 100 X 109/L OR platelets are less than 100 X 109/L: HOLD until improved to above. If improves within 14 days of scheduled dose: Resume at 100%. If improves within 15 to 28 days after scheduled dose: Reduce administration days to 2 days. For Grade 4 non-hematologic toxicity: Discontinue therapy. For Grade 3 non-hematologic toxicity: HOLD therapy until recovery to Grade 1 or 2. If recovery is longer than 28 days after scheduled dose, discontinue therapy.</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=4781</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert><value>HIGH ALERT MEDICATION</value>
+</HighAlert>
+</drug>

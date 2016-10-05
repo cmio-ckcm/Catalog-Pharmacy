@@ -1,0 +1,63 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "pralidoxime inj VIAL">
+<dose><value>20 - 50</value>
+<value>10 - 20</value>
+<value>15</value>
+<value>30</value>
+<value>8 - 10</value>
+<value>500</value>
+<value>600</value>
+<value>1 - 2</value>
+<value>250</value>
+</dose>
+<route><value>IV</value>
+<value>IM</value>
+<value>SC</value>
+</route>
+<strength><value>1 g</value>
+</strength>
+<frequency><value>ONCE</value>
+<value>Q10H</value>
+<value>CONTINUOUS</value>
+<value>EVERY 5 MINUTES</value>
+</frequency>
+<instruction><value>May repeat dose after 1 hour if muscle weakness is not relieved. (Loading dose) </value>
+<value>Administer every 10 hours following loading dose if muscle weakness persists.</value>
+<value>Administer by continuous infusion.</value>
+<value>May repeat dose every 15 minutes for 2 doses (MAXIMUM total dose of 45 mg/kg) for persistent mild symptoms.</value>
+<value>Administer over 15 minutes (Loading dose). Follow with maintenance infusion.</value>
+<value>Administer over 30 minutes (Loading dose). Follow with maintenance infusion.</value>
+<value>Administer by continuous infusion. (Maintenance dose)</value>
+<value>May repeat dose every 15 minutes to a total maximum dose of 1800 mg for persistent mild symptoms. May administer doses in rapid succession if severe symptoms develop.</value>
+<value>ONCE.</value>
+</instruction>
+<volume></volume>
+<units><value>mg/kg/dose</value>
+<value>mg/kg/hour</value>
+<value>mg/kg</value>
+<value>mg/hour</value>
+<value>mg</value>
+<value>g</value>
+</units>
+<Population><value>INFANT / CHILDREN. Organophosphate poinsoning</value>
+<value>ADULT. Organophosphate Poisoning</value>
+<value>ADULT. Anticholinesterase Overdose.</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>MAXIMUM 2000 mg/dose.</value>
+<value>Maintenance dose infusion.</value>
+<value>May administer subsequent doses in rapid succession if severe symptoms develop. If symptoms persist, repeating the series of 3 doses (45 mg/kg in 3 divided doses) beginning ~ 1 hour after administration of the last injection may be required.</value>
+<value>Subcutaneous route may be used when IV or IM administration is not possible. May administer subsequent doses in rapid succession if severe symptoms develop. If symptoms persist, repeating the series of 3 doses (45 mg/kg in 3 divided doses) beginning ~ 1 hour after administration of the last injection may be required.</value>
+<value>MAXIMUM Loading dose: 2 g. Administer over 15 to 30 minutes.</value>
+<value>MAXIMUM: 1000 mg/hour. May continue IV infusion until muscle weakness and/or fasciculations have been relieved.</value>
+<value>If symptoms persist, repeating the series of 3 doses (1800 mg in 3 divided doses) beginning ~ 1 hour after administration of the last injection may be required.</value>
+<value>Initial dose.</value>
+<value>Subsequent dose.</value>
+<value>Subcutaneous route may be used when IV or IM administration is not possible. If symptoms persist, repeating the series of 3 doses (1800 mg in 3 divided doses) beginning ~ 1 hour after administration of the last injection may be required.</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3527</value>
+</BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

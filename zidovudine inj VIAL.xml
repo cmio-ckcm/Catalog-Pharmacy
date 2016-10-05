@@ -1,0 +1,45 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "zidovudine inj VIAL">
+<dose><value>1</value>
+<value>2</value>
+<value>120</value>
+<value>20</value>
+<value>1.5</value>
+</dose>
+<route><value>IV</value>
+<value>IV </value>
+</route>
+<strength><value>10 mg/mL</value>
+</strength>
+<frequency><value>Q4H</value>
+<value>Q6H</value>
+<value>CONTINUOUS</value>
+<value>Q12H</value>
+<value>Q8H</value>
+</frequency>
+<instruction><value>Administer by continuous infusion.</value>
+<value>Administer by continuous infusion for 1 hour (loading dose), then reduce to 1 mg/kg/hour until cord clamped.</value>
+<value>Administer by continuous infusion until cord clamped.</value>
+</instruction>
+<volume><value>20 mL</value>
+</volume>
+<units><value>mg/kg</value>
+<value>mg/m2</value>
+<value>mg/m2/hour</value>
+<value>mg/kg/dose</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Patients aged 12 years and older.</value>
+<value>Patients aged 6 weeks to less than 12 years.</value>
+<value>Patients aged 6 weeks to less than 12 years. </value>
+<value>NEONATES: less than 30 weeks. Administer Q12H for 4 weeks, the Q8H for 2 weeks.</value>
+<value>NEONATES: 30 - 34 weeks. Administer Q12H for 2 weeks, the Q8H for 4 weeks.</value>
+<value>NEONATES: 35 weeks or more. Administer Q6H for 6 weeks.</value>
+<value>Southern Alberta Clinic Perinatal Protocol</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3305</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

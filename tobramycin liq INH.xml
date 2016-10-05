@@ -1,0 +1,25 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "tobramycin liq INH">
+<dose><value>300</value>
+</dose>
+<route><value>INH</value>
+</route>
+<strength><value>60 mg/mL</value>
+</strength>
+<frequency><value>Q12H</value>
+</frequency>
+<instruction></instruction>
+<volume><value>5 mL</value>
+</volume>
+<units><value>mg</value>
+</units>
+<Population><value>ADULT / CHILDREN, 6 years of age and older.</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Administer drug on alternating 28 day cycles of drug/no drug.</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2519</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

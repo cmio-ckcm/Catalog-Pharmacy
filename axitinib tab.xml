@@ -1,0 +1,31 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "axitinib tab">
+<dose><value>2</value>
+<value>3</value>
+<value>5</value>
+<value>7</value>
+<value>10</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>1 mg </value>
+<value>5 mg</value>
+</strength>
+<frequency><value>BID</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population><value>ADULT</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Child-Pugh class B: starting dose should be decreased by approximately half in moderate impairment. If patients tolerate starting dose and experience no adverse reaction greater than grade 2 for two consecutive weeks, are normotensive and are not receiving antihypertensives, dose may be increased from 5mg BID to 7 mg BID. Subsequently, using the same criteria, patients tolerating 7 mg BID may have dose increased to a maximum of 10 mg BID. </value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=6401</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=6402</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert><value>HIGH ALERT MEDICATION</value>
+</HighAlert>
+</drug>

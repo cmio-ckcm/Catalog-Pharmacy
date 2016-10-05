@@ -1,0 +1,22 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "colloidal oatmeal powder">
+<dose><value>1</value>
+</dose>
+<route><value>TOP</value>
+</route>
+<strength><value>21 g</value>
+</strength>
+<frequency><value>DAILY</value>
+</frequency>
+<instruction><value>Add to bath water.</value>
+</instruction>
+<volume></volume>
+<units><value>packet</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

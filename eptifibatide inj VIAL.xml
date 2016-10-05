@@ -1,0 +1,33 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "eptifibatide inj VIAL">
+<dose><value>180</value>
+<value>2</value>
+<value>1</value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>0.75 mg/mL</value>
+<value>2 mg/mL</value>
+</strength>
+<frequency><value>ONCE</value>
+<value>CONTINUOUS</value>
+</frequency>
+<instruction><value>Loading dose. ( Maximum dose: 22.6 mg)</value>
+<value>Administer by continuous infusion, up to 72 hours</value>
+<value>Adjust infusion if creatinine greater than 175 - 250 mol/L</value>
+<value>Second loading dose administered 10 minutes after first loading dose in patients undergoing PCI. ( Maximum dose: 22.6 mg)</value>
+</instruction>
+<volume><value>100 mL</value>
+<value>10 mL</value>
+</volume>
+<units><value>mcg/kg</value>
+<value>mcg/kg/minute</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Maximum infusion rate: 15 mg/hour</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

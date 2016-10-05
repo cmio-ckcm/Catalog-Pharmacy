@@ -1,0 +1,24 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "triamcinolone acetonide paste">
+<dose></dose>
+<route><value>TOP</value>
+</route>
+<strength><value>0.001</value>
+</strength>
+<frequency><value>HS</value>
+<value>BID</value>
+<value>TID</value>
+</frequency>
+<instruction><value>Press a small amount (about 0.6 cm) of paste to the lesion without rubbing.</value>
+<value>Press a small amount (about 0.6 cm) of paste to the lesion without rubbing after meals.</value>
+</instruction>
+<volume></volume>
+<units></units>
+<Population><value>ADULT</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

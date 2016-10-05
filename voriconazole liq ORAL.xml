@@ -1,0 +1,29 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "voriconazole liq ORAL">
+<dose><value>400</value>
+<value>200</value>
+<value>100</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>40 mg/mL</value>
+</strength>
+<frequency><value>BID</value>
+</frequency>
+<instruction><value>for 2 doses.</value>
+</instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Loading dose (patients &amp;gt;40 kg) for first 24 hours followed by maintenance dose at 50%. 400 mg = 10 mL suspension.</value>
+<value>200 mg = 5 mL suspension.</value>
+<value>Loading dose (patients &amp;lt;40 kg) for first 24 hours followed by maintenance dose at 50%. 200 mg = 5 mL suspension.</value>
+<value>100 mg = 2.5 mL suspension.</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2462</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

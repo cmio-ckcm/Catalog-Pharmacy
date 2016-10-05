@@ -1,0 +1,35 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "nitroglycerin inj BOTTLE">
+<dose><value>0.25 - 5</value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>100 mcg/mL</value>
+<value>200 mcg/mL</value>
+<value>400 mcg/mL</value>
+</strength>
+<frequency><value>CONTINUOUS</value>
+</frequency>
+<instruction><value>Administer by continuous infusion. Titrate dose every 3 to 5 minutes as required in increments of 0.5 to 1 mcg/kg/minute.</value>
+<value>Adminnister by continuous infusion. Initiate dose at 5 to 10 mcg/minute and titrate dose with 5 to 10 mcg/minute increments every 3 to 5 minutes until desired hemodynamic or clinical response.</value>
+<value>Administer by continuous infusion. Initiate dose at 0.1 to 0.2 mcg/kg/minute. Titrate dose with 0.1 mcg/kg/minute increments every 3 to 5 minutes until response noted.</value>
+<value>Administer by continuous infusion. Initiate dose at 5 to 10 mcg/minute and titrate dose with 5 to 10 mcg/minute increments every 3 to 5 minutes until desired hemodynamic or clinical response.</value>
+</instruction>
+<volume><value>250 mL</value>
+</volume>
+<units><value>mcg/kg/minute</value>
+<value>mcg/minute</value>
+</units>
+<Population><value>NEONATE</value>
+<value>INFANT / CHILDREN</value>
+<value>ADULT</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Usual dose: 1 to 3 mcg/kg/minute.</value>
+<value>If no response at 20 mcg/minute, increments of 10 to 20 mcg/minute can be used.</value>
+<value>If no response at dose of 0.3 mcg/kg/minute, increase by increments of 0.2 to 0.4 mcg/kg/minute.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "nadolol tab">
+<dose><value>40</value>
+<value>80</value>
+<value>160</value>
+<value>240</value>
+<value>320</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>40 mg</value>
+<value>80 mg</value>
+</strength>
+<frequency><value>DAILY</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>The value and safety of doses over 240 mg for angina pectoris and above 320 mg for hypertension have not been established.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

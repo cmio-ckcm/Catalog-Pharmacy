@@ -1,0 +1,25 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "lactulose packet">
+<dose><value>15</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>667 mg/mL</value>
+</strength>
+<frequency><value>DAILY</value>
+<value>BID</value>
+</frequency>
+<instruction></instruction>
+<volume><value>15 mL</value>
+</volume>
+<units><value>mL</value>
+</units>
+<Population></Population>
+<IndicationPRN><value>Constipation</value>
+</IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

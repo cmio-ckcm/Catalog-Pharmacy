@@ -1,0 +1,54 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "folic acid inj VIAL">
+<dose><value>0.25 - 20</value>
+<value>50</value>
+<value>0.4</value>
+<value>25 - 50</value>
+<value>15</value>
+<value>1</value>
+<value>0.1 - 0.4</value>
+<value>0.5</value>
+<value>75</value>
+<value>100</value>
+<value>150</value>
+</dose>
+<route><value>IV</value>
+<value>IM</value>
+<value>SC</value>
+</route>
+<strength><value>5 mg/mL</value>
+</strength>
+<frequency><value>DAILY</value>
+<value>Q4H</value>
+<value>Q6H  </value>
+</frequency>
+<instruction></instruction>
+<volume><value>10 mL</value>
+</volume>
+<units><value>mg</value>
+<value>mcg</value>
+<value>mcg/kg</value>
+</units>
+<Population><value>ADULT</value>
+<value>NEONATE</value>
+<value>INFANT  </value>
+<value>CHILDREN, less than 11 years of age.</value>
+<value>CHILDREN, 11 years of age and older.</value>
+<value>CHILDREN, aged 6 months to 3 years.</value>
+<value>CHILDREN, aged 4 to 6 years.</value>
+<value>CHILDREN, aged 7 to 10 years.</value>
+<value>CHILDREN, aged 11 to 14 years.</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Methanol poisoning. Continue treatment until methanol concentrations less than 6 mmol/L and/or no evidence of metabolic acidosis or retinal toxicity.</value>
+<value>Prophylaxis of Neural Tube Defects. Initiate 3 months prior to pregnancy and during first 3 months of pregnancy.</value>
+<value>Nutritional Maintenance</value>
+<value>Folic Acid Deficiency</value>
+<value>Folic Acid Deficiency. Initial dose.</value>
+<value>Folic Acid Deficiency. Maintenance dose.</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2760</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "aldesleukin inj VIAL">
+<dose><value>600 000</value>
+<value>600 000 - 720 000</value>
+<value>18 000 000</value>
+<value>9 000 000</value>
+</dose>
+<route><value>IV</value>
+<value>SC</value>
+</route>
+<strength><value>22 million unit</value>
+</strength>
+<frequency><value>Q8H</value>
+<value>DAILY</value>
+</frequency>
+<instruction><value>Administer over 15 minutes for 14 doses.</value>
+<value>for 5 days, then rest 2 days.</value>
+<value>for 2 days.</value>
+<value>for 3 days.</value>
+</instruction>
+<volume></volume>
+<units><value>unit/kg/dose</value>
+<value>unit </value>
+<value>unit</value>
+</units>
+<Population><value>ADULT</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Malignant Melanoma. Treatment schedule = 14 doses, rest 9 days.</value>
+<value>Renal Cell Carcinoma.  Treatment schedule = 14 doses, followed by 9 days of rest.</value>
+<value>Renal Cell Carcinoma. Treatment schedule: 18 million units SC DAILY for 5 days, rest 2 days, then 9 million units SC DAILY for 2 days, then 18 million units SC DAILY for 3 days.</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3334</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert><value>HIGH ALERT MEDICATION</value>
+</HighAlert>
+</drug>

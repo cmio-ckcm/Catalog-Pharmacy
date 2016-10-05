@@ -1,0 +1,26 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "acetylsalicylic acid tab EC">
+<dose><value>81</value>
+<value>162</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>81 mg</value>
+</strength>
+<frequency><value>DAILY</value>
+<value>LUNCH</value>
+<value>HS</value>
+<value>NOW</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>F</value>
+</AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

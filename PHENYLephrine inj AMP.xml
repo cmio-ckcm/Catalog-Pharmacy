@@ -1,0 +1,79 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "PHENYLephrine inj AMP">
+<dose><value>0.1 - 2</value>
+<value>5 - 20</value>
+<value>100</value>
+<value>5 - 10</value>
+<value>1 - 5</value>
+<value>1 - 10</value>
+<value>0.1</value>
+<value>0.2</value>
+<value>0.3</value>
+<value>0.4</value>
+<value>0.5</value>
+<value>0.1 - 10</value>
+<value>100 - 180</value>
+<value>250 - 500</value>
+<value>250 - 1000</value>
+<value>40 - 100</value>
+<value>10 - 35</value>
+<value>0.5 - 1.4</value>
+<value>0.1 - 350</value>
+<value>0.1 - 5</value>
+</dose>
+<route><value>IV</value>
+<value>SC</value>
+<value>IM</value>
+</route>
+<strength><value>10 mg/mL</value>
+</strength>
+<frequency><value>CONTINUOUS</value>
+<value>ONCE</value>
+<value>EVERY 10 MINUTES</value>
+<value>EVERY 15 MINUTES</value>
+<value>Q1H</value>
+<value>Q2H</value>
+</frequency>
+<instruction><value>Administer by continuous infusion. Titrate to desired response.</value>
+<value>Administer dose by direct injection over 20 to 30 seconds.</value>
+<value>Administer by direct injection every 10 to 15 minutes as necessary for hypotension.</value>
+<value>Administer subsequent doses by direct injection over 20 to 30 seconds.</value>
+<value>Administer by direct injection every 1 to 2 minutes as required.</value>
+</instruction>
+<volume><value>5 mL</value>
+</volume>
+<units><value>mcg/kg/minute</value>
+<value>mcg/kg/dose</value>
+<value>mg</value>
+<value>mcg/minute</value>
+<value>mcg</value>
+</units>
+<Population><value>NEONATE: Hypotension / Low Cardiac Output</value>
+<value>INFANT / CHILDREN. Hypotension, Shock</value>
+<value>INFANT / CHILDREN. Paroxysmal Supraventricular Tachycardia.</value>
+<value>ADULT. Mild/Moderate Hypotension</value>
+<value>ADULT. Severe Hypotension &amp; Shock.</value>
+<value>ADULT. Paroxysmal Supraventricular Tachycardia.</value>
+<value>ADULT. Hypotension during anesthesia.</value>
+<value>ADULT. Organ Donor Management - Hemodynamic Support.</value>
+</Population>
+<IndicationPRN><value>Hypotension</value>
+</IndicationPRN>
+<AdditionalNotes><value>AHS Provincial NEONATAL Standardized Concentration = 200 mcg/mL.</value>
+<value>Initial dose. Maximum initial dose: 500 mcg.</value>
+<value>MAXIMUM supplemental dose: 1000 mcg (1 mg).</value>
+<value>MAXIMUM dose: 5000 mcg (5 mg)</value>
+<value>MAXIMUM initial dose: 5 mg</value>
+<value>MAXIMUM single dose: 10 mg</value>
+<value>AHS Provincial ADULT / Standardized Concentration = 200 mcg/mL (Standard) &amp; 400 mcg/mL (HIGH).</value>
+<value>Total dose should not exceed 200 mcg.</value>
+<value>AHS Provincial ADULT / Standardized Concentration = 200 mcg/mL (Standard) &amp; 400 mcg/mL (HIGH). Dose should not exceed 200 mcg/minute.</value>
+<value>AHS Provincial ADULT / Standardized Concentration = 200 mcg/mL (Standard) &amp; 400 mcg/mL (HIGH). Doses up to 700 mcg/minute have been used.</value>
+<value>AHS Provincial ADULT / Standardized Concentration = 200 mcg/mL (Standard) &amp; 400 mcg/mL (HIGH). Doses greater than 0.2 mcg/kg/minute should be used with caution.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert><value>HIGH ALERT MEDICATION</value>
+</HighAlert>
+</drug>

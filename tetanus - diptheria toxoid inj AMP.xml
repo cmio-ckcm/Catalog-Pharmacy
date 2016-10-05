@@ -1,0 +1,22 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "tetanus - diptheria toxoid inj AMP">
+<dose><value>0.5</value>
+</dose>
+<route><value>IM</value>
+</route>
+<strength></strength>
+<frequency><value>ONCE</value>
+</frequency>
+<instruction></instruction>
+<volume><value>0.5 mL</value>
+</volume>
+<units><value>mL</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Preferred administration site: deltoid muscle.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

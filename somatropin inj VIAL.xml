@@ -1,0 +1,31 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "somatropin inj VIAL">
+<dose><value>0.067</value>
+<value>0.028</value>
+<value>0.107 - 0.125</value>
+<value>0.045 - 0.054</value>
+<value>0.05</value>
+</dose>
+<route><value>SC</value>
+</route>
+<strength><value>8.8 mg</value>
+</strength>
+<frequency><value>THREE TIMES WEEKLY</value>
+<value>DAILY</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mg/kg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Growth failure due to inadequate endogenous growth hormone secretion.</value>
+<value>Turner&amp;apos;s syndrome</value>
+<value>Growth failure in children with chronic renal failure</value>
+<value>Growth disturbance in short children born small for gestational age.</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1942</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

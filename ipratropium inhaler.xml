@@ -1,0 +1,28 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "ipratropium inhaler">
+<dose><value>2</value>
+<value>3</value>
+<value>8</value>
+</dose>
+<route><value>INH</value>
+</route>
+<strength><value>20 mcg</value>
+</strength>
+<frequency><value>TID</value>
+<value>QID</value>
+<value>EVERY 20 MINUTES</value>
+</frequency>
+<instruction><value>May use up to 3 hours.</value>
+</instruction>
+<volume></volume>
+<units><value>PUFF</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Acute Asthma Exacerbation: Administer in combination with shart-acting beta-adrengeric agonist.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

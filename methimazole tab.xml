@@ -1,0 +1,32 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "methimazole tab">
+<dose><value>5</value>
+<value>10</value>
+<value>20</value>
+<value>0.4</value>
+<value>0.2</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>5 mg</value>
+</strength>
+<frequency><value>TID</value>
+<value>DAILY</value>
+<value>BID</value>
+<value>Q8H</value>
+</frequency>
+<instruction><value>Administer daily calculated dose in 3 equally divided doses.</value>
+</instruction>
+<volume></volume>
+<units><value>mg</value>
+<value>mg/kg/day</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Pediatric dosing: initial</value>
+<value>Pediatric dosing: maintenance</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

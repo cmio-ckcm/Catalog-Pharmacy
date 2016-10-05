@@ -1,0 +1,26 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "lapatinib tab">
+<dose><value>1250</value>
+<value>1500</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>250 mg</value>
+</strength>
+<frequency><value>DAILY</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Taken in combination with capecitabine.</value>
+<value>Taken in combination with letrozole.</value>
+</AdditionalNotes>
+<BackgroundInformation><value>1250 mg = 5 tablets</value>
+<value>1500 mg = 6 tablets</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

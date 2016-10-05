@@ -1,0 +1,83 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "pHENobarbital inj AMP">
+<dose><value>10 - 20</value>
+<value>1 - 3</value>
+<value>60 - 90</value>
+<value>60 - 300</value>
+<value>60 - 200</value>
+<value>25 - 50</value>
+<value>20</value>
+<value>10</value>
+<value>3 - 5</value>
+<value>15 - 20</value>
+<value>5</value>
+<value>5 - 6</value>
+<value>2.5 - 3</value>
+<value>6 - 8</value>
+<value>3 - 4</value>
+<value>4 - 6</value>
+<value>2 - 3</value>
+<value>0.5 - 1.5</value>
+<value>2 - 5</value>
+<value>100 - 320</value>
+</dose>
+<route><value>IV</value>
+<value>SC</value>
+<value>IM</value>
+<value>IV </value>
+</route>
+<strength><value>30 mg/mL</value>
+</strength>
+<frequency><value>ONCE</value>
+<value>DAILY</value>
+<value>BID</value>
+<value>HS</value>
+<value>TID</value>
+<value>CONTINUOUS</value>
+<value>Q12H</value>
+<value>Q8H</value>
+</frequency>
+<instruction><value>Administer by direct injection. Repeat at 20 minute intervals until seizure is controlled OR a total cumulative dose of 1 to 2 grams is administered.</value>
+<value>Administer daily calculated dose in 2 equally divided doses.</value>
+<value>Administer daily calculated dose in 3 equally divided doses.</value>
+<value>Administer by continuous infusion.</value>
+<value>Repeat dose every 15 to 30 minutes until seizure is controlled OR a total dose of 30 mg/kg is administered.</value>
+</instruction>
+<volume><value>1 mL</value>
+</volume>
+<units><value>mg/kg</value>
+<value>mg/kg/day</value>
+<value>mg</value>
+<value>mg/day</value>
+<value>mg/hour</value>
+<value>mg/kg/dose</value>
+</units>
+<Population><value>ADULT. Status Epilepticus</value>
+<value>ADULT. Antiepileptic maintenance dose</value>
+<value>ADULT. Chronic Seizures in Palliative Patients.</value>
+<value>ADULT. Palliative care Sedation loading dose. (Restricted to Tertiary Palliative Care Unit 47-FMC)</value>
+<value>ADULT. Palliative care Sedation maintenance infusion. (Restricted to Tertiary Palliative Care Unit 47-FMC)</value>
+<value>NEONATE. Antiepileptic</value>
+<value>NEONATE. Antiepileptic: refractory seizures.</value>
+<value>INFANT / CHILDREN. Status Epilepticus</value>
+<value>INFANT. Antiepileptic Maintenance dose.</value>
+<value>CHILDREN; Aged 1 to 5 years. Antiepileptic Maintenance dose.</value>
+<value>CHILDREN; Aged 5 to 12 years. Antiepileptic Maintenance dose.</value>
+<value>CHILDREN; Aged greater than 12 years. Antiepileptic Maintenance dose.</value>
+<value>INFANT / CHILDREN. Sedation.</value>
+<value>ADULT. Hypnotic</value>
+</Population>
+<IndicationPRN><value>Seizures</value>
+</IndicationPRN>
+<AdditionalNotes><value>Maximum dose: 600 mg/day</value>
+<value>Initial dose</value>
+<value>Maintenance dose. MAXIMUM recommended dose: 180 - 300 mg/day.</value>
+<value>Loading dose.</value>
+<value>Maintenance dose. Initiate 12 to 24 hours after loading dose is administered. </value>
+<value>Loading dose. </value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

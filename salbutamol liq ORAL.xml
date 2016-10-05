@@ -1,0 +1,28 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "salbutamol liq ORAL">
+<dose><value>2</value>
+<value>4</value>
+<value>0.1</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>0.4 mg/mL</value>
+</strength>
+<frequency><value>TID</value>
+<value>QID</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mg</value>
+<value>mg/kg</value>
+</units>
+<Population><value>CHILDREN. 6 to 12 years old.</value>
+<value>ADULT / CHILDREN. Over 12 years old.</value>
+<value>CHILDREN. 2 to 6 years of age.</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

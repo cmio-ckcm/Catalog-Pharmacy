@@ -1,0 +1,26 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "oxybutynin liq ORAL">
+<dose><value>2.5</value>
+<value>5</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>1 mg/mL</value>
+</strength>
+<frequency><value>DAILY</value>
+<value>BID</value>
+<value>TID</value>
+<value>QID</value>
+<value>HS</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

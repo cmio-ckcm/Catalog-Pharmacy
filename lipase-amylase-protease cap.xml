@@ -1,0 +1,30 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "lipase-amylase-protease cap">
+<dose><value>1</value>
+<value>2</value>
+<value>3</value>
+<value>4</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>6 000 unit-30 000 unit-19 000 unit</value>
+</strength>
+<frequency><value>TID</value>
+<value>ONCE</value>
+</frequency>
+<instruction><value>Administer with meals.</value>
+<value>To be administered with snacks.</value>
+</instruction>
+<volume></volume>
+<units><value>CAP</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Replaces Creon 5 which was discontinued.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus><value>F</value>
+</AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

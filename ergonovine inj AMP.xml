@@ -1,0 +1,36 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "ergonovine inj AMP">
+<dose><value>0.2</value>
+<value>0.25</value>
+<value>0.5</value>
+<value>0.05</value>
+<value>0.1</value>
+</dose>
+<route><value>IM</value>
+<value>IV</value>
+</route>
+<strength><value>0.25 mg/mL</value>
+</strength>
+<frequency><value>ONCE</value>
+<value>Q2H</value>
+<value>Q4H</value>
+</frequency>
+<instruction><value>Administer immediately post-partum.</value>
+<value>May administer up to 5 doses.</value>
+<value>post-partum hemorrhage</value>
+</instruction>
+<volume><value>1 mL</value>
+</volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN><value>Post-Partum hemorrhage</value>
+</IndicationPRN>
+<AdditionalNotes><value>Dilute dose in 5 mL normal saline and administer over at least one minute into Y-site of running IV.</value>
+<value>Diagnosis of Coronary Artery Spasm.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

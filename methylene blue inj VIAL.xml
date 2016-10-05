@@ -1,0 +1,36 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "methylene blue inj VIAL">
+<dose><value>1 - 2</value>
+<value>50</value>
+<value>1</value>
+<value>10</value>
+</dose>
+<route><value>IV</value>
+<value>IM</value>
+</route>
+<strength><value>0.01</value>
+</strength>
+<frequency><value>ONCE</value>
+<value>Q4H</value>
+<value>Q6H</value>
+<value>Q8H</value>
+</frequency>
+<instruction></instruction>
+<volume><value>1 mL</value>
+<value>5 mL</value>
+</volume>
+<units><value>mg/kg</value>
+<value>mg</value>
+</units>
+<Population><value>INFANT / CHILDREN</value>
+<value>ADULT</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Methemoglobinemia. May repeat dose in 1 hour if necessary. MAXIMUM total dose: 7 mg/kg.</value>
+<value>Ifosfamide-Induced Encephalopathy. Treat until symptoms resolve.</value>
+<value>Renal Permeability Test. (Diagnostic dye.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

@@ -1,0 +1,32 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "insulin regular (human) inj VIAL">
+<dose><value>0.1</value>
+<value>0.05</value>
+</dose>
+<route><value>SC</value>
+<value>IM</value>
+<value>IV</value>
+</route>
+<strength><value>100 unit/mL</value>
+</strength>
+<frequency><value>DAILY</value>
+<value>ONCE</value>
+<value>CONTINUOUS</value>
+</frequency>
+<instruction><value>As per Sliding Scale order</value>
+<value>Continuous infusion. 1 unit/mL - 100 mL IV Bag.</value>
+</instruction>
+<volume><value>3 mL</value>
+</volume>
+<units><value>unit</value>
+<value>unit/kg/hr</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>F</value>
+</AHSFormularyStatus>
+<HighAlert><value>HIGH ALERT MEDICATION</value>
+</HighAlert>
+</drug>

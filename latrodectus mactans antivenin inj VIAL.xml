@@ -1,0 +1,23 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "latrodectus mactans antivenin inj VIAL">
+<dose><value>6000</value>
+</dose>
+<route><value>IM</value>
+<value>IV</value>
+</route>
+<strength><value>6 000 unit</value>
+</strength>
+<frequency><value>ONCE</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>units</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>One dose usually adequate. Recommend skin or conjuctival test be performed prior to administration of antivenin.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

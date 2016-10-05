@@ -1,0 +1,32 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "nelarabine inj VIAL">
+<dose><value>1500</value>
+<value>650</value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>5 mg/mL</value>
+</strength>
+<frequency><value>EVERY OTHER DAY</value>
+<value>DAILY</value>
+</frequency>
+<instruction><value>for 3 doses. Administer dose undiluted over 2 hours.</value>
+<value>for 5 consecutive days. Administer dose undiluted over 1 hour.</value>
+</instruction>
+<volume><value>50 mL</value>
+</volume>
+<units><value>mg/m2/day</value>
+</units>
+<Population><value>ADULT</value>
+<value>CHILDREN </value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>T-cell Lymphoblastic leukemia, T-cell lymphoblastic lymphoma. No dosage adjustments provided with manufacturer&amp;apos;s labelling; patients should be monitored closey if CrCl is less than 50 mL/minute or total bilirubin is 3 times ULN. Discontinuing treatment is recommended for neurotoxicity greater than or equal to grade 2.</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3323</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>F</value>
+</AHSFormularyStatus>
+<HighAlert><value>HIGH ALERT MEDICATION</value>
+</HighAlert>
+</drug>

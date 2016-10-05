@@ -1,0 +1,27 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "sevelamer tab">
+<dose><value>800</value>
+<value>1600</value>
+<value>2400</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>800 mg</value>
+</strength>
+<frequency><value>TID</value>
+</frequency>
+<instruction><value>Administer with meals.</value>
+</instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>1600 mg = 2 tablets</value>
+<value>2400 mg = 3 tablets</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1502</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

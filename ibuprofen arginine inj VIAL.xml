@@ -1,0 +1,43 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "ibuprofen arginine inj VIAL">
+<dose><value>10</value>
+<value>5</value>
+<value>400</value>
+<value>600</value>
+<value>800</value>
+<value>100</value>
+<value>200</value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>100 mg/mL</value>
+</strength>
+<frequency><value>ONCE</value>
+<value>Q24H  </value>
+<value>Q6H</value>
+<value>Q4H</value>
+</frequency>
+<instruction><value>INITIAL DOSE: 1 of 3. Infuse dose intravenously over 15 to 30 minutes.</value>
+<value>Infuse intravenously at 24 and 48 hours after initial dose.</value>
+<value>Administer dose over at least 30 minutes.</value>
+</instruction>
+<volume><value>8 mL</value>
+</volume>
+<units><value>mg/kg</value>
+<value>mg</value>
+</units>
+<Population><value>NEONATE</value>
+<value>ADULT </value>
+</Population>
+<IndicationPRN><value>Pain</value>
+<value>Temperature greater than 37.5°C. </value>
+</IndicationPRN>
+<AdditionalNotes><value>Treatment of Patent Ductus Arteriosus. If the Ductus fails to close or re-opens 48 hours after last dose, a second course of ibuprofen, alternative therapy or surgery may be needed.</value>
+<value>Treatment of Patent Ductus Arteriosus. If anuria or oliguria is present at the time of the second or third dose, consider withholding dose until laboratory data determinations indicate renal function is acceptable.</value>
+<value>MAXIMUM DOSE: 3200 mg/day</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

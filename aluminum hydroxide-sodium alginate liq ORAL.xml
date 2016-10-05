@@ -1,0 +1,26 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "aluminum hydroxide-sodium alginate liq ORAL">
+<dose><value>10</value>
+<value>15</value>
+<value>20</value>
+<value>10 - 20</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>20 mg-50 mg/mL</value>
+</strength>
+<frequency><value>TID</value>
+</frequency>
+<instruction><value>Administer after meals.</value>
+</instruction>
+<volume></volume>
+<units><value>mL</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

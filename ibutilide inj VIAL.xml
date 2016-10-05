@@ -1,0 +1,33 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "ibutilide inj VIAL">
+<dose><value>1</value>
+<value>10</value>
+<value>0.5</value>
+<value>5</value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>0.1 mg/mL</value>
+</strength>
+<frequency><value>ONCE</value>
+</frequency>
+<instruction><value>Administer intravenously over 10 minutes.</value>
+</instruction>
+<volume><value>10 mL</value>
+</volume>
+<units><value>mg</value>
+<value>mcg/kg</value>
+</units>
+<Population><value>ADULT. Safety and efficacy in patients with renal/hepatic failure not established. Although dosing adjustments are unlikely, it is recommended patient with abnormal liver function undergo continuous ECG monitoring beyond the usual 4 hour period seen with other patients.</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Supraventricular Tachyarrythmias in patients weighing 60 kg or more: if arrythmia does not erminate within 10 minutes after the end of the initial infusion, a second equal dose may be administered 10 minutes after completion of the initial dose.  Recommended to administer 1 to 2.5 g magnesium sulfate intravenously prior to ibutilide dosing to prevent Torsades de Pointes VT.  Ensure serum potassium is greater than 3.7 mmol/L.</value>
+<value>Supraventricular Tachyarrythmias in patients weighing less than 60 kg: if arrythmia does not erminate within 10 minutes after the end of the initial infusion, a second equal dose may be administered 10 minutes after completion of the initial dose.  Recommended to administer 1 to 2.5 g magnesium sulfate intravenously prior to ibutilide dosing to prevent Torsades de Pointes VT.  Ensure serum potassium is greater than 3.7 mmol/L.</value>
+<value>Post-cardiac surgery in patients weighing 60 kg or more: if arrythmia does not erminate within 10 minutes after the end of the initial infusion, a second equal dose may be administered 10 minutes after completion of the initial dose.  Recommended to administer 1 to 2.5 g magnesium sulfate intravenously prior to ibutilide dosing to prevent Torsades de Pointes VT.  Ensure serum potassium is greater than 3.7 mmol/L.</value>
+<value>Post-cardiac surgery in patients weighing less than 60 kg: if arrythmia does not erminate within 10 minutes after the end of the initial infusion, a second equal dose may be administered 10 minutes after completion of the initial dose.  Recommended to administer 1 to 2.5 g magnesium sulfate intravenously prior to ibutilide dosing to prevent Torsades de Pointes VT.  Ensure serum potassium is greater than 3.7 mmol/L.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert><value>HIGH ALERT MEDICATION</value>
+</HighAlert>
+</drug>

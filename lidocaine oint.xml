@@ -1,0 +1,25 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "lidocaine oint">
+<dose><value>1 - 2</value>
+</dose>
+<route><value>TOP </value>
+</route>
+<strength><value>0.05</value>
+</strength>
+<frequency><value>ONCE</value>
+</frequency>
+<instruction><value>Apply a thin layer to affected area as required to control symptoms.</value>
+<value>Apply to the tube prior to endotracheal intubation.</value>
+</instruction>
+<volume></volume>
+<units><value>g</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Total maximum dose administered in a 24 hour period to healthy adults should not exceed 20 g of ointment 20 g = 1000 mg lidocaine base).</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

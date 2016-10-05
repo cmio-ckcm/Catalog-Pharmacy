@@ -1,0 +1,27 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "copper sulfate inj VIAL">
+<dose><value>0.5 - 1.5</value>
+<value>20</value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>0.4 mg/mL</value>
+</strength>
+<frequency><value>DAILY</value>
+</frequency>
+<instruction></instruction>
+<volume><value>10 mL</value>
+</volume>
+<units><value>mg/day</value>
+<value>ug/kg</value>
+</units>
+<Population><value>ADULT</value>
+<value>PEDIATRIC</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Additive for parenteral nutritition therapy.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

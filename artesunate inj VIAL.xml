@@ -1,0 +1,28 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "artesunate inj VIAL">
+<dose><value>2.4</value>
+</dose>
+<route><value>IV</value>
+<value>IM</value>
+</route>
+<strength><value>110 mg</value>
+</strength>
+<frequency><value>Q12H</value>
+<value>ONCE</value>
+</frequency>
+<instruction><value>for first 3 doses of 4. Administer STAT and at 12, 24 and 48 hours (4 dose total treatment).</value>
+<value>fourth dose of 4. Administered at 48 hours after initiating treatment. (STAT and at 12, 24 and 48 hours. 4 dose total treatment).</value>
+</instruction>
+<volume></volume>
+<units><value>mg/kg</value>
+</units>
+<Population><value>ADULT</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>May administer IM if IV route not available.</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2579</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

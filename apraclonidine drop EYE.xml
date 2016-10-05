@@ -1,0 +1,30 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "apraclonidine drop EYE">
+<dose><value>1</value>
+<value>2</value>
+</dose>
+<route><value>OPHT</value>
+</route>
+<strength><value>0.005</value>
+</strength>
+<frequency><value>TID</value>
+</frequency>
+<instruction><value>Instill one drop in LEFT eye TID.</value>
+<value>Instill two drops in LEFT eye TID.</value>
+<value>Instill one drop in RIGHT eye TID.</value>
+<value>Instill two drops in RIGHT eye TID.</value>
+<value>Instill one drop in affected eye(s) TID.</value>
+<value>Instill two drops in affected eye(s) TID.</value>
+</instruction>
+<volume><value>5 mL</value>
+</volume>
+<units><value>gtt</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>F</value>
+</AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

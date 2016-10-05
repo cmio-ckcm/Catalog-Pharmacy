@@ -1,0 +1,27 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "tetracaine drop EYE">
+<dose><value>1</value>
+<value>2</value>
+</dose>
+<route><value>OPHT</value>
+</route>
+<strength><value>0.005</value>
+</strength>
+<frequency><value>ONCE</value>
+<value>EVERY 5 MINUTES</value>
+</frequency>
+<instruction><value>Instill in LEFT eye prior to evaluation.</value>
+<value>Instill in RIGHT eye prior to evaluation.</value>
+<value>Instill in LEFT eye every 5 minutes for 3 doses Pre-Operatively.</value>
+<value>Instill in RIGHT eye every 5 minutes for 3 doses Pre-Operatively.</value>
+</instruction>
+<volume></volume>
+<units><value>gtt</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

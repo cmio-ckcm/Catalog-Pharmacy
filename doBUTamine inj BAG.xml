@@ -1,0 +1,33 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "doBUTamine inj BAG">
+<dose><value>2.5</value>
+<value>5</value>
+<value>7.5</value>
+<value>10</value>
+<value>12.5</value>
+<value>15</value>
+<value>17.5</value>
+<value>20</value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>2 000 mcg/mL</value>
+<value>4 000 mcg/mL</value>
+</strength>
+<frequency><value>CONTINUOUS</value>
+</frequency>
+<instruction><value>Titrate infusion rate to desired response.</value>
+</instruction>
+<volume><value>250 mL</value>
+</volume>
+<units><value>mcg/kg/minute</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>http://intraweb01.albertahealthservices.ca/pharmacy/pm/pm_preview.asp?id=7829</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert><value>HIGH ALERT MEDICATION</value>
+</HighAlert>
+</drug>

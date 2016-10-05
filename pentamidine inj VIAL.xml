@@ -1,0 +1,42 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "pentamidine inj VIAL">
+<dose><value>4</value>
+<value>300</value>
+<value>2 - 4</value>
+</dose>
+<route><value>IV </value>
+<value>IV</value>
+<value>INH</value>
+<value>IM</value>
+</route>
+<strength><value>300 mg</value>
+</strength>
+<frequency><value>DAILY</value>
+<value>MONTHLY</value>
+<value>EVERY 4 WEEKS</value>
+<value>EVERY 2 WEEKS</value>
+<value>EVERY 3 WEEKS</value>
+<value>WEEKLY</value>
+<value>TWO TIMES WEEKLY</value>
+</frequency>
+<instruction><value>Administer by Respirgard II nebulizer.</value>
+</instruction>
+<volume></volume>
+<units><value>mg/kg</value>
+<value>mg</value>
+</units>
+<Population><value>ADULT. Treatment of Pneumocystis jiroveci.</value>
+<value>ADULT. Prophylaxis of Pneumocystis jiroveci.</value>
+<value>CHILDREN. Treatment of Pneumocystis jiroveci.</value>
+<value>CHILDREN. Prophylaxis of Pneumocystis jiroveci.</value>
+<value>ADULT. Leishmaniasis, visceral</value>
+<value>ADULT. Leishmaniasis, cutaneous</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Recommended treamtment is 14 days. Benefits and risks of treament for longer than 14 days are not well defined.</value>
+<value>Recommend treatment until lesions heal.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

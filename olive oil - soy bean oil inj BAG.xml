@@ -1,0 +1,28 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "olive oil - soy bean oil inj BAG">
+<dose><value>1</value>
+<value>2</value>
+<value>3</value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>0.2</value>
+</strength>
+<frequency><value>DAILY</value>
+</frequency>
+<instruction><value>Administer over 12 hours</value>
+<value>Administer over 24 hours</value>
+</instruction>
+<volume><value>500 mL</value>
+</volume>
+<units><value>mL/hour</value>
+<value>g (lipid)/kg/day</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Maximum infusion rate: 0.15 g/kg/hour (0.75 mL/kg/hour)</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "fluticasone-salmeterol disk">
+<dose><value>1</value>
+</dose>
+<route><value>INH</value>
+</route>
+<strength><value>250 mcg-50 mcg</value>
+<value>500 mcg-50 mcg</value>
+</strength>
+<frequency><value>BID</value>
+</frequency>
+<instruction><value>Administer in the morning and evening.</value>
+</instruction>
+<volume></volume>
+<units><value>PUFFS</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

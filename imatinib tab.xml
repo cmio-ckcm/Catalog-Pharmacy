@@ -1,0 +1,32 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "imatinib tab">
+<dose><value>600</value>
+<value>200</value>
+<value>300</value>
+<value>400</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>100 mg</value>
+<value>400 mg</value>
+</strength>
+<frequency><value>DAILY</value>
+<value>BID</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population><value>ADULT</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Recommended initial dose in patients with severe hepatic impairment is 200 mg, may increase to 300 mg in the absence of severe toxicity. For patients with CrCl of 40 to 59 mL/minute recommend initial dose of 400mg and titrate to efficacy and tolerability. Patients with CrCl of 20 to 39 mL/minute, recommend initial dose of 400 mg and titrate to efficacy and tolerability; the use of 800mg dose is not recommended. Imatinib use in patients with CrCl less than 20 mL/minute is not recommended. [600mg provided as 1 x 400mg plus 2 x 100mg]</value>
+<value>Recommended initial dose in patients with severe hepatic impairment is 200 mg, may increase to 300 mg in the absence of severe toxicity. For patients with CrCl of 40 to 59 mL/minute recommend initial dose of 400mg and titrate to efficacy and tolerability. Patients with CrCl of 20 to 39 mL/minute, recommend initial dose of 400 mg and titrate to efficacy and tolerability; the use of 800mg dose is not recommended. Imatinib use in patients with CrCl less than 20 mL/minute is not recommended..</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3402</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3403</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert><value>HIGH ALERT MEDICATION</value>
+</HighAlert>
+</drug>

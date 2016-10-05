@@ -1,0 +1,25 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "ciclesonide inhaler">
+<dose><value>100</value>
+<value>200</value>
+<value>400</value>
+</dose>
+<route><value>INH</value>
+</route>
+<strength><value>100 mcg</value>
+<value>200 mcg</value>
+</strength>
+<frequency><value>DAILY</value>
+<value>BID</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mcg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

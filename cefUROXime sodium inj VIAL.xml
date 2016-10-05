@@ -1,0 +1,25 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "cefUROXime sodium inj VIAL">
+<dose><value>750</value>
+<value>1500</value>
+</dose>
+<route><value>IV</value>
+<value>IM</value>
+</route>
+<strength><value>1.5 g</value>
+<value>7.5 g</value>
+<value>750 mg</value>
+</strength>
+<frequency><value>Q8H</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "sodium hyaluronidate inj SYR">
+<dose></dose>
+<route><value>INTRA-OCCULAR</value>
+</route>
+<strength><value>10 mg/mL</value>
+<value>14 mg/mL</value>
+<value>23 mg/mL</value>
+</strength>
+<frequency><value>ONCE</value>
+</frequency>
+<instruction><value>Inject into anterior chamber of LEFT eye.</value>
+<value>Inject into anterior chamber of RIGHT eye.</value>
+</instruction>
+<volume><value>0.55 mL</value>
+<value>0.85 mL</value>
+<value>0.6 mL</value>
+</volume>
+<units><value>mL</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

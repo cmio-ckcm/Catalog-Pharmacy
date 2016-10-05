@@ -1,0 +1,25 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "methoxsalen inj AMP">
+<dose></dose>
+<route></route>
+<strength><value>20 mcg/mL</value>
+</strength>
+<frequency><value>ONCE</value>
+</frequency>
+<instruction><value>Add dose to recirculation bag prior to photoactivation phase.</value>
+</instruction>
+<volume><value>10 mL</value>
+</volume>
+<units><value>mL</value>
+</units>
+<Population><value>ADULT</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Dose (mL of methoxsalen) = &amp;quot;Treatment Volume&amp;quot; X 0.017</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=6501</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>FR</value>
+</AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

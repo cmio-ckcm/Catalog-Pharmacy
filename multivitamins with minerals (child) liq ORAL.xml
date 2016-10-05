@@ -1,0 +1,24 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "multivitamins with minerals (child) liq ORAL">
+<dose><value>5</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength></strength>
+<frequency><value>DAILY</value>
+<value>BID</value>
+</frequency>
+<instruction><value>Administer with breakfast and supper meals.</value>
+</instruction>
+<volume></volume>
+<units><value>mL</value>
+</units>
+<Population><value>INFANT / CHILDREN: 1 to 8 years</value>
+<value>INFANT / CHILDREN: 9 yeas and older.</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

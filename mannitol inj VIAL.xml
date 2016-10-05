@@ -1,0 +1,37 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "mannitol inj VIAL">
+<dose><value>50 - 100</value>
+<value>0.5 - 1</value>
+<value>0.25 - 0.5</value>
+<value>0.25 - 2 </value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>250 mg/mL</value>
+</strength>
+<frequency><value>ONCE</value>
+<value>Q4H</value>
+<value>Q6H</value>
+</frequency>
+<instruction><value>INITIAL DOSE: Administer over 5 minutes.</value>
+<value>INITIAL DOSE: Administer over 10 minutes.</value>
+</instruction>
+<volume><value>50 mL</value>
+</volume>
+<units><value>g</value>
+<value>g/kg/dose</value>
+<value>g/kg </value>
+<value>g/kg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>ADULT: prevention of Oliguric phase of Acute Renal Failure.</value>
+<value>INFANTS / CHILDREN: Initial dose - Intracranial pressure.</value>
+<value>INFANTS / CHILDREN: Maintenance dose - Intracranial pressure.</value>
+<value>ADULT: Increased intracranial pressure.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

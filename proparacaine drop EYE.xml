@@ -1,0 +1,36 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "proparacaine drop EYE">
+<dose><value>1</value>
+<value>2</value>
+</dose>
+<route><value>OPHTH</value>
+</route>
+<strength><value>0.005</value>
+</strength>
+<frequency><value>ONCE</value>
+<value>EVERY 5 MINUTES</value>
+<value>EVERY 10 MINUTES</value>
+</frequency>
+<instruction><value>Instill in LEFT eye just prior to procedure.</value>
+<value>Instill in RIGHT eye just prior to procedure.</value>
+<value>Instill in affected eye just prior to procedure.</value>
+<value>Instill in LEFT eye every 5 minutes for 5 to 7 doses.</value>
+<value>Instill in LEFT eye every 10 minutes for 5 to 7 doses.</value>
+<value>Instill in RIGHT eye every 5 minutes for 5 to 7 doses..</value>
+<value>Instill in RIGHT eye every 10 minutes for 5 to 7 doses..</value>
+<value>Instill in affected eye every 5 minutes for 5 to 7 doses..</value>
+<value>Instill in affected eye every 10 minutes for 5 to 7 doses..</value>
+</instruction>
+<volume><value>15 mL</value>
+</volume>
+<units><value>gtt</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Tonometry, Gonioscopy,suture removal</value>
+<value>Short corneal or conjectival procedures.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

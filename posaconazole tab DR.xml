@@ -1,0 +1,29 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "posaconazole tab DR">
+<dose><value>300</value>
+<value>400</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>100 mg</value>
+</strength>
+<frequency><value>BID</value>
+<value>DAILY</value>
+</frequency>
+<instruction><value>for DAY 1 of treatment.</value>
+<value>Maintenance dose.</value>
+</instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population><value>ADULT</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>New dosage form achieves better serum levels than oral suspension with a lower dose and has fewer drug interactions than the oral suspension format.</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=7162</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>FRG</value>
+</AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

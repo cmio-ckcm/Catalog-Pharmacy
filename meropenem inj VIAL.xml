@@ -1,0 +1,33 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "meropenem inj VIAL">
+<dose><value>500</value>
+<value>1</value>
+<value>2</value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>1 g</value>
+<value>500 mg</value>
+</strength>
+<frequency><value>Q8H</value>
+<value>Q6H</value>
+<value>Q12H</value>
+<value>Q24H</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mg</value>
+<value>g</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>CrCl = 10 - 29 mL/minute</value>
+<value>CrCl &amp;lt; 10 mL/minute</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2369</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2370</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>FRGTI</value>
+</AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "medroxyPROGESTERone inj VIAL">
+<dose><value>150</value>
+<value>50</value>
+<value>100</value>
+<value>400 - 1000</value>
+<value>400</value>
+<value>500</value>
+</dose>
+<route><value>IM</value>
+</route>
+<strength><value>150 mg/mL</value>
+</strength>
+<frequency><value>EVERY 3 MONTHS</value>
+<value>WEEKLY</value>
+<value>EVERY 2 WEEKS</value>
+<value>MONTHLY</value>
+<value>DAILY</value>
+<value>TWO TIMES WEEKLY</value>
+</frequency>
+<instruction><value>for 28 days.</value>
+</instruction>
+<volume><value>1 mL</value>
+</volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Initial dose: Endometrial and Renal Carcinoma</value>
+<value>Maintenance dose (minimum): Endometrial and Renal Carcinoma.</value>
+<value>Breast Cancer.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

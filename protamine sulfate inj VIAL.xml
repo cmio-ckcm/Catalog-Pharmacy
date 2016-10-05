@@ -1,0 +1,68 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "protamine sulfate inj VIAL">
+<dose><value>1</value>
+<value>0.5 - 0.75</value>
+<value>0.375 - 0.5</value>
+<value>0.25 - 0.375</value>
+<value>25</value>
+<value>50</value>
+<value>1 - 1.5</value>
+<value>0.5</value>
+<value>25 - 50</value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>10 mg/mL</value>
+</strength>
+<frequency><value>ONCE</value>
+<value>CONTINUOUS</value>
+</frequency>
+<instruction><value>Administer by direct injection.</value>
+<value>Administer dose by direct injection.</value>
+<value>Remainder of dose administered as a continuous infusion over 8 to 16 hours, following direction injection of 25 mg.</value>
+<value>Remainder of dose administered as a continuous infusion over 8 to 16 hours, following direction injection of 50 mg.</value>
+<value>May administer as additional dose IF PTT remains prolonged 2 to 4 hours after first protamine sulfate dose. </value>
+<value>Administer after stopping the heparin infusion. </value>
+</instruction>
+<volume><value>25 mL</value>
+<value>5 mL</value>
+</volume>
+<units><value>mg/100 unit of heparin administered/dose</value>
+<value>mg</value>
+<value>mg/1 mg of enoxaparin administered/dose</value>
+<value>mg/100 anti-Xa units of LMWH administered/dose</value>
+<value>mg/100 units of dalteparin administered/dose</value>
+</units>
+<Population><value>NEONATE. Heparin dose administered within last 4 hours.</value>
+<value>INFANTS / CHILDREN. Heparin dose administered by direct IV injection and time since last heparin dose is less than 30 minutes.</value>
+<value>INFANTS / CHILDREN. Heparin dose administered by direct IV injection and time since last heparin dose is 30 to 60 minutes.</value>
+<value>INFANTS / CHILDREN. Heparin dose administered by direct IV injection and time since last heparin dose is 60 to 120 minutes.</value>
+<value>INFANTS / CHILDREN. Heparin dose administered by direct IV injection and time since last heparin dose is more than 2 hours.</value>
+<value>INFANTS / CHILDREN. Heparin administered by direct IV infusion during the preceding 3 to 4 hours.</value>
+<value>INFANTS / CHILDREN. Heparin administered by deep subcutaneous injection.</value>
+<value>INFANTS / CHILDREN. Enoxaparin; time since last enoxaparin dose is less than 8 hours.</value>
+<value>INFANTS / CHILDREN. Enoxaparin; time since last enoxaparin dose is 8 to 12 hours.</value>
+<value>INFANTS / CHILDREN. Enoxaparin; additional dose where PTT remains prolonged 2 to 4 hours after first protamine sulfate infusion.</value>
+<value>INFANTS / CHILDREN. LMWH (other than Enoxaparin); time since last LMWH dose is less than 4 hours.</value>
+<value>INFANTS / CHILDREN. LMWH (other than Enoxaparin); additional dose where PTT remains prolonged 2 to 4 hours after first protamine sulfate infusion.</value>
+<value>ADULT. Heparin (unfractionated) dose administered by direct IV injection and time since last heparin dose is less than 30 minutes.</value>
+<value>ADULT. Heparin (unfractionated) dose administered by direct IV injection and time since last heparin dose is 30 to 120 minutes.</value>
+<value>ADULT. Heparin (unfractionated) dose administered by direct IV injection and time since last heparin dose is more than 2 hours.</value>
+<value>ADULT. Heparin administered by IV infusion.</value>
+<value>ADULT. Heparin administered by subcutaneous injection.</value>
+<value>ADULT. Dalteparin.</value>
+<value>ADULT. Dalteparin; additional dose where PTT remains prolonged 2 to 4 hours after first protamine sulfate infusion.</value>
+<value>ADULT. Enoxaparin; time since last enoxaparin dose is less than 8 hours.</value>
+<value>ADULT. Enoxaparin; time since last enoxaparin dose is 8 to 12 hours.</value>
+<value>ADULT. Enoxaparin; additional dose where PTT remains prolonged 2 to 4 hours after first protamine sulfate infusion.</value>
+<value>INFANTS / CHILDREN. Heparin administered by direct IV infusion in the preceding 3 to 4 hours.</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>MAXIMUM dose: 50 mg.</value>
+<value>Even with higher prtoamine sulfate doses, the PTT may be prolonged longer than seen with unfractionated heparin, as anti-Xa activity is never completely neutralized (MAX ~ 60%).</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

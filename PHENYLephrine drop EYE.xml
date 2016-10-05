@@ -1,0 +1,27 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "PHENYLephrine drop EYE">
+<dose><value>1</value>
+</dose>
+<route><value>OPHTH</value>
+</route>
+<strength><value>0.025</value>
+<value>0.1</value>
+</strength>
+<frequency><value>EVERY 5 MINUTES</value>
+</frequency>
+<instruction><value>Instill into conjuctiva of LEFT eye at 5 minute intervals up to 3 drops as required to produce mydriasis.</value>
+<value>Instill into conjuctiva of RIGHT eye at 5 minute intervals up to 3 drops as required to product mydriasis.</value>
+<value>Instill into conjuctiva of affected eye(s) at 5 minute intervals up to 3 drops per eye as required to product mydriasis.</value>
+</instruction>
+<volume><value>5 mL</value>
+<value>0.3 mL</value>
+</volume>
+<units><value>gtt</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

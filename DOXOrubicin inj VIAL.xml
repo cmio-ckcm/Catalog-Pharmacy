@@ -1,0 +1,44 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "DOXOrubicin inj VIAL">
+<dose><value>50</value>
+<value>40</value>
+<value>60</value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>150 mg</value>
+<value>2 mg/mL</value>
+<value>50 mg</value>
+</strength>
+<frequency><value>ONCE</value>
+</frequency>
+<instruction><value>DAY 1 of 21. Administer dose by direct injection.</value>
+</instruction>
+<volume><value>100 mL</value>
+<value>25 mL</value>
+<value>5 mL</value>
+</volume>
+<units><value>mg/m2</value>
+</units>
+<Population><value>cyclophosphamide, DOXOrubicin, vinCRIStine (CAV). Small Cell Lung Cancer.</value>
+<value>DOXOrubicin/CISplatin/cyclophosphamide (PAC). Thymic Malignancy</value>
+<value>CISplatin/DOXOrubicin/vinCRIStine/cyclophosphamide. Thymoma</value>
+<value>DOXOrubicin, Cyclophosphamide (AC) followed by DOCEtaxel. Breast Cancer (NEOADJUVANT Treatment).</value>
+<value>DOXOrubicin, Cyclophosphamide (AC) followed by DOCEtaxel and Trastuzumab. Breast Cancer (NEOADJUVANT Treatment).</value>
+<value>DOXOrubicin, Cyclophosphamide (AC) followed by PACLitaxel (weekly) and Trastuzumab. Breast Cancer (NEOADJUVANT Treatment).</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>If ANC is greater than or equal to 1.5 AND Plts are greater than or equal to 100 x 109/L: Give as ordered. If ANC is less than 1.5 OR Plts are less than 100 x 109/L: Delay 1 week. If Creatinine Clearance is greater than or equal to 50 mL/minute: Give as ordered. If Creatinine Clearance is less than 50 mL/minute: Contact physician. MAX Lifetime IV DOXOrubicin Dose: a) No risk factors: 550 mg/m2. b) Concurrent radiation therapy; previous or concurrent use of cyclophosphamide, anthracyclines or other cardiotoxic drugs: 450 mg/m2.</value>
+<value>If ANC is greater than or equal to 1.5 AND Plts are greater than or equal to 100 x 109/L: Give as ordered. If ANC is less than 1.5 OR Plts are less than 100 x 109/L: Contact physician. If Creatinine Clearance is greater than or equal to 50 mL/minute: Give as ordered. If Creatinine Clearance is less than 50 mL/minute: Contact physician. MAX Lifetime IV DOXOrubicin Dose: a) No risk factors: 550 mg/m2. b) Concurrent radiation therapy; previous or concurrent use of cyclophosphamide, anthracyclines or other cardiotoxic drugs: 450 mg/m2. </value>
+<value>If ANC is greater than or equal to 1.5 AND Plts are greater than or equal to 100 x 109/L: Give as ordered. If ANC is less than 1.5 OR Plts are less than 100 x 109/L: Delay 1 week. MAX Lifetime IV DOXOrubicin Dose: a) No risk factors: 550 mg/m2. b) Concurrent radiation therapy; previous or concurrent use of cyclophosphamide, anthracyclines or other cardiotoxic drugs: 450 mg/m2. </value>
+<value>If ANC is greater than or equal to 1.5 AND Plts are greater than or equal to 100 x 109/L: Give as ordered. If ANC is less than 1.5 OR Plts are less than 100 x 109/L: Delay 1 week. MAX Lifetime IV DOXOrubicin Dose: a) No risk factors: 550 mg/m2. b) Concurrent radiation therapy; previous or concurrent use of cyclophosphamide, anthracyclines or other cardiotoxic drugs: 450 mg/m2. [Part 1: Cycles 1, 2, 3, &amp; 4] </value>
+<value>If ANC is greater than or equal to 1.5 AND Plts are greater than or equal to 100 x 109/L: Give as ordered. If ANC is less than 1.5 OR Plts are less than 100 x 109/L: Delay 1 week. If Creatinine Clearance is greater than or equal to 50 mL/minute: Give as ordered. If Creatinine Clearance is less than 50 mL/minute: Contact physician. MAX Lifetime IV DOXOrubicin Dose: a) No risk factors: 550 mg/m2. b) Concurrent radiation therapy; previous or concurrent use of cyclophosphamide, anthracyclines or other cardiotoxic drugs: 450 mg/m2. </value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3380</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3376</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3379</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert><value>HIGH ALERT MEDICATION</value>
+</HighAlert>
+</drug>

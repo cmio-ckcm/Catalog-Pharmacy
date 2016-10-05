@@ -1,0 +1,25 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "testosterone enanthate inj VIAL">
+<dose><value>50 - 400</value>
+<value>50 - 100</value>
+</dose>
+<route><value>IM</value>
+</route>
+<strength><value>200 mg/mL</value>
+</strength>
+<frequency><value>EVERY 4 WEEKS</value>
+<value>EVERY 2 WEEKS</value>
+<value>WEEKLY</value>
+</frequency>
+<instruction></instruction>
+<volume><value>5 mL</value>
+</volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

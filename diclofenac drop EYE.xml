@@ -1,0 +1,32 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "diclofenac drop EYE">
+<dose><value>1</value>
+<value>2</value>
+</dose>
+<route><value>TOP</value>
+</route>
+<strength><value>0.001</value>
+</strength>
+<frequency><value>ONCE</value>
+<value>TID</value>
+<value>QID</value>
+</frequency>
+<instruction><value>Administer to LEFT eye 60  minutes pre-operatively.</value>
+<value>Administer to RIGHT eye 60 minutes pre-operatively.</value>
+<value>Adminster to LEFT eye.</value>
+<value>Administer to LEFT eye.</value>
+<value>Adminster to RIGHT eye.</value>
+<value>Administer to RIGHT eye.</value>
+</instruction>
+<volume><value>5 mL</value>
+</volume>
+<units><value>gtt</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>NFTI</value>
+</AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

@@ -1,0 +1,34 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "ertapenem inj VIAL">
+<dose><value>1</value>
+<value>15</value>
+<value>500</value>
+<value>150</value>
+</dose>
+<route><value>IV</value>
+<value>IV </value>
+<value>IM</value>
+</route>
+<strength><value>1 g</value>
+</strength>
+<frequency><value>DAILY</value>
+<value>Q12H</value>
+<value>ONCE</value>
+</frequency>
+<instruction><value>Maximum single dose: 500 mg.</value>
+<value>POST-DIALYSIS, if patient received 500 mg dose within 6 hours of dialysis.</value>
+</instruction>
+<volume></volume>
+<units><value>g</value>
+<value>mg/kg/dose</value>
+<value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Patients with GFR less than or equal to 30 mL/minute/1.73m2</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

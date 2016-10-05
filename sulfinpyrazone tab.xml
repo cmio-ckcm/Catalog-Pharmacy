@@ -1,0 +1,28 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "sulfinpyrazone tab">
+<dose><value>100</value>
+<value>200</value>
+<value>400</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>200 mg </value>
+</strength>
+<frequency><value>BID</value>
+<value>TID</value>
+<value>QID</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population><value>ADULT</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Hyperuricemia</value>
+<value>Platelet Aggregation Inhibition.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

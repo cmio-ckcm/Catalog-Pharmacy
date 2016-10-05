@@ -1,0 +1,56 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "propofol inj VIAL">
+<dose><value>0.3 - 4.5</value>
+<value>0.3 - 3</value>
+<value>10</value>
+<value>0.3 - 5</value>
+<value>0.5 - 5</value>
+<value>1</value>
+<value>0.5</value>
+<value>5 - 50</value>
+<value>250 - 1000</value>
+<value>25 - 100</value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>10 mg/mL</value>
+</strength>
+<frequency><value>CONTINUOUS</value>
+<value>ONCE</value>
+</frequency>
+<instruction><value>Initial Dose: Start at lower dose for at least 5 minutes. Increase by increments of 0.3 to 0.6 mg/kg/hour over 5 to 10 minutes until desired level of sedation is reached. </value>
+<value>Administer by continuous infusion; maintenance dose.</value>
+<value>Administer by direct injection every 30 to 60 seconds until target sedation level achieved.</value>
+<value>Initial Dose: Start at 0.3 mg/kg/hour for at least 5 minutes. Increase by increments of 0.3 to 0.6 mg/kg/hour over 5 to 10 minutes until desired level of sedation is reached. </value>
+<value>Initial dose: Administer by direct injection over 1 to 2 minutes. Up to a MAXIMUM dose of 40 mg.</value>
+<value>Maintenance Dose: Administer by direct injection. Up to a MAX dose of 20 mg administered every 45 seconds or longer.</value>
+<value>Administer by continuous infusion. Titrate to desired clinical effect and minimal hypotension. A minimum period of 5 minutes between dosage adjustments to be allowed for peak drug effect.</value>
+<value>Initial dose: Administer over 3 to 5 minutes.</value>
+</instruction>
+<volume><value>100 mL</value>
+<value>20 mL</value>
+<value>50 mL</value>
+</volume>
+<units><value>mg/kg/hour</value>
+<value>mg</value>
+<value>mg/kg</value>
+<value>mcg/kg/minute</value>
+</units>
+<Population><value>ADULT sedation in critical care areas. Maximum rate should not exceed 5 mg/kg/hour, due to potential cardiac toxicity.</value>
+<value>ADULT procedural sedation (55 years or less, ASA Class I or II). Maximum rate should not exceed 5 mg/kg/hour, due to potential cardiac toxicity. Maintenance infusion: 1.5 to 4.5 mg/kg/hour. Reduce dose and rate by 20 to 30% in geriactric, debilitated and/or ASA Class II or IV patients.</value>
+<value>INFANTS / CHILDREN: Critical care sedation; patients older than 3 months. Propofol has been used safely in hemodynamically stable, non-acidotic patients older than 3 months of age, with a MAX mean dose of 4 mg/kg/hour, for a MAX duration of 24 hours, when judged to be the optimal therapy under the circumstances. </value>
+<value>INFANTS / CHILDREN: Procedural sedation. MAXIMUM dose: 40 mg.</value>
+<value>INFANTS / CHILDREN: Procedural Sedation.</value>
+<value>ADULT sedation in critical care areas.</value>
+<value>ADULT sedation during surgical or diagnostic procedures.</value>
+</Population>
+<IndicationPRN><value>Sedation</value>
+</IndicationPRN>
+<AdditionalNotes><value>AHS Provincial Adult Standard Concentration: 10 mg/mL</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert><value>HIGH ALERT MEDICATION</value>
+</HighAlert>
+</drug>

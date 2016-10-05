@@ -1,0 +1,23 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "urea crm">
+<dose></dose>
+<route><value>TOP </value>
+</route>
+<strength><value>0.1</value>
+<value>0.2</value>
+</strength>
+<frequency><value>TID</value>
+<value>BID</value>
+<value>DAILY</value>
+</frequency>
+<instruction><value>Apply a thin film to affected area and gently rub in.</value>
+</instruction>
+<volume></volume>
+<units></units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

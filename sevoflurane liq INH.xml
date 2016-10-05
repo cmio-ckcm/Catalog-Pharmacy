@@ -1,0 +1,29 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "sevoflurane liq INH">
+<dose><value>0.5 - 3</value>
+<value>0.5 - 3.3</value>
+</dose>
+<route><value>INH</value>
+</route>
+<strength><value>0.9997</value>
+</strength>
+<frequency><value>ONCE</value>
+</frequency>
+<instruction><value>Administered with oxygen</value>
+<value>Administered with Nitrous Oxide and oxygen</value>
+</instruction>
+<volume></volume>
+<units><value>%</value>
+</units>
+<Population><value>ADULT</value>
+<value>NEONATE</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Suggest reduced dosage in elderly up to 50% by age 80.</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=276</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert><value>HIGH ALERT MEDICATION</value>
+</HighAlert>
+</drug>

@@ -1,0 +1,32 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "codeine-acetaminophen-caffeine tab">
+<dose><value>1</value>
+<value>2</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>15 mg-300 mg-15 mg</value>
+<value>30 mg-300 mg-15 mg</value>
+</strength>
+<frequency><value>TID</value>
+<value>QID</value>
+<value>Q4H</value>
+<value>Q6H</value>
+<value>Q8H</value>
+<value>NOW</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>TAB</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=339</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=340</value>
+</BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus><value>FR</value>
+</AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

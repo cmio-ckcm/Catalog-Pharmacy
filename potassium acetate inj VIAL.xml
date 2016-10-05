@@ -1,0 +1,31 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "potassium acetate inj VIAL">
+<dose><value>2 - 6</value>
+<value>2 - 3</value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>4 mmol/mL</value>
+</strength>
+<frequency><value>CONTINUOUS</value>
+</frequency>
+<instruction></instruction>
+<volume><value>50 mL</value>
+</volume>
+<units><value>mmol/kg/day</value>
+<value>meq</value>
+</units>
+<Population><value>NEONATE, INFANT</value>
+<value>CHILDREN</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>1 mmol = 1 meq. Potassium, Normal Daily Requirement. </value>
+<value>1 mmol = 1 meq. Metabolic Acidosis: The amount of ACETATE may be dosed utilizing either following equation, where each meq of acetate is converted to a meq of bicarbonate:  HCO3-(meq) = 0.3 X weight (kg) X base deficit (meq/L)   OR   HCO3- (meq) = 0.5 X weight (kg) X [24 - serum HCO3- (meq/L)].</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3007</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>FR</value>
+</AHSFormularyStatus>
+<HighAlert><value>HIGH ALERT MEDICATION</value>
+</HighAlert>
+</drug>

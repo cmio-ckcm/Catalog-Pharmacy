@@ -1,0 +1,31 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "rasburicase inj VIAL">
+<dose><value>0.1 - 0.2</value>
+<value>0.15 - 0.2</value>
+<value>0.2</value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>1.5 mg</value>
+</strength>
+<frequency><value>DAILY</value>
+<value>BID</value>
+</frequency>
+<instruction><value>for 3 days.</value>
+</instruction>
+<volume></volume>
+<units><value>mg/kg</value>
+<value>mg/kg/day</value>
+</units>
+<Population><value>ADULT. Hyperuricemia.</value>
+<value>CHILDREN, over 1 month of age. Tumor Lysis Syndrome</value>
+<value>ADULT. Hyperuricemia in cancer patients.</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Treatment up to 7 days.</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1983</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

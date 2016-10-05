@@ -1,0 +1,23 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "benzocaine oint">
+<dose></dose>
+<route><value>TOPICAL</value>
+</route>
+<strength><value>0.2</value>
+</strength>
+<frequency><value>DAILY</value>
+<value>BID</value>
+<value>TID</value>
+</frequency>
+<instruction><value>Apply locally to affected oral cavity area allowing product to remain in place for at least a minute, then expell. </value>
+</instruction>
+<volume></volume>
+<units></units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

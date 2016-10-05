@@ -1,0 +1,33 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "clindamycin liq ORAL">
+<dose><value>37.5</value>
+<value>75</value>
+<value>150</value>
+<value>300</value>
+<value>450</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>15 mg/mL</value>
+</strength>
+<frequency><value>Q6H</value>
+<value>Q8H</value>
+<value>ONCE</value>
+</frequency>
+<instruction><value>Administer 1 hour pre-operatively.</value>
+</instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>37.5 mg = 2.5 mL</value>
+<value>75 mg = 5 mL</value>
+<value>150 mg = 10 mL</value>
+<value>300 mg = 20 mL</value>
+<value>450 mg = 30 mL</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

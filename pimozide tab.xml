@@ -1,0 +1,31 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "pimozide tab">
+<dose><value>1</value>
+<value>2</value>
+<value>3</value>
+<value>0.05 - 0.2</value>
+<value>4</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>2 mg</value>
+<value>4 mg</value>
+</strength>
+<frequency><value>HS</value>
+<value>BID</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mg</value>
+<value>mg/kg/day</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Consideration for an ECG be performed at baseline and periodically after, especially during dosage adjustment.</value>
+<value>Dosage should not exceed 10 mg/day.</value>
+</AdditionalNotes>
+<BackgroundInformation><value>Recommended dosing for children aged 2 to 12 years.</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

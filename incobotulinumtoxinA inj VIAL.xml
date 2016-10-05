@@ -1,0 +1,33 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "incobotulinumtoxinA inj VIAL">
+<dose><value>90</value>
+<value>80</value>
+<value>130 - 190</value>
+<value>25 - 65</value>
+<value>10 - 40</value>
+</dose>
+<route><value>IM</value>
+</route>
+<strength><value>100 unit</value>
+</strength>
+<frequency><value>ONCE</value>
+</frequency>
+<instruction><value>Administer partial doses into appropriate multiple injection sites.</value>
+</instruction>
+<volume></volume>
+<units><value>unit</value>
+</units>
+<Population><value>ADULT</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Post-stroke spasticity of upper limb: flexed wrist.</value>
+<value>Post-stroke spasticity of upper limb: clenched fist.</value>
+<value>Post-stroke spasticity of upper limb: flexed elbow.</value>
+<value>Post-stroke spasticity of upper limb: pronated forearm.</value>
+<value>Post-stroke spasticity of upper limb: thunb-in-pam.</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=4821</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

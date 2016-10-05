@@ -1,0 +1,35 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "darunavir tab">
+<dose><value>600</value>
+<value>375</value>
+<value>450</value>
+<value>800</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>150 mg</value>
+<value>400 mg</value>
+<value>600 mg</value>
+<value>75 mg</value>
+<value>800 mg</value>
+</strength>
+<frequency><value>BID</value>
+<value>DAILY</value>
+</frequency>
+<instruction><value>Administer with food. Dose given with ritinovir 100mg. </value>
+<value>Administer with food. Dose given with ritinovir 50mg. </value>
+<value>Administer with food. Dose given with ritinovir 60 mg.</value>
+<value>Administer with food. Dose given with ritinovir 100mg.</value>
+</instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Children: 15 - &amp;lt;30 kg body weight</value>
+<value>Children: &amp;gt;=30 to &amp;lt;40 kg body weight</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

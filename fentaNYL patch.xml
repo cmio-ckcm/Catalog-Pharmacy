@@ -1,0 +1,26 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "fentaNYL patch">
+<dose><value>75</value>
+<value>150</value>
+</dose>
+<route><value>TOP</value>
+<value>TOP </value>
+</route>
+<strength><value>75 mcg/hour</value>
+</strength>
+<frequency><value>Q72H</value>
+</frequency>
+<instruction><value>Apply one patch every 72 hours to a non-irritated skin site with a flat surface.</value>
+<value>Apply two patches (75 mcg/hour/patch) every 72 hours to a non-irritated skin site with a flat surface.</value>
+</instruction>
+<volume></volume>
+<units><value>mcg/hour</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Hair at application site should be clipped, not shaved.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

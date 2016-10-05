@@ -1,0 +1,30 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "Name DOSAGE FORM">
+<dose><value>DOSE</value>
+</dose>
+<route><value>ROUTE</value>
+</route>
+<strength><value>STRENGTH</value>
+</strength>
+<frequency><value>FREQUENCY</value>
+</frequency>
+<instruction><value>INSTRUCTIONS</value>
+</instruction>
+<volume><value>VOLUME</value>
+</volume>
+<units><value>UNITS</value>
+</units>
+<Population><value>POPULATION</value>
+</Population>
+<IndicationPRN><value>INDICATION (PRN)</value>
+</IndicationPRN>
+<AdditionalNotes><value>Additional  notes</value>
+</AdditionalNotes>
+<BackgroundInformation><value>BACKGROUND INFORMATION</value>
+</BackgroundInformation>
+<PRNInformation><value>PRN</value>
+</PRNInformation>
+<AHSFormularyStatus><value>AHS-Formulary Status</value>
+</AHSFormularyStatus>
+<HighAlert><value>HIGH ALERT MEDICATION</value>
+</HighAlert>
+</drug>

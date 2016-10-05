@@ -1,0 +1,30 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "baclofen tab">
+<dose><value>5</value>
+<value>10</value>
+<value>20</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>10 mg</value>
+<value>20 mg</value>
+</strength>
+<frequency><value>DAILY</value>
+<value>BID</value>
+<value>TID</value>
+<value>QID</value>
+<value>HS</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>1/2 X 10 MG</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation><value>PRN</value>
+</PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

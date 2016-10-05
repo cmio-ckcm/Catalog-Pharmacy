@@ -1,0 +1,22 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "calcium gluconate gel">
+<dose></dose>
+<route><value>TOPICAL</value>
+</route>
+<strength><value>0.025</value>
+</strength>
+<frequency><value>Apply generously to affected area and massage into skin.</value>
+</frequency>
+<instruction><value>Apply generously to affected area and massage into skin.</value>
+</instruction>
+<volume><value>25 g</value>
+</volume>
+<units></units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

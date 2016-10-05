@@ -1,0 +1,22 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "cycloSPORINE liq ORAL">
+<dose><value>0.5 - 15</value>
+</dose>
+<route><value>PO </value>
+</route>
+<strength><value>100 mg/mL</value>
+</strength>
+<frequency><value>Q12H</value>
+</frequency>
+<instruction><value>Administer daily calculated dose in 2 equally divided doses</value>
+</instruction>
+<volume></volume>
+<units><value>mg/kg/day</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

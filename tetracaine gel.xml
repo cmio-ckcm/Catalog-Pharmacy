@@ -1,0 +1,22 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "tetracaine gel">
+<dose><value>1</value>
+</dose>
+<route><value>TOP</value>
+</route>
+<strength><value>0.04</value>
+</strength>
+<frequency><value>ONCE</value>
+</frequency>
+<instruction><value>Apply to the center of the area to be anesthetized. DO NOT rub into skin.</value>
+</instruction>
+<volume></volume>
+<units><value>g</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

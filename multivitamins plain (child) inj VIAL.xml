@@ -1,0 +1,25 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "multivitamins plain (child) inj VIAL">
+<dose><value>6</value>
+<value>2</value>
+</dose>
+<route><value>IV </value>
+<value>IV</value>
+</route>
+<strength></strength>
+<frequency><value>DAILY</value>
+</frequency>
+<instruction></instruction>
+<volume><value>6 mL</value>
+</volume>
+<units><value>mL</value>
+<value>mL/kg/day</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Up to a MAXIMUM Dose of 6 mL/day.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

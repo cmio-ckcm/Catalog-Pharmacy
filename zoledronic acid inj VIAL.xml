@@ -1,0 +1,28 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "zoledronic acid inj VIAL">
+<dose><value>4</value>
+<value>5</value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>0.8 mg/mL</value>
+</strength>
+<frequency><value>ONCE</value>
+</frequency>
+<instruction></instruction>
+<volume><value>5 mL</value>
+</volume>
+<units><value>mg</value>
+</units>
+<Population><value>ADULT</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Hypercalcemia, Bone metastases and osteolytic lesions (CrCl greater than 60mL/minute.).</value>
+<value>Osteoporosis in postmenopausal women, glucocorticoid-induced in men. Administered annually.</value>
+<value>Prevention of postmenopausal osteoporosis, Paget&amp;apos;s disease.</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3606</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

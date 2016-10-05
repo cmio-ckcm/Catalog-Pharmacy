@@ -1,0 +1,24 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "verteporfin inj VIAL">
+<dose><value>6</value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>15 mg</value>
+</strength>
+<frequency><value>ONCE</value>
+</frequency>
+<instruction><value>Administer dose over 10 minutes.</value>
+</instruction>
+<volume></volume>
+<units><value>mg/m2</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>AHS Drug Formulary: Restricted to Specialized High Cost Drug program criteria: treatment of age-related macular degeneration in patients with predominantly (&amp;gt;50%) subfoveal choroidal neovascularization. Must be prescribed by a Retina Specialist. </value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3003</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

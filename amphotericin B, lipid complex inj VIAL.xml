@@ -1,0 +1,28 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "amphotericin B, lipid complex inj VIAL">
+<dose><value>5</value>
+<value>3</value>
+<value>4</value>
+<value>2.5</value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>100 mg</value>
+</strength>
+<frequency><value>DAILY</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mg/kg/dose</value>
+</units>
+<Population><value>Adult. Neonates: 3-5mg/kg. Infant/Child: 2.5-5 mg/kg.</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Administer at a rate of 2.5 mg/kg/hour. Shake the infusion bag every 2 hours when infusion time exceeds 2 hours.</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2544</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>FRG</value>
+</AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

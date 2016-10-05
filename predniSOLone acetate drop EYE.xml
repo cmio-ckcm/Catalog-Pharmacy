@@ -1,0 +1,29 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "predniSOLone acetate drop EYE">
+<dose><value>1</value>
+<value>2</value>
+</dose>
+<route><value>OPHTH</value>
+</route>
+<strength><value>0.0012</value>
+<value>0.01</value>
+</strength>
+<frequency><value>BID</value>
+<value>TID</value>
+<value>QID</value>
+</frequency>
+<instruction><value>Instill into conjuctiva of LEFT eye.</value>
+<value>Instill into conjuctiva of RIGHT eye.</value>
+<value>Instill into conjuctiva of affected eye(s).</value>
+</instruction>
+<volume></volume>
+<units><value>gtt</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Recommend re-evaluation if signs and symptoms fail to improve after 2 days.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

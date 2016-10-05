@@ -1,0 +1,38 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "chlorambucil tab">
+<dose><value>0.5</value>
+<value>6</value>
+<value>0.15</value>
+<value>0.1</value>
+<value>0.2</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>2 mg</value>
+</strength>
+<frequency><value>EVERY 2 WEEKS</value>
+<value>DAILY</value>
+</frequency>
+<instruction><value>for 2 doses (DAY 1 &amp; 15). </value>
+<value>for 14 days.</value>
+</instruction>
+<volume></volume>
+<units><value>mg/kg</value>
+<value>mg/m2</value>
+<value>mg/kg/day</value>
+</units>
+<Population><value>ADULT</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Chronic Lymphocytic Leukemia. Round dose to nearest 2 mg. Recommend dosage reduction if CrCl 10 to 50 mL/minute: 75% of dose, CrCl less than 10 mL/minute: 50% of dose.</value>
+<value>Hodgkin&amp;apos;s Lymphoma. Maximum dose: 10 mg.Recommend dosage reduction if CrCl is 10 to 50 mL/minute: 75% of dose, CrCl less than 10 mL/minute: 50% of dose.</value>
+<value>Chronic Lymphocytic Leukemia. Treat until WBC is 10,000/mm3, interrupt treatment for 4 weeks. Then resume at 0.1 mg/kg/day. Recommend dosage reduction if CrCl10 to 50 mL/minute: 75% of dose, CrCl less than 10 mL/minute: 50% of dose.</value>
+<value>Hodgkin Lymphoma. Treatment 4 to 8 weeks. Recommend dosage reduction if CrCl 10 to 50 mL/minute: 75% of dose, CrCl less than 10 mL/minute: 50% of dose.</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3355</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>F</value>
+</AHSFormularyStatus>
+<HighAlert><value>HIGH ALERT MEDICATION</value>
+</HighAlert>
+</drug>

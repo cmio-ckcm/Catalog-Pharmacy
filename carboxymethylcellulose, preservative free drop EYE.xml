@@ -1,0 +1,27 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "carboxymethylcellulose, preservative free drop EYE">
+<dose><value>1</value>
+<value>2</value>
+</dose>
+<route><value>OPHTH</value>
+</route>
+<strength><value>0.01</value>
+</strength>
+<frequency><value>Q1H</value>
+<value>Q2H</value>
+</frequency>
+<instruction><value>Instill into affected eye(s).</value>
+<value>Instill into LEFT eye.</value>
+<value>Instill into RIGHT eye.</value>
+<value>Instill into BOTH eyes.</value>
+</instruction>
+<volume></volume>
+<units><value>gtt</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

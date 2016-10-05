@@ -1,0 +1,37 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "tobramycin inj VIAL">
+<dose><value>5</value>
+<value>6</value>
+<value>7</value>
+<value>1</value>
+<value>1.5</value>
+<value>2</value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>40 mg/mL</value>
+</strength>
+<frequency><value>Q24H</value>
+<value>Q36H</value>
+<value>Q48H</value>
+<value>Q8H</value>
+<value>Q12H</value>
+</frequency>
+<instruction></instruction>
+<volume><value>2 mL</value>
+<value>30 mL</value>
+</volume>
+<units><value>mg/kg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>use Ideal Body weight for dosing, Ajusted Body Weight for dosing obese patients.</value>
+<value>use Ideal Body weight for dosing, Ajusted Body Weight for dosing obese patients. Phenol-free product.</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2540</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2541</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2542</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

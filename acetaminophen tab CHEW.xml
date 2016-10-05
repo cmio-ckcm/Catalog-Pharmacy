@@ -1,0 +1,27 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "acetaminophen tab CHEW">
+<dose><value>160</value>
+<value>240</value>
+<value>320</value>
+<value>400</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>80 mg</value>
+</strength>
+<frequency><value>Q4H</value>
+<value>Q6H</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus><value>F</value>
+</AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

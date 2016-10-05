@@ -1,0 +1,29 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "melphalan tab">
+<dose><value>1 - 6</value>
+<value>9</value>
+<value>8</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>2 mg</value>
+</strength>
+<frequency><value>DAILY</value>
+</frequency>
+<instruction><value>for 4 days.</value>
+</instruction>
+<volume></volume>
+<units><value>mg</value>
+<value>mg/m2</value>
+<value>mg/m2/day</value>
+</units>
+<Population><value>ADULT</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>F</value>
+</AHSFormularyStatus>
+<HighAlert><value>HIGH ALERT MEDICATION</value>
+</HighAlert>
+</drug>

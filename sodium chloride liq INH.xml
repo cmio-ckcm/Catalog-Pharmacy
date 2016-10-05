@@ -1,0 +1,23 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "sodium chloride liq INH">
+<dose><value>4</value>
+</dose>
+<route><value>INH</value>
+</route>
+<strength><value>0.07</value>
+</strength>
+<frequency><value>Q12H</value>
+</frequency>
+<instruction></instruction>
+<volume><value>4 mL</value>
+</volume>
+<units><value>mL </value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>F</value>
+</AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

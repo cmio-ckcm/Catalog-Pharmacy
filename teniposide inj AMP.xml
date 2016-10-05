@@ -1,0 +1,32 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "teniposide inj AMP">
+<dose><value>50 - 250</value>
+<value>30 - 165</value>
+<value>165</value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>10 mg/mL</value>
+</strength>
+<frequency><value>WEEKLY</value>
+<value>ONCE</value>
+<value>TWO TIMES WEEKLY</value>
+</frequency>
+<instruction><value>Administer dose over 30 minutes. May extend dosing time to prevent hypotension.</value>
+<value>Administer dose over 60 minutes. May extend dosing time to prevent hypotension.</value>
+</instruction>
+<volume><value>5 mL</value>
+</volume>
+<units><value>mg/m2</value>
+</units>
+<Population><value>ADULT</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3454</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>F</value>
+</AHSFormularyStatus>
+<HighAlert><value>HIGH ALERT MEDICATION</value>
+</HighAlert>
+</drug>

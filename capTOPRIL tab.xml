@@ -1,0 +1,28 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "capTOPRIL tab">
+<dose><value>12.5</value>
+<value>25</value>
+<value>50</value>
+<value>6.25</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>12.5 mg</value>
+<value>25 mg</value>
+<value>50 mg</value>
+<value>6.25 mg</value>
+</strength>
+<frequency><value>TID</value>
+<value>BID</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

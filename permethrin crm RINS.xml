@@ -1,0 +1,21 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "permethrin crm RINS">
+<dose></dose>
+<route><value>TOP</value>
+</route>
+<strength><value>0.01</value>
+</strength>
+<frequency><value>ONCE</value>
+</frequency>
+<instruction><value>Wash hair with conditioner-free shampoo. Protect eyes throughout application by using a washcloth or towel. Shake container well, then apply between 1/2 to 1 bottle to thoroughly saturate the hair and scalp, especially behind the ears and at the base of the neck. Leave in hair for 10 minutes. Rinse off hair with water only and dry hair. Comb hair to remove tangles, then utilize the nit removal comb to remove nits by combing from the hair rott to the end of the hair shaft.</value>
+</instruction>
+<volume><value>50 mL</value>
+</volume>
+<units></units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

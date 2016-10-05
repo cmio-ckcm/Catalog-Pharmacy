@@ -1,0 +1,34 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "ranitidine tab">
+<dose><value>150</value>
+<value>300</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>150 mg</value>
+</strength>
+<frequency><value>DAILY</value>
+<value>BID</value>
+<value>HS</value>
+<value>ONCE</value>
+</frequency>
+<instruction><value>Administer pre-operatively.</value>
+<value>DAY 1 of 21. If oral ranitidine has not been taken by patient as instructed, administer 60 minutes pre-PACLitaxel. May be administered by IV route.</value>
+<value>DAY 1 of 21. May be administered by IV route.</value>
+<value>DAY 1 of 7. If oral ranitidine has not been taken by patient as instructed, administer 60 minutes pre-PACLitaxel. May be administered by IV route.</value>
+<value>DAY 1 of 7. May be administered by IV route.</value>
+</instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population><value>Adjuvant PACLitaxel/CARBOplatin. Non-Small Cell Lung Cancer</value>
+<value>PACLitaxel / CARBOplatin. Advanced / Metastatic Non-Small Cell Lung Cancer</value>
+<value>PACLitaxel/CARBOplatin (Weekly) and concurrent RT. Non-Small Cell Lung Cancer.</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

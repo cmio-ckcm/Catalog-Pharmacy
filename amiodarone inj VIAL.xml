@@ -1,0 +1,68 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "amiodarone inj VIAL">
+<dose><value>300</value>
+<value>150</value>
+<value>360</value>
+<value>540</value>
+<value>0.5</value>
+<value>5000</value>
+<value>5</value>
+<value>6</value>
+<value>7</value>
+<value>7.5</value>
+<value>8</value>
+<value>9</value>
+<value>10</value>
+<value>11</value>
+<value>12</value>
+<value>13</value>
+<value>14</value>
+<value>15</value>
+<value>2500</value>
+<value>12.5</value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>50 mg/mL</value>
+</strength>
+<frequency><value>ONCE</value>
+<value>CONTINUOUS</value>
+</frequency>
+<instruction><value>Administer by direct injection.</value>
+<value>Supplemental rapid IV dose, if pulseless V-Tach or V-Fib continues or recurs.</value>
+<value>Step 1: Administer dose over 10 minutes.</value>
+<value>Step 2: Administer over 6 hours (1 mg/minute)</value>
+<value>Step 3: Administer over the next 18 hours (0.5 mg/minute). </value>
+<value>Administer by continuous infusion.</value>
+<value>Rapid IV dose. Up to a maximum dose of 300 mg and may repeat dose up to a daily maximum dose of 15 mg/kg/day. (Maximum daily dose in adolescents = 2.2 g.</value>
+<value>Administer by continuous infusion, titrate to desired response or a maximum dose of 15 mcg/kg/minute</value>
+<value>LOADING DOSE: Administer over 20 to 60 minutes. If hemodynamically tolerated, may repeat dose for a total of 5000 mcg/kg over 60 to 120 minutes.</value>
+<value>Administer by continuous infusion, titrate to desired response.</value>
+</instruction>
+<volume><value>3 mL</value>
+<value>6 mL</value>
+<value>9 mL</value>
+</volume>
+<units><value>mg</value>
+<value>mg/min</value>
+<value>mcg/kg</value>
+<value>mcg/kg/minute</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>ACLS - Cardiac Arrest due to pulseless V-Tav or V-Fib.</value>
+<value>Step 1: Ventricular and Atrial Tachycardia protocol</value>
+<value>Step 2: Ventricular and Atrial Tachycardia protocol</value>
+<value>Step 3: Ventricular and Atrial Tachycardia protocol</value>
+<value>PALS: Treatment of Pulseless V-Tach or V-Fib.</value>
+<value>Infant/Child dosing</value>
+<value>Neonate: Refractory Perfusing Tachyarrhythmias</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus><value>F</value>
+<value>NF</value>
+</AHSFormularyStatus>
+<HighAlert><value>HIGH ALERT MEDICATION</value>
+</HighAlert>
+</drug>

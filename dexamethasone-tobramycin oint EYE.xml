@@ -1,0 +1,26 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "dexamethasone-tobramycin oint EYE">
+<dose></dose>
+<route><value>OPHTH</value>
+</route>
+<strength><value>0.1%-0.3%</value>
+</strength>
+<frequency><value>TID</value>
+<value>QID</value>
+<value>HS</value>
+</frequency>
+<instruction><value>Apply a one-half inch ribbon of ointment to the LEFT eye conjuctival sac.</value>
+<value>Apply a one-half inch ribbon of ointment to the RIGHT eye conjuctival sac.</value>
+<value>Apply a one-half inch ribbon of ointment to the affected eye(s) conjuctival sac.</value>
+<value>Apply a one-half inch ribbon of ointment to the conjuctival sac of BOTH eyes.</value>
+</instruction>
+<volume><value>3.5 g</value>
+</volume>
+<units></units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

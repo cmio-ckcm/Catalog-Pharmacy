@@ -1,0 +1,37 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "fluticasone inhaler">
+<dose><value>250</value>
+<value>500</value>
+<value>750</value>
+<value>1000</value>
+<value>50</value>
+<value>100</value>
+<value>150</value>
+<value>200</value>
+</dose>
+<route><value>INH</value>
+</route>
+<strength><value>250 mcg</value>
+<value>50 mcg</value>
+</strength>
+<frequency><value>BID</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mcg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>250 mcg = 1 puffs using 250 mcg/dose inhaler</value>
+<value>500 mcg = 2 puffs using 250 mcg/dose inhaler</value>
+<value>750 mcg = 3 puffs using 250 mcg/dose inhaler</value>
+<value>1000 mcg = 4 puffs using 250 mcg/dose inhaler</value>
+<value>50 mcg = 1 puffs using 50 mcg/dose inhaler</value>
+<value>100 mcg = 2 puffs using 50 mcg/dose inhaler</value>
+<value>150 mcg = 3 puffs using 50 mcg/dose inhaler</value>
+<value>200 mcg = 4 puffs using 50 mcg/dose inhaler</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

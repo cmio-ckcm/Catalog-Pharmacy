@@ -1,0 +1,21 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "hydrocortisone lotion">
+<dose></dose>
+<route><value>TOP</value>
+</route>
+<strength><value>0.5%</value>
+<value>1%</value>
+</strength>
+<frequency><value>BID</value>
+</frequency>
+<instruction><value>Apply a thin film to affected area and rub into area.</value>
+</instruction>
+<volume></volume>
+<units></units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

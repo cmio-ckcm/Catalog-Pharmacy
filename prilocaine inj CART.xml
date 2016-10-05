@@ -1,0 +1,26 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "prilocaine inj CART">
+<dose><value>1 - 1.8</value>
+<value>0.5 - 1</value>
+</dose>
+<route><value>INFILTRATION</value>
+</route>
+<strength><value>0.04</value>
+</strength>
+<frequency><value>ONCE</value>
+</frequency>
+<instruction></instruction>
+<volume><value>1.8 mL</value>
+</volume>
+<units><value>mL</value>
+</units>
+<Population><value>ADULT</value>
+<value>CHILDREN. Ages under 10 years.</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Recommended maximum dose within a 2 hour period.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

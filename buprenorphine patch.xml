@@ -1,0 +1,27 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "buprenorphine patch">
+<dose><value>1</value>
+</dose>
+<route><value>TOP</value>
+</route>
+<strength><value>10 mcg/hr</value>
+<value>20 mcg/hr</value>
+<value>5 mcg/hr</value>
+</strength>
+<frequency><value>WEEKLY</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>PATCH</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=6342</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=6343</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=6341</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>FR</value>
+</AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

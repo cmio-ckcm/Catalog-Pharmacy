@@ -1,0 +1,43 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "nalbuphine inj AMP">
+<dose><value>10</value>
+<value>2.5</value>
+<value>5</value>
+<value>0.1 - 0.15</value>
+<value>0.05 - 0.1</value>
+<value>0.2</value>
+</dose>
+<route><value>IV</value>
+<value>IM</value>
+<value>SC</value>
+</route>
+<strength><value>10 mg/mL</value>
+</strength>
+<frequency><value>Q3H</value>
+<value>Q4H</value>
+<value>Q6H</value>
+<value>ONCE</value>
+</frequency>
+<instruction><value>May repeat dose.</value>
+<value>Administer pre-operatively.</value>
+</instruction>
+<volume><value>1 mL</value>
+</volume>
+<units><value>mg</value>
+<value>mg/kg</value>
+</units>
+<Population><value>ADULT</value>
+<value>INFANT / CHILDREN</value>
+</Population>
+<IndicationPRN><value>Pain</value>
+<value>opioid induced pruritis.</value>
+</IndicationPRN>
+<AdditionalNotes><value>Maximum recommended single dose is 20 mg and maximum daily dose is 160 mg.</value>
+<value>Opioid-induced pruritis.</value>
+<value>Up to a Maximum recommended single dose of 20 mg.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

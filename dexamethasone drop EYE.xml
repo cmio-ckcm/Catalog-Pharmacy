@@ -1,0 +1,45 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "dexamethasone drop EYE">
+<dose><value>2</value>
+<value>1</value>
+</dose>
+<route><value>OPHT</value>
+<value>OPHTH</value>
+</route>
+<strength><value>0.001</value>
+</strength>
+<frequency><value>Q2H</value>
+<value>Q1H</value>
+<value>Q4H</value>
+<value>TID</value>
+<value>QID</value>
+</frequency>
+<instruction><value>Instill into each eye while awake. See order for eye ointment for continued treatment during night.</value>
+<value>Instill into LEFT eye Q1H until desired response obtained.</value>
+<value>Instill into LEFT eye Q2H until desired response obtained.</value>
+<value>Instill into LEFT eye Q4H until desired response obtained.</value>
+<value>Instill into LEFT eye.</value>
+<value>Instill into RIGHT eye Q1H until desired response obtained.</value>
+<value>Instill into RIGHT eye Q2H until desired response obtained.</value>
+<value>Instill into RIGHT eye Q4H until desired response obtained.</value>
+<value>Instill into RIGHT eye.</value>
+<value>Instill into affected eye(s) Q1H until desired response obtained.</value>
+<value>Instill into affected eye(s) Q2H until desired response obtained.</value>
+<value>Instill into affected eye(s) Q4H until desired response obtained.</value>
+<value>Instill into affected eye(s).</value>
+<value>Instill into BOTH eyes Q1H until desired response obtained.</value>
+<value>Instill into BOTH eyes Q2H until desired response obtained.</value>
+<value>Instill into BOTH eyes Q4H until desired response obtained.</value>
+<value>Instill into BOTH eyes.</value>
+</instruction>
+<volume><value>5 mL</value>
+</volume>
+<units><value>gtt</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

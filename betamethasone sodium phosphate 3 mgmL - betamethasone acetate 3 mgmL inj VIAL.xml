@@ -1,0 +1,51 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "betamethasone sodium phosphate 3 mg/mL - betamethasone acetate 3 mg/mL inj VIAL">
+<dose><value>1</value>
+<value>2</value>
+<value>0.25</value>
+<value>0.5</value>
+<value>0.75</value>
+<value>1.25</value>
+<value>1.5</value>
+<value>0.2</value>
+<value>0.0175 - 0.125</value>
+<value>0.5 - 7.5</value>
+</dose>
+<route><value>IM</value>
+<value>INTRA-ARTICULAR</value>
+<value>INTRA-BURSAL</value>
+<value>INTRA-SYNOVIAL</value>
+<value>INTRADERMALLY</value>
+<value>INTRADERMAL</value>
+</route>
+<strength><value>6 mg/mL</value>
+</strength>
+<frequency><value>ONCE</value>
+<value>Q6H</value>
+<value>Q8H</value>
+<value>Q12H</value>
+</frequency>
+<instruction><value>Inject into tendon sheath.</value>
+<value>Inject directly into cyst.</value>
+<value>Inject INTRADERMALLY into affected lesion area.</value>
+<value>Administer daily calculated dose in 4 equally divided doses.</value>
+<value>Administer daily calculated dose in 3 equally divided doses.</value>
+<value>Administer daily calculated dose in 2 equally divided doses.</value>
+</instruction>
+<volume><value>1 mL</value>
+<value>5 mL</value>
+</volume>
+<units><value>mL</value>
+<value>mL/cm2</value>
+<value>mg/kg/day</value>
+<value>mg/m2/day</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Maximum dose: 1 mL/week</value>
+<value>Children</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

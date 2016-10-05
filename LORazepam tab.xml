@@ -1,0 +1,36 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "LORazepam tab">
+<dose><value>0.5</value>
+<value>1</value>
+<value>2</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>0.5 mg</value>
+<value>1 mg</value>
+<value>2 mg</value>
+</strength>
+<frequency><value>BID</value>
+<value>TID</value>
+<value>HS</value>
+<value>Q4H</value>
+<value>Q6H</value>
+<value>ONCE</value>
+</frequency>
+<instruction><value>DAY 1 of 21. Administer pre-chemotherapy as required.</value>
+<value>DAY 1 of 7. Administer pre-chemotherapy as required.</value>
+</instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population><value>Adjuvant PACLitaxel/CARBOplatin. Non-Small Cell Lung Cancer</value>
+<value>PACLitaxel / CARBOplatin. Advanced / Metastatic Non-Small Cell Lung Cancer</value>
+<value>PACLitaxel/CARBOplatin (Weekly) and concurrent RT. Non-Small Cell Lung Cancer.</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

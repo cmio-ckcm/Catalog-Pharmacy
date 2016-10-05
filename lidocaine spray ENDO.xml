@@ -1,0 +1,22 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "lidocaine spray ENDO">
+<dose></dose>
+<route><value>TOP </value>
+</route>
+<strength><value>0.1</value>
+</strength>
+<frequency><value>ONCE</value>
+</frequency>
+<instruction><value>Spray affected area.</value>
+</instruction>
+<volume></volume>
+<units><value>metered sprays</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Each actuation of the metered dose valve delivers 10 mg lidocaine.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

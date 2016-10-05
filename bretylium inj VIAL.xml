@@ -1,0 +1,46 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "bretylium inj VIAL">
+<dose><value>5</value>
+<value>10</value>
+<value>5 - 10</value>
+<value>5 - 10 </value>
+<value>1 - 2</value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>50 mg/mL</value>
+</strength>
+<frequency><value>ONCE</value>
+<value>Q6H</value>
+<value>CONTINUOUS</value>
+<value>Q8H</value>
+</frequency>
+<instruction><value>Administer by direct injection.</value>
+<value>Administer at 15 to 30 minute intervals as required for persistent ventricular fibrillation. Up to a maximum total dose of 30 mg/kg.</value>
+<value>May repeat dose in 1 to 2 hours if arrhythmia persists.</value>
+<value>Administer by continuous infusion.</value>
+<value>May repeat dose every 10 to 20 minutes as required, up to a total dose of 30 mg/kg.</value>
+</instruction>
+<volume><value>10 mL</value>
+</volume>
+<units><value>mg/kg</value>
+<value>mg/minute</value>
+<value>mg/kg/dose</value>
+</units>
+<Population><value>ADULT</value>
+<value>CHILDREN</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Ventricular Fibrillation. Initial dose.</value>
+<value>Ventricular Fibrillation. </value>
+<value>Ventricular Arrhythmias. (other than fibrillation.)</value>
+<value>Ventricular Arrhythmias. (other than fibrillation.). Maintenance dose. Bretylium dose should be reduced and stopped within 3 to 5 days. Reduce dose to 25 to 50% of usual dose in patients with Creatinine Clearance of 10 to 50 mL/minute, recommend avoiding in patients with Creatinine Clearance less than 10 mL/minute.. </value>
+<value>Arrhythmias</value>
+<value>Arrhythmias. Maintenance dose. MAXIMUM dose: 40 mg/kg/day.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert><value>HIGH ALERT MEDICATION</value>
+</HighAlert>
+</drug>

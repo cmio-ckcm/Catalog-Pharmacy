@@ -1,0 +1,42 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "nitroglycerin oint">
+<dose><value>2.5</value>
+<value>3.75</value>
+<value>5</value>
+<value>6.25</value>
+<value>7.5</value>
+<value>8.75</value>
+<value>10</value>
+<value>11.25</value>
+<value>12.5</value>
+</dose>
+<route><value>TOP</value>
+</route>
+<strength><value>0.02</value>
+</strength>
+<frequency><value>HS</value>
+<value>Q3H</value>
+<value>Q4H</value>
+<value>Q6H</value>
+<value>Q8H</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>cm</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>2.5 cm = 1 inch</value>
+<value>3.75 cm = 1.5 inches</value>
+<value>5 cm = 2 inches</value>
+<value>6.25 cm = 2.5 inches</value>
+<value>7.5 cm = 3 inches</value>
+<value>8.75 cm = 3.5 inches</value>
+<value>10 cm = 4 inches</value>
+<value>11.25 cm = 4.5 inches</value>
+<value>12.5 cm = 5 inches</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "ceFAZolin inj VIAL">
+<dose><value>500</value>
+<value>1</value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>500 mg</value>
+</strength>
+<frequency><value>Q8H</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mg</value>
+<value>g </value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>500 mg / D5W 50 mL</value>
+<value>1 g / D5W 50 mL</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1301</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>FGTI</value>
+</AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

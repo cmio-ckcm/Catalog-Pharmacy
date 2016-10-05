@@ -1,0 +1,32 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "benzocaine spray TOP">
+<dose><value>1</value>
+</dose>
+<route><value>TOP</value>
+</route>
+<strength><value>0.2</value>
+</strength>
+<frequency><value>ONCE</value>
+</frequency>
+<instruction><value>Apply a 1/2 second burst of spray to buccal folds, followed by patient instructed to swallow several times. Begin procedure after 1 minute.</value>
+<value>Apply a 1/2 second burst of spray to each buccal fold, followed by patient instructed to swallow several times. After 30 seconds, insert scope.</value>
+<value>Apply no more than 1/2 second burst of spray to each naris. Wait 30 to 60 seconds, then insert transducer.</value>
+<value>Apply a 1/2 second burst of spray to each buccal fold, followed by patient instructed to swallow several times. Wait 30 to 60 seconds before initiating procedure.</value>
+<value>Apply a 1/2 second burst of spray to affected area. Wait 30 to 60 seconds, then remove arch bar.</value>
+</instruction>
+<volume><value>59.2 mL</value>
+</volume>
+<units><value>spray</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Awake intubation</value>
+<value>Upper endoscopy</value>
+<value>Esophageal motility</value>
+<value>Indirect laryngoscopy, head and neck examinations</value>
+<value>Arch bar removal</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

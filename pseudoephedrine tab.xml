@@ -1,0 +1,29 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "pseudoephedrine tab">
+<dose><value>60</value>
+<value>30</value>
+<value>15</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>60 mg</value>
+</strength>
+<frequency><value>Q4H</value>
+<value>Q6H</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN><value>Congestion</value>
+</IndicationPRN>
+<AdditionalNotes><value>Adults: Maximum  240 mg/24 hours.</value>
+<value>Children 6 to 12 years: Maximum 120 mg/24 hours.</value>
+<value>Children 4 to 5 years: Maximum 60mg/24 hours.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

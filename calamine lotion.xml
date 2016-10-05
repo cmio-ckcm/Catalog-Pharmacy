@@ -1,0 +1,25 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "calamine lotion">
+<dose></dose>
+<route><value>TOP</value>
+</route>
+<strength><value>0.08</value>
+</strength>
+<frequency><value>ONCE</value>
+<value>TID</value>
+<value>QID</value>
+</frequency>
+<instruction><value>Apply to affected areas of skin as required.</value>
+<value>Apply TID to affected areas</value>
+<value>Apply QID to affected areas.</value>
+</instruction>
+<volume></volume>
+<units></units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

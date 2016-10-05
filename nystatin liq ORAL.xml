@@ -1,0 +1,31 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "nystatin liq ORAL">
+<dose><value>100000</value>
+<value>200000</value>
+<value>300000</value>
+<value>400000</value>
+<value>500000</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>100 000 unit/mL</value>
+</strength>
+<frequency><value>TID</value>
+<value>QID</value>
+</frequency>
+<instruction></instruction>
+<volume><value>100 mL</value>
+<value>24 mL</value>
+<value>48 mL</value>
+<value>500 mL</value>
+</volume>
+<units><value>unit</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Swich and gargle in mouth prior to swallowing suspension</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

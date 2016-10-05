@@ -1,0 +1,25 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "hydrocortisone-framycetin-cinchocaine-esculin supp">
+<dose><value>1</value>
+</dose>
+<route><value>PR</value>
+</route>
+<strength><value>5 mg-10 mg-5 mg-10 mg</value>
+</strength>
+<frequency><value>BID</value>
+<value>ONCE</value>
+</frequency>
+<instruction><value>Insert rectally, in the morning and at bedtime.</value>
+<value>Insert rectally after bowel movement PRN.</value>
+</instruction>
+<volume></volume>
+<units><value>SUPP</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

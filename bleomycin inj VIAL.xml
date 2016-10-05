@@ -1,0 +1,41 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "bleomycin inj VIAL">
+<dose><value>10</value>
+<value>30</value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>15 unit</value>
+</strength>
+<frequency><value>ONCE</value>
+<value>WEEKLY</value>
+<value>DAILY</value>
+</frequency>
+<instruction><value>DAY 8 of 21. Dilute dose in 100 mL 0.9% sodium chloride and minister over 10 minutes.</value>
+<value>DAY 1 of 28. Dilute dose in 100 mL 0.9% sodium chloride and minister over 10 minutes.</value>
+<value>DAY 15 of 28. Dilute dose in 100 mL 0.9% sodium chloride and minister over 10 minutes.</value>
+<value>DAY 1, 8 &amp; 15 of 21. For 3 doses. Dilute dose in 100 mL 0.9% sodium chloride and administer over 15 minutes.</value>
+<value>DAY 1, 8 &amp; 15 of 21. For 3 doses. Dilute dose in 50 mL 0.9% sodium chloride and administer over 15 minutes.</value>
+<value>DAY 1, 2 &amp; 3 of 21. For 3 days. Dilute dose to 200 mL in 0.9% sodium chloride and administer as continuous infusion over 20 hours (10 mL/hour) via Baxter Infusor.</value>
+</instruction>
+<volume></volume>
+<units><value>unit/m2</value>
+<value>unit</value>
+</units>
+<Population><value>ADULT</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>If CrCl is less than 50 mL/minute, notify prescriber for increased risk of bleomycin lung toxicity. Calculate total cumulative dose of bleomycin including current dose; bleomycin pulmonary toxicity risk factors include a total cumulative dose greater than 400 units, or lower when combined with other antineoplastic drugs. Recommend 75% of calculated dose for CrCl greater than or equal to 10 up to 50 mL/minute. Recommend 50% of calculated dose for CrCl less than 10 mL/minute.</value>
+<value>If CrCl is less than 50 mL/minute, notify prescriber for increased risk of bleomycin lung toxicity. Calculate total cumulative dose of bleomycin including current dose; bleomycin pulmonary toxicity risk factors include a total cumulative dose greater than 400 units, or lower when combined with other antineoplastic drugs. Recommend 75% of calculated dose for CrCl greater than or equal to 10 up to 50 mL/minute. Recommend 50% of calculated dose for CrCl less than 10 mL/minute. Consideration should be given to avoid routine use of growth factors (filgrastim or peg-filgrastim) for neutropenia due to an associated increased risk of bleomycin lung toxicity. Protocol treatment may proceed regardless of (or absence of) CBC results unless patient has signs or symptoms of infection. If signs or symptoms of infection are present, HOLD chemotherapy and contact prescriber OR prescriber may select treatment parameters and dose modifications: If ANC is greater than 0.8 X 109/L and platelets are greater than 50 X 109/L: Give as ordered. If ANC is less than or equal to 0.8 X 109/L OR platelets are less than or equal to 50 X 109/L: HOLD treatment and contact prescriber. </value>
+<value>If ANC is greater than or equal to 1.5 X 109/L and platelets are greater than or equal to 100 X 109/L: Give as ordered. If ANC is less than 1.5 X 109/L OR platelets are less than 100 X 109/L Delay 1 week. If Creatinine (serum) is less than 130 umol/L: Give as ordered. Calculate total cumulative dose of bleomycin including current dose. Maximum cumulative dose = 400 units.</value>
+<value>If ANC is greater than or equal to 0.5 X 109/L and platelets are greater than or equal to 75 X 109/L: Give as ordered. If ANC is less than 0.5 X 109/L: Give as ordered along with a prophylactic antibiotic. If Creatinine (serum) is less than 130 umol/L: Give as ordered. Calculate total cumulative dose of bleomycin including current dose. Maximum cumulative dose = 400 units.</value>
+<value>If ANC is greater than or equal to 0.5 X 109/L and platelets are greater than or equal to 75 X 109/L: Give as ordered. If ANC is less than 0.5 X 109/L: Give as ordered along with a prophylactic antibiotic. If platelets are less than 75 X 109/L: Adjust dosage of chemotherapy regimen. If Creatinine (serum) is less than 130 umol/L: Give as ordered. Calculate total cumulative dose of bleomycin including current dose. Maximum cumulative dose = 400 units.</value>
+<value>Calculate total cumulative dose of bleomycin including current dose; bleomycin pulmonary toxicity risk factors include a total cumulative dose greater than 400 units, or lower when combined with other antineoplastic drugs. Recommend 75% of calculated dose for CrCl greater than or equal to 10 up to 50 mL/minute. Recommend 50% of calculated dose for CrCl less than 10 mL/minute.</value>
+<value>If ANC is greater than or equal to 1 X 109/L and platelets are greater than or equal to 100 X 109/L: Give as ordered. If ANC is less than 1 X 109/L OR platelets are less than 100 X 109/L: Delay 1 week. If Creatinine (serum) is less than 130 umol/L: Give as ordered. Calculate total cumulative dose of bleomycin including current dose. Maximum cumulative dose = 400 units.</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3347</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert><value>HIGH ALERT MEDICATION</value>
+</HighAlert>
+</drug>

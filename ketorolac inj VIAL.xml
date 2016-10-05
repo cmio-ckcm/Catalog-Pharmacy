@@ -1,0 +1,29 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "ketorolac inj VIAL">
+<dose><value>10</value>
+<value>30</value>
+</dose>
+<route><value>IV</value>
+<value>IM</value>
+</route>
+<strength><value>30 mg/mL</value>
+</strength>
+<frequency><value>Q6H</value>
+<value>Q8H</value>
+<value>Q4H</value>
+</frequency>
+<instruction></instruction>
+<volume><value>1 mL</value>
+</volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN><value>Pain</value>
+</IndicationPRN>
+<AdditionalNotes><value>Total daily dose not to exceed 120 mg.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

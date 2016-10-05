@@ -1,0 +1,32 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "treprostinil inj VIAL">
+<dose><value>0.625 - 40</value>
+</dose>
+<route><value>SC</value>
+<value>IV</value>
+</route>
+<strength><value>1 mg/mL</value>
+<value>10 mg/mL</value>
+<value>2.5 mg/mL</value>
+<value>5 mg/mL</value>
+</strength>
+<frequency><value>CONTINUOUS</value>
+</frequency>
+<instruction><value>Administer by continuous infusion.</value>
+</instruction>
+<volume><value>20 mL</value>
+</volume>
+<units><value>ng/kg/minute</value>
+</units>
+<Population><value>ADULT</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2046</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2049</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2047</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2048</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

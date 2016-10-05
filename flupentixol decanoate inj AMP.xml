@@ -1,0 +1,41 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "flupentixol decanoate inj AMP">
+<dose><value>36</value>
+<value>48</value>
+<value>72</value>
+<value>100</value>
+<value>6</value>
+<value>12</value>
+<value>18</value>
+<value>24</value>
+</dose>
+<route><value>IM</value>
+</route>
+<strength><value>100 mg/mL</value>
+<value>20 mg/mL</value>
+</strength>
+<frequency><value>EVERY 4 WEEKS</value>
+<value>EVERY 2 WEEKS</value>
+</frequency>
+<instruction><value>Administer by deep intramuscular injection.</value>
+</instruction>
+<volume><value>1 mL</value>
+</volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>36 mg provided by 0.36 mL of 100 mg/mL injection. </value>
+<value>48 mg provided by 0.48 mL of 100 mg/mL injection. </value>
+<value>72 mg provided by 0.72 mL of 100 mg/mL injection. </value>
+<value>100 mg provided by 1 mL of 100 mg/mL injection. </value>
+<value>6 mg provided by 0.3 mL of 20 mg/mL injection. </value>
+<value>12 mg provided by 0.6 mL of 20 mg/mL injection. </value>
+<value>18 mg provided by 0.9 mL of 20 mg/mL injection. </value>
+<value>24 mg provided by 1.2 mL of 20 mg/mL injection. </value>
+<value>36 mg provided by 1.8 mL of 20 mg/mL injection. </value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "lamiVUDine tab">
+<dose><value>100</value>
+<value>50</value>
+<value>150</value>
+<value>300</value>
+<value>75</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>100 mg</value>
+<value>150 mg</value>
+<value>300 mg</value>
+</strength>
+<frequency><value>DAILY</value>
+<value>ONCE</value>
+<value>BID</value>
+<value>HS</value>
+</frequency>
+<instruction><value>75 mg in the morning and 150 mg in the evening.</value>
+</instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Patients weighing at least 30kg.</value>
+<value>Patients weighing 14 to 21 kg</value>
+<value>Patients weighing 21  to 29.9 kg.</value>
+</AdditionalNotes>
+<BackgroundInformation><value>50 mg = 1/2 tablet</value>
+<value>150 mg = 1/2 tablet</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

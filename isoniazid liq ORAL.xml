@@ -1,0 +1,34 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "isoniazid liq ORAL">
+<dose><value>5</value>
+<value>300</value>
+<value>10</value>
+<value>600</value>
+<value>10 - 15</value>
+<value>20 - 30</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>10 mg/mL</value>
+</strength>
+<frequency><value>DAILY</value>
+<value>THREE TIMES WEEKLY</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mg/kg</value>
+<value>mg</value>
+</units>
+<Population><value>ADULT</value>
+<value>CHILD</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Active Tuberculosis. Up to 300 mg/dose.</value>
+<value>Active Tuberculosis</value>
+<value>Active Tuberculosis. Up to 600 to 900 mg per dose.</value>
+<value>Latent Tuberculosis. Up to 300 mg/dose.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

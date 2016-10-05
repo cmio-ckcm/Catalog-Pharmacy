@@ -1,0 +1,86 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "dalteparin inj VIAL">
+<dose><value>100</value>
+<value>200</value>
+<value>9000</value>
+<value>10000</value>
+<value>11000</value>
+<value>12000</value>
+<value>13000</value>
+<value>14000</value>
+<value>15000</value>
+<value>16000</value>
+<value>17000</value>
+<value>18000</value>
+<value>19000</value>
+<value>20000</value>
+<value>21000</value>
+<value>22000</value>
+<value>23000</value>
+<value>24000</value>
+<value>25000</value>
+<value>26000</value>
+<value>27000</value>
+<value>28000</value>
+<value>29000</value>
+<value>30000</value>
+<value>120</value>
+<value>5400</value>
+<value>6000</value>
+<value>6600</value>
+<value>7200</value>
+<value>7800</value>
+<value>8400</value>
+<value>9600</value>
+<value>10 000</value>
+<value>5000</value>
+<value>30 - 40</value>
+<value>10 - 15</value>
+<value>5 - 10</value>
+<value>4 - 5</value>
+</dose>
+<route><value>SC</value>
+<value>IV</value>
+</route>
+<strength><value>25 000 unit/mL</value>
+</strength>
+<frequency><value>Q12H</value>
+<value>Q24H</value>
+<value>ONCE</value>
+<value>CONTINUOUS</value>
+</frequency>
+<instruction><value>Administer by direct injection.</value>
+<value>Initial dose. Administer by direct injection.</value>
+<value>Administered by continuous infusion.</value>
+</instruction>
+<volume><value>3.8 mL</value>
+</volume>
+<units><value>unit/kg</value>
+<value>unit </value>
+<value>unit</value>
+<value>unit/kg/hour</value>
+</units>
+<Population><value>ADULT</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>DVT Treatment</value>
+<value>Unstable Coronary Artery Disease/ NSTEMI. MAX dose: 10 000 unit Q12H.</value>
+<value>Cardiology. Dose rounding for patient weight less than or equal to 47 kg.</value>
+<value>Cardiology. Dose rounding for patient weighing from 48 to 52 kg.</value>
+<value>Cardiology. Dose rounding for patient weighing from 53 to 57 kg.</value>
+<value>Cardiology. Dose rounding for patient weighing from 58 to 62 kg.</value>
+<value>Cardiology. Dose rounding for patient weighing from 63 to 67 kg.</value>
+<value>Cardiology. Dose rounding for patient weighing from 68 to 72 kg.</value>
+<value>Cardiology. Dose rounding for patient weighing from 73 to 77 kg.</value>
+<value>Cardiology. Dose rounding for patient weighing from 78 to 82 kg.</value>
+<value>Cardiology. Dose rounding for patient weight greater than or equal to 83 kg.</value>
+<value>Hemodialysis/Hemofiltration. Chronic Renal Failure: Sessions up to a maximum of 4 hours.</value>
+<value>Hemodialysis/Hemofiltration. Chronic Renal Failure: Sessions longer than 4 hours.</value>
+<value>Hemodialysis/Hemofiltration. Acute Renal Failure / patients with high bleeding risk: Sessions longer than 4 hours.</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1539</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert><value>HIGH ALERT MEDICATION</value>
+</HighAlert>
+</drug>

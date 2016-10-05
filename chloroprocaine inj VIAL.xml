@@ -1,0 +1,35 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "chloroprocaine inj VIAL">
+<dose><value>1 - 800</value>
+<value>2 - 3</value>
+<value>40 - 60</value>
+<value>30 - 40</value>
+<value>2 - 2.5</value>
+<value>15 - 25</value>
+</dose>
+<route><value>INFILTRATION</value>
+<value>EPIDURAL</value>
+</route>
+<strength><value>0.02</value>
+</strength>
+<frequency><value>ONCE</value>
+</frequency>
+<instruction></instruction>
+<volume><value>20 mL</value>
+</volume>
+<units><value>mg</value>
+<value>mL</value>
+</units>
+<Population><value>ADULT. Local infiltration. MAXIMUM total dose: 800 mg.</value>
+<value>ADULT. Mandibular</value>
+<value>ADULT. Pudendal (each side) block. Total dose: 400 mg</value>
+<value>ADULT. Brachial plexus.</value>
+<value>ADULT. LUMBAR EPIDURAL.</value>
+<value>ADULT. Caudal</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

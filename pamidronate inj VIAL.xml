@@ -1,0 +1,53 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "pamidronate inj VIAL">
+<dose><value>90</value>
+<value>30</value>
+<value>60</value>
+<value>0.5 - 1.5</value>
+<value>0.5 - 1</value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>3 mg/mL</value>
+<value>6 mg/mL</value>
+<value>9 mg/mL</value>
+</strength>
+<frequency><value>EVERY 3 WEEKS</value>
+<value>EVERY 4 WEEKS</value>
+<value>WEEKLY</value>
+<value>ONCE</value>
+<value>EVERY 2 WEEKS</value>
+<value>DAILY</value>
+</frequency>
+<instruction><value>for 6 doses.</value>
+<value>Administer as initial dose on week one.</value>
+<value>for 3 doses.</value>
+<value>for 3 days.</value>
+</instruction>
+<volume><value>10 mL</value>
+</volume>
+<units><value>mg</value>
+<value>mg/kg/dose</value>
+<value>mg/kg/day</value>
+</units>
+<Population><value>ADULT. Bone metastases in patients receiving chemotherapy.</value>
+<value>ADULT. Bone metastases in patients NOT receiving chemotherapy.</value>
+<value>ADULT. Multiple Myeloma</value>
+<value>ADULT. Paget&amp;apos;s Disease</value>
+<value>ADULT. Tumor-Induced Hypercalcemia (TIH)</value>
+<value>INFANTS / CHILDREN. Hypercalcemia</value>
+<value>INFANTS / CHILDREN. Osteogenesis Imperfecta</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Regimen 1: Total dose = 180 mg.</value>
+<value>Regimen 2: Total dose = 210 mg. (30 mg on week one, followed by 60 mg every 2 weeks for 3 doses.)</value>
+<value>Retreatment regimen: Total dose = 180 mg. May be repeated every 6 months until; remission or relapse.</value>
+<value>Maximum dose: 90 mg</value>
+<value>Dose based upon initial plasma calcium levels, up to a Maximum dose of 90 mg.</value>
+</AdditionalNotes>
+<BackgroundInformation><value>May repeat dose every 2 to 3 weeks as needed.</value>
+<value>May repeat dose in 4 to 6 month intervals.</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

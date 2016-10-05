@@ -1,0 +1,29 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "fluorouracil inj VIAL">
+<dose><value>500</value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>50 mg/mL</value>
+</strength>
+<frequency><value>ONCE</value>
+</frequency>
+<instruction><value>DAY 1 of 21. Administer by direct injection over 1 to 2 minutes.</value>
+<value>DAY 1 of 21. Administer dose diluted in 0.9% sodium chloride 100 mL over 15 minutes.</value>
+</instruction>
+<volume><value>100 mL</value>
+</volume>
+<units><value>mg/m2</value>
+</units>
+<Population><value>Fluorouracil, Epirubicin, Cyclophosphamide (FEC) followed by DOCEtaxel. Breast Cancer (NEOADJUVANT Treatment).</value>
+<value>Fluorouracil, Epirubicin, Cyclophosphamide (FEC) followed by DOCEtaxel &amp; Trastuzumab</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>If ANC is greater than or equal to 1.5 AND Plts are greater than or equal to 100 x 109/L: Give as ordered. If ANC is less than 1.5 OR Plts are less than 100 x 109/L: Delay 1 week.</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3393</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert><value>HIGH ALERT MEDICATION</value>
+</HighAlert>
+</drug>

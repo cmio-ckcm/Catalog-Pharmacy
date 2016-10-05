@@ -1,0 +1,24 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "nicotine patch">
+<dose><value>1</value>
+</dose>
+<route><value>TOP</value>
+</route>
+<strength><value>7 mg/24 hour</value>
+</strength>
+<frequency><value>DAILY</value>
+</frequency>
+<instruction><value>Apply patch.</value>
+<value>REMOVE NICOTINE 7 mg PATCH</value>
+</instruction>
+<volume></volume>
+<units><value>PATCH</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Apply patch to non-hairy, clean, dry skin on upper body or outer upper arm, rotating sites.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

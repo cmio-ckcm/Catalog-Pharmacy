@@ -1,0 +1,30 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "pantoprazole inj VIAL">
+<dose><value>40</value>
+<value>80</value>
+<value>8</value>
+</dose>
+<route><value>IV</value>
+<value>IV </value>
+</route>
+<strength><value>40 mg</value>
+</strength>
+<frequency><value>DAILY</value>
+<value>ONCE</value>
+<value>CONTINUOUS</value>
+</frequency>
+<instruction><value>ONCE, followed by continuous infusion.</value>
+<value>Administer as continuous infusion.</value>
+</instruction>
+<volume></volume>
+<units><value>mg</value>
+<value>mg/hour</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>200 mg/500mL</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

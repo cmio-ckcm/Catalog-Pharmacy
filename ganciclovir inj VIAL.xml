@@ -1,0 +1,40 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "ganciclovir inj VIAL">
+<dose><value>5</value>
+<value>6</value>
+<value>2.5</value>
+<value>1.25</value>
+<value>0.625</value>
+</dose>
+<route><value>IV</value>
+<value>IV </value>
+</route>
+<strength><value>500 mg</value>
+</strength>
+<frequency><value>Q12H</value>
+<value>DAILY</value>
+<value>FIVE TIMES WEEKLY</value>
+<value>THREE TIMES WEEKLY </value>
+</frequency>
+<instruction><value>Administer post hemodialysis.</value>
+</instruction>
+<volume></volume>
+<units><value>mg/kg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>CMV Infection: Induction Dose- continued for 14-21 days.</value>
+<value>CMV Infection: Maintenance Dose following iduction dosage regimen OR prevention.</value>
+<value>CMV Infection: Maintenance Dose following iduction dosage regimen.</value>
+<value>CrCl = 50 - 69 mL/min.</value>
+<value>CrCl = 25 - 49 mL/min.</value>
+<value>CrCl = 10 - 24 mL/min.</value>
+<value>CrCl &amp;lt; 10 mL/min or hemodialysis.</value>
+<value>CVVHD</value>
+</AdditionalNotes>
+<BackgroundInformation><value>Treatment/Induction Dose</value>
+<value>Prevention/Maintenance Dose</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

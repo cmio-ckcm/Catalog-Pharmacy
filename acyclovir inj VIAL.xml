@@ -1,0 +1,30 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "acyclovir inj VIAL">
+<dose><value>0</value>
+<value>20</value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>50 mg/mL</value>
+</strength>
+<frequency><value>Q8H</value>
+</frequency>
+<instruction></instruction>
+<volume><value>20 mL</value>
+</volume>
+<units><value>mg</value>
+<value>mg/kg/dose</value>
+</units>
+<Population><value>NEONATE</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>DOSED AT 5 MG/KG</value>
+<value>DOSED AT 10 MG/KG</value>
+<value>DOSED AT 15 MG/KG</value>
+<value>If CrCl is 25 to 50 mL/minute, administer dose Q12H, if CrCl is 10 to 25 mL/minute, administer dose Q24H. If CrCl is less than 10 mL/minute, administer 50% of the dose Q24H.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>F</value>
+</AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

@@ -1,0 +1,108 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "mesna inj AMP">
+<dose><value>600</value>
+<value>3000</value>
+<value>450</value>
+<value>650</value>
+<value>1300</value>
+<value>1000</value>
+<value>2500</value>
+<value>4000</value>
+<value>3500</value>
+<value>300</value>
+<value>400</value>
+<value>200</value>
+<value>2000</value>
+<value>1750</value>
+<value>1400</value>
+<value>2800</value>
+<value>1500</value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>100 mg/mL</value>
+</strength>
+<frequency><value>DAILY</value>
+<value>Q2H  </value>
+<value>ONCE</value>
+<value>CONTINOUS</value>
+<value>CONTINUOUS</value>
+</frequency>
+<instruction><value>for 3 days (first of 3 doses per daily treatment). Administer initial dose 30 minutes prior to ifosfamide, diluted in 100 mL 0.9% sodium chloride over 15 minutes. </value>
+<value>for 3 days (second of 3 doses per daily treatment). Administer dose mixed in same bag with ifosfamide, diluted in 1000 mL 2/3-1/3 over 4 hours. </value>
+<value>for 3 days (third of 3 doses per daily treatment). Administer third dose following chemotherapy treatment, diluted in 100 mL 0.9% sodium chloride over 15 minutes. </value>
+<value>for 4 days (first of 3 doses per daily treatment). Administer initial dose 30 minutes prior to ifosfamide, diluted in 100 mL 0.9% sodium chloride over 15 minutes. </value>
+<value>for 4 days (second of 3 doses per daily treatment). Administer second dose at 2 hours post-ifosfamide, diluted in 100 mL 0.9% sodium chloride over 15 minutes. </value>
+<value>for 4 days (third of 3 doses per daily treatment). Administer third dose at 4 hours post-ifosfamide, diluted in 100 mL 0.9% sodium chloride over 15 minutes. </value>
+<value>for 5 days (first of 3 doses per daily treatment). Administer initial dose 30 minutes prior to ifosfamide, diluted in 100 mL 0.9% sodium chloride over 15 minutes. </value>
+<value>for 5 days (second of 3 doses per daily treatment). Administer second dose at 2 hours post-ifosfamide, diluted in 100 mL 0.9% sodium chloride over 15 minutes. </value>
+<value>for 5 days (third of 3 doses per daily treatment). Administer third dose at 4 hours post-ifosfamide, diluted in 100 mL 0.9% sodium chloride over 15 minutes. </value>
+<value>for 5 days (first of 2 doses per daily treatment). Administer initial dose 30 minutes prior to ifosfamide, diluted in 100 mL 0.9% sodium chloride over 15 minutes. </value>
+<value>for 5 days (second of 2 doses per daily treatment). Start second dose immediately after etoposide infusion and administer dose over 21 to 22 hours, diluted in 1000 mL dextrose 5%-sodium chloride 0.45%. </value>
+<value>for 2 doses on Day 5. Administer dose over 30 minutes at zero hours and at 2 hours diluted in 100 mL 0.9% sodium chloride.  </value>
+<value>for 3 days (second of 3 doses per daily treatment). Administer second dose at 2 hours post-ifosfamide, diluted in 100 mL 0.9% sodium chloride over 15 minutes. (Total 3 doses/day). </value>
+<value>for 3 days (third of 3 doses per daily treatment). Administer third dose at 4 hours post-ifosfamide, diluted in 100 mL 0.9% sodium chloride over 15 minutes. (Total 3 doses/day). </value>
+<value>for 3 days (first of 3 doses per daily treatment). Administer initial dose 30 minutes prior to ifosfamide over 15 to 30 minutes. </value>
+<value>for 3 days (third of 3 doses per daily treatment). Administer third dose following chemotherapy treatment over 15 to 30 minutes. </value>
+<value>for 3 days (third of 3 doses per daily treatment). Administer third dose over 15 to 30 minutes following post-hydration treatment. </value>
+<value>for 3 days (first of 3 doses per daily treatment). Administer initial dose prior to ifosfamide over 15 to 30 minutes. </value>
+<value>for 3 days (third of 3 doses per daily treatment). Administer third dose over 15 to 30 minutes following chemotherapy. </value>
+<value>Administer dose mixed in same bag with ifosfamide, diluted in 1000 mL 2/3-1/3 over 4 hours. </value>
+<value>for 4 days (second of 3 doses per daily treatment). Administer second dose at 4 hours after the end of the ifosfamide infusion, diluted in 100 mL 0.9% sodium chloride over 15 minutes. </value>
+<value>for 4 days (third of 3 doses per daily treatment). Administer third dose at 8 hours after the end of the ifosfamide infusion, diluted in 100 mL 0.9% sodium chloride over 15 minutes. </value>
+<value>for 3 days (second of 3 doses per daily treatment). Administer second dose at 2 hours post completion of ifosfamide, diluted in 100 mL 0.9% sodium chloride over 15 minutes. (Total 3 doses/day). </value>
+<value>for 3 days (third of 3 doses per daily treatment). Administer third dose at 4 hours post completion of ifosfamide, diluted in 100 mL 0.9% sodium chloride over 15 minutes. (Total 3 doses/day). </value>
+<value>for 3 days (first of 3 doses per daily treatment). Administer initial dose 15 minutes prior to ifosfamide over 15 to 30 minutes. </value>
+<value>for 3 days (second of 3 doses per daily treatment). Administer dose mixed in same bag with ifosfamide, diluted in 1000 mL 0.9% sodium chloride over 4 hours. </value>
+<value>for 3 days (third of 3 doses per daily treatment). Administer third dose over 15 minutes following chemotherapy. </value>
+<value>for 3 days. Administer as continuous infusion over 24 hours starting 60 minutes prior to first dose of cyclophosphamide. Dilute dose in 1000 mL 0.9% sodium chloride.</value>
+<value>ONCE. Administer dose diluted in 250 mL 0.9% sodium chloride over 30 minutes.</value>
+<value>ONCE. Administer dose diluted in 1000 mL 0.9% sodium chloride over 12 hours following cyclophosphamide.</value>
+<value>ONCE. Administer dose diluted in 500 mL D5W over 1 hour, concurrently with cyclophosphamide.</value>
+<value>for 3 doses. First of 3 doses. (each dose calculated as 20% of cyclophosphamide dose). Administer initial dose concurrently with cyclophosphamide, diluted in 500 mL D5W over 2 hours.  </value>
+<value>for 3 doses. Second of 3 doses. (each dose calculated as 20% of cyclophosphamide dose). Administer second dose at 4 hours after the end of the cyclophosphamide infusion.</value>
+<value>for 3 doses. Third of 3 doses. (each dose calculated as 20% of cyclophosphamide dose). Administer third dose at 8 hours after the end of the cyclophosphamide infusion.</value>
+<value>for 3 doses. First of 3 doses. Administer initial dose concurrently with cyclophosphamide, diluted in 500 mL D5W over 2 hours.</value>
+<value>for 3 doses. Second of 3 doses. Administer second dose at 4 hours after the end of the cyclophosphamide infusion.</value>
+<value>for 3 doses. Third of 3 doses. Administer third dose at 8 hours after the end of the cyclophosphamide infusion.</value>
+<value>Q2H for 2 doses on Day 5. Administer dose over 30 minutes at zero hours and at 2 hours diluted in 100 mL 0.9% sodium chloride.  </value>
+<value>Administer dose diluted in 250 mL 0.9% sodium chloride over 30 minutes.</value>
+<value>Administer dose diluted in 1000 mL 0.9% sodium chloride over 12 hours following cyclophosphamide.</value>
+<value>Administer dose diluted in 500 mL D5W over 1 hour, concurrently with cyclophosphamide.</value>
+</instruction>
+<volume><value>10 mL</value>
+<value>4 mL</value>
+</volume>
+<units><value>mg/m2</value>
+</units>
+<Population><value>ADULT</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Adjuvant or First Line Metastatic Sarcoma (Ewing/PNET). </value>
+<value>Adjuvant or First Line Metastatic Sarcoma (Ewing/PNET).</value>
+<value>Metastatic Soft Tissue Sarcoma. Mesna treatment with ifosfamide.</value>
+<value>Soft Tissue Sarcoma. Mesna treatment with ifosfamide.</value>
+<value>Rhabdomyosarcoma, Metastatic Rhabdomyosarcoma, Osteosarcoma, Ca Testes. Mesna treatment with ifosfamide.</value>
+<value>Osteosarcoma. Doses less than 1000 mg diluted in 50 mL 0.9% sodium chloride and doses greater than or equal to 1000 mg diluted in 100 mL 0.9% sodium chloride.</value>
+<value>Osteosarcoma.</value>
+<value>Soft Tissue Sarcoma. Doses less than 1000 mg diluted in 50 mL 0.9% sodium chloride and doses greater than or equal to 1000 mg diluted in 100 mL 0.9% sodium chloride.</value>
+<value>Soft Tissue Sarcoma.</value>
+<value>Sarcoma. Doses less than 1000 mg diluted in 50 mL 0.9% sodium chloride and doses greater than or equal to 1000 mg diluted in 100 mL 0.9% sodium chloride.</value>
+<value>Sarcoma.</value>
+<value>Sarcoma (gynecology). Mesna treatment with ifosfamide.</value>
+<value>Germ Cell Cancer Mediatinal Primary. Mesna treatment with ifosfamide.</value>
+<value>Penile cancer. Mesna treatment with isfosfamide.</value>
+<value>GU-Germ Cell Cancer, Germ Cell Cancer. Doses less than 1000 mg diluted in 50 mL 0.9% sodium chloride and doses greater than or equal to 1000 mg diluted in 100 mL 0.9% sodium chloride.</value>
+<value>GU-Germ Cell Cancer, Germ Cell Cancer.</value>
+<value>Relapsed or Refractory Non-Hodgkins Lymphoma. Mesna treatment with cyclophosphamide. Use ideal body weight in dosing calculations.</value>
+<value>Lymphoma. Mesna treatment with cyclophosphamide.</value>
+<value>Multiple Myeloma. Mesna treatment with cyclophosphamide.</value>
+<value>BMT. Mesna treatment with cyclophosphamide.</value>
+<value>Osteosarcoma. </value>
+</AdditionalNotes>
+<BackgroundInformation><value>Uroprotextant for toxicity caused by cyclophosphamide, ifosfamide therapy.</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>F</value>
+</AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

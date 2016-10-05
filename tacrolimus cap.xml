@@ -1,0 +1,31 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "tacrolimus cap">
+<dose><value>0.2 - 0.3</value>
+<value>0.1 - 0.15</value>
+<value>0.075</value>
+<value>0.15 - 0.2</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>5 mg </value>
+</strength>
+<frequency><value>Q12H</value>
+</frequency>
+<instruction><value>Administer daily calculated dose in 2 equally divided doses.</value>
+</instruction>
+<volume></volume>
+<units><value>mg/kg/day</value>
+</units>
+<Population><value>CHILDREN</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Kidney Transplant</value>
+<value>Liver Transplant</value>
+<value>Heart Transplant</value>
+<value>Liver Transplant patients without pre-existing renal or hepatic dysfunction.</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3578</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

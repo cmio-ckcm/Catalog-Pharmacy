@@ -1,0 +1,32 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "fludarabine inj VIAL">
+<dose><value>25</value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>25 mg/mL</value>
+</strength>
+<frequency><value>DAILY</value>
+<value>ONCE</value>
+</frequency>
+<instruction><value>for 5 days. Administer dose diluted in 50 mL 0.9% sodium chloride over 30 minutes.</value>
+<value>for 3 days. Administer dose diluted in 100 mL 0.9% sodium chloride over 30 minutes.</value>
+<value>Administer dose diluted in 100 mL 0.9% sodium chloride over 30 minutes.</value>
+</instruction>
+<volume><value>2 mL</value>
+</volume>
+<units><value>mg/m2/day</value>
+</units>
+<Population><value>ADULT</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Chronic Lymphocytic Leukemia, Waldenstrom&amp;apos;s Macroglobulinemia, Low Grade Lymphoma. In patients with CrCl from 30 to 70 mL/minute, decrease dose by 50%. Contraindicated in patients with CrCl less than 30 mL/minute.</value>
+<value>Chronic Lymphocytic Leukemia</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3317</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>F</value>
+</AHSFormularyStatus>
+<HighAlert><value>HIGH ALERT MEDICATION</value>
+</HighAlert>
+</drug>

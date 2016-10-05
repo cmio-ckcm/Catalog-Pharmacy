@@ -1,0 +1,30 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "soybean oil - MCT oil - olive oil - fish oil inj BAG">
+<dose><value>0.5 - 2</value>
+<value>1 - 2</value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>0.2</value>
+</strength>
+<frequency><value>DAILY</value>
+</frequency>
+<instruction><value>Administer as continuous infusion as part of parenteral nutrition.</value>
+<value>Administer over 12 hours</value>
+<value>Administer over 24 hours</value>
+</instruction>
+<volume></volume>
+<units><value>g (lipid)/kg/day</value>
+</units>
+<Population><value>NEONATE</value>
+<value>INFANT / CHILDREN, weighing 25 kg or less</value>
+<value>ADULT</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>SMOF lipid emulsion provides 2 kcal/mL.</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=6901</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

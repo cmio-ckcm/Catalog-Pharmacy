@@ -1,0 +1,33 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "sucralfate liq ORAL">
+<dose><value>2</value>
+<value>1</value>
+<value>40 - 80</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>200 mg/mL</value>
+</strength>
+<frequency><value>BID</value>
+<value>QID</value>
+<value>Q4H</value>
+<value>Q6H</value>
+</frequency>
+<instruction><value>Administer in the morning and evening.</value>
+<value>Administer daily calculated dose in 4 equally divided doses.</value>
+</instruction>
+<volume><value>500 mL</value>
+</volume>
+<units><value>g</value>
+<value>mg/kg/day</value>
+</units>
+<Population><value>ADULT</value>
+<value>CHILDREN</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Stress Ulcer prophylaxis</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

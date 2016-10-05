@@ -1,0 +1,29 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "attapulgite (activated) liq ORAL">
+<dose><value>7.5</value>
+<value>15</value>
+<value>30</value>
+</dose>
+<route><value>PO </value>
+<value>PO</value>
+</route>
+<strength><value>40 mg/mL</value>
+</strength>
+<frequency><value>ONCE</value>
+</frequency>
+<instruction><value>Up to 7 times daily.</value>
+</instruction>
+<volume></volume>
+<units><value>mL</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>CHILDREN: 3 - 6 YEARS</value>
+<value>CHILDREN: 6 - 12 YEARS</value>
+<value>ADULTS / CHILDREN OVER 12 YEARS</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "cefUROXime axetil liq ORAL">
+<dose><value>50</value>
+<value>62.5</value>
+<value>125</value>
+<value>187.5</value>
+<value>250</value>
+<value>312.5</value>
+<value>375</value>
+<value>500</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>25 mg/mL</value>
+</strength>
+<frequency><value>BID</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>50 mg = 2 mL</value>
+<value>62.5 mg = 2.5 mL</value>
+<value>125 mg = 5 mL</value>
+<value>187.5 mg = 7.5 mL</value>
+<value>250 mg = 10 mL</value>
+<value>312.5 mg = 12.5 mL</value>
+<value>375 mg = 15 mL</value>
+<value>500 mg = 20 mL</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

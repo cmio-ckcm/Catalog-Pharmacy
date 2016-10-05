@@ -1,0 +1,31 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "pertuzumab inj VIAL">
+<dose><value>840</value>
+<value>420</value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>30 mg/mL</value>
+</strength>
+<frequency><value>ONCE</value>
+</frequency>
+<instruction><value>Administer dose diluted in 250 mL 0.9% sodium chloride over 60 minutes.</value>
+<value>Administer dose diluted in 250 mL 0.9% sodium chloride over 30 to 60 minutes.</value>
+</instruction>
+<volume><value>14 mL</value>
+</volume>
+<units><value>mg</value>
+</units>
+<Population><value>ADULT</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Metastatic Breast Cancer. Observe patient for a 60 minute period post-infusion.</value>
+<value>Metastatic Breast Cancer. Observe patient for a 30 minute period post-infusion. If the time between infusions is less than 6 weeks, the 420 mg dose may be continued. If the time between infusions is 6 weeks or more, a dose of 840 mg pertuzumab should be re-administered and then subsequent dosing would continue at 420 mg.</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=6322</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>DEF</value>
+</AHSFormularyStatus>
+<HighAlert><value>HIGH ALERT MEDICATION</value>
+</HighAlert>
+</drug>

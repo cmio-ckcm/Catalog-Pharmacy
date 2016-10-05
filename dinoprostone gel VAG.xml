@@ -1,0 +1,22 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "dinoprostone gel VAG">
+<dose><value>2</value>
+</dose>
+<route><value>VAGINAL</value>
+</route>
+<strength><value>2 mg</value>
+</strength>
+<frequency><value>ONCE</value>
+</frequency>
+<instruction><value>Insert syringe contents into posterior fornix of vaginal canal.</value>
+</instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

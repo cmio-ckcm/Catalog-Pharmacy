@@ -1,0 +1,34 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "tigecycline inj VIAL">
+<dose><value>1.5</value>
+<value>1</value>
+<value>100</value>
+<value>50</value>
+<value>25</value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>50 mg</value>
+</strength>
+<frequency><value>ONCE</value>
+<value>Q12H</value>
+</frequency>
+<instruction><value>Initial dose.</value>
+</instruction>
+<volume></volume>
+<units><value>mg/kg</value>
+<value>mg</value>
+</units>
+<Population><value>CHILDREN, 12 YEARS AND OLDER</value>
+<value>ADULT</value>
+<value>ADULT, with severe hepatic failure (Child-Pugh Class C)</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>MAXIMUM: 100 mg/dose.</value>
+<value>MAXIMUM: 50 mg/dose.</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2575</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

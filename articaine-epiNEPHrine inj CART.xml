@@ -1,0 +1,26 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "articaine-epiNEPHrine inj CART">
+<dose><value>20 - 216</value>
+</dose>
+<route><value>INTRAORAL INJ</value>
+</route>
+<strength><value>4%-1:200 000</value>
+</strength>
+<frequency><value>ONCE</value>
+</frequency>
+<instruction></instruction>
+<volume><value>1.8 mL</value>
+</volume>
+<units><value>mg</value>
+</units>
+<Population><value>ADULT</value>
+<value>CHILDREN, 4 years of age and older.</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Maximum  total dose generally should not exceed 500 mg.</value>
+<value>Dosage should not exceed 5 mg/kg in children aged 4 to 12 years.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

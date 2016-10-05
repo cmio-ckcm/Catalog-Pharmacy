@@ -1,0 +1,38 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "gramicidin-polymyxin B drop EYE EAR">
+<dose><value>1</value>
+<value>2</value>
+<value>1 - 2</value>
+</dose>
+<route><value>OPHTH</value>
+<value>OTIC</value>
+</route>
+<strength><value>0.025 mg-10 000 unit/mL</value>
+</strength>
+<frequency><value>QID  </value>
+<value>QID</value>
+</frequency>
+<instruction><value>Instill into conjuctiva of LEFT eye. </value>
+<value>Instill into conjuctiva of LEFT eye. Wait 3 minutes between administering additional drop.</value>
+<value>Instill into conjuctiva of RIGHT eye. </value>
+<value>Instill into conjuctiva of RIGHT eye. Wait 3 minutes between administering additional drop.</value>
+<value>Instill into conjuctiva of affected eye(s). </value>
+<value>Instill into conjuctiva of affected eye(s). Wait 3 minutes between administering additional drop.</value>
+<value>Instill into conjuctiva of BOTH eyes. </value>
+<value>Instill into conjuctiva of BOTH eyes. Wait 3 minutes between administering additional drop.</value>
+<value>Instill into LEFT ear</value>
+<value>Instill into RIGHT ear</value>
+<value>Instill into affected ear(s).</value>
+<value>Instill into BOTH ears.</value>
+</instruction>
+<volume><value>10 mL</value>
+</volume>
+<units><value>gtt</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

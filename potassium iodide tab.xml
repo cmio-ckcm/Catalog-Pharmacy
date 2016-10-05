@@ -1,0 +1,28 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "potassium iodide tab">
+<dose><value>130</value>
+<value>65</value>
+<value>32.5</value>
+<value>16.25</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>65 mg</value>
+</strength>
+<frequency><value>DAILY</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population><value>ADULT</value>
+<value>INFANT / CHILDREN. 3 - 18 years of age</value>
+<value>INFANT / CHILDREN. 1 month to 3 years of age.</value>
+<value>NEONATE. Up to 1 month of age.</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "nicotine lozenge">
+<dose><value>4</value>
+<value>4 - 8</value>
+</dose>
+<route><value>BUCCAL</value>
+</route>
+<strength><value>4 mg</value>
+</strength>
+<frequency><value>Q1H</value>
+<value>Q2H</value>
+<value>Q3H</value>
+<value>Q4H</value>
+<value>Q6H</value>
+<value>Q8H</value>
+<value>DAILY</value>
+</frequency>
+<instruction><value>Suck on lozenge until fully dissolved in mouth.</value>
+<value>Upon strong temptation to smoke, suck on lozenge until fully dissolved in mouth.</value>
+</instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN><value>Smoking cessation</value>
+</IndicationPRN>
+<AdditionalNotes><value>Initial treatment period: Weeks 1 to 6. Recommended a minimum of 8 lozenges per day. 4 mg dose recommended for patients who smoke their first cigarette within 30 minutes of waking up.</value>
+<value>Step down treatment peroid: Weeks 7 to 9. 4 mg dose recommended for patients who smoke their first cigarette within 30 minutes of waking up.</value>
+<value>Step down treatment peroid: Weeks 10 to 12. 4 mg dose recommended for patients who smoke their first cigarette within 30 minutes of waking up.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

@@ -1,0 +1,31 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "interferon alfa-2b inj VIAL">
+<dose><value>3</value>
+<value>9</value>
+<value>36</value>
+</dose>
+<route><value>IM</value>
+<value>SC</value>
+</route>
+<strength><value>6 million unit/mL</value>
+</strength>
+<frequency><value>THREE TIMES WEEKLY</value>
+<value>DAILY</value>
+</frequency>
+<instruction></instruction>
+<volume><value>3 mL</value>
+</volume>
+<units><value>million IU</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Chronic Hepatitis C</value>
+<value>Hairy Cell Leukemia treatment for 16 to 24 weeks</value>
+<value>Chronic myelogenous leukemia (chronic phase)</value>
+<value>Aids-related Kaposi&amp;apos;s sarcoma: treatment for 10 to 12 weeks, followed by dose administered 3 times weekly.</value>
+<value>Aids-related Kaposi&amp;apos;s sarcoma</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "sodium acetate inj VIAL">
+<dose><value>3 - 6</value>
+<value>3 - 4</value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>4 mmol/mL</value>
+</strength>
+<frequency><value>DAILY</value>
+<value>ONCE</value>
+</frequency>
+<instruction></instruction>
+<volume><value>50 mL</value>
+</volume>
+<units><value>mmol/kg/day</value>
+<value>mmol</value>
+</units>
+<Population><value>NEONATE</value>
+<value>INFANT / CHILDREN</value>
+<value>PEDIATRIC</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Maintenance sodium requirements. Maximum infusion rate: 1 mmol/kg/hour (based on sodium component).</value>
+<value>Maintenance sodium requirements. MAXIMUM dose: 100 to 150 mmol/day. Maximum infusion rate: 1 mmol/kg/hour (based on sodium component).</value>
+<value>Metabolic Acidosis. Dosing calculated on the amount of acetate (1 mEq of acetate is converted to 1 mEq of bicarbonate. 1 mEq = 1 mmol.): HCO3-(mEq) = 0.3 X weight (kg) X base deficit (mEq/L)  OR  HCO3- (mEq) = 0.5 X weight (kg) X [24 - serum HCO3-(mEq/L)].</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3056</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert><value>HIGH ALERT MEDICATION</value>
+</HighAlert>
+</drug>

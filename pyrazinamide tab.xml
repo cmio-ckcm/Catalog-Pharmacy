@@ -1,0 +1,39 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "pyrazinamide tab">
+<dose><value>1000</value>
+<value>1500</value>
+<value>2000</value>
+<value>3000</value>
+<value>4000</value>
+<value>2500</value>
+<value>15 - 30</value>
+<value>50</value>
+<value>20 - 40</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>500 mg</value>
+</strength>
+<frequency><value>DAILY</value>
+<value>TWO TIMES WEEKLY</value>
+<value>THREE TIMES WEEKLY</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mg</value>
+<value>mg/kg/day</value>
+<value>mg/kg/dose</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Suggested adult dosing for 40 - 55 kg based on lean body weight.</value>
+<value>Suggested adult dosing for 56 - 75 kg based on lean body weight.</value>
+<value>Suggested adult dosing for 76 - 90 kg based on lean body weight; maximum daily dose regardless of weight.</value>
+<value>Suggested adult dosing for 76 - 90 kg based on lean body weight; maximum dose regardless of weight.</value>
+<value>HIV negative. Pediatrics: Maximum dose: 2000 mg/day.</value>
+<value>HIV exposed / infected. Pediatrics: Maximum dose: 2000 mg/day.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

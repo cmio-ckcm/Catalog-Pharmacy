@@ -1,0 +1,46 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "penicillin G sodium inj VIAL">
+<dose><value>100000</value>
+<value>150000</value>
+<value>200000</value>
+<value>250000</value>
+<value>400000</value>
+<value>50000</value>
+<value>1 million</value>
+<value>2 million</value>
+<value>3 million</value>
+<value>4 million</value>
+</dose>
+<route><value>IV</value>
+<value>IM</value>
+</route>
+<strength><value>1 million unit</value>
+<value>10 million unit</value>
+<value>5 million unit</value>
+</strength>
+<frequency><value>Q6H</value>
+<value>Q4H</value>
+<value>Q12H</value>
+<value>Q8H</value>
+</frequency>
+<instruction><value>Administer daily calculated dose in 4 equally divided doses.</value>
+<value>Administer daily calculated dose in 6 equally divided doses.</value>
+</instruction>
+<volume></volume>
+<units><value>units/kg/day</value>
+<value>units/kg/dose</value>
+<value>UNITS</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>MAXIMUM DAILY DOSE: 24 million units/day.</value>
+<value>Post-Natal age= 0 - 7 days and 2000 g or less.</value>
+<value>Post-Natal age= 8 - 28 days and less than 2000 g.</value>
+<value>Post-Natal age= 0 - 7 days and greater than 2000 g.</value>
+<value>Post-Natal age= 8 - 28 days and greater than 2000 g.</value>
+<value>Post-Natal age= greater than 28 days.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

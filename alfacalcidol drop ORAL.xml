@@ -1,0 +1,27 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "alfacalcidol drop ORAL">
+<dose><value>0.25</value>
+<value>0.5</value>
+<value>0.75</value>
+<value>1</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>2 mcg/mL</value>
+</strength>
+<frequency><value>DAILY</value>
+</frequency>
+<instruction></instruction>
+<volume><value>10 mL</value>
+</volume>
+<units><value>mcg </value>
+<value>mcg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus><value>F</value>
+</AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

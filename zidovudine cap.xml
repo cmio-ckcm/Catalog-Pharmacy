@@ -1,0 +1,36 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "zidovudine cap">
+<dose><value>300</value>
+<value>200</value>
+<value>12</value>
+<value>8</value>
+<value>9</value>
+<value>6</value>
+<value>240</value>
+<value>160</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>100 mg</value>
+</strength>
+<frequency><value>Q12H</value>
+<value>Q8H</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mg</value>
+<value>mg/kg</value>
+<value>mg/m2</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Recommended dosing in patients weighing 30 kg or greater.</value>
+<value>Recommended dosing in patients 4 to less than 9 kg in body weight.</value>
+<value>Recommended dosing in patients greater than 9 kg and less than 30 kg in body weight.</value>
+<value>Alternative dosing.</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3306</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

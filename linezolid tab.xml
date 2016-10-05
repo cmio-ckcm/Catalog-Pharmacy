@@ -1,0 +1,23 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "linezolid tab">
+<dose><value>600</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>600 mg</value>
+</strength>
+<frequency><value>Q12H</value>
+<value>Q8H</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Dosing in children under 11 years of age. Children 12 and older - refer to adult dosing.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

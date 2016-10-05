@@ -1,0 +1,59 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "esmolol inj BAG">
+<dose><value>50</value>
+<value>75</value>
+<value>100 - 500</value>
+<value>100</value>
+<value>200</value>
+<value>500</value>
+<value>50 - 250 </value>
+<value>1500</value>
+<value>150</value>
+<value>300</value>
+</dose>
+<route><value>IV</value>
+<value>IV </value>
+</route>
+<strength><value>10 mg/mL</value>
+</strength>
+<frequency><value>CONTINUOUS</value>
+<value>ONCE</value>
+</frequency>
+<instruction><value>Continuous infusion, titrate dose by 25 to 50 mcg/kg/minute every 20 minutes to desired response.</value>
+<value>Initial dose, followed by continuous infusion.</value>
+<value>Continuous infusion, increase dose by 50 to 100 mcg/kg/minute every 5 to 10 minutes until a reduction of greater than 10% in heart rate or mean blood pressure occurs.</value>
+<value>Loading dose, administered over 1 minute</value>
+<value>Continuous infusion</value>
+<value>Direct administration over 30 seconds administered 1 to 2 minutes before intubation.</value>
+<value>Direct administration over 30 seconds, followed by continuous infusion for intra-operative/post-operative Tachycardia and Hypertension.</value>
+<value>Continuous infusion. Adjust infusion rate up to 300 mcg/kg/minute to maintain desired heart rate and/or blood pressure.</value>
+<value>Loading dose, administered over 1 minute followed by continuous infusion</value>
+<value>Administer by continuous infusion, if response is inadequate, titrate dose upward in 50 mcg/kg/minute increments at 4 minute intervals. </value>
+<value>Administered directly over 1 minute for Dobutamine stress echo reversal.</value>
+<value>Loading Dose: Administer 500 mcg/kg/minute for 3 minutes, then 300 mcg/kg/minute for 2 minutes. (Total 5 minutes)</value>
+<value>Maintenance Dose:.</value>
+</instruction>
+<volume><value>250 mL</value>
+</volume>
+<units><value>mcg/kg/minute</value>
+<value>mcg/kg</value>
+</units>
+<Population><value>ADULT: Post-intubation Tachycardia and Hypertension. </value>
+<value>ADULT: Intra-operative and post-operative Tachycardia and Hypertension. </value>
+<value>ADULT: Supraventricular Tachycardia, gradual control of post-operative Tachycardia and Hypertension. </value>
+<value>ADULT</value>
+<value>ADULT: Tilt Table test</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Post-natal age: 0 to 7 days (term)</value>
+<value>Post-natal age: 8 to 28 days (term)</value>
+<value>INFANT/CHILD: Supraventricular Tachycardia</value>
+<value>INFANT/CHILD: Post-operative Hypertension</value>
+<value>MAX dose: 100 mg</value>
+<value>MAXIMUM DOSE: 200 mcg/kg/minute</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert><value>HIGH ALERT MEDICATION</value>
+</HighAlert>
+</drug>

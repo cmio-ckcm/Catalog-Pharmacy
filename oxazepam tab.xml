@@ -1,0 +1,30 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "oxazepam tab">
+<dose><value>10</value>
+<value>15</value>
+<value>30</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>10 mg</value>
+<value>15 mg</value>
+<value>30 mg</value>
+</strength>
+<frequency><value>TID</value>
+<value>QID</value>
+<value>HS</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN><value>Anxiety</value>
+<value>Insomnia</value>
+</IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

@@ -1,0 +1,32 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "lipase-amylase-protease tab">
+<dose><value>1</value>
+<value>2</value>
+<value>3</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>20 880 unit-113 400 unit-112 500 unit</value>
+<value>25 000 unit-100 000 unit-100 000 unit</value>
+</strength>
+<frequency><value>TID</value>
+<value>Q2H </value>
+<value>ONCE</value>
+</frequency>
+<instruction><value>Administer with meals.</value>
+<value>To be administered with snacks.</value>
+</instruction>
+<volume></volume>
+<units><value>TAB</value>
+<value>CAP</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Pancreatectomy or pancreatic duct obstruction</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus><value>F</value>
+</AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

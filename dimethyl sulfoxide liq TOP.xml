@@ -1,0 +1,21 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "dimethyl sulfoxide liq TOP">
+<dose></dose>
+<route><value>TOPICAL</value>
+</route>
+<strength><value>0.99</value>
+</strength>
+<frequency><value>TID</value>
+</frequency>
+<instruction><value>Apply to affected area.</value>
+</instruction>
+<volume></volume>
+<units></units>
+<Population><value>ADULT</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

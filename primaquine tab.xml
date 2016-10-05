@@ -1,0 +1,27 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "primaquine tab">
+<dose><value>1</value>
+<value>15</value>
+<value>0.39</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>26.3 mg</value>
+</strength>
+<frequency><value>DAILY</value>
+</frequency>
+<instruction><value>for 14 days.</value>
+</instruction>
+<volume></volume>
+<units><value>TAB</value>
+<value>mg</value>
+<value>mg (base)/kg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Each tablet of primaquine phosphate 26.3 mg provides 15 mg primaquine base.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

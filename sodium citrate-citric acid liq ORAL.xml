@@ -1,0 +1,25 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "sodium citrate-citric acid liq ORAL">
+<dose><value>10</value>
+<value>15</value>
+<value>30</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>100 mg-66.8 mg/mL</value>
+</strength>
+<frequency><value>QID</value>
+<value>ONCE</value>
+</frequency>
+<instruction><value>Administer 15-20 minutes prior to obstetrical surgery. </value>
+</instruction>
+<volume></volume>
+<units><value>mL</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

@@ -1,0 +1,22 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "calcitriol cap">
+<dose><value>0.5</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>0.5 mcg</value>
+</strength>
+<frequency><value>THREE TIMES WEEKLY</value>
+</frequency>
+<instruction><value>Administer on Monday, Wednesday and Friday.</value>
+</instruction>
+<volume></volume>
+<units><value>mcg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

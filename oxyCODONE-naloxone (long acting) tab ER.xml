@@ -1,0 +1,22 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "oxyCODONE-naloxone (long acting) tab ER">
+<dose><value>1</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>5 mg-2.5 mg</value>
+</strength>
+<frequency><value>Q12H</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>TAB</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>NOTE: multiple tablets should not be substituted for other strengths, porportional bioavailability has not been establshed.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

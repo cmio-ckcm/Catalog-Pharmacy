@@ -1,0 +1,33 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "carBAMazepine liq ORAL">
+<dose><value>25</value>
+<value>50</value>
+<value>100</value>
+<value>200</value>
+<value>300</value>
+<value>400</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>20 mg/mL</value>
+</strength>
+<frequency><value>QID</value>
+<value>TID</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>25 mg = 1.25 mL</value>
+<value>50 mg = 2.5 mL</value>
+<value>100 mg = 5 mL</value>
+<value>200 mg = 10 mL</value>
+<value>300 mg = 15 mL</value>
+<value>400 mg = 20 mL</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

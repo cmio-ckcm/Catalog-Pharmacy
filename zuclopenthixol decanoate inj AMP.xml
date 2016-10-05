@@ -1,0 +1,27 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "zuclopenthixol decanoate inj AMP">
+<dose><value>100</value>
+<value>150</value>
+<value>200</value>
+<value>250</value>
+<value>300</value>
+<value>400</value>
+</dose>
+<route><value>IM</value>
+</route>
+<strength><value>200 mg/mL</value>
+</strength>
+<frequency><value>EVERY 2 WEEKS</value>
+</frequency>
+<instruction></instruction>
+<volume><value>1 mL</value>
+</volume>
+<units><value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

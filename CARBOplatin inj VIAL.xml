@@ -1,0 +1,57 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "CARBOplatin inj VIAL">
+<dose><value>900</value>
+<value>750</value>
+<value>600</value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>10 mg/mL</value>
+</strength>
+<frequency><value>ONCE</value>
+</frequency>
+<instruction><value>DAY 1 of 21. Administer dose diluted in 250 to 500 mL D%W over 30 to 60 minutes.</value>
+<value>DAY 1 of 21. Administer dose diluted in 250 to 500 mL D5W over 30 to 60 minutes.</value>
+<value>DAY 1 of 7. Administer dose diluted in 100 to 250 mL D5W over 30 to 60 minutes.</value>
+<value>DAY 1 of 21. Administer dose diluted in 250 to 500 mL D5W over 30 to 60 minutes on DAY 1 only.</value>
+</instruction>
+<volume><value>5 mL</value>
+</volume>
+<units><value>mg</value>
+</units>
+<Population><value>Adjuvant PACLitaxel/CARBOplatin. Non-Small Cell Lung Cancer</value>
+<value>Pemetrexed / CARBOplatin. Non-Small Cell Lung Cancer</value>
+<value>Vinorelbine / CARBOplatin. Non-Small Cell Lung Cancer (Advanced Stage)</value>
+<value>PACLitaxel / CARBOplatin. Advanced / Metastatic Non-Small Cell Lung Cancer</value>
+<value>Gemcitabine / CARBOplatin. Non-Small Cell Lung Cancer</value>
+<value>PACLitaxel/CARBOplatin (Weekly) and concurrent RT. Non-Small Cell Lung Cancer.</value>
+<value>Carboplatin/Etoposide (IV). Small Cell Lung Cancer.</value>
+<value>CARBOplatin/Etoposide (IV/po). Small Cell Lung Cancer</value>
+<value>Pemetrexed / CARBOplatin. Mesothelioma</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>AUC of 6: Dose capping with creatinine clearance greater than or equal to 125 mL/minute.</value>
+<value>AUC of 5: Dose capping with creatinine clearance greater than or equal to 125 mL/minute.</value>
+<value>AUC of 4: Dose capping with creatinine clearance greater than or equal to 125 mL/minute.</value>
+<value>Dose NOT capped and calculated using Calvert Formula. (CARBOplatin Dose (mg) = target AUC x (CrCl +25).</value>
+<value>If ANC is greater than or equal to 1.5 AND Plts are greater than or equal to 100 x 109/L: Give as ordered. If ANC is less than 1.5 OR Plts are less than 100 x 109/L: Delay 1 week. AUC of 5: Dose capping with Creatine Clearance greater than or equal to 125 mL/minute.</value>
+<value>If ANC is greater than or equal to 1.5 AND Plts are greater than or equal to 100 x 109/L: Give as ordered. If ANC is less than 1.5 OR Plts are less than 100 x 109/L: Delay 1 week. AUC of 4: Dose capping with Creatine Clearance greater than or equal to 125 mL/minute.</value>
+<value>If ANC is greater than or equal to 1.5 AND Plts are greater than or equal to 100 x 109/L: Give as ordered. If ANC is less than 1.5 OR Plts are less than 100 x 109/L: Delay 1 week. Dose NOT capped and calculated using Calvert Formula. (CARBOplatin Dose (mg) = target AUC x (CrCl + 25).</value>
+<value>If ANC is greater than or equal to 1.5 AND Plts are greater than or equal to 100 x 109/L: Give as ordered. If ANC is less than 1.5 OR Plts are less than 100 x109/L: Hold chemotherapy and contact physician. DOSE for AUC of 2, using Calvert Formula. (CARBOplatin Dose (mg) = target AUC x (CrCl + 25).) </value>
+<value>If ANC is greater than or equal to 1.5 AND Plts are greater than or equal to 100 x 109/L: Give as ordered. If ANC is less than 1.5 OR Plts are less than 100 x 109/L: Dealy 1 week. AUC of 6: Dose capping with creatinine clearance greater than or equal to 125 mL/minute.</value>
+<value>If ANC is greater than or equal to 1.5 AND Plts are greater than or equal to 100 x 109/L: Give as ordered. If ANC is less than 1.5 OR Plts are less than 100 x 109/L: Delay 1 week. AUC of 5: Dose capping with creatinine clearance greater than or equal to 125 mL/minute.</value>
+<value>If ANC is greater than or equal to 1.5 AND Plts are greater than 100 x 109/L: Give as ordered. If ANC is less than 1.5 OR Plts are less than 100 x 109/L: Delay 1 week.  AUC of 4: Dose capping with creatinine clearance greater than or equal to 125 mL/minute.</value>
+<value>If ANC is greater than or equal to 1.5 AND Plts are greater than 100 x 109/L: Give as ordered. If ANC is less than 1.5 OR Plts are less than 100 x 109/L: Delay 1 week.  AUC of 4: Dose NOT capped and calculated using Calvert Formula. CARBOplatin Dose (mg) = target AUC x (CrCl + 25).</value>
+<value>If ANC is greater than or equal to 1.5 AND Plts are greater than or equal to 100 x 109/L: Give as ordered. If ANC is less than 1.5 OR Plts are less than 100 x 109/L: Delay 1 week. AUC of 6: Dose capping with creatinine clearance greater than or equal to 125 mL/minute.</value>
+<value>If ANC is greater than or equal to 1.5 AND Plts are greater than or equal to 100 x 109/L: Give as ordered. If ANC is less than 1.5 OR Plts are less than 100 x 109/L: Delay 1 week.  AUC of 4: Dose capping with creatinine clearance greater than or equal to 125 mL/minute.</value>
+<value>If ANC is greater than or equal to 1.5 AND Plts are greater than or equal to 100 x 109/L: Give as ordered. If ANC is less than 1.5 OR Plts are less than 100 x 109/L: Delay 1 week.  AUC of 4: Dose NOT capped and calculated using Calvert Formula. CARBOplatin Dose (mg) = target AUC x (CrCl + 25).</value>
+<value>If ANC is greater than or equal to 1.5 AND Plts are greater than or equal to 100 x 109/L AND Creatinine Clearance is greater than or equal to 45 mL/minute: Give as ordered. If ANC is less than 1.5 OR Plts are less than 100 x 109/L OR Creatinine Clearance is less than 45 mL/minute: Delay 1 week. AUC of 5: Dose capping with creatinine clearance greater than or equal to 125 mL/minute.</value>
+<value>If ANC is greater than or equal to 1.5 AND Plts are greater than or equal to 100 x 109/L AND Creatinine Clearance is greater than or equal to 45 mL/minute: Give as ordered. If ANC is less than 1.5 OR Plts are less than 100 x 109/L OR Creatinine Clearance is less than 45 mL/minute: Delay 1 week. AUC of 4: Dose capping with creatinine clearance greater than or equal to 125 mL/minute.</value>
+<value>If ANC is greater than or equal to 1.5 AND Plts are greater than or equal to 100 x 109/L AND Creatinine Clearance is greater than or equal to 45 mL/minute: Give as ordered. If ANC is less than 1.5 OR Plts are less than 100 x 109/L OR Creatinine Clearance is less than 45 mL/minute: Delay 1 week. Dose not capped and calculated using Calvert Formula. CARBOplatin Dose (mg) = target AUC x (CrCl + 25).</value>
+</AdditionalNotes>
+<BackgroundInformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3335</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert><value>HIGH ALERT MEDICATION</value>
+</HighAlert>
+</drug>

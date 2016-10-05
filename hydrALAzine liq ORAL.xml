@@ -1,0 +1,33 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "hydrALAzine liq ORAL">
+<dose><value>0.75 - 1</value>
+<value>1 - 7.5</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>4 mg/mL</value>
+</strength>
+<frequency><value>BID</value>
+<value>TID</value>
+<value>QID</value>
+</frequency>
+<instruction><value>Administer daily calculated dose in 2 equally divided doses.</value>
+<value>Administer daily calculated dose in 3 equally divided doses.</value>
+<value>Administer daily calculated dose in 4 equally divided doses.</value>
+<value>Administer daily calculated dose in 2 equally divided doses, titrating upward to desired effect over 3 to 4 weeks. Maximum daily dose: 200mg.</value>
+<value>Administer daily calculated dose in 3 equally divided doses, titrating upward to desired effect over 3 to 4 weeks. Maximum daily dose: 200mg.</value>
+<value>Administer daily calculated dose in 4 equally divided doses, titrating upward to desired effect over 3 to 4 weeks. Maximum daily dose: 200mg.</value>
+</instruction>
+<volume></volume>
+<units><value>mg/kg/day</value>
+</units>
+<Population><value>CHILDREN</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>NOT FOR USE IN NEONATES LESS THAN OR EQUAL TO 28 DAYS CORRECTED AGE. FOR NEONATES GREATER THAN 28 DAYS, CHECK WITH PHYSICIAN REGARDING PROPYLENE GLYCOL COMPONENT.</value>
+</AdditionalNotes>
+<BackgroundInformation><value>CHILDREN: Hypertension initial dosing</value>
+</BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>

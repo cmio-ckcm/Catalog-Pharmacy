@@ -1,0 +1,49 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "cisatracurium inj VIAL">
+<dose><value>0.15</value>
+<value>0.2</value>
+<value>0.03</value>
+<value>1 - 3</value>
+<value>0.1</value>
+<value>0.15 - 0.2</value>
+<value>1 - 4</value>
+<value>100 - 150</value>
+<value>1 - 2</value>
+</dose>
+<route><value>IV</value>
+</route>
+<strength><value>2 mg/mL</value>
+</strength>
+<frequency><value>ONCE</value>
+<value>CONTINUOUS</value>
+<value>Administer by direct injection. (Initial dose)</value>
+</frequency>
+<instruction><value>Administer by direct injection. (Initial dose)</value>
+<value>Administer by direct injection. (Maintenance dose)</value>
+<value>Administer by continuous infusion. (Maintenance dose)</value>
+<value>Administer by direct injection, as  required to maintain neuromuscular block. (Maintenance dose)</value>
+<value>Administer by direct injection, 40 to 65 minutes after initial dose or as  required to maintain neuromuscular block. (Maintenance dose)</value>
+</instruction>
+<volume><value>10 mL</value>
+</volume>
+<units><value>mg/kg</value>
+<value>mcg/kg/minute</value>
+<value>mcg/kg</value>
+</units>
+<Population><value>ADULT</value>
+<value>CHILDREN; aged 2 to 12 years.</value>
+<value>CHILDREN; aged 12 years and older.</value>
+<value>CHILDREN; aged 2 years and older.</value>
+<value>INFANT/CHILDREN; aged 1 to 23 months.</value>
+</Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes><value>Initial dose, as a component of a propofol/nitrous oxide/oxygen anesthetic induction. </value>
+<value>Maintenance dose; 40 to 50 minutes after the 0.15 mg/kg initial dose, or 50 to 60 minutes after the 0.2 mg/kg initial dose.</value>
+<value>Maintenance dose; following initial dose.</value>
+</AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation><value>YES</value>
+</PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert><value>HIGH ALERT MEDICATION</value>
+</HighAlert>
+</drug>

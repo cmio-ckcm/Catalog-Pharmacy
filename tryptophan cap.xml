@@ -1,0 +1,28 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "tryptophan cap">
+<dose><value>1</value>
+<value>2</value>
+<value>3</value>
+<value>500</value>
+</dose>
+<route><value>PO</value>
+</route>
+<strength><value>1 g</value>
+<value>500 mg</value>
+</strength>
+<frequency><value>TID</value>
+<value>QID</value>
+<value>BID</value>
+</frequency>
+<instruction></instruction>
+<volume></volume>
+<units><value>g</value>
+<value>mg</value>
+</units>
+<Population></Population>
+<IndicationPRN></IndicationPRN>
+<AdditionalNotes></AdditionalNotes>
+<BackgroundInformation></BackgroundInformation>
+<PRNInformation></PRNInformation>
+<AHSFormularyStatus></AHSFormularyStatus>
+<HighAlert></HighAlert>
+</drug>
