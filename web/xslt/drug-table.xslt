@@ -173,19 +173,7 @@ table tr:hover td{
 
   <body>
     <h2><xsl:value-of select="/drug/@name"/></h2>
-/*
-Strength
-Volume
-Dose
-Units
-Route
-Frequency
-Instruction throught AHFS Name order is fine.
 
-The volume column is related to the strength. the typical drug order sequence is 
-dose, units, route, frequency. 
-
-Followed by any additional information.*/
    <div style="overflow-x:visible;">
     <table border="1">
     <tr>
