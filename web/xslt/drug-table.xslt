@@ -194,7 +194,7 @@ table tr:hover td{
       <th>High Alert</th>
       <th>AHS Formulary Status</th>
       
-      <th>Background Information</th>
+      <th>AHFS Name</th>
 
 
     </tr>
@@ -269,7 +269,7 @@ table tr:hover td{
          </xsl:for-each>
       </td>
       <td>
-        <xsl:for-each select="/drug/BackgroundInformation/*">
+        <xsl:for-each select="/drug/AHFSName/*">
             <p><xsl:value-of select ="."/></p>
          </xsl:for-each>
       </td>
