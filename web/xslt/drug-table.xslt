@@ -173,34 +173,47 @@ table tr:hover td{
 
   <body>
     <h2><xsl:value-of select="/drug/@name"/></h2>
+/*
+Strength
+Volume
+Dose
+Units
+Route
+Frequency
+Instruction throught AHFS Name order is fine.
 
+The volume column is related to the strength. the typical drug order sequence is 
+dose, units, route, frequency. 
+
+Followed by any additional information.*/
    <div style="overflow-x:visible;">
-
     <table border="1">
     <tr>
       <th>Strength</th>
+      <th>Volume</th>
       <th>Dose</th>
       <th>Units</th>
-      <th>Volume</th>
-      <th>Frequency</th>
       <th>Route</th>
+      <th>Frequency</th>
+
       <th>Instruction</th>
       <th>Population</th>
       <th>PRN Information</th>
-
       <th>Indication PRN</th>
       <th>Additional Notes</th>
-
       <th>High Alert</th>
       <th>AHS Formulary Status</th>
-      
       <th>AHFS Name</th>
-
-
     </tr>
+
     <tr valign="top">
       <td>
         <xsl:for-each select="/drug/strength/*">
+            <p><xsl:value-of select ="."/></p>
+         </xsl:for-each>
+      </td>
+      <td>
+        <xsl:for-each select="/drug/volume/*">
             <p><xsl:value-of select ="."/></p>
          </xsl:for-each>
       </td>
@@ -215,7 +228,7 @@ table tr:hover td{
          </xsl:for-each>
       </td>
       <td>
-        <xsl:for-each select="/drug/volume/*">
+        <xsl:for-each select="/drug/route/*">
             <p><xsl:value-of select ="."/></p>
          </xsl:for-each>
       </td>
@@ -225,11 +238,7 @@ table tr:hover td{
          </xsl:for-each>
       </td>
 
-      <td>
-        <xsl:for-each select="/drug/route/*">
-            <p><xsl:value-of select ="."/></p>
-         </xsl:for-each>
-      </td>
+
       <td>
         <xsl:for-each select="/drug/instruction/*">
             <p><xsl:value-of select ="."/></p>
