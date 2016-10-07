@@ -41,7 +41,7 @@ body{
 	font-family:Arial, Helvetica, sans-serif;
 	/*background: url(background.jpg);*/
 	margin:10 ;
-	width:520px;
+/*	width:520px;*/
 }
 a:link {
 	color: #666;
@@ -65,7 +65,13 @@ p {
     background-color: rgba(204, 98, 141, 0.11);
 }
 
-
+.info {
+    background-color: #fbfbfb;
+}
+.important {
+/*    background-color: yellow;*/
+    background-color: rgba(218, 214, 33, 0.34);
+}
 
 Table Style - This is what you want
 ------------------------------------------------------------------ */
@@ -87,7 +93,7 @@ table a:hover {
 table {
 	font-family:Arial, Helvetica, sans-serif;
 	color:#666;
-	font-size:12px;
+/*	font-size:12px;*/
 	/*text-shadow: 1px 1px 0px #fff;*/
 	background:#eaebec;
 	margin:20px;
@@ -174,7 +180,8 @@ table tr:hover td{
   <body>
     <h2><xsl:value-of select="/drug/@name"/></h2>
 
-   <div style="overflow-x:visible;">
+
+
     <table border="1">
     <tr>
       <th>Strength</th>
@@ -183,15 +190,11 @@ table tr:hover td{
       <th>Units</th>
       <th>Route</th>
       <th>Frequency</th>
-
       <th>Instruction</th>
+
       <th>Population</th>
       <th>PRN Information</th>
       <th>Indication PRN</th>
-      <th>Additional Notes</th>
-      <th>High Alert</th>
-      <th>AHS Formulary Status</th>
-      <th>AHFS Name</th>
     </tr>
 
     <tr valign="top">
@@ -226,7 +229,6 @@ table tr:hover td{
          </xsl:for-each>
       </td>
 
-
       <td>
         <xsl:for-each select="/drug/instruction/*">
             <p><xsl:value-of select ="."/></p>
@@ -250,38 +252,73 @@ table tr:hover td{
          </xsl:for-each>
       </td>
 
-      <td>
-        <xsl:for-each select="/drug/AdditionalNotes/*">
-            <p><xsl:value-of select ="."/></p>
-         </xsl:for-each>
-      </td>
+     </tr>
+
+    </table>
+
+  <table border = "1">
+
+   <xsl:if test="/drug/HighAlert/value">
+    <th>High Alert</th>
+    <tr>
       <td>
         <xsl:for-each select="/drug/HighAlert/*">
-            <p><xsl:value-of select ="."/></p>
+            <p class="important"><xsl:value-of select ="."/></p>
          </xsl:for-each>
       </td>
+    </tr>
+
+   </xsl:if>
+
+   
+    <th>AHS Formulary Status</th>
+    <tr>
       <td>
         <xsl:for-each select="/drug/AHSFormularyStatus/*">
-            <p><xsl:value-of select ="."/></p>
+            <p class="info"><xsl:value-of select ="."/></p>
          </xsl:for-each>
       </td>
-      <td>
+
+    </tr> 
+
+
+    <tr> 
+      <th>AHFS Name</th>
+    </tr>
+    <tr>
+      <td >
         <xsl:for-each select="/drug/AHFSName/*">
-            <p><xsl:value-of select ="."/></p>
+           <p class="info"><xsl:value-of select ="."/></p>
          </xsl:for-each>
       </td>
+    </tr> 
+
+
+
+   </table>
+
+
+   <xsl:if test="/drug/AdditionalNotes/value">
+   <table border="1" >
+    <tr>
      </tr>
 
 
-
-
-
-
-
+    
+     <tr>
+       <th>Additional Notes</th>
+     </tr>
+     <tr valign="top">
+       <td>
+        <xsl:for-each select="/drug/AdditionalNotes/*">
+            <p><xsl:value-of select ="."/></p>
+         </xsl:for-each>
+       </td>
+    </tr>
     </table>
-   </div>
+   </xsl:if>
 
-
+	
 
   </body>
   </html>
