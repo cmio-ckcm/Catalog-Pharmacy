@@ -3,8 +3,8 @@
 <value>0.8</value>
 </dose><route><value>PO</value>
 </route><form><value>cap ER</value>
-</form><drug><value>tamsulosin (long acting) cap ER</value>
-</drug><strength><value>0.4 mg</value>
+</form><drugname><value>tamsulosin (long acting) cap ER</value>
+</drugname><strength><value>0.4 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>HS</value>
 </frequency><instruction><value></value>

@@ -2,8 +2,8 @@
 <dose><value>300</value>
 </dose><route><value>PO</value>
 </route><form><value>cap</value>
-</form><drug><value>ferrous fumarate cap</value>
-</drug><strength><value>300 mg</value>
+</form><drugname><value>ferrous fumarate cap</value>
+</drugname><strength><value>300 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>LUNCH</value>
 <value>SUPPER</value>

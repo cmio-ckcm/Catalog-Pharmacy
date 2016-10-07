@@ -2,8 +2,8 @@
 <dose><value>18</value>
 </dose><route><value>INH</value>
 </route><form><value>cap INH</value>
-</form><drug><value>tiotropium cap INH</value>
-</drug><strength><value>18 mcg</value>
+</form><drugname><value>tiotropium cap INH</value>
+</drugname><strength><value>18 mcg</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

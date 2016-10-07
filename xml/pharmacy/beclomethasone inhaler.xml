@@ -5,8 +5,8 @@
 <value>4</value>
 </dose><route><value>INH</value>
 </route><form><value>inhaler</value>
-</form><drug><value>beclomethasone inhaler</value>
-</drug><strength><value>100 mcg</value>
+</form><drugname><value>beclomethasone inhaler</value>
+</drugname><strength><value>100 mcg</value>
 <value>50 mcg</value>
 </strength><frequency><value>BID</value>
 </frequency><instruction><value></value>

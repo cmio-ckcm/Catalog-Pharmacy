@@ -4,8 +4,8 @@
 <value>80 - 160</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>simethicone tab</value>
-</drug><strength><value>80 mg</value>
+</form><drugname><value>simethicone tab</value>
+</drugname><strength><value>80 mg</value>
 </strength><frequency><value>TID</value>
 <value>QID</value>
 </frequency><instruction><value></value>

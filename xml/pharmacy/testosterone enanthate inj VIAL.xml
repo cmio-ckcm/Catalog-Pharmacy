@@ -3,8 +3,8 @@
 <value>50 - 100</value>
 </dose><route><value>IM</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>testosterone enanthate inj VIAL</value>
-</drug><strength><value>200 mg/mL</value>
+</form><drugname><value>testosterone enanthate inj VIAL</value>
+</drugname><strength><value>200 mg/mL</value>
 </strength><frequency><value>EVERY 4 WEEKS</value>
 <value>EVERY 2 WEEKS</value>
 <value>WEEKLY</value>

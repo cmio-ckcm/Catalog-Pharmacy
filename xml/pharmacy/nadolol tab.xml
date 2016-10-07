@@ -6,8 +6,8 @@
 <value>320</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>nadolol tab</value>
-</drug><strength><value>40 mg</value>
+</form><drugname><value>nadolol tab</value>
+</drugname><strength><value>40 mg</value>
 <value>80 mg</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value></value>

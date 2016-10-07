@@ -7,8 +7,8 @@
 </dose><route><value>PO</value>
 <value>PR </value>
 </route><form><value>tab</value>
-</form><drug><value>misoprostol tab</value>
-</drug><strength><value>100 mcg</value>
+</form><drugname><value>misoprostol tab</value>
+</drugname><strength><value>100 mcg</value>
 <value>200 mcg</value>
 </strength><frequency><value>Q4H</value>
 <value>QID</value>

@@ -6,8 +6,8 @@
 <value>0.05</value>
 </dose><route><value>SC</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>somatropin (SAIZEN click.easy) inj VIAL</value>
-</drug><strength><value>8.8 mg</value>
+</form><drugname><value>somatropin (SAIZEN click.easy) inj VIAL</value>
+</drugname><strength><value>8.8 mg</value>
 </strength><frequency><value>THREE TIMES WEEKLY</value>
 <value>DAILY</value>
 </frequency><instruction><value></value>

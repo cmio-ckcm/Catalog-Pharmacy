@@ -2,8 +2,8 @@
 <dose><value></value>
 </dose><route><value>TOP </value>
 </route><form><value>gel</value>
-</form><drug><value>calcium gluconate gel</value>
-</drug><strength><value>2.5%</value>
+</form><drugname><value>calcium gluconate gel</value>
+</drugname><strength><value>2.5%</value>
 </strength><frequency><value>Apply generously to affected area and massage into skin.</value>
 </frequency><instruction><value>Apply generously to affected area and massage into skin.</value>
 </instruction><volume><value>25 g</value>

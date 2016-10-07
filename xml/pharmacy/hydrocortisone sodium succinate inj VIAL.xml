@@ -8,8 +8,8 @@
 <value>500</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>hydrocortisone sodium succinate inj VIAL</value>
-</drug><strength><value>1000 mg</value>
+</form><drugname><value>hydrocortisone sodium succinate inj VIAL</value>
+</drugname><strength><value>1000 mg</value>
 <value>100 mg</value>
 <value>250 mg</value>
 <value>500 mg</value>

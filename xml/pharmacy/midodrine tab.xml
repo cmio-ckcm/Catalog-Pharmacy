@@ -4,8 +4,8 @@
 <value>10</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>midodrine tab</value>
-</drug><strength><value>2.5 mg</value>
+</form><drugname><value>midodrine tab</value>
+</drugname><strength><value>2.5 mg</value>
 <value>5 mg</value>
 </strength><frequency><value>TID</value>
 <value>QID</value>

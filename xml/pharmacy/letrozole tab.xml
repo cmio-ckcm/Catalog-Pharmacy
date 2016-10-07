@@ -2,8 +2,8 @@
 <dose><value>2.5</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>letrozole tab</value>
-</drug><strength><value>2.5 mg</value>
+</form><drugname><value>letrozole tab</value>
+</drugname><strength><value>2.5 mg</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

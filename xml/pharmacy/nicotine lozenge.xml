@@ -7,8 +7,8 @@
 <value>4 - 8</value>
 </dose><route><value>BUCCAL</value>
 </route><form><value>lozenge</value>
-</form><drug><value>nicotine lozenge</value>
-</drug><strength><value>1 mg</value>
+</form><drugname><value>nicotine lozenge</value>
+</drugname><strength><value>1 mg</value>
 <value>2 mg</value>
 <value>4 mg</value>
 </strength><frequency><value>Q1H</value>

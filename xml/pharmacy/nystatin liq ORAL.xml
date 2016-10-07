@@ -6,8 +6,8 @@
 <value>500 000</value>
 </dose><route><value>PO</value>
 </route><form><value>liq ORAL</value>
-</form><drug><value>nystatin liq ORAL</value>
-</drug><strength><value>100 000 unit/mL</value>
+</form><drugname><value>nystatin liq ORAL</value>
+</drugname><strength><value>100 000 unit/mL</value>
 </strength><frequency><value>TID</value>
 <value>QID</value>
 </frequency><instruction><value></value>

@@ -8,8 +8,8 @@
 <value>80</value>
 </dose><route><value>PO</value>
 </route><form><value>tab ER</value>
-</form><drug><value>oxyCODONE (long acting) tab ER</value>
-</drug><strength><value>10 mg</value>
+</form><drugname><value>oxyCODONE (long acting) tab ER</value>
+</drugname><strength><value>10 mg</value>
 <value>15 mg</value>
 <value>20 mg</value>
 <value>30 mg</value>

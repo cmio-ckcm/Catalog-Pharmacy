@@ -7,8 +7,8 @@
 <value>2.4</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>topotecan inj VIAL</value>
-</drug><strength><value>4 mg</value>
+</form><drugname><value>topotecan inj VIAL</value>
+</drugname><strength><value>4 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>WEEKLY</value>
 </frequency><instruction><value>for 5 days. Dilute dose in 50 mL 0.9% sodium chloride and administer over 30 minutes.</value>

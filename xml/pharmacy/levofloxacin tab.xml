@@ -4,8 +4,8 @@
 <value>750</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>levofloxacin tab</value>
-</drug><strength><value>250 mg</value>
+</form><drugname><value>levofloxacin tab</value>
+</drugname><strength><value>250 mg</value>
 <value>500 mg</value>
 <value>750 mg</value>
 </strength><frequency><value>DAILY</value>

@@ -20,8 +20,8 @@
 <value>20</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>epoprostenol (CARIPUL) inj VIAL</value>
-</drug><strength><value>0.5 mg</value>
+</form><drugname><value>epoprostenol (CARIPUL) inj VIAL</value>
+</drugname><strength><value>0.5 mg</value>
 <value>1.5 mg</value>
 </strength><frequency><value>CONTINUOUS</value>
 </frequency><instruction><value>Administer as continuous infusion.  Adjust infusion by 1 to 2 ng/kg/minute every 15 minutes to allow assessment of clinical response/tolerability/adverse effects. (1 mcg = 1000 ng)</value>

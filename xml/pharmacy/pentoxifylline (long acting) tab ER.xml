@@ -2,8 +2,8 @@
 <dose><value>400</value>
 </dose><route><value>PO</value>
 </route><form><value>tab ER</value>
-</form><drug><value>pentoxifylline (long acting) tab ER</value>
-</drug><strength><value>400 mg</value>
+</form><drugname><value>pentoxifylline (long acting) tab ER</value>
+</drugname><strength><value>400 mg</value>
 </strength><frequency><value>BID</value>
 <value>TID</value>
 </frequency><instruction><value></value>

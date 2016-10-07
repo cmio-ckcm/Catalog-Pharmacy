@@ -2,8 +2,8 @@
 <dose><value></value>
 </dose><route><value>IV</value>
 </route><form><value>inj BAG</value>
-</form><drug><value>dextrose 5% in water inj BAG</value>
-</drug><strength><value></value>
+</form><drugname><value>dextrose 5% in water inj BAG</value>
+</drugname><strength><value></value>
 </strength><frequency><value>CONTINUOUS</value>
 </frequency><instruction><value>Administered by continuous infusion.</value>
 </instruction><volume><value>1000 mL</value>

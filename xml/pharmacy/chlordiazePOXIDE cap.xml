@@ -5,8 +5,8 @@
 <value>5</value>
 </dose><route><value>PO</value>
 </route><form><value>cap</value>
-</form><drug><value>chlordiazePOXIDE cap</value>
-</drug><strength><value>10 mg</value>
+</form><drugname><value>chlordiazePOXIDE cap</value>
+</drugname><strength><value>10 mg</value>
 <value>25 mg</value>
 <value>5 mg</value>
 </strength><frequency><value>BID</value>

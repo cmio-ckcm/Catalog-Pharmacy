@@ -9,8 +9,8 @@
 <value>6</value>
 </dose><route><value>PO</value>
 </route><form><value>cap ER</value>
-</form><drug><value>HYDROmorphone SR (long acting) cap ER</value>
-</drug><strength><value>12 mg</value>
+</form><drugname><value>HYDROmorphone SR (long acting) cap ER</value>
+</drugname><strength><value>12 mg</value>
 <value>18 mg</value>
 <value>24 mg</value>
 <value>3 mg</value>

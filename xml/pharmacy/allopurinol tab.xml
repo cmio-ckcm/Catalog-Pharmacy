@@ -4,8 +4,8 @@
 <value>300</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>allopurinol tab</value>
-</drug><strength><value>100 mg</value>
+</form><drugname><value>allopurinol tab</value>
+</drugname><strength><value>100 mg</value>
 <value>200 mg</value>
 <value>300 mg</value>
 </strength><frequency><value>DAILY</value>

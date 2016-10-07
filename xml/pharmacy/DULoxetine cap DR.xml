@@ -3,8 +3,8 @@
 <value>60</value>
 </dose><route><value>PO</value>
 </route><form><value>cap DR</value>
-</form><drug><value>DULoxetine cap DR</value>
-</drug><strength><value>30 mg</value>
+</form><drugname><value>DULoxetine cap DR</value>
+</drugname><strength><value>30 mg</value>
 <value>60 mg</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value></value>

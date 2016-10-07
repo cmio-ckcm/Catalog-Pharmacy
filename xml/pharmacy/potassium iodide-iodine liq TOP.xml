@@ -2,8 +2,8 @@
 <dose><value></value>
 </dose><route><value>TOP</value>
 </route><form><value>liq TOP</value>
-</form><drug><value>potassium iodide-iodine liq TOP</value>
-</drug><strength><value>5%-5%</value>
+</form><drugname><value>potassium iodide-iodine liq TOP</value>
+</drugname><strength><value>5%-5%</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value>Apply topically to affected area requiring antiseptic.</value>
 </instruction><volume><value></value>

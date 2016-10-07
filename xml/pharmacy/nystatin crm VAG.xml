@@ -2,8 +2,8 @@
 <dose><value>1</value>
 </dose><route><value>VAGINAL</value>
 </route><form><value>crm VAG</value>
-</form><drug><value>nystatin crm VAG</value>
-</drug><strength><value>25 000 unit/g</value>
+</form><drugname><value>nystatin crm VAG</value>
+</drugname><strength><value>25 000 unit/g</value>
 </strength><frequency><value>HS</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

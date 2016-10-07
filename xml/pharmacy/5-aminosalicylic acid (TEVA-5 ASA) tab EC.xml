@@ -3,8 +3,8 @@
 <value>800</value>
 </dose><route><value>PO</value>
 </route><form><value>tab EC</value>
-</form><drug><value>5-aminosalicylic acid (TEVA-5 ASA) tab EC</value>
-</drug><strength><value>400 mg</value>
+</form><drugname><value>5-aminosalicylic acid (TEVA-5 ASA) tab EC</value>
+</drugname><strength><value>400 mg</value>
 </strength><frequency><value>QID</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

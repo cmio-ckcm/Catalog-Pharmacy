@@ -4,8 +4,8 @@
 <value>0.2</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>rasburicase inj VIAL</value>
-</drug><strength><value>1.5 mg</value>
+</form><drugname><value>rasburicase inj VIAL</value>
+</drugname><strength><value>1.5 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>
 </frequency><instruction><value></value>

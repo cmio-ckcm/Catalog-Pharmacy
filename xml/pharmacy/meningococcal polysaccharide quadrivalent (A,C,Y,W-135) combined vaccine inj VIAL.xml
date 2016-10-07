@@ -2,8 +2,8 @@
 <dose><value>0.5</value>
 </dose><route><value>SC</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>meningococcal polysaccharide quadrivalent (A,C,Y,W-135) combined vaccine inj VIAL</value>
-</drug><strength><value></value>
+</form><drugname><value>meningococcal polysaccharide quadrivalent (A,C,Y,W-135) combined vaccine inj VIAL</value>
+</drugname><strength><value></value>
 </strength><frequency><value>ONCE</value>
 <value>EVERY 2 MONTHS</value>
 <value>EVERY 3 MONTHS</value>

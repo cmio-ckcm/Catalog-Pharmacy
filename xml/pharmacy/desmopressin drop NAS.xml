@@ -8,8 +8,8 @@
 <value>25</value>
 </dose><route><value>INTRANASAL</value>
 </route><form><value>drop NAS</value>
-</form><drug><value>desmopressin drop NAS</value>
-</drug><strength><value>0.1 mg/mL</value>
+</form><drugname><value>desmopressin drop NAS</value>
+</drugname><strength><value>0.1 mg/mL</value>
 </strength><frequency><value>HS</value>
 <value>BID</value>
 </frequency><instruction><value></value>

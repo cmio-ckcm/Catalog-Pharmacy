@@ -5,8 +5,8 @@
 </dose><route><value>IM</value>
 <value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>cefTRIAXone inj VIAL</value>
-</drug><strength><value>1 g</value>
+</form><drugname><value>cefTRIAXone inj VIAL</value>
+</drugname><strength><value>1 g</value>
 <value>10 g</value>
 <value>2 g</value>
 <value>250 mg</value>

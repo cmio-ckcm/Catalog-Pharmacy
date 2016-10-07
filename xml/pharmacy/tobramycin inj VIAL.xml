@@ -9,8 +9,8 @@
 <value>4</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>tobramycin inj VIAL</value>
-</drug><strength><value>1.2 g</value>
+</form><drugname><value>tobramycin inj VIAL</value>
+</drugname><strength><value>1.2 g</value>
 <value>10 mg/mL</value>
 <value>40 mg/mL</value>
 </strength><frequency><value>Q24H</value>

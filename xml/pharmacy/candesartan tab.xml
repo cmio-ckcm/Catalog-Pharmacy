@@ -5,8 +5,8 @@
 <value>8</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>candesartan tab</value>
-</drug><strength><value>16 mg</value>
+</form><drugname><value>candesartan tab</value>
+</drugname><strength><value>16 mg</value>
 <value>4 mg</value>
 <value>8 mg</value>
 </strength><frequency><value>DAILY</value>

@@ -3,8 +3,8 @@
 <value>7.5</value>
 </dose><route><value>SC</value>
 </route><form><value>inj SYR</value>
-</form><drug><value>leuprolide inj SYR</value>
-</drug><strength><value>22.5 mg</value>
+</form><drugname><value>leuprolide inj SYR</value>
+</drugname><strength><value>22.5 mg</value>
 <value>7.5 mg</value>
 </strength><frequency><value>EVERY 3 MONTHS</value>
 <value>MONTHLY</value>

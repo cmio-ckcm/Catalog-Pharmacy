@@ -7,8 +7,8 @@
 <value>4</value>
 </dose><route><value>PO</value>
 </route><form><value>liq ORAL</value>
-</form><drug><value>risperidone liq ORAL</value>
-</drug><strength><value>1 mg/mL</value>
+</form><drugname><value>risperidone liq ORAL</value>
+</drugname><strength><value>1 mg/mL</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>
 <value>HS</value>

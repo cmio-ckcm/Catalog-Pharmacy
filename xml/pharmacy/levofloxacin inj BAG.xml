@@ -4,8 +4,8 @@
 <value>750</value>
 </dose><route><value>IV</value>
 </route><form><value>inj BAG</value>
-</form><drug><value>levofloxacin inj BAG</value>
-</drug><strength><value>5 mg/mL</value>
+</form><drugname><value>levofloxacin inj BAG</value>
+</drugname><strength><value>5 mg/mL</value>
 </strength><frequency><value>Q24H</value>
 <value>Q48H</value>
 </frequency><instruction><value></value>

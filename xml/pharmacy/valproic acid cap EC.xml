@@ -2,8 +2,8 @@
 <dose><value>500</value>
 </dose><route><value>PO</value>
 </route><form><value>cap EC</value>
-</form><drug><value>valproic acid cap EC</value>
-</drug><strength><value>500 mg</value>
+</form><drugname><value>valproic acid cap EC</value>
+</drugname><strength><value>500 mg</value>
 </strength><frequency><value>HS</value>
 <value>BID</value>
 </frequency><instruction><value></value>

@@ -6,8 +6,8 @@
 <value>80</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>lurasidone tab</value>
-</drug><strength><value>120 mg</value>
+</form><drugname><value>lurasidone tab</value>
+</drugname><strength><value>120 mg</value>
 <value>20 mg</value>
 <value>40 mg</value>
 <value>60 mg</value>

@@ -3,8 +3,8 @@
 <value>2</value>
 </dose><route><value>OPHTH</value>
 </route><form><value>drop EYE</value>
-</form><drug><value>carboxymethylcellulose, preservative free drop EYE</value>
-</drug><strength><value>1%</value>
+</form><drugname><value>carboxymethylcellulose, preservative free drop EYE</value>
+</drugname><strength><value>1%</value>
 </strength><frequency><value>Q1H</value>
 <value>Q2H</value>
 </frequency><instruction><value>Instill into affected eye(s).</value>

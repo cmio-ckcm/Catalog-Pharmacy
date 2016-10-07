@@ -5,8 +5,8 @@
 <value>25 - 2000</value>
 </dose><route><value>INTRATHECAL</value>
 </route><form><value>inj AMP</value>
-</form><drug><value>baclofen inj AMP</value>
-</drug><strength><value>0.05 mg/mL</value>
+</form><drugname><value>baclofen inj AMP</value>
+</drugname><strength><value>0.05 mg/mL</value>
 <value>0.5 mg/mL</value>
 <value>2 mg/mL</value>
 </strength><frequency><value>DAILY</value>

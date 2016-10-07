@@ -3,8 +3,8 @@
 <value>2</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>oxyCODONE-acetaminophen tab</value>
-</drug><strength><value>5 mg-325 mg</value>
+</form><drugname><value>oxyCODONE-acetaminophen tab</value>
+</drugname><strength><value>5 mg-325 mg</value>
 </strength><frequency><value>BID</value>
 <value>TID</value>
 <value>QID</value>

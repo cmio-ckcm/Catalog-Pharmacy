@@ -5,8 +5,8 @@
 <value>18</value>
 </dose><route><value>SC</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>methylnaltrexone inj VIAL</value>
-</drug><strength><value>20 mg/mL</value>
+</form><drugname><value>methylnaltrexone inj VIAL</value>
+</drugname><strength><value>20 mg/mL</value>
 </strength><frequency><value>EVERY OTHER DAY</value>
 </frequency><instruction><value></value>
 </instruction><volume><value>0.6 mL</value>

@@ -5,8 +5,8 @@
 <value>4</value>
 </dose><route><value>PO</value>
 </route><form><value>cap</value>
-</form><drug><value>lipase-amylase-protease cap</value>
-</drug><strength><value>10 000 unit-11 200 unit-730 unit</value>
+</form><drugname><value>lipase-amylase-protease cap</value>
+</drugname><strength><value>10 000 unit-11 200 unit-730 unit</value>
 <value>25 000 unit-25 500 unit-1600 unit</value>
 <value>6000 unit-30 000 unit-19 000 unit</value>
 </strength><frequency><value>TID</value>

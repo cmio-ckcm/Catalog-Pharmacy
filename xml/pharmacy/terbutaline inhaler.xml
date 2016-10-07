@@ -2,8 +2,8 @@
 <dose><value>0.5</value>
 </dose><route><value>INH</value>
 </route><form><value>inhaler</value>
-</form><drug><value>terbutaline inhaler</value>
-</drug><strength><value>0.5 mg</value>
+</form><drugname><value>terbutaline inhaler</value>
+</drugname><strength><value>0.5 mg</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value>Dose my be repeated after 5 minutes if symptoms are not relieved.</value>
 <value>prior to exercise.</value>

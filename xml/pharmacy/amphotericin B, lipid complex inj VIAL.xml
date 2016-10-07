@@ -5,8 +5,8 @@
 <value>2.5</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>amphotericin B, lipid complex inj VIAL</value>
-</drug><strength><value>100 mg</value>
+</form><drugname><value>amphotericin B, lipid complex inj VIAL</value>
+</drugname><strength><value>100 mg</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

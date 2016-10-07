@@ -2,8 +2,8 @@
 <dose><value></value>
 </dose><route><value>TOP</value>
 </route><form><value>stick</value>
-</form><drug><value>silver nitrate stick</value>
-</drug><strength><value>75%</value>
+</form><drugname><value>silver nitrate stick</value>
+</drugname><strength><value>75%</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value>Moisten tip and apply to affected area.</value>
 </instruction><volume><value></value>

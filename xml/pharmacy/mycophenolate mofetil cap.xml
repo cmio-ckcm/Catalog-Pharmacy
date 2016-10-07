@@ -2,8 +2,8 @@
 <dose><value>1000</value>
 </dose><route><value>PO</value>
 </route><form><value>cap</value>
-</form><drug><value>mycophenolate mofetil cap</value>
-</drug><strength><value>250 mg</value>
+</form><drugname><value>mycophenolate mofetil cap</value>
+</drugname><strength><value>250 mg</value>
 </strength><frequency><value>BID</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

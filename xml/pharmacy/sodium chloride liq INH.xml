@@ -2,8 +2,8 @@
 <dose><value>4</value>
 </dose><route><value>INH</value>
 </route><form><value>liq INH</value>
-</form><drug><value>sodium chloride liq INH</value>
-</drug><strength><value>7%</value>
+</form><drugname><value>sodium chloride liq INH</value>
+</drugname><strength><value>7%</value>
 </strength><frequency><value>Q12H</value>
 </frequency><instruction><value></value>
 </instruction><volume><value>4 mL</value>

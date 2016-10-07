@@ -6,8 +6,8 @@
 <value>5</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>fluPHENazine tab</value>
-</drug><strength><value>1 mg</value>
+</form><drugname><value>fluPHENazine tab</value>
+</drugname><strength><value>1 mg</value>
 <value>2 mg</value>
 <value>5 mg</value>
 </strength><frequency><value>DAILY</value>

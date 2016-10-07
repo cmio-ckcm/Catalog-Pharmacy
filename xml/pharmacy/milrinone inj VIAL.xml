@@ -7,8 +7,8 @@
 </dose><route><value>INTRAOSSEOUS</value>
 <value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>milrinone inj VIAL</value>
-</drug><strength><value>1 mg/mL</value>
+</form><drugname><value>milrinone inj VIAL</value>
+</drugname><strength><value>1 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>CONTINUOUS</value>
 </frequency><instruction><value>LOADING DOSE: Administer over 10 to 60 minutes. Follow with maintenance infusion.</value>

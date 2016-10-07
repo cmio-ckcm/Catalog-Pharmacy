@@ -3,8 +3,8 @@
 <value>0.6</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>vinCRIStine inj VIAL</value>
-</drug><strength><value>1 mg/mL</value>
+</form><drugname><value>vinCRIStine inj VIAL</value>
+</drugname><strength><value>1 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value>DAY 1 of 21. Administer dose diluted in 0.9% sodium chloride 50 mL over 10 minutes.</value>
 <value>DAY 2 of 21. Administer dose diluted in 50 mL 0.9% sodium chloride over 10 minutes.</value>

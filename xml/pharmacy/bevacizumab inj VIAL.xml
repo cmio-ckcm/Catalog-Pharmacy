@@ -4,8 +4,8 @@
 <value>10</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>bevacizumab inj VIAL</value>
-</drug><strength><value>25 mg/mL</value>
+</form><drugname><value>bevacizumab inj VIAL</value>
+</drugname><strength><value>25 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value>DAY 1 of 14. Dilute dose in 100 mL 0.9% sodium chloride and administer over 10 minutes. (Maximum rate of administration is 0.5 mg/kg/minute.)</value>
 <value>DAY 1 of 21. Dilute dose in 100 mL 0.9% sodium chloride and administer over 15 minutes. (Maximum rate of administration is 0.5 mg/kg/minute.)</value>

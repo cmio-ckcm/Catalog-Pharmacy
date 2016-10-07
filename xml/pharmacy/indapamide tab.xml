@@ -3,8 +3,8 @@
 <value>2.5</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>indapamide tab</value>
-</drug><strength><value>1.25 mg</value>
+</form><drugname><value>indapamide tab</value>
+</drugname><strength><value>1.25 mg</value>
 <value>2.5 mg</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value></value>

@@ -2,8 +2,8 @@
 <dose><value></value>
 </dose><route><value>TOP</value>
 </route><form><value>crm</value>
-</form><drug><value>fluorouracil crm</value>
-</drug><strength><value>5%</value>
+</form><drugname><value>fluorouracil crm</value>
+</drugname><strength><value>5%</value>
 </strength><frequency><value>BID</value>
 </frequency><instruction><value>Apply a thin layer of cream locally to lesion.</value>
 </instruction><volume><value></value>

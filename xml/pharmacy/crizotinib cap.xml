@@ -3,8 +3,8 @@
 <value>250</value>
 </dose><route><value>PO</value>
 </route><form><value>cap</value>
-</form><drug><value>crizotinib cap</value>
-</drug><strength><value>200 mg</value>
+</form><drugname><value>crizotinib cap</value>
+</drugname><strength><value>200 mg</value>
 <value>250 mg</value>
 </strength><frequency><value>BID</value>
 <value>DAILY</value>

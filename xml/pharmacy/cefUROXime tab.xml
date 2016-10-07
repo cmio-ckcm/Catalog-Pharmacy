@@ -3,8 +3,8 @@
 <value>500</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>cefUROXime tab</value>
-</drug><strength><value>250 mg</value>
+</form><drugname><value>cefUROXime tab</value>
+</drugname><strength><value>250 mg</value>
 <value>500 mg</value>
 </strength><frequency><value>BID</value>
 </frequency><instruction><value></value>

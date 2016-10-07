@@ -4,8 +4,8 @@
 <value>75</value>
 </dose><route><value>PO</value>
 </route><form><value>cap</value>
-</form><drug><value>oseltamivir cap</value>
-</drug><strength><value>30 mg</value>
+</form><drugname><value>oseltamivir cap</value>
+</drugname><strength><value>30 mg</value>
 <value>45 mg</value>
 <value>75 mg</value>
 </strength><frequency><value>DAILY</value>

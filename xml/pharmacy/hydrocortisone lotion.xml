@@ -2,8 +2,8 @@
 <dose><value></value>
 </dose><route><value>TOP</value>
 </route><form><value>lotion</value>
-</form><drug><value>hydrocortisone lotion</value>
-</drug><strength><value>0.5%</value>
+</form><drugname><value>hydrocortisone lotion</value>
+</drugname><strength><value>0.5%</value>
 <value>1%</value>
 </strength><frequency><value>BID</value>
 </frequency><instruction><value>Apply a thin film to affected area and rub into area.</value>

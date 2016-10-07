@@ -4,8 +4,8 @@
 <value>45</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>pioglitazone tab</value>
-</drug><strength><value>15 mg</value>
+</form><drugname><value>pioglitazone tab</value>
+</drugname><strength><value>15 mg</value>
 <value>30 mg</value>
 <value>45 mg</value>
 </strength><frequency><value>DAILY</value>

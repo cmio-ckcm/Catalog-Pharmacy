@@ -2,8 +2,8 @@
 <dose><value></value>
 </dose><route><value>OPHTH</value>
 </route><form><value>oint EYE</value>
-</form><drug><value>tobramycin oint EYE</value>
-</drug><strength><value>3 mg/g</value>
+</form><drugname><value>tobramycin oint EYE</value>
+</drugname><strength><value>3 mg/g</value>
 </strength><frequency><value>BID</value>
 <value>TID</value>
 <value>Q3H</value>

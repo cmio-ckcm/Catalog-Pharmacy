@@ -5,8 +5,8 @@
 <value>50</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>cortisone tab</value>
-</drug><strength><value>25 mg</value>
+</form><drugname><value>cortisone tab</value>
+</drugname><strength><value>25 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>
 <value>TID</value>

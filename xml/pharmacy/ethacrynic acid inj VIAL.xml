@@ -5,8 +5,8 @@
 </dose><route><value>IV</value>
 <value>IV </value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>ethacrynic acid inj VIAL</value>
-</drug><strength><value>50 mg</value>
+</form><drugname><value>ethacrynic acid inj VIAL</value>
+</drugname><strength><value>50 mg</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value>May repeat dose once if necessary at a new IV site.</value>
 <value>Reassess patient requirement every 12 to 24 hours.</value>

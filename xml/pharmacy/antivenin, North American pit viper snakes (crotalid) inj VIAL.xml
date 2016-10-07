@@ -3,8 +3,8 @@
 <value>2</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>antivenin, North American pit viper snakes (crotalid) inj VIAL</value>
-</drug><strength><value>1 g</value>
+</form><drugname><value>antivenin, North American pit viper snakes (crotalid) inj VIAL</value>
+</drugname><strength><value>1 g</value>
 </strength><frequency><value>ONCE</value>
 <value>Q6H</value>
 </frequency><instruction><value>Administer over 60 minutes.</value>

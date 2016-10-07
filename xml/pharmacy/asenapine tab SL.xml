@@ -3,8 +3,8 @@
 <value>5</value>
 </dose><route><value>SL</value>
 </route><form><value>tab SL</value>
-</form><drug><value>asenapine tab SL</value>
-</drug><strength><value>10 mg</value>
+</form><drugname><value>asenapine tab SL</value>
+</drugname><strength><value>10 mg</value>
 <value>5 mg</value>
 </strength><frequency><value>BID</value>
 </frequency><instruction><value></value>

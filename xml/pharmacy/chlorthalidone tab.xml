@@ -4,8 +4,8 @@
 <value>50</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>chlorthalidone tab</value>
-</drug><strength><value>50 mg</value>
+</form><drugname><value>chlorthalidone tab</value>
+</drugname><strength><value>50 mg</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

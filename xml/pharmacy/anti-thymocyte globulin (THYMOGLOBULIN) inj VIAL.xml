@@ -11,8 +11,8 @@
 <value>2.5</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>anti-thymocyte globulin (THYMOGLOBULIN) inj VIAL</value>
-</drug><strength><value>25 mg</value>
+</form><drugname><value>anti-thymocyte globulin (THYMOGLOBULIN) inj VIAL</value>
+</drugname><strength><value>25 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>EVERY OTHER DAY</value>
 <value>ONCE</value>

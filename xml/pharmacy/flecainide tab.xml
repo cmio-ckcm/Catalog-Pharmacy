@@ -5,8 +5,8 @@
 <value>50</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>flecainide tab</value>
-</drug><strength><value>100 mg</value>
+</form><drugname><value>flecainide tab</value>
+</drugname><strength><value>100 mg</value>
 <value>50 mg</value>
 </strength><frequency><value>Q12H</value>
 </frequency><instruction><value></value>

@@ -13,8 +13,8 @@
 <value>40</value>
 </dose><route><value>PO</value>
 </route><form><value>liq ORAL</value>
-</form><drug><value>methadone liq ORAL</value>
-</drug><strength><value>1 mg/mL</value>
+</form><drugname><value>methadone liq ORAL</value>
+</drugname><strength><value>1 mg/mL</value>
 <value>10 mg/mL</value>
 </strength><frequency><value>Q6H</value>
 <value>Q8H</value>

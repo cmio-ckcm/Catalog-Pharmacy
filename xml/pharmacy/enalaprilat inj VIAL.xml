@@ -3,8 +3,8 @@
 <value>1.25</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>enalaprilat inj VIAL</value>
-</drug><strength><value>1.25 mg/mL</value>
+</form><drugname><value>enalaprilat inj VIAL</value>
+</drugname><strength><value>1.25 mg/mL</value>
 </strength><frequency><value>Q6H  </value>
 <value>ONCE</value>
 <value>Q6H</value>

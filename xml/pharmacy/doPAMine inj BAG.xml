@@ -21,8 +21,8 @@
 <value>20</value>
 </dose><route><value>IV</value>
 </route><form><value>inj BAG</value>
-</form><drug><value>doPAMine inj BAG</value>
-</drug><strength><value>0.8 mg/mL</value>
+</form><drugname><value>doPAMine inj BAG</value>
+</drugname><strength><value>0.8 mg/mL</value>
 <value>1.6 mg/mL</value>
 <value>3.2 mg/mL</value>
 </strength><frequency><value>CONTINUOUS</value>

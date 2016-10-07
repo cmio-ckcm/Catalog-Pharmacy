@@ -7,8 +7,8 @@
 </dose><route><value>IV</value>
 <value>IV </value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>calcium chloride inj VIAL</value>
-</drug><strength><value>100 mg/mL</value>
+</form><drugname><value>calcium chloride inj VIAL</value>
+</drugname><strength><value>100 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value>May repeat as needed.</value>
 <value></value>

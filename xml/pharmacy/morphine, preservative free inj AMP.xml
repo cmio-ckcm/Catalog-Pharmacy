@@ -23,8 +23,8 @@
 <value>0.35</value>
 </dose><route><value>EPIDURAL</value>
 </route><form><value>inj AMP</value>
-</form><drug><value>morphine, preservative free inj AMP</value>
-</drug><strength><value>0.5 mg/mL</value>
+</form><drugname><value>morphine, preservative free inj AMP</value>
+</drugname><strength><value>0.5 mg/mL</value>
 <value>1 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>CONTINUOUS</value>

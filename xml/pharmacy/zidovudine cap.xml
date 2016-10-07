@@ -9,8 +9,8 @@
 <value>160</value>
 </dose><route><value>PO</value>
 </route><form><value>cap</value>
-</form><drug><value>zidovudine cap</value>
-</drug><strength><value>100 mg</value>
+</form><drugname><value>zidovudine cap</value>
+</drugname><strength><value>100 mg</value>
 </strength><frequency><value>Q12H</value>
 <value>Q8H</value>
 </frequency><instruction><value></value>

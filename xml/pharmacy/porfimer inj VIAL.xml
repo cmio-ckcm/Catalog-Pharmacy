@@ -2,8 +2,8 @@
 <dose><value>2</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>porfimer inj VIAL</value>
-</drug><strength><value>15 mg</value>
+</form><drugname><value>porfimer inj VIAL</value>
+</drugname><strength><value>15 mg</value>
 <value>75 mg</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value>Administer dose 40 to 50 hours prior to laser light delivery.</value>

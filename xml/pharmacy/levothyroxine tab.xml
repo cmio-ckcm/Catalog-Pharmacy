@@ -12,8 +12,8 @@
 <value>88</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>levothyroxine tab</value>
-</drug><strength><value>100 mcg</value>
+</form><drugname><value>levothyroxine tab</value>
+</drugname><strength><value>100 mcg</value>
 <value>112 mcg</value>
 <value>125 mcg</value>
 <value>137 mcg</value>

@@ -3,8 +3,8 @@
 <value>10</value>
 </dose><route><value>SL</value>
 </route><form><value>tab SL</value>
-</form><drug><value>isosorbide dinitrate tab SL</value>
-</drug><strength><value>5 mg</value>
+</form><drugname><value>isosorbide dinitrate tab SL</value>
+</drugname><strength><value>5 mg</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value>May repeat dose at 5 minute intervals for up to a total of 3 doses.</value>
 <value>May repeat dose at 10 minute intervals for up to a total of 3 doses.</value>

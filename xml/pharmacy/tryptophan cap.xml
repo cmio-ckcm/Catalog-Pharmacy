@@ -5,8 +5,8 @@
 <value>500</value>
 </dose><route><value>PO</value>
 </route><form><value>cap</value>
-</form><drug><value>tryptophan cap</value>
-</drug><strength><value>1 g</value>
+</form><drugname><value>tryptophan cap</value>
+</drugname><strength><value>1 g</value>
 <value>500 mg</value>
 </strength><frequency><value>TID</value>
 <value>QID</value>

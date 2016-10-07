@@ -4,8 +4,8 @@
 <value>175</value>
 </dose><route><value>SC</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>tinzaparin inj VIAL</value>
-</drug><strength><value>20 000 unit/mL</value>
+</form><drugname><value>tinzaparin inj VIAL</value>
+</drugname><strength><value>20 000 unit/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>DAILY</value>
 </frequency><instruction><value>Administer 2 hours pre-operatively.</value>

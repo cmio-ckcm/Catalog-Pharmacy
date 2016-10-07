@@ -6,8 +6,8 @@
 <value>IV</value>
 <value>SC</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>ondansetron inj VIAL</value>
-</drug><strength><value>2 mg/mL</value>
+</form><drugname><value>ondansetron inj VIAL</value>
+</drugname><strength><value>2 mg/mL</value>
 </strength><frequency><value>Q3H</value>
 <value>Q4H</value>
 <value>ONCE</value>

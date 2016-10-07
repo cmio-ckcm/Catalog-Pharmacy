@@ -2,8 +2,8 @@
 <dose><value>1</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>levodopa-carbidopa tab</value>
-</drug><strength><value>100 mg-10 mg</value>
+</form><drugname><value>levodopa-carbidopa tab</value>
+</drugname><strength><value>100 mg-10 mg</value>
 <value>100 mg-25 mg</value>
 <value>250 mg-25 mg</value>
 </strength><frequency><value>DAILY</value>

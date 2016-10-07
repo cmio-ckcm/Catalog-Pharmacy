@@ -4,8 +4,8 @@
 </dose><route><value>INTRAPLEURAL</value>
 <value>NEB</value>
 </route><form><value>nebule</value>
-</form><drug><value>dornase alpha nebule</value>
-</drug><strength><value>1mg/mL</value>
+</form><drugname><value>dornase alpha nebule</value>
+</drugname><strength><value>1mg/mL</value>
 </strength><frequency><value>BID</value>
 <value>DAILY</value>
 </frequency><instruction><value>Administered more than 2 hours after intrapleural alteplase dose for a total of 3 days. (Dilute 5 mg dose in 30 mL Sterile Water for Injection.)</value>

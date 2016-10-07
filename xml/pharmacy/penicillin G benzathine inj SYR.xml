@@ -6,8 +6,8 @@
 <value>25 000 - 50 000</value>
 </dose><route><value>IM</value>
 </route><form><value>inj SYR</value>
-</form><drug><value>penicillin G benzathine inj SYR</value>
-</drug><strength><value>1.2 million unit</value>
+</form><drugname><value>penicillin G benzathine inj SYR</value>
+</drugname><strength><value>1.2 million unit</value>
 </strength><frequency><value>ONCE</value>
 <value>WEEKLY</value>
 <value>DAILY</value>

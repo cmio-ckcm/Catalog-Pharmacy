@@ -6,8 +6,8 @@
 <value>325</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>riTUXimab inj VIAL</value>
-</drug><strength><value>10 mg/mL</value>
+</form><drugname><value>riTUXimab inj VIAL</value>
+</drugname><strength><value>10 mg/mL</value>
 </strength><frequency><value>EVERY 2 WEEKS</value>
 <value>WEEKLY</value>
 <value>ONCE</value>

@@ -7,8 +7,8 @@
 </dose><route><value>IV</value>
 <value>IV </value>
 </route><form><value>inj AMP</value>
-</form><drug><value>verapamil inj AMP</value>
-</drug><strength><value>2.5 mg/mL</value>
+</form><drugname><value>verapamil inj AMP</value>
+</drugname><strength><value>2.5 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>CONTINUOUS</value>
 </frequency><instruction><value></value>

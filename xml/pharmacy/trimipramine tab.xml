@@ -4,8 +4,8 @@
 <value>50</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>trimipramine tab</value>
-</drug><strength><value>12.5 mg</value>
+</form><drugname><value>trimipramine tab</value>
+</drugname><strength><value>12.5 mg</value>
 <value>25 mg</value>
 <value>50 mg</value>
 </strength><frequency><value>HS</value>

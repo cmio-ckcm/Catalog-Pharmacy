@@ -6,8 +6,8 @@
 <value>850</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>metFORMIN tab</value>
-</drug><strength><value>500 mg</value>
+</form><drugname><value>metFORMIN tab</value>
+</drugname><strength><value>500 mg</value>
 <value>850 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>

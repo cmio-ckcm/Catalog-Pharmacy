@@ -9,8 +9,8 @@
 <value>90</value>
 </dose><route><value>SC</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>enfuvirtide inj VIAL</value>
-</drug><strength><value>108 mg</value>
+</form><drugname><value>enfuvirtide inj VIAL</value>
+</drugname><strength><value>108 mg</value>
 </strength><frequency><value>BID</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

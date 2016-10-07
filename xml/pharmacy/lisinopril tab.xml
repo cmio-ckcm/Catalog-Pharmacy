@@ -6,8 +6,8 @@
 <value>5</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>lisinopril tab</value>
-</drug><strength><value>10 mg</value>
+</form><drugname><value>lisinopril tab</value>
+</drugname><strength><value>10 mg</value>
 <value>20 mg</value>
 <value>5 mg</value>
 </strength><frequency><value>DAILY</value>

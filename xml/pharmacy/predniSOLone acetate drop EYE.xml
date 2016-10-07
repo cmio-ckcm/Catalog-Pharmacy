@@ -3,8 +3,8 @@
 <value>2</value>
 </dose><route><value>OPHTH</value>
 </route><form><value>drop EYE</value>
-</form><drug><value>predniSOLone acetate drop EYE</value>
-</drug><strength><value>0.12%</value>
+</form><drugname><value>predniSOLone acetate drop EYE</value>
+</drugname><strength><value>0.12%</value>
 <value>1%</value>
 </strength><frequency><value>BID</value>
 <value>TID</value>

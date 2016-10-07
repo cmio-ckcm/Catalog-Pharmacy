@@ -5,8 +5,8 @@
 <value>50</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>magnesium tab</value>
-</drug><strength><value>100 mg</value>
+</form><drugname><value>magnesium tab</value>
+</drugname><strength><value>100 mg</value>
 <value>250 mg</value>
 <value>50 mg</value>
 </strength><frequency><value>DAILY</value>

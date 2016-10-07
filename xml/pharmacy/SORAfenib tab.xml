@@ -4,8 +4,8 @@
 <value>600</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>SORAfenib tab</value>
-</drug><strength><value>200 mg</value>
+</form><drugname><value>SORAfenib tab</value>
+</drugname><strength><value>200 mg</value>
 </strength><frequency><value>BID</value>
 <value>DAILY</value>
 <value>DAILY. Administer as 400 mg plus 200 mg 12 hours apart.</value>

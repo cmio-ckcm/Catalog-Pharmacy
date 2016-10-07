@@ -8,8 +8,8 @@
 <value></value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>labetolol inj VIAL</value>
-</drug><strength><value>5 mg/mL</value>
+</form><drugname><value>labetolol inj VIAL</value>
+</drugname><strength><value>5 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>CONTINUOUS</value>
 <value>EVERY 10 MINUTES</value>

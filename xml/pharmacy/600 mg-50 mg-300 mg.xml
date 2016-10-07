@@ -1,0 +1,19 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "600 mg-50 mg-300 mg>
+<dose><value>1</value>
+</dose><route><value>PO</value>
+</route><form><value>tab</value>
+</form><strength><value>600 mg-50 mg-300 mg</value>
+</strength><frequency><value>DAILY</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>tab</value>
+</units><additionalnotes><value>Safety and effectiveness in patients less than 18 years of age have not been established. Use in patients 65 years and older is cautioned, limited data reflect the greater frequency of decreased hepatic, renal or cardiac function and of concomitant disease or other drug therapy. Consideration should be given toward use of the individual components in patients requiring dosage adjustments such as with renal or hepatic impairment.</value>
+</additionalnotes><population><value>ADULT</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=8121</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</ahsformularystatus><ahfsname><value>Antivirals, Antiretrovirals</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

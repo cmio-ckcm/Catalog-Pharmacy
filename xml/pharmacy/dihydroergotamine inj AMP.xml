@@ -5,8 +5,8 @@
 <value>IV</value>
 <value>SC</value>
 </route><form><value>inj AMP</value>
-</form><drug><value>dihydroergotamine inj AMP</value>
-</drug><strength><value>1 mg/mL</value>
+</form><drugname><value>dihydroergotamine inj AMP</value>
+</drugname><strength><value>1 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>Q8H</value>
 <value>CONTINUOUS</value>

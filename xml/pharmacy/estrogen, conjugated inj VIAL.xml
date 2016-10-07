@@ -3,8 +3,8 @@
 </dose><route><value>IM</value>
 <value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>estrogen, conjugated inj VIAL</value>
-</drug><strength><value>25 mg</value>
+</form><drugname><value>estrogen, conjugated inj VIAL</value>
+</drugname><strength><value>25 mg</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

@@ -3,8 +3,8 @@
 <value>1000</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>methocarbamol tab</value>
-</drug><strength><value>500 mg</value>
+</form><drugname><value>methocarbamol tab</value>
+</drugname><strength><value>500 mg</value>
 </strength><frequency><value>QID</value>
 <value>Q4H</value>
 <value>Q3H</value>

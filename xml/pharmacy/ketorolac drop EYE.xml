@@ -4,8 +4,8 @@
 <value>2</value>
 </dose><route><value>TOP</value>
 </route><form><value>drop EYE</value>
-</form><drug><value>ketorolac drop EYE</value>
-</drug><strength><value>0.45%</value>
+</form><drugname><value>ketorolac drop EYE</value>
+</drugname><strength><value>0.45%</value>
 <value>0.5%</value>
 </strength><frequency><value>BID</value>
 <value>EVERY 20 MINUTES</value>

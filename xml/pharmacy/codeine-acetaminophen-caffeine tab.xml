@@ -3,8 +3,8 @@
 <value>2</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>codeine-acetaminophen-caffeine tab</value>
-</drug><strength><value>15 mg-300 mg-15 mg</value>
+</form><drugname><value>codeine-acetaminophen-caffeine tab</value>
+</drugname><strength><value>15 mg-300 mg-15 mg</value>
 <value>30 mg-300 mg-15 mg</value>
 </strength><frequency><value>TID</value>
 <value>QID</value>

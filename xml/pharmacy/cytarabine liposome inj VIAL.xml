@@ -2,8 +2,8 @@
 <dose><value>50</value>
 </dose><route><value>INTRATHECAL</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>cytarabine liposome inj VIAL</value>
-</drug><strength><value>10 mg/mL</value>
+</form><drugname><value>cytarabine liposome inj VIAL</value>
+</drugname><strength><value>10 mg/mL</value>
 </strength><frequency><value>EVERY 14 DAYS</value>
 <value>ONCE</value>
 <value>EVERY 28 DAYS</value>

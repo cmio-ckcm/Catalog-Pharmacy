@@ -2,8 +2,8 @@
 <dose><value>10</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>multivitamin inj VIAL</value>
-</drug><strength><value></value>
+</form><drugname><value>multivitamin inj VIAL</value>
+</drugname><strength><value></value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value></value>
 </instruction><volume><value>10 mL</value>

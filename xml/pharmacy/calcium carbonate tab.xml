@@ -3,8 +3,8 @@
 <value>625</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>calcium carbonate tab</value>
-</drug><strength><value>1250 mg</value>
+</form><drugname><value>calcium carbonate tab</value>
+</drugname><strength><value>1250 mg</value>
 <value>625 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>TID</value>

@@ -4,8 +4,8 @@
 <value>15</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>pseudoephedrine tab</value>
-</drug><strength><value>60 mg</value>
+</form><drugname><value>pseudoephedrine tab</value>
+</drugname><strength><value>60 mg</value>
 </strength><frequency><value>Q4H</value>
 <value>Q6H</value>
 </frequency><instruction><value></value>

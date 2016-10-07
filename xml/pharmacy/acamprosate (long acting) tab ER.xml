@@ -3,8 +3,8 @@
 <value>666</value>
 </dose><route><value>PO</value>
 </route><form><value>tab ER</value>
-</form><drug><value>acamprosate (long acting) tab ER</value>
-</drug><strength><value>333 mg</value>
+</form><drugname><value>acamprosate (long acting) tab ER</value>
+</drugname><strength><value>333 mg</value>
 </strength><frequency><value>TID</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

@@ -7,8 +7,8 @@
 </dose><route><value>IV</value>
 <value>IV </value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>zidovudine inj VIAL</value>
-</drug><strength><value>10 mg/mL</value>
+</form><drugname><value>zidovudine inj VIAL</value>
+</drugname><strength><value>10 mg/mL</value>
 </strength><frequency><value>Q4H</value>
 <value>Q6H</value>
 <value>CONTINUOUS</value>

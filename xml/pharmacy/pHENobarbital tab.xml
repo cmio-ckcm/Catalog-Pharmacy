@@ -8,8 +8,8 @@
 <value>120</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>pHENobarbital tab</value>
-</drug><strength><value>15 mg</value>
+</form><drugname><value>pHENobarbital tab</value>
+</drugname><strength><value>15 mg</value>
 <value>30 mg</value>
 <value>60 mg</value>
 </strength><frequency><value>BID</value>

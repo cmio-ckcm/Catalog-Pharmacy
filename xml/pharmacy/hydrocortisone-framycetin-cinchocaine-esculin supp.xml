@@ -2,8 +2,8 @@
 <dose><value>1</value>
 </dose><route><value>PR</value>
 </route><form><value>supp</value>
-</form><drug><value>hydrocortisone-framycetin-cinchocaine-esculin supp</value>
-</drug><strength><value>5 mg-10 mg-5 mg-10 mg</value>
+</form><drugname><value>hydrocortisone-framycetin-cinchocaine-esculin supp</value>
+</drugname><strength><value>5 mg-10 mg-5 mg-10 mg</value>
 </strength><frequency><value>BID</value>
 <value>ONCE</value>
 </frequency><instruction><value>Insert rectally, in the morning and at bedtime.</value>

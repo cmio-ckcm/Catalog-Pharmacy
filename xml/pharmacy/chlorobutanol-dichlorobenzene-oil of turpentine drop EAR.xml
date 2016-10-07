@@ -2,8 +2,8 @@
 <dose><value>5</value>
 </dose><route><value>OTIC</value>
 </route><form><value>drop EAR</value>
-</form><drug><value>chlorobutanol-dichlorobenzene-oil of turpentine drop EAR</value>
-</drug><strength><value>5.5%-2.2%-1.1%</value>
+</form><drugname><value>chlorobutanol-dichlorobenzene-oil of turpentine drop EAR</value>
+</drugname><strength><value>5.5%-2.2%-1.1%</value>
 </strength><frequency><value>BID</value>
 </frequency><instruction><value>Instill into LEFT ear for up to 3 days for wax removal.</value>
 <value>Instill into RIGHT ear for up to 3 days for wax removal.</value>

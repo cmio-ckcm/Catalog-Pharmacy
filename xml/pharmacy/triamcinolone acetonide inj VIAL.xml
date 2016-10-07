@@ -8,8 +8,8 @@
 <value>SUBLESIONAL</value>
 <value>IM</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>triamcinolone acetonide inj VIAL</value>
-</drug><strength><value>10 mg/mL</value>
+</form><drugname><value>triamcinolone acetonide inj VIAL</value>
+</drugname><strength><value>10 mg/mL</value>
 <value>40 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value></value>

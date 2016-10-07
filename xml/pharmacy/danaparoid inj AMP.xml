@@ -7,8 +7,8 @@
 </dose><route><value>IV</value>
 <value>SC</value>
 </route><form><value>inj AMP</value>
-</form><drug><value>danaparoid inj AMP</value>
-</drug><strength><value>750 unit</value>
+</form><drugname><value>danaparoid inj AMP</value>
+</drugname><strength><value>750 unit</value>
 </strength><frequency><value>ONCE</value>
 <value>Q8H</value>
 <value>Q12H</value>

@@ -2,8 +2,8 @@
 <dose><value></value>
 </dose><route><value>TOP</value>
 </route><form><value>shampoo</value>
-</form><drug><value>coal tar-salicylic acid-triclosan shampoo</value>
-</drug><strength><value>5%-2%-0.3%</value>
+</form><drugname><value>coal tar-salicylic acid-triclosan shampoo</value>
+</drugname><strength><value>5%-2%-0.3%</value>
 </strength><frequency><value>TWO TIMES WEEKLY</value>
 </frequency><instruction><value>Apply to wet hair and massage vigorously into scalp, then rinse scalp thoroughly.</value>
 </instruction><volume><value></value>

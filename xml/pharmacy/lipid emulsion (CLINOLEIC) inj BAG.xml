@@ -5,8 +5,8 @@
 <value>3</value>
 </dose><route><value>IV</value>
 </route><form><value>inj BAG</value>
-</form><drug><value>lipid emulsion (CLINOLEIC) inj BAG</value>
-</drug><strength><value>20%</value>
+</form><drugname><value>lipid emulsion (CLINOLEIC) inj BAG</value>
+</drugname><strength><value>20%</value>
 </strength><frequency><value></value>
 <value>DAILY</value>
 </frequency><instruction><value></value>

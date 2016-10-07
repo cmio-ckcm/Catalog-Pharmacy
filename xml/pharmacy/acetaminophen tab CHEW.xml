@@ -5,8 +5,8 @@
 <value>400</value>
 </dose><route><value>PO</value>
 </route><form><value>tab CHEW</value>
-</form><drug><value>acetaminophen tab CHEW</value>
-</drug><strength><value>80 mg</value>
+</form><drugname><value>acetaminophen tab CHEW</value>
+</drugname><strength><value>80 mg</value>
 </strength><frequency><value>Q4H</value>
 <value>Q6H</value>
 </frequency><instruction><value></value>

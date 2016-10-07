@@ -3,8 +3,8 @@
 <value>2</value>
 </dose><route><value>PO</value>
 </route><form><value>cap</value>
-</form><drug><value>lactobacillus acidophilus cap</value>
-</drug><strength><value></value>
+</form><drugname><value>lactobacillus acidophilus cap</value>
+</drugname><strength><value></value>
 </strength><frequency><value>BID</value>
 <value>TID</value>
 </frequency><instruction><value></value>

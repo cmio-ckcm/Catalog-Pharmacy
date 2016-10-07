@@ -5,8 +5,8 @@
 <value>1000</value>
 </dose><route><value>PO</value>
 </route><form><value>drop ORAL</value>
-</form><drug><value>cholecalciferol drop ORAL</value>
-</drug><strength><value>400 unit/drop</value>
+</form><drugname><value>cholecalciferol drop ORAL</value>
+</drugname><strength><value>400 unit/drop</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

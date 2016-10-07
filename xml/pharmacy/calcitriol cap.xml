@@ -3,8 +3,8 @@
 <value>0.5</value>
 </dose><route><value>PO</value>
 </route><form><value>cap</value>
-</form><drug><value>calcitriol cap</value>
-</drug><strength><value>0.25 mcg</value>
+</form><drugname><value>calcitriol cap</value>
+</drugname><strength><value>0.25 mcg</value>
 <value>0.5 mcg</value>
 </strength><frequency><value>DAILY</value>
 <value>THREE TIMES WEEKLY</value>

@@ -2,8 +2,8 @@
 <dose><value></value>
 </dose><route><value>TOP</value>
 </route><form><value>crm</value>
-</form><drug><value>hydrocortisone acetate crm</value>
-</drug><strength><value>1%</value>
+</form><drugname><value>hydrocortisone acetate crm</value>
+</drugname><strength><value>1%</value>
 </strength><frequency><value>BID</value>
 </frequency><instruction><value>Apply a thin film to affected area and run into area.</value>
 </instruction><volume><value></value>

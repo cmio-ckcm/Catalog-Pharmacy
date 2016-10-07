@@ -3,8 +3,8 @@
 <value>2</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>sulfamethoxazole-trimethoprim tab</value>
-</drug><strength><value>400 mg-80 mg</value>
+</form><drugname><value>sulfamethoxazole-trimethoprim tab</value>
+</drugname><strength><value>400 mg-80 mg</value>
 <value>800 mg-160 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>

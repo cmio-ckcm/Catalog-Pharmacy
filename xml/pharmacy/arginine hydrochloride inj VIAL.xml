@@ -6,8 +6,8 @@
 <value>500</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>arginine hydrochloride inj VIAL</value>
-</drug><strength><value>250 mg/mL</value>
+</form><drugname><value>arginine hydrochloride inj VIAL</value>
+</drugname><strength><value>250 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>CONTINUOUS</value>
 </frequency><instruction><value>Administer over 30 minutes.</value>

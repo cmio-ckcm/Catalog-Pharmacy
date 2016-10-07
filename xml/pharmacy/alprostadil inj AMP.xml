@@ -9,8 +9,8 @@
 <value>0.1</value>
 </dose><route><value>IV</value>
 </route><form><value>inj AMP</value>
-</form><drug><value>alprostadil inj AMP</value>
-</drug><strength><value>500 mcg/mL</value>
+</form><drugname><value>alprostadil inj AMP</value>
+</drugname><strength><value>500 mcg/mL</value>
 </strength><frequency><value>CONTINUOUS</value>
 </frequency><instruction><value>Administer by continuous infusion.</value>
 </instruction><volume><value>1 mL</value>

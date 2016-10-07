@@ -3,8 +3,8 @@
 <value>10 - 15</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>valproic acid inj VIAL</value>
-</drug><strength><value>100 mg/mL</value>
+</form><drugname><value>valproic acid inj VIAL</value>
+</drugname><strength><value>100 mg/mL</value>
 </strength><frequency><value>CONTINUOUS</value>
 <value>Q12H</value>
 <value>Q8H</value>

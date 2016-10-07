@@ -2,8 +2,8 @@
 <dose><value>60</value>
 </dose><route><value>INTRAVESICALLY</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>thiotepa inj VIAL</value>
-</drug><strength><value>15 mg</value>
+</form><drugname><value>thiotepa inj VIAL</value>
+</drugname><strength><value>15 mg</value>
 </strength><frequency><value>WEEKLY</value>
 </frequency><instruction><value>for 4 weeks. Retain solution for 2 hours.</value>
 </instruction><volume><value></value>

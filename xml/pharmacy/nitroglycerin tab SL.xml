@@ -3,8 +3,8 @@
 <value>0.6</value>
 </dose><route><value>SL</value>
 </route><form><value>tab SL</value>
-</form><drug><value>nitroglycerin tab SL</value>
-</drug><strength><value>0.3 mg</value>
+</form><drugname><value>nitroglycerin tab SL</value>
+</drugname><strength><value>0.3 mg</value>
 <value>0.6 mg</value>
 </strength><frequency><value>EVERY 5 MINUTES</value>
 <value>ONCE</value>

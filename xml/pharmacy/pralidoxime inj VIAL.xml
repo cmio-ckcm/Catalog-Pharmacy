@@ -12,8 +12,8 @@
 <value>IV</value>
 <value>SC</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>pralidoxime inj VIAL</value>
-</drug><strength><value>1 g</value>
+</form><drugname><value>pralidoxime inj VIAL</value>
+</drugname><strength><value>1 g</value>
 </strength><frequency><value>ONCE</value>
 <value>Q10H</value>
 <value>CONTINUOUS</value>

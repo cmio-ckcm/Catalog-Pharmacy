@@ -3,8 +3,8 @@
 <value>5</value>
 </dose><route><value>PO</value>
 </route><form><value>tab CHEW</value>
-</form><drug><value>montelukast tab CHEW</value>
-</drug><strength><value>4 mg</value>
+</form><drugname><value>montelukast tab CHEW</value>
+</drugname><strength><value>4 mg</value>
 <value>5 mg</value>
 </strength><frequency><value>HS</value>
 </frequency><instruction><value></value>

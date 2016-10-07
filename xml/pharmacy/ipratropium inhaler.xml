@@ -4,8 +4,8 @@
 <value>8</value>
 </dose><route><value>INH</value>
 </route><form><value>inhaler</value>
-</form><drug><value>ipratropium inhaler</value>
-</drug><strength><value>20 mcg</value>
+</form><drugname><value>ipratropium inhaler</value>
+</drugname><strength><value>20 mcg</value>
 </strength><frequency><value>TID</value>
 <value>QID</value>
 <value>EVERY 20 MINUTES</value>

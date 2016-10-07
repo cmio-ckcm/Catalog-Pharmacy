@@ -2,8 +2,8 @@
 <dose><value>1</value>
 </dose><route><value>PO</value>
 </route><form><value>packet</value>
-</form><drug><value>picosalax packet</value>
-</drug><strength><value>12 g-3.5 g-10 mg</value>
+</form><drugname><value>picosalax packet</value>
+</drugname><strength><value>12 g-3.5 g-10 mg</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value>For colonoscopy before noon: Take at 5:00 PM on day before procedure. </value>
 <value>For colonoscopy before noon: Take at 10:00 PM on day before procedure.</value>

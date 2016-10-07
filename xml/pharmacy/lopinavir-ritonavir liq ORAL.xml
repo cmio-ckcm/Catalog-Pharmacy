@@ -8,8 +8,8 @@
 <value>300/75</value>
 </dose><route><value>PO</value>
 </route><form><value>liq ORAL</value>
-</form><drug><value>lopinavir-ritonavir liq ORAL</value>
-</drug><strength><value>80 mg-20 mg/mL</value>
+</form><drugname><value>lopinavir-ritonavir liq ORAL</value>
+</drugname><strength><value>80 mg-20 mg/mL</value>
 </strength><frequency><value>BID</value>
 <value>DAILY</value>
 </frequency><instruction><value></value>

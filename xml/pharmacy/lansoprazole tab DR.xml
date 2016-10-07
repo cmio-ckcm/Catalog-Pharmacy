@@ -5,8 +5,8 @@
 <value>PEG TUBE</value>
 <value>PO</value>
 </route><form><value>tab DR</value>
-</form><drug><value>lansoprazole tab DR</value>
-</drug><strength><value>15 mg</value>
+</form><drugname><value>lansoprazole tab DR</value>
+</drugname><strength><value>15 mg</value>
 <value>30 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>

@@ -8,8 +8,8 @@
 <value>200</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>ibuprofen arginine inj VIAL</value>
-</drug><strength><value>100 mg/mL</value>
+</form><drugname><value>ibuprofen arginine inj VIAL</value>
+</drugname><strength><value>100 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>Q24H  </value>
 <value>Q6H</value>

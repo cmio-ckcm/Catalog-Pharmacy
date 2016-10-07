@@ -5,8 +5,8 @@
 <value>8</value>
 </dose><route><value>PO</value>
 </route><form><value>liq ORAL</value>
-</form><drug><value>HYDROmorphone liq ORAL</value>
-</drug><strength><value>1 mg/mL</value>
+</form><drugname><value>HYDROmorphone liq ORAL</value>
+</drugname><strength><value>1 mg/mL</value>
 </strength><frequency><value>Q4H</value>
 <value>Q6H</value>
 <value>NOW</value>

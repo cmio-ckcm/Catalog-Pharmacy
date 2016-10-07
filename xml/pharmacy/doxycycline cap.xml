@@ -2,8 +2,8 @@
 <dose><value>100</value>
 </dose><route><value>PO</value>
 </route><form><value>cap</value>
-</form><drug><value>doxycycline cap</value>
-</drug><strength><value>100 mg</value>
+</form><drugname><value>doxycycline cap</value>
+</drugname><strength><value>100 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>
 </frequency><instruction><value></value>

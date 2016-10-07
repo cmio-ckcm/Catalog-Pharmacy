@@ -5,8 +5,8 @@
 <value>600</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>CARBOplatin inj VIAL</value>
-</drug><strength><value>10 mg/mL</value>
+</form><drugname><value>CARBOplatin inj VIAL</value>
+</drugname><strength><value>10 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value>DAY 1 of 21. Administer dose diluted in 250 to 500 mL D5W over 30 to 60 minutes.</value>
 <value>DAY 1 of 21. Administer dose diluted in 250 to 500 mL D%W over 30 to 60 minutes.</value>

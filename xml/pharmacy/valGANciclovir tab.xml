@@ -3,8 +3,8 @@
 <value>900</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>valGANciclovir tab</value>
-</drug><strength><value>450 mg</value>
+</form><drugname><value>valGANciclovir tab</value>
+</drugname><strength><value>450 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>
 <value>EVERY OTHER DAY</value>

@@ -8,8 +8,8 @@
 <value>75</value>
 </dose><route><value>PO</value>
 </route><form><value>cap</value>
-</form><drug><value>topiramate cap</value>
-</drug><strength><value>15 mg</value>
+</form><drugname><value>topiramate cap</value>
+</drugname><strength><value>15 mg</value>
 <value>25 mg</value>
 </strength><frequency><value>BID</value>
 <value>DAILY</value>

@@ -3,8 +3,8 @@
 <value>4</value>
 </dose><route><value>INTRANASAL</value>
 </route><form><value>spray NAS</value>
-</form><drug><value>ipratropium spray NAS</value>
-</drug><strength><value>21 mcg</value>
+</form><drugname><value>ipratropium spray NAS</value>
+</drugname><strength><value>21 mcg</value>
 </strength><frequency><value>BID</value>
 <value>TID</value>
 <value>QID</value>

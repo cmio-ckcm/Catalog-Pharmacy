@@ -15,8 +15,8 @@
 <value>IV</value>
 <value>SC</value>
 </route><form><value>inj AMP</value>
-</form><drug><value>furosemide inj AMP</value>
-</drug><strength><value>10 mg/mL</value>
+</form><drugname><value>furosemide inj AMP</value>
+</drugname><strength><value>10 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>DAILY</value>
 <value>Q12H</value>

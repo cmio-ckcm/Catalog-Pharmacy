@@ -10,8 +10,8 @@
 <value>20</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>liothyronine tab</value>
-</drug><strength><value>25 mcg</value>
+</form><drugname><value>liothyronine tab</value>
+</drugname><strength><value>25 mcg</value>
 <value>5 mcg</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value></value>

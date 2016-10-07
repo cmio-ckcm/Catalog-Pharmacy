@@ -10,8 +10,8 @@
 <value>1000</value>
 </dose><route><value>IV</value>
 </route><form><value>inj AMP</value>
-</form><drug><value>tranexamic acid inj AMP</value>
-</drug><strength><value>100 mg/mL</value>
+</form><drugname><value>tranexamic acid inj AMP</value>
+</drugname><strength><value>100 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>CONTINUOUS</value>
 <value>BID</value>

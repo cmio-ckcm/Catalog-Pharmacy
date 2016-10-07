@@ -2,8 +2,8 @@
 <dose><value>1</value>
 </dose><route><value>PO</value>
 </route><form><value>tab CHEW</value>
-</form><drug><value>multivitamin, child tab CHEW</value>
-</drug><strength><value></value>
+</form><drugname><value>multivitamin, child tab CHEW</value>
+</drugname><strength><value></value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

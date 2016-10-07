@@ -6,8 +6,8 @@
 <value>25 - 45</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>DAUNOrubicin inj VIAL</value>
-</drug><strength><value>20 mg</value>
+</form><drugname><value>DAUNOrubicin inj VIAL</value>
+</drugname><strength><value>20 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>ONCE</value>
 </frequency><instruction><value>for 3 days.</value>

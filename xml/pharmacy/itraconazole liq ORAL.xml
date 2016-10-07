@@ -3,8 +3,8 @@
 <value>200</value>
 </dose><route><value>PO</value>
 </route><form><value>liq ORAL</value>
-</form><drug><value>itraconazole liq ORAL</value>
-</drug><strength><value>10 mg/mL</value>
+</form><drugname><value>itraconazole liq ORAL</value>
+</drugname><strength><value>10 mg/mL</value>
 </strength><frequency><value>BID</value>
 <value>DAILY</value>
 </frequency><instruction><value>Swish solution in oral cavity and swallow.</value>

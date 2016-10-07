@@ -2,8 +2,8 @@
 <dose><value></value>
 </dose><route><value>TOP</value>
 </route><form><value>crm</value>
-</form><drug><value>capsaicin crm</value>
-</drug><strength><value>0.025%</value>
+</form><drugname><value>capsaicin crm</value>
+</drugname><strength><value>0.025%</value>
 </strength><frequency><value>TID</value>
 <value>QID</value>
 </frequency><instruction><value>Apply a thin film to affected area, rub in well until no residue remains.</value>

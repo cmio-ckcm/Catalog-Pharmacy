@@ -11,8 +11,8 @@
 </dose><route><value>IV</value>
 <value>IV </value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>pantoprazole inj VIAL</value>
-</drug><strength><value>40 mg</value>
+</form><drugname><value>pantoprazole inj VIAL</value>
+</drugname><strength><value>40 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>Q12H</value>
 <value>Q24H</value>

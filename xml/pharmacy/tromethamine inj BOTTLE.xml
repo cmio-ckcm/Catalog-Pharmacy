@@ -5,8 +5,8 @@
 <value>3.3 - 6.6</value>
 </dose><route><value>IV</value>
 </route><form><value>inj BOTTLE</value>
-</form><drug><value>tromethamine inj BOTTLE</value>
-</drug><strength><value>36 mg/mL</value>
+</form><drugname><value>tromethamine inj BOTTLE</value>
+</drugname><strength><value>36 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>CONTINUOUS</value>
 </frequency><instruction><value>Administer over 1 hour.</value>

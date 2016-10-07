@@ -2,8 +2,8 @@
 <dose><value></value>
 </dose><route><value>TOP</value>
 </route><form><value>oint</value>
-</form><drug><value>bacitracin-polymyxin B oint</value>
-</drug><strength><value>500 unit-10 000 unit/g</value>
+</form><drugname><value>bacitracin-polymyxin B oint</value>
+</drugname><strength><value>500 unit-10 000 unit/g</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>
 <value>TID</value>

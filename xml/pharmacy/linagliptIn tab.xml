@@ -2,8 +2,8 @@
 <dose><value>5</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>linagliptIn tab</value>
-</drug><strength><value>5 mg</value>
+</form><drugname><value>linagliptIn tab</value>
+</drugname><strength><value>5 mg</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

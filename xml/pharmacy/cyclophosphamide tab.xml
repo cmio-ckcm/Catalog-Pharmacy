@@ -2,8 +2,8 @@
 <dose><value>50</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>cyclophosphamide tab</value>
-</drug><strength><value>25 mg</value>
+</form><drugname><value>cyclophosphamide tab</value>
+</drugname><strength><value>25 mg</value>
 <value>50 mg</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value></value>

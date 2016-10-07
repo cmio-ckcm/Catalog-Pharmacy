@@ -10,8 +10,8 @@
 <value>IV</value>
 <value>SC</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>famotidine inj VIAL</value>
-</drug><strength><value>10 mg/mL</value>
+</form><drugname><value>famotidine inj VIAL</value>
+</drugname><strength><value>10 mg/mL</value>
 </strength><frequency><value>Q12H</value>
 <value>ONCE</value>
 <value>CONTINUOUS</value>

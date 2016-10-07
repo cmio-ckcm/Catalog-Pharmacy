@@ -5,8 +5,8 @@
 <value>60</value>
 </dose><route><value>PO</value>
 </route><form><value>tab ER</value>
-</form><drug><value>niFEDipine (long acting) tab ER</value>
-</drug><strength><value>20 mg</value>
+</form><drugname><value>niFEDipine (long acting) tab ER</value>
+</drugname><strength><value>20 mg</value>
 <value>30 mg</value>
 <value>60 mg</value>
 </strength><frequency><value>DAILY</value>

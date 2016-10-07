@@ -9,8 +9,8 @@
 <value>160</value>
 </dose><route><value>PO</value>
 </route><form><value>liq ORAL</value>
-</form><drug><value>zidovudine liq ORAL</value>
-</drug><strength><value>10 mg/mL</value>
+</form><drugname><value>zidovudine liq ORAL</value>
+</drugname><strength><value>10 mg/mL</value>
 </strength><frequency><value>Q12H</value>
 <value>Q8H</value>
 </frequency><instruction><value></value>

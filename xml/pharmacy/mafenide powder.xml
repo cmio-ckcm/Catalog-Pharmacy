@@ -2,8 +2,8 @@
 <dose><value></value>
 </dose><route><value>TOP</value>
 </route><form><value>powder</value>
-</form><drug><value>mafenide powder</value>
-</drug><strength><value></value>
+</form><drugname><value>mafenide powder</value>
+</drugname><strength><value></value>
 </strength><frequency><value>Q6H</value>
 <value>Q8H</value>
 <value>Q4H</value>

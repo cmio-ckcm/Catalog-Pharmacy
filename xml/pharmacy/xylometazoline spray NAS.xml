@@ -2,8 +2,8 @@
 <dose><value>1 - 2</value>
 </dose><route><value>NASAL</value>
 </route><form><value>spray NAS</value>
-</form><drug><value>xylometazoline spray NAS</value>
-</drug><strength><value>0.05%</value>
+</form><drugname><value>xylometazoline spray NAS</value>
+</drugname><strength><value>0.05%</value>
 <value>0.1%</value>
 </strength><frequency><value>Q8H</value>
 <value>Q10H</value>

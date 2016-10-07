@@ -2,8 +2,8 @@
 <dose><value>30</value>
 </dose><route><value>PO</value>
 </route><form><value>mouthwash</value>
-</form><drug><value>hydrocortisone-lidocaine-nystatin mouthwash</value>
-</drug><strength><value></value>
+</form><drugname><value>hydrocortisone-lidocaine-nystatin mouthwash</value>
+</drugname><strength><value></value>
 </strength><frequency><value>Q4H</value>
 <value>Q6H</value>
 </frequency><instruction><value>Swich solution in mouth and throat for one minute, then expell solution.</value>

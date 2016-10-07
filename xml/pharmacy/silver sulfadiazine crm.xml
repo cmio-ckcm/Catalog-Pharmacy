@@ -2,8 +2,8 @@
 <dose><value></value>
 </dose><route><value>TOP</value>
 </route><form><value>crm</value>
-</form><drug><value>silver sulfadiazine crm</value>
-</drug><strength><value>1%</value>
+</form><drugname><value>silver sulfadiazine crm</value>
+</drugname><strength><value>1%</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>
 </frequency><instruction><value>Apply topically to affected area to a depth of 2 mm.</value>

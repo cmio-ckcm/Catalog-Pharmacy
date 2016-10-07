@@ -5,8 +5,8 @@
 <value>1500</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>levetiracetam tab</value>
-</drug><strength><value>250 mg</value>
+</form><drugname><value>levetiracetam tab</value>
+</drugname><strength><value>250 mg</value>
 <value>500 mg</value>
 </strength><frequency><value>BID</value>
 </frequency><instruction><value></value>

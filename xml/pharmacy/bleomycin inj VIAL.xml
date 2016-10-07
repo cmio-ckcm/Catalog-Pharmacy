@@ -3,8 +3,8 @@
 <value>30</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>bleomycin inj VIAL</value>
-</drug><strength><value>15 unit</value>
+</form><drugname><value>bleomycin inj VIAL</value>
+</drugname><strength><value>15 unit</value>
 </strength><frequency><value>ONCE</value>
 <value>WEEKLY</value>
 <value>DAILY</value>

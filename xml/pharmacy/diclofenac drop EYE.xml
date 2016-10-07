@@ -3,8 +3,8 @@
 <value>2</value>
 </dose><route><value>TOP</value>
 </route><form><value>drop EYE</value>
-</form><drug><value>diclofenac drop EYE</value>
-</drug><strength><value>0.1%</value>
+</form><drugname><value>diclofenac drop EYE</value>
+</drugname><strength><value>0.1%</value>
 </strength><frequency><value>ONCE</value>
 <value>TID</value>
 <value>QID</value>

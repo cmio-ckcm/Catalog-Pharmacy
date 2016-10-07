@@ -2,8 +2,8 @@
 <dose><value>1</value>
 </dose><route><value>TOP</value>
 </route><form><value>drop EYE</value>
-</form><drug><value>latanoprost drop EYE</value>
-</drug><strength><value>0.005%</value>
+</form><drugname><value>latanoprost drop EYE</value>
+</drugname><strength><value>0.005%</value>
 </strength><frequency><value>HS</value>
 </frequency><instruction><value>Instill into LEFT eye.</value>
 <value>Instill into RIGHT eye.</value>

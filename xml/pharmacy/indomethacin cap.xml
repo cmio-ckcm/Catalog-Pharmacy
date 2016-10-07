@@ -3,8 +3,8 @@
 <value>50</value>
 </dose><route><value>PO</value>
 </route><form><value>cap</value>
-</form><drug><value>indomethacin cap</value>
-</drug><strength><value>25 mg</value>
+</form><drugname><value>indomethacin cap</value>
+</drugname><strength><value>25 mg</value>
 <value>50 mg</value>
 </strength><frequency><value>BID</value>
 <value>TID</value>

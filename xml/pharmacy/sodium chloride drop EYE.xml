@@ -3,8 +3,8 @@
 <value>2</value>
 </dose><route><value>OPHTH</value>
 </route><form><value>drop EYE</value>
-</form><drug><value>sodium chloride drop EYE</value>
-</drug><strength><value>5%</value>
+</form><drugname><value>sodium chloride drop EYE</value>
+</drugname><strength><value>5%</value>
 </strength><frequency><value>TID</value>
 <value>QID</value>
 </frequency><instruction><value>Instill in LEFT eye.</value>

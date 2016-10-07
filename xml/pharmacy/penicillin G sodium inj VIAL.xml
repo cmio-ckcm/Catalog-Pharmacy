@@ -12,8 +12,8 @@
 </dose><route><value>IV</value>
 <value>IM</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>penicillin G sodium inj VIAL</value>
-</drug><strength><value>1 million unit</value>
+</form><drugname><value>penicillin G sodium inj VIAL</value>
+</drugname><strength><value>1 million unit</value>
 <value>10 million unit</value>
 <value>5 million unit</value>
 </strength><frequency><value>Q6H</value>

@@ -4,8 +4,8 @@
 <value>0.2</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>cloNIDine tab</value>
-</drug><strength><value>0.025 mg</value>
+</form><drugname><value>cloNIDine tab</value>
+</drugname><strength><value>0.025 mg</value>
 <value>0.1 mg</value>
 <value>0.2mg</value>
 </strength><frequency><value>BID</value>

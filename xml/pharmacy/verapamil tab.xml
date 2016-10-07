@@ -4,8 +4,8 @@
 <value>160</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>verapamil tab</value>
-</drug><strength><value>120 mg</value>
+</form><drugname><value>verapamil tab</value>
+</drugname><strength><value>120 mg</value>
 <value>80 mg</value>
 </strength><frequency><value>TID</value>
 <value>QID</value>

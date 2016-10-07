@@ -2,8 +2,8 @@
 <dose><value>1</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>amoxicillin-clavulin tab</value>
-</drug><strength><value>500 mg-125 mg</value>
+</form><drugname><value>amoxicillin-clavulin tab</value>
+</drugname><strength><value>500 mg-125 mg</value>
 <value>875 mg-125 mg</value>
 </strength><frequency><value>BID</value>
 <value>TID</value>

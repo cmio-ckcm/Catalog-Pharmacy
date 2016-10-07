@@ -2,8 +2,8 @@
 <dose><value></value>
 </dose><route><value>TOP </value>
 </route><form><value>crm</value>
-</form><drug><value>metroNIDAZOLE crm</value>
-</drug><strength><value>0.75%</value>
+</form><drugname><value>metroNIDAZOLE crm</value>
+</drugname><strength><value>0.75%</value>
 </strength><frequency><value>BID</value>
 </frequency><instruction><value>Apply a thin film to affected area and gently rub into skin. </value>
 </instruction><volume><value></value>

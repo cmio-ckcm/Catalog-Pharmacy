@@ -5,8 +5,8 @@
 </dose><route><value>OPHTH</value>
 <value>OTIC</value>
 </route><form><value>drop EYE EAR</value>
-</form><drug><value>gramicidin-polymyxin B drop EYE EAR</value>
-</drug><strength><value>0.025 mg-10 000 unit/mL</value>
+</form><drugname><value>gramicidin-polymyxin B drop EYE EAR</value>
+</drugname><strength><value>0.025 mg-10 000 unit/mL</value>
 </strength><frequency><value>QID  </value>
 <value>QID</value>
 </frequency><instruction><value>Instill into conjuctiva of LEFT eye. </value>

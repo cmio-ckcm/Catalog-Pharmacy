@@ -3,8 +3,8 @@
 <value>0.3</value>
 </dose><route><value>IM</value>
 </route><form><value>inj PEN</value>
-</form><drug><value>epiNEPHrine inj PEN</value>
-</drug><strength><value>0.15 mg / 0.15 mL</value>
+</form><drugname><value>epiNEPHrine inj PEN</value>
+</drugname><strength><value>0.15 mg / 0.15 mL</value>
 <value>0.15 mg / 0.3 mL</value>
 <value>0.3 mg / 0.3 mL</value>
 </strength><frequency><value>ONCE</value>

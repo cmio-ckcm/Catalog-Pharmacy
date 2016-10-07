@@ -3,8 +3,8 @@
 <value>2</value>
 </dose><route><value>IV</value>
 </route><form><value>inj BAG</value>
-</form><drug><value>ceFAZolin inj BAG</value>
-</drug><strength><value>1 g/50 mL</value>
+</form><drugname><value>ceFAZolin inj BAG</value>
+</drugname><strength><value>1 g/50 mL</value>
 <value>100 g</value>
 </strength><frequency><value>Q8H</value>
 <value>NOW</value>

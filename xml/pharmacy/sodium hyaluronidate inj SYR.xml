@@ -2,8 +2,8 @@
 <dose><value></value>
 </dose><route><value>INTRA-OCULAR</value>
 </route><form><value>inj SYR</value>
-</form><drug><value>sodium hyaluronidate inj SYR</value>
-</drug><strength><value>10 mg/mL</value>
+</form><drugname><value>sodium hyaluronidate inj SYR</value>
+</drugname><strength><value>10 mg/mL</value>
 <value>14 mg/mL</value>
 <value>23 mg/mL</value>
 </strength><frequency><value>ONCE</value>

@@ -3,8 +3,8 @@
 <value>50</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>rilpivirine tab</value>
-</drug><strength><value>25 mg</value>
+</form><drugname><value>rilpivirine tab</value>
+</drugname><strength><value>25 mg</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value>Administer with a meal.</value>
 </instruction><volume><value></value>

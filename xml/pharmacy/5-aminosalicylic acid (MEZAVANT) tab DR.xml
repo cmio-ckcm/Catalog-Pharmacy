@@ -3,8 +3,8 @@
 <value>4.8</value>
 </dose><route><value>PO</value>
 </route><form><value>tab DR</value>
-</form><drug><value>5-aminosalicylic acid (MEZAVANT) tab DR</value>
-</drug><strength><value>1.2 g</value>
+</form><drugname><value>5-aminosalicylic acid (MEZAVANT) tab DR</value>
+</drugname><strength><value>1.2 g</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

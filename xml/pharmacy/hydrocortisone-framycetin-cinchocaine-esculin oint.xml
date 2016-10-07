@@ -2,8 +2,8 @@
 <dose><value></value>
 </dose><route><value>PR</value>
 </route><form><value>oint</value>
-</form><drug><value>hydrocortisone-framycetin-cinchocaine-esculin oint</value>
-</drug><strength><value>0.5%-1%-0.5%-1%</value>
+</form><drugname><value>hydrocortisone-framycetin-cinchocaine-esculin oint</value>
+</drugname><strength><value>0.5%-1%-0.5%-1%</value>
 </strength><frequency><value>BID</value>
 <value>ONCE</value>
 </frequency><instruction><value>Apply a small amount to the affected area in the morning and at bedtime.</value>

@@ -2,8 +2,8 @@
 <dose><value>50</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>dolutegravir tab</value>
-</drug><strength><value>50 mg</value>
+</form><drugname><value>dolutegravir tab</value>
+</drugname><strength><value>50 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>
 </frequency><instruction><value></value>

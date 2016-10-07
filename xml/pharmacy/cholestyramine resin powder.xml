@@ -2,8 +2,8 @@
 <dose><value>4</value>
 </dose><route><value>PO</value>
 </route><form><value>powder</value>
-</form><drug><value>cholestyramine resin powder</value>
-</drug><strength><value>4 g/5 g</value>
+</form><drugname><value>cholestyramine resin powder</value>
+</drugname><strength><value>4 g/5 g</value>
 <value>4 g/9 g</value>
 </strength><frequency><value>DAILY</value>
 <value>HS</value>

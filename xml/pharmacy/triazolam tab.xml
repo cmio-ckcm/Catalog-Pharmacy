@@ -3,8 +3,8 @@
 <value>0.25</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>triazolam tab</value>
-</drug><strength><value>0.25 mg</value>
+</form><drugname><value>triazolam tab</value>
+</drugname><strength><value>0.25 mg</value>
 </strength><frequency><value>HS</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

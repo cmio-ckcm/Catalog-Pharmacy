@@ -2,8 +2,8 @@
 <dose><value>1</value>
 </dose><route><value>PO</value>
 </route><form><value>tab ER</value>
-</form><drug><value>oxyCODONE-naloxone (long acting) tab ER</value>
-</drug><strength><value>5 mg-2.5 mg</value>
+</form><drugname><value>oxyCODONE-naloxone (long acting) tab ER</value>
+</drugname><strength><value>5 mg-2.5 mg</value>
 </strength><frequency><value>Q12H</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

@@ -2,8 +2,8 @@
 <dose><value>10</value>
 </dose><route><value>PR </value>
 </route><form><value>supp</value>
-</form><drug><value>bisaCODyl (DULCOLAX) supp</value>
-</drug><strength><value>10 mg</value>
+</form><drugname><value>bisaCODyl (DULCOLAX) supp</value>
+</drugname><strength><value>10 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>ONCE</value>
 </frequency><instruction><value></value>

@@ -9,8 +9,8 @@
 <value>24</value>
 </dose><route><value>IM</value>
 </route><form><value>inj AMP</value>
-</form><drug><value>flupentixol decanoate inj AMP</value>
-</drug><strength><value>100 mg/mL</value>
+</form><drugname><value>flupentixol decanoate inj AMP</value>
+</drugname><strength><value>100 mg/mL</value>
 <value>20 mg/mL</value>
 </strength><frequency><value>EVERY 4 WEEKS</value>
 <value>EVERY 2 WEEKS</value>

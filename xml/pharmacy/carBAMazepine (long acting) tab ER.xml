@@ -4,8 +4,8 @@
 <value>400</value>
 </dose><route><value>PO</value>
 </route><form><value>tab ER</value>
-</form><drug><value>carBAMazepine (long acting) tab ER</value>
-</drug><strength><value>200 mg</value>
+</form><drugname><value>carBAMazepine (long acting) tab ER</value>
+</drugname><strength><value>200 mg</value>
 <value>400 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>

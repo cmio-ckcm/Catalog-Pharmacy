@@ -2,8 +2,8 @@
 <dose><value>25 000</value>
 </dose><route><value>IM</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>asparaginase (ERWINASE) inj VIAL</value>
-</drug><strength><value>10 000 unit</value>
+</form><drugname><value>asparaginase (ERWINASE) inj VIAL</value>
+</drugname><strength><value>10 000 unit</value>
 </strength><frequency><value>WEEKLY</value>
 </frequency><instruction><value>WEEKLY on days 29, 36 and 43. Observe patient for 1 hour post asparaginase.</value>
 <value>WEEKLY on DAY 1, 8 and 15. Observe patient for 1 hour post asparaginase.</value>

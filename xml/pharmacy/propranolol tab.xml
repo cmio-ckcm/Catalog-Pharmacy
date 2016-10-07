@@ -7,8 +7,8 @@
 <value>80</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>propranolol tab</value>
-</drug><strength><value>10 mg</value>
+</form><drugname><value>propranolol tab</value>
+</drugname><strength><value>10 mg</value>
 <value>20 mg</value>
 <value>40 mg</value>
 <value>80 mg</value>

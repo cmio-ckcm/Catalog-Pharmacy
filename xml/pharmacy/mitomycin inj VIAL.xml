@@ -5,8 +5,8 @@
 </dose><route><value>INTRAVESICALLY</value>
 <value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>mitomycin inj VIAL</value>
-</drug><strength><value>20 mg</value>
+</form><drugname><value>mitomycin inj VIAL</value>
+</drugname><strength><value>20 mg</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value>Retain solution for 2 hours.</value>
 <value>Administer dose by direct injection into free flowing infusion.</value>

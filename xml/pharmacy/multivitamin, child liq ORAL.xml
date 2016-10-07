@@ -2,8 +2,8 @@
 <dose><value>5</value>
 </dose><route><value>PO</value>
 </route><form><value>liq ORAL</value>
-</form><drug><value>multivitamin, child liq ORAL</value>
-</drug><strength><value></value>
+</form><drugname><value>multivitamin, child liq ORAL</value>
+</drugname><strength><value></value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

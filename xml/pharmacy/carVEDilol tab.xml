@@ -5,8 +5,8 @@
 <value>6.25</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>carVEDilol tab</value>
-</drug><strength><value>12.5 mg</value>
+</form><drugname><value>carVEDilol tab</value>
+</drugname><strength><value>12.5 mg</value>
 <value>25 mg</value>
 <value>3.125 mg</value>
 <value>6.25 mg</value>

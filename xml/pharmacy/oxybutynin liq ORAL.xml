@@ -3,8 +3,8 @@
 <value>5</value>
 </dose><route><value>PO</value>
 </route><form><value>liq ORAL</value>
-</form><drug><value>oxybutynin liq ORAL</value>
-</drug><strength><value>1 mg/mL</value>
+</form><drugname><value>oxybutynin liq ORAL</value>
+</drugname><strength><value>1 mg/mL</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>
 <value>TID</value>

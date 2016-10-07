@@ -3,8 +3,8 @@
 <value>50</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>etoposide inj VIAL</value>
-</drug><strength><value>20 mg/mL</value>
+</form><drugname><value>etoposide inj VIAL</value>
+</drugname><strength><value>20 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>DAILY</value>
 </frequency><instruction><value>DAY 1 of 21. Administer dose in the following volume and at the corrsponding rate: a) Dilute dose in 500 mL - 0.9% sodium chloride (for doses less than or equal to 200 mg) and administer over 1 hour. b) Dilute dose in 1000 mL - 0.9% sodium chloride (for doses greater than 200 mg) and administer over 1.5 to 2 hours. </value>

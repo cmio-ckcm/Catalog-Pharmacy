@@ -3,8 +3,8 @@
 <value>50</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>dimenhyDRINATE tab</value>
-</drug><strength><value>50 mg</value>
+</form><drugname><value>dimenhyDRINATE tab</value>
+</drugname><strength><value>50 mg</value>
 </strength><frequency><value>TID</value>
 <value>QID</value>
 <value>Q1H</value>

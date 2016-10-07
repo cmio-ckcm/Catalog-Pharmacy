@@ -4,8 +4,8 @@
 <value>12</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>IDArubicin inj VIAL</value>
-</drug><strength><value>10 mg</value>
+</form><drugname><value>IDArubicin inj VIAL</value>
+</drugname><strength><value>10 mg</value>
 <value>5 mg</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value></value>

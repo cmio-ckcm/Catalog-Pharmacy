@@ -4,8 +4,8 @@
 </dose><route><value>IM</value>
 <value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>cefUROXime sodium inj VIAL</value>
-</drug><strength><value>1.5 g</value>
+</form><drugname><value>cefUROXime sodium inj VIAL</value>
+</drugname><strength><value>1.5 g</value>
 <value>7.5 g</value>
 <value>750 mg</value>
 </strength><frequency><value>Q8H</value>

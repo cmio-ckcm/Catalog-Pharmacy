@@ -9,8 +9,8 @@
 <value>70</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>dasatinib tab</value>
-</drug><strength><value>100 mg</value>
+</form><drugname><value>dasatinib tab</value>
+</drugname><strength><value>100 mg</value>
 <value>20 mg</value>
 <value>50 mg</value>
 <value>70 mg</value>

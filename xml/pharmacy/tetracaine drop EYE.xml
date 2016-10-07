@@ -3,8 +3,8 @@
 <value>2</value>
 </dose><route><value>OPHTH</value>
 </route><form><value>drop EYE</value>
-</form><drug><value>tetracaine drop EYE</value>
-</drug><strength><value>0.5%</value>
+</form><drugname><value>tetracaine drop EYE</value>
+</drugname><strength><value>0.5%</value>
 </strength><frequency><value>ONCE</value>
 <value>EVERY 5 MINUTES</value>
 </frequency><instruction><value>Instill in LEFT eye prior to evaluation.</value>

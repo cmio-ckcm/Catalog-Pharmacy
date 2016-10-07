@@ -3,8 +3,8 @@
 </dose><route><value>PR</value>
 <value>PR </value>
 </route><form><value>supp</value>
-</form><drug><value>glycerin supp</value>
-</drug><strength><value>1.8 g</value>
+</form><drugname><value>glycerin supp</value>
+</drugname><strength><value>1.8 g</value>
 <value>2.7 g</value>
 </strength><frequency><value>ONCE</value>
 <value>HS</value>

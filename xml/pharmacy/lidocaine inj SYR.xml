@@ -5,8 +5,8 @@
 <value>1</value>
 </dose><route><value>IV</value>
 </route><form><value>inj SYR</value>
-</form><drug><value>lidocaine inj SYR</value>
-</drug><strength><value>20 mg/mL</value>
+</form><drugname><value>lidocaine inj SYR</value>
+</drugname><strength><value>20 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>EVERY 5 MINUTES</value>
 <value>EVERY 10 MINUTES</value>

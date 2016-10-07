@@ -2,8 +2,8 @@
 <dose><value>2</value>
 </dose><route><value>INTRANASAL</value>
 </route><form><value>drop NAS</value>
-</form><drug><value>sodium chloride drop NAS</value>
-</drug><strength><value>0.9%</value>
+</form><drugname><value>sodium chloride drop NAS</value>
+</drugname><strength><value>0.9%</value>
 </strength><frequency><value>Q1H</value>
 </frequency><instruction><value>Instill into each nostril as required.</value>
 </instruction><volume><value>30 mL</value>

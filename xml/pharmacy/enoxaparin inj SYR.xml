@@ -5,8 +5,8 @@
 <value>40</value>
 </dose><route><value>SC</value>
 </route><form><value>inj SYR</value>
-</form><drug><value>enoxaparin inj SYR</value>
-</drug><strength><value>100 mg/1 mL</value>
+</form><drugname><value>enoxaparin inj SYR</value>
+</drugname><strength><value>100 mg/1 mL</value>
 <value>30 mg/0.3 mL</value>
 <value>40 mg/0.4 mL</value>
 <value>60 mg/0.6 mL</value>

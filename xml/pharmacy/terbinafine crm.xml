@@ -2,8 +2,8 @@
 <dose><value></value>
 </dose><route><value>TOP</value>
 </route><form><value>crm</value>
-</form><drug><value>terbinafine crm</value>
-</drug><strength><value>1%</value>
+</form><drugname><value>terbinafine crm</value>
+</drugname><strength><value>1%</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>
 </frequency><instruction><value>Apply a thin film and lightly rub into affected area.</value>

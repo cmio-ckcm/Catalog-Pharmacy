@@ -10,8 +10,8 @@
 <value>INTRAOSSEOUS</value>
 <value>IV</value>
 </route><form><value>inj SYR</value>
-</form><drug><value>epiNEPHrine inj SYR</value>
-</drug><strength><value>0.1 mg/mL</value>
+</form><drugname><value>epiNEPHrine inj SYR</value>
+</drugname><strength><value>0.1 mg/mL</value>
 </strength><frequency><value>EVERY 3 TO 5 MINUTES</value>
 <value>ONCE</value>
 <value>CONTINUOUS</value>

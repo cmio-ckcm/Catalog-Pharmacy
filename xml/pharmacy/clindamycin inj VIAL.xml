@@ -3,8 +3,8 @@
 <value>900</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>clindamycin inj VIAL</value>
-</drug><strength><value>150 mg/mL</value>
+</form><drugname><value>clindamycin inj VIAL</value>
+</drugname><strength><value>150 mg/mL</value>
 </strength><frequency><value>Q8H</value>
 <value>Q6H</value>
 </frequency><instruction><value></value>

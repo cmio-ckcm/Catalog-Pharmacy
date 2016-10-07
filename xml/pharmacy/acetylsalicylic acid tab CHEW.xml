@@ -3,8 +3,8 @@
 <value>160</value>
 </dose><route><value>PO</value>
 </route><form><value>tab CHEW</value>
-</form><drug><value>acetylsalicylic acid tab CHEW</value>
-</drug><strength><value>80 mg</value>
+</form><drugname><value>acetylsalicylic acid tab CHEW</value>
+</drugname><strength><value>80 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>NOW</value>
 </frequency><instruction><value></value>

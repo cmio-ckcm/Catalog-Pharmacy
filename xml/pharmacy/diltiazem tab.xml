@@ -3,8 +3,8 @@
 <value>60</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>diltiazem tab</value>
-</drug><strength><value>30 mg</value>
+</form><drugname><value>diltiazem tab</value>
+</drugname><strength><value>30 mg</value>
 <value>60 mg</value>
 </strength><frequency><value>BID</value>
 <value>TID</value>

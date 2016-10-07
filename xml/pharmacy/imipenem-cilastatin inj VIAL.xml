@@ -4,8 +4,8 @@
 <value>250 - 500</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>imipenem-cilastatin inj VIAL</value>
-</drug><strength><value>500 mg</value>
+</form><drugname><value>imipenem-cilastatin inj VIAL</value>
+</drugname><strength><value>500 mg</value>
 </strength><frequency><value>Q6H</value>
 <value>Q8H</value>
 <value>Q12H</value>

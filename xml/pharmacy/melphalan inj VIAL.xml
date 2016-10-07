@@ -2,8 +2,8 @@
 <dose><value>200</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>melphalan inj VIAL</value>
-</drug><strength><value>50 mg</value>
+</form><drugname><value>melphalan inj VIAL</value>
+</drugname><strength><value>50 mg</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value>DAY -1. Administer dose over 1 hour in the morning.</value>
 </instruction><volume><value></value>

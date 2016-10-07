@@ -3,8 +3,8 @@
 <value>20</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>cyclobenzaprine tab</value>
-</drug><strength><value>10 mg</value>
+</form><drugname><value>cyclobenzaprine tab</value>
+</drugname><strength><value>10 mg</value>
 </strength><frequency><value>BID</value>
 <value>TID</value>
 <value>HS</value>

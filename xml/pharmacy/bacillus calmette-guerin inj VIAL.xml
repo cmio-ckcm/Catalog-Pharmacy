@@ -2,8 +2,8 @@
 <dose><value>50</value>
 </dose><route><value>INTRAVESICALLY</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>bacillus calmette-guerin inj VIAL</value>
-</drug><strength><value>50 mg</value>
+</form><drugname><value>bacillus calmette-guerin inj VIAL</value>
+</drugname><strength><value>50 mg</value>
 </strength><frequency><value>WEEKLY</value>
 </frequency><instruction><value>Administer for 6 weeks. Dilute dose in 50 mL 0.9% sodium chloride.</value>
 <value>Administer for 3 weeks at months 3, 6 and 12. Dilute dose in 50 mL 0.9% sodium chloride.</value>

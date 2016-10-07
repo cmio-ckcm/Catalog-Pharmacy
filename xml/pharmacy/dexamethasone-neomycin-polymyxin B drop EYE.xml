@@ -3,8 +3,8 @@
 <value>2</value>
 </dose><route><value>OPHTH</value>
 </route><form><value>drop EYE</value>
-</form><drug><value>dexamethasone-neomycin-polymyxin B drop EYE</value>
-</drug><strength><value>1 mg-3.5 mg-6000 unit/mL</value>
+</form><drugname><value>dexamethasone-neomycin-polymyxin B drop EYE</value>
+</drugname><strength><value>1 mg-3.5 mg-6000 unit/mL</value>
 </strength><frequency><value>Q1H</value>
 <value>Q2H</value>
 <value>QID</value>

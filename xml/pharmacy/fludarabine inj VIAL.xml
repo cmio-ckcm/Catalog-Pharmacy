@@ -2,8 +2,8 @@
 <dose><value>25</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>fludarabine inj VIAL</value>
-</drug><strength><value>25 mg/mL</value>
+</form><drugname><value>fludarabine inj VIAL</value>
+</drugname><strength><value>25 mg/mL</value>
 </strength><frequency><value>DAILY</value>
 <value>ONCE</value>
 </frequency><instruction><value>for 5 days. Administer dose diluted in 50 mL 0.9% sodium chloride over 30 minutes.</value>

@@ -6,8 +6,8 @@
 <value>3</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>metoclopramide inj VIAL</value>
-</drug><strength><value>5 mg/mL</value>
+</form><drugname><value>metoclopramide inj VIAL</value>
+</drugname><strength><value>5 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>Q4H</value>
 <value>Q6H</value>

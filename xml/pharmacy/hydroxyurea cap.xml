@@ -2,8 +2,8 @@
 <dose><value>500</value>
 </dose><route><value>PO</value>
 </route><form><value>cap</value>
-</form><drug><value>hydroxyurea cap</value>
-</drug><strength><value>500 mg</value>
+</form><drugname><value>hydroxyurea cap</value>
+</drugname><strength><value>500 mg</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

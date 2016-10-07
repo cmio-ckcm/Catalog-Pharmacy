@@ -11,8 +11,8 @@
 <value></value>
 </dose><route><value>TOP</value>
 </route><form><value>oint</value>
-</form><drug><value>nitroglycerin oint</value>
-</drug><strength><value>2%</value>
+</form><drugname><value>nitroglycerin oint</value>
+</drugname><strength><value>2%</value>
 </strength><frequency><value>HS</value>
 <value>Q3H</value>
 <value>Q4H</value>

@@ -7,8 +7,8 @@
 <value>40</value>
 </dose><route><value>IV</value>
 </route><form><value>inj AMP</value>
-</form><drug><value>anti-thymocyte globulin (ATGAM) inj AMP</value>
-</drug><strength><value>50 mg/mL</value>
+</form><drugname><value>anti-thymocyte globulin (ATGAM) inj AMP</value>
+</drugname><strength><value>50 mg/mL</value>
 </strength><frequency><value>DAILY</value>
 <value>EVERY OTHER DAY</value>
 </frequency><instruction><value>Administer DAILY for 14 days, then every other day for 14 days. (For a total of 21 doses in 28 days.)</value>

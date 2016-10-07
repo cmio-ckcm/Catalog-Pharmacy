@@ -5,8 +5,8 @@
 <value>160</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>GLICLAzide tab</value>
-</drug><strength><value>80 mg</value>
+</form><drugname><value>GLICLAzide tab</value>
+</drugname><strength><value>80 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>
 </frequency><instruction><value></value>

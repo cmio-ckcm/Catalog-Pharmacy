@@ -4,8 +4,8 @@
 <value>8</value>
 </dose><route><value>PO</value>
 </route><form><value>cap ER</value>
-</form><drug><value>galantamine (long acting) cap ER</value>
-</drug><strength><value>16 mg</value>
+</form><drugname><value>galantamine (long acting) cap ER</value>
+</drugname><strength><value>16 mg</value>
 <value>24 mg</value>
 <value>8 mg</value>
 </strength><frequency><value>DAILY</value>

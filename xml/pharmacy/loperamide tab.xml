@@ -3,8 +3,8 @@
 <value>4</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>loperamide tab</value>
-</drug><strength><value>2 mg</value>
+</form><drugname><value>loperamide tab</value>
+</drugname><strength><value>2 mg</value>
 </strength><frequency><value>BID</value>
 <value>TID</value>
 <value>QID</value>

@@ -8,8 +8,8 @@
 <value>1500</value>
 </dose><route><value>PO</value>
 </route><form><value>tab EC</value>
-</form><drug><value>divalproex tab EC</value>
-</drug><strength><value>125 mg</value>
+</form><drugname><value>divalproex tab EC</value>
+</drugname><strength><value>125 mg</value>
 <value>250 mg</value>
 <value>500 mg</value>
 </strength><frequency><value>BID</value>

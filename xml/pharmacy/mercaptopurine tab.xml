@@ -2,8 +2,8 @@
 <dose><value>1.5 - 2.5</value>
 </dose><route><value>PO </value>
 </route><form><value>tab</value>
-</form><drug><value>mercaptopurine tab</value>
-</drug><strength><value>50 mg</value>
+</form><drugname><value>mercaptopurine tab</value>
+</drugname><strength><value>50 mg</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value>Administer as a single dose.</value>
 </instruction><volume><value></value>

@@ -3,8 +3,8 @@
 <value>20</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>copper sulfate inj VIAL</value>
-</drug><strength><value>0.4 mg/mL</value>
+</form><drugname><value>copper sulfate inj VIAL</value>
+</drugname><strength><value>0.4 mg/mL</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value></value>
 </instruction><volume><value>10 mL</value>

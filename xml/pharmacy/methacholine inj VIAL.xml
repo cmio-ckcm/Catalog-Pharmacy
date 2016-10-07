@@ -2,8 +2,8 @@
 <dose><value>3</value>
 </dose><route><value>NEB</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>methacholine inj VIAL</value>
-</drug><strength><value>100 mg</value>
+</form><drugname><value>methacholine inj VIAL</value>
+</drugname><strength><value>100 mg</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value>utilizing 0.03 mg/mL concentration.</value>
 <value>utilizing 0.0625 mg/mL concentration.</value>

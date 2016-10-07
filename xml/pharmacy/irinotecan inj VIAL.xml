@@ -6,8 +6,8 @@
 <value>180</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>irinotecan inj VIAL</value>
-</drug><strength><value>20 mg/mL</value>
+</form><drugname><value>irinotecan inj VIAL</value>
+</drugname><strength><value>20 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value>Administer dose diluted in 500 mL D5W over 90 minutes.</value>
 </instruction><volume><value>2 mL</value>

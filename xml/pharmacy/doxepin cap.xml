@@ -4,8 +4,8 @@
 <value>50</value>
 </dose><route><value>PO</value>
 </route><form><value>cap</value>
-</form><drug><value>doxepin cap</value>
-</drug><strength><value>10 mg</value>
+</form><drugname><value>doxepin cap</value>
+</drugname><strength><value>10 mg</value>
 <value>25 mg</value>
 <value>50 mg</value>
 </strength><frequency><value>HS</value>

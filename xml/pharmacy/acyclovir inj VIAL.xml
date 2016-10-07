@@ -7,8 +7,8 @@
 <value>20</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>acyclovir inj VIAL</value>
-</drug><strength><value>25 mg/mL</value>
+</form><drugname><value>acyclovir inj VIAL</value>
+</drugname><strength><value>25 mg/mL</value>
 <value>50 mg/mL</value>
 </strength><frequency><value>Q8H</value>
 <value>Q12H</value>

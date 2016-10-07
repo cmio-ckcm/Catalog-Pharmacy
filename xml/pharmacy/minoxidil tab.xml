@@ -6,8 +6,8 @@
 <value>5</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>minoxidil tab</value>
-</drug><strength><value>10 mg</value>
+</form><drugname><value>minoxidil tab</value>
+</drugname><strength><value>10 mg</value>
 <value>2.5 mg</value>
 </strength><frequency><value>BID</value>
 </frequency><instruction><value></value>

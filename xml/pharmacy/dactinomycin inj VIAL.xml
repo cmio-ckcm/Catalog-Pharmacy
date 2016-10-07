@@ -6,8 +6,8 @@
 <value>500</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>dactinomycin inj VIAL</value>
-</drug><strength><value>0.5 mg</value>
+</form><drugname><value>dactinomycin inj VIAL</value>
+</drugname><strength><value>0.5 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>ONCE</value>
 </frequency><instruction><value>for 2 doses.</value>

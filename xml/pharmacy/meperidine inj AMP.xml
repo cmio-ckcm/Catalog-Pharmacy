@@ -27,8 +27,8 @@
 <value>IV </value>
 <value>SC</value>
 </route><form><value>inj AMP</value>
-</form><drug><value>meperidine inj AMP</value>
-</drug><strength><value>50 mg/mL</value>
+</form><drugname><value>meperidine inj AMP</value>
+</drugname><strength><value>50 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>CONTINUOUS</value>
 <value>Q2H</value>

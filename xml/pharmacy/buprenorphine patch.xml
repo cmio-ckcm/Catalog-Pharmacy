@@ -2,8 +2,8 @@
 <dose><value>1</value>
 </dose><route><value>TOP</value>
 </route><form><value>patch</value>
-</form><drug><value>buprenorphine patch</value>
-</drug><strength><value>10 mcg/hr</value>
+</form><drugname><value>buprenorphine patch</value>
+</drugname><strength><value>10 mcg/hr</value>
 <value>20 mcg/hr</value>
 <value>5 mcg/hr</value>
 </strength><frequency><value>WEEKLY</value>

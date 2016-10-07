@@ -5,8 +5,8 @@
 <value>25</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>CISplatin inj VIAL</value>
-</drug><strength><value>1 mg/mL</value>
+</form><drugname><value>CISplatin inj VIAL</value>
+</drugname><strength><value>1 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>DAILY</value>
 </frequency><instruction><value>DAY 1. Administer dose diluted in 250 mL 0.9% sodium chloride over 1 hour concurrently with mannitol.</value>

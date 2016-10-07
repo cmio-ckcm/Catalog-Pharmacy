@@ -3,8 +3,8 @@
 <value>0.5</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>varenicline tab</value>
-</drug><strength><value>1 mg</value>
+</form><drugname><value>varenicline tab</value>
+</drugname><strength><value>1 mg</value>
 <value>0.5 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>

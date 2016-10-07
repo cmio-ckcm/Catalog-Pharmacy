@@ -14,8 +14,8 @@
 <value>IV</value>
 <value>IV </value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>ranitidine inj VIAL</value>
-</drug><strength><value>25 mg/mL</value>
+</form><drugname><value>ranitidine inj VIAL</value>
+</drugname><strength><value>25 mg/mL</value>
 </strength><frequency><value>Q6H</value>
 <value>Q8H</value>
 <value>CONTINUOUS</value>

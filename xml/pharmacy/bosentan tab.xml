@@ -3,8 +3,8 @@
 <value>62.5</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>bosentan tab</value>
-</drug><strength><value>125 mg</value>
+</form><drugname><value>bosentan tab</value>
+</drugname><strength><value>125 mg</value>
 <value>62.5 mg</value>
 </strength><frequency><value>BID</value>
 <value>EVERY OTHER DAY</value>

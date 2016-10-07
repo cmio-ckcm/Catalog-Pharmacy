@@ -7,8 +7,8 @@
 <value></value>
 </dose><route><value>PO</value>
 </route><form><value>liq ORAL</value>
-</form><drug><value>theophylline liq ORAL</value>
-</drug><strength><value>5.33 mg/mL</value>
+</form><drugname><value>theophylline liq ORAL</value>
+</drugname><strength><value>5.33 mg/mL</value>
 </strength><frequency><value>QID</value>
 <value>TID</value>
 <value>ONCE</value>

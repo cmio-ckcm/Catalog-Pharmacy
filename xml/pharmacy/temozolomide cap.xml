@@ -7,8 +7,8 @@
 <value>35</value>
 </dose><route><value>PO</value>
 </route><form><value>cap</value>
-</form><drug><value>temozolomide cap</value>
-</drug><strength><value>100 mg</value>
+</form><drugname><value>temozolomide cap</value>
+</drugname><strength><value>100 mg</value>
 <value>140 mg</value>
 <value>20 mg</value>
 <value>250 mg</value>

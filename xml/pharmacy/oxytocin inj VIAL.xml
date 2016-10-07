@@ -15,8 +15,8 @@
 <value>40</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>oxytocin inj VIAL</value>
-</drug><strength><value>10 unit/mL</value>
+</form><drugname><value>oxytocin inj VIAL</value>
+</drugname><strength><value>10 unit/mL</value>
 </strength><frequency><value>CONTINUOUS</value>
 </frequency><instruction><value>Administer as per protocol for induction of labour</value>
 <value>Administer as per protocol for Post Partum Hemorrhage</value>

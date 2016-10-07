@@ -4,8 +4,8 @@
 <value>500</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>valACYclovir tab</value>
-</drug><strength><value>1000 mg</value>
+</form><drugname><value>valACYclovir tab</value>
+</drugname><strength><value>1000 mg</value>
 <value>500 mg</value>
 </strength><frequency><value>BID</value>
 <value>TID</value>

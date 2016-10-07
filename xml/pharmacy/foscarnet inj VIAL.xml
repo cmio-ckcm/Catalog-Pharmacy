@@ -6,8 +6,8 @@
 <value>40 - 60</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>foscarnet inj VIAL</value>
-</drug><strength><value>24 mg/mL</value>
+</form><drugname><value>foscarnet inj VIAL</value>
+</drugname><strength><value>24 mg/mL</value>
 </strength><frequency><value>Q12H</value>
 <value>Q8H  </value>
 <value>DAILY</value>

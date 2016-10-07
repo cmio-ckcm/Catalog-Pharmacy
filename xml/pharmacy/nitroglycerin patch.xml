@@ -4,8 +4,8 @@
 </dose><route><value>TOP</value>
 <value></value>
 </route><form><value>patch</value>
-</form><drug><value>nitroglycerin patch</value>
-</drug><strength><value>0.2 mg/hour</value>
+</form><drugname><value>nitroglycerin patch</value>
+</drugname><strength><value>0.2 mg/hour</value>
 <value>0.4 mg/hour</value>
 <value>0.6 mg/hour</value>
 <value>0.8 mg/hour</value>

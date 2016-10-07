@@ -2,8 +2,8 @@
 <dose><value>3</value>
 </dose><route><value>NEB</value>
 </route><form><value>kit</value>
-</form><drug><value>methacholine kit</value>
-</drug><strength><value>680 mg</value>
+</form><drugname><value>methacholine kit</value>
+</drugname><strength><value>680 mg</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value>utilizing 0.03 mg/mL concentration.</value>
 <value>utilizing 0.0625 mg/mL concentration.</value>

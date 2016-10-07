@@ -3,8 +3,8 @@
 <value></value>
 </dose><route><value>OPHTH</value>
 </route><form><value>oint EYE</value>
-</form><drug><value>dexamethasone oint EYE</value>
-</drug><strength><value>0.1%</value>
+</form><drugname><value>dexamethasone oint EYE</value>
+</drugname><strength><value>0.1%</value>
 </strength><frequency><value>Q4H</value>
 <value>TID</value>
 <value>QID</value>

@@ -3,8 +3,8 @@
 <value>650</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>nelarabine inj VIAL</value>
-</drug><strength><value>5 mg/mL</value>
+</form><drugname><value>nelarabine inj VIAL</value>
+</drugname><strength><value>5 mg/mL</value>
 </strength><frequency><value>EVERY OTHER DAY</value>
 <value>DAILY</value>
 </frequency><instruction><value>for 3 doses. Administer dose undiluted over 2 hours.</value>

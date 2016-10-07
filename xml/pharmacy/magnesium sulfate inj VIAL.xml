@@ -10,8 +10,8 @@
 <value>1 - 2.5</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>magnesium sulfate inj VIAL</value>
-</drug><strength><value>200 mg/mL</value>
+</form><drugname><value>magnesium sulfate inj VIAL</value>
+</drugname><strength><value>200 mg/mL</value>
 <value>500 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>CONTINUOUS</value>

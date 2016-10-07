@@ -5,8 +5,8 @@
 <value>2</value>
 </dose><route><value>IM</value>
 </route><form><value>inj AMP</value>
-</form><drug><value>cosyntropin zinc hydroxide inj AMP</value>
-</drug><strength><value>1 mg/mL</value>
+</form><drugname><value>cosyntropin zinc hydroxide inj AMP</value>
+</drugname><strength><value>1 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>TWO TIMES WEEKLY</value>
 <value>DAILY</value>

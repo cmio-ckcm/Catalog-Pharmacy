@@ -6,8 +6,8 @@
 </dose><route><value>IV</value>
 <value>SC</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>aldesleukin inj VIAL</value>
-</drug><strength><value>22 million unit</value>
+</form><drugname><value>aldesleukin inj VIAL</value>
+</drugname><strength><value>22 million unit</value>
 </strength><frequency><value>Q8H</value>
 <value>DAILY</value>
 </frequency><instruction><value>Administer over 15 minutes for 14 doses.</value>

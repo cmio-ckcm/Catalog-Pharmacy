@@ -5,8 +5,8 @@
 <value>15</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>zopiclone tab</value>
-</drug><strength><value>5 mg</value>
+</form><drugname><value>zopiclone tab</value>
+</drugname><strength><value>5 mg</value>
 <value>7.5 mg</value>
 </strength><frequency><value>HS</value>
 </frequency><instruction><value></value>

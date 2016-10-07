@@ -3,8 +3,8 @@
 <value>2</value>
 </dose><route><value>INTRANASAL</value>
 </route><form><value>spray NAS</value>
-</form><drug><value>mometasone spray NAS</value>
-</drug><strength><value>50 mcg</value>
+</form><drugname><value>mometasone spray NAS</value>
+</drugname><strength><value>50 mcg</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value>Apply dose in each nostril.</value>
 </instruction><volume><value></value>

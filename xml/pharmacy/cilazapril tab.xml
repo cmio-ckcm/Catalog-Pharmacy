@@ -5,8 +5,8 @@
 <value>4</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>cilazapril tab</value>
-</drug><strength><value>1 mg</value>
+</form><drugname><value>cilazapril tab</value>
+</drugname><strength><value>1 mg</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

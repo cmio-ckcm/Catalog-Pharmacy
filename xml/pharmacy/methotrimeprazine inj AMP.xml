@@ -13,8 +13,8 @@
 <value>IV</value>
 <value>SC</value>
 </route><form><value>inj AMP</value>
-</form><drug><value>methotrimeprazine inj AMP</value>
-</drug><strength><value>25 mg/mL</value>
+</form><drugname><value>methotrimeprazine inj AMP</value>
+</drugname><strength><value>25 mg/mL</value>
 </strength><frequency><value>Q4H</value>
 <value>Q6H</value>
 <value>ONCE</value>

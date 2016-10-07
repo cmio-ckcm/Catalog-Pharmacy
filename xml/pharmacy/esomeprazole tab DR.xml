@@ -3,8 +3,8 @@
 <value>20</value>
 </dose><route><value>PO</value>
 </route><form><value>tab DR</value>
-</form><drug><value>esomeprazole tab DR</value>
-</drug><strength><value>40 mg</value>
+</form><drugname><value>esomeprazole tab DR</value>
+</drugname><strength><value>40 mg</value>
 <value>20 mg</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value></value>

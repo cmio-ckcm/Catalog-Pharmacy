@@ -7,8 +7,8 @@
 <value>IV</value>
 <value>IV </value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>ertapenem inj VIAL</value>
-</drug><strength><value>1 g</value>
+</form><drugname><value>ertapenem inj VIAL</value>
+</drugname><strength><value>1 g</value>
 </strength><frequency><value>DAILY</value>
 <value>Q12H</value>
 <value>ONCE</value>

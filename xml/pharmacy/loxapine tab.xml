@@ -6,8 +6,8 @@
 <value>50</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>loxapine tab</value>
-</drug><strength><value>10 mg</value>
+</form><drugname><value>loxapine tab</value>
+</drugname><strength><value>10 mg</value>
 <value>2.5 mg</value>
 <value>25 mg</value>
 <value>5 mg</value>

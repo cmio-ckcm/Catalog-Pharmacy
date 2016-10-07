@@ -5,8 +5,8 @@
 <value>20</value>
 </dose><route><value>INTRA-OCULAR</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>acetylcholine-electrolytes inj VIAL</value>
-</drug><strength><value>20 mg</value>
+</form><drugname><value>acetylcholine-electrolytes inj VIAL</value>
+</drugname><strength><value>20 mg</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value>INJECT INTO ANTERIOR CHAMBER OF EYE.</value>
 </instruction><volume><value></value>

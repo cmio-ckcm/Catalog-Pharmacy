@@ -5,8 +5,8 @@
 <value>400</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>imatinib tab</value>
-</drug><strength><value>100 mg</value>
+</form><drugname><value>imatinib tab</value>
+</drugname><strength><value>100 mg</value>
 <value>400 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>

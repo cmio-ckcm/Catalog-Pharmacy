@@ -3,8 +3,8 @@
 <value>2</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>multivitamins with minerals tab</value>
-</drug><strength><value></value>
+</form><drugname><value>multivitamins with minerals tab</value>
+</drugname><strength><value></value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>
 </frequency><instruction><value></value>

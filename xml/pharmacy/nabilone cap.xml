@@ -4,8 +4,8 @@
 <value>2</value>
 </dose><route><value>PO</value>
 </route><form><value>cap</value>
-</form><drug><value>nabilone cap</value>
-</drug><strength><value>0.5 mg</value>
+</form><drugname><value>nabilone cap</value>
+</drugname><strength><value>0.5 mg</value>
 <value>1 mg</value>
 </strength><frequency><value>BID</value>
 <value>ONCE</value>

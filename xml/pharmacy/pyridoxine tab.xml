@@ -6,8 +6,8 @@
 <value>50</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>pyridoxine tab</value>
-</drug><strength><value>100 mg</value>
+</form><drugname><value>pyridoxine tab</value>
+</drugname><strength><value>100 mg</value>
 <value>25 mg</value>
 <value>50 mg</value>
 </strength><frequency><value>DAILY</value>

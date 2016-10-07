@@ -2,8 +2,8 @@
 <dose><value></value>
 </dose><route><value>INTRA-OCULAR</value>
 </route><form><value>inj SYR</value>
-</form><drug><value>hydroxypropylmethylcellulose inj SYR</value>
-</drug><strength><value>20 mg/mL</value>
+</form><drugname><value>hydroxypropylmethylcellulose inj SYR</value>
+</drugname><strength><value>20 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value>Inject into anterior chamber of eye using a 20 gauge or smaller cannula.</value>
 </instruction><volume><value>1 mL</value>

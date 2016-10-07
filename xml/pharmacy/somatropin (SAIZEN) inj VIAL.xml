@@ -7,8 +7,8 @@
 </dose><route><value>IM</value>
 <value>SC</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>somatropin (SAIZEN) inj VIAL</value>
-</drug><strength><value>3.3 mg</value>
+</form><drugname><value>somatropin (SAIZEN) inj VIAL</value>
+</drugname><strength><value>3.3 mg</value>
 <value>5 mg</value>
 </strength><frequency><value>THREE TIMES WEEKLY</value>
 <value>DAILY</value>

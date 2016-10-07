@@ -18,8 +18,8 @@
 <value>1250</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>levetiracetam inj VIAL</value>
-</drug><strength><value>100 mg/mL</value>
+</form><drugname><value>levetiracetam inj VIAL</value>
+</drugname><strength><value>100 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>Q12H</value>
 <value>Q24H</value>

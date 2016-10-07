@@ -3,8 +3,8 @@
 </dose><route><value>IM</value>
 <value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>artesunate inj VIAL</value>
-</drug><strength><value>110 mg</value>
+</form><drugname><value>artesunate inj VIAL</value>
+</drugname><strength><value>110 mg</value>
 </strength><frequency><value>Q12H</value>
 <value>ONCE</value>
 </frequency><instruction><value>for first 3 doses of 4. Administer STAT and at 12, 24 and 48 hours (4 dose total treatment).</value>

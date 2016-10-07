@@ -3,8 +3,8 @@
 </dose><route><value>IV</value>
 <value>SC</value>
 </route><form><value>inj SYR</value>
-</form><drug><value>fondaparinux inj SYR</value>
-</drug><strength><value>2.5 mg/0.5 mL</value>
+</form><drugname><value>fondaparinux inj SYR</value>
+</drugname><strength><value>2.5 mg/0.5 mL</value>
 </strength><frequency><value>ONCE</value>
 <value>DAILY</value>
 </frequency><instruction><value>Administer by direct injection.</value>

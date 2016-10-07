@@ -2,8 +2,8 @@
 <dose><value></value>
 </dose><route><value>TOP</value>
 </route><form><value>oint</value>
-</form><drug><value>betamethasone valerate oint</value>
-</drug><strength><value>0.05%</value>
+</form><drugname><value>betamethasone valerate oint</value>
+</drugname><strength><value>0.05%</value>
 <value>0.1%</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>

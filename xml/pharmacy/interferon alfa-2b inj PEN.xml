@@ -4,8 +4,8 @@
 <value>36</value>
 </dose><route><value>SC</value>
 </route><form><value>inj PEN</value>
-</form><drug><value>interferon alfa-2b inj PEN</value>
-</drug><strength><value>15 million unit/mL</value>
+</form><drugname><value>interferon alfa-2b inj PEN</value>
+</drugname><strength><value>15 million unit/mL</value>
 <value>25 million unit/mL</value>
 <value>50 million unit/mL</value>
 </strength><frequency><value>THREE TIMES WEEKLY</value>

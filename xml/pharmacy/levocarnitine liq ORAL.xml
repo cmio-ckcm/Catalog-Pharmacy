@@ -5,8 +5,8 @@
 <value>50 - 100</value>
 </dose><route><value>PO</value>
 </route><form><value>liq ORAL</value>
-</form><drug><value>levocarnitine liq ORAL</value>
-</drug><strength><value>100 mg/mL</value>
+</form><drugname><value>levocarnitine liq ORAL</value>
+</drugname><strength><value>100 mg/mL</value>
 </strength><frequency><value>QID</value>
 <value>BID</value>
 <value>TID</value>

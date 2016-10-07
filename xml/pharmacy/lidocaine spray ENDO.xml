@@ -2,8 +2,8 @@
 <dose><value></value>
 </dose><route><value>TOP </value>
 </route><form><value>spray ENDO</value>
-</form><drug><value>lidocaine spray ENDO</value>
-</drug><strength><value>10%</value>
+</form><drugname><value>lidocaine spray ENDO</value>
+</drugname><strength><value>10%</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value>Spray affected area.</value>
 </instruction><volume><value></value>

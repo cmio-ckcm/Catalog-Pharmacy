@@ -5,8 +5,8 @@
 </dose><route><value>IV</value>
 <value>SC</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>alemtuzumab inj VIAL</value>
-</drug><strength><value>30 mg/mL</value>
+</form><drugname><value>alemtuzumab inj VIAL</value>
+</drugname><strength><value>30 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>THREE TIMES WEEKLY</value>
 <value>DAILY</value>

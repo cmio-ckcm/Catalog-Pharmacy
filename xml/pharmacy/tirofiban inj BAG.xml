@@ -5,8 +5,8 @@
 <value>0.05</value>
 </dose><route><value>IV</value>
 </route><form><value>inj BAG</value>
-</form><drug><value>tirofiban inj BAG</value>
-</drug><strength><value>0.05 mg/mL</value>
+</form><drugname><value>tirofiban inj BAG</value>
+</drugname><strength><value>0.05 mg/mL</value>
 </strength><frequency><value>CONTINUOUS</value>
 </frequency><instruction><value>Administer as continuous infusion for 30 minutes as intial loading dose.</value>
 <value>Administer as continuous infusion.</value>

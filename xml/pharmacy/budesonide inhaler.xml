@@ -4,8 +4,8 @@
 <value>600</value>
 </dose><route><value>INH</value>
 </route><form><value>inhaler</value>
-</form><drug><value>budesonide inhaler</value>
-</drug><strength><value>200 mcg</value>
+</form><drugname><value>budesonide inhaler</value>
+</drugname><strength><value>200 mcg</value>
 </strength><frequency><value>BID</value>
 <value>TID</value>
 <value>QID</value>

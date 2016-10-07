@@ -6,8 +6,8 @@
 </dose><route><value>TOP</value>
 <value>VAGINAL</value>
 </route><form><value>crm VAG</value>
-</form><drug><value>estrogen, conjugated crm VAG</value>
-</drug><strength><value>0.625 mg/g</value>
+</form><drugname><value>estrogen, conjugated crm VAG</value>
+</drugname><strength><value>0.625 mg/g</value>
 </strength><frequency><value>DAILY</value>
 <value>TWO TIMES WEEKLY</value>
 </frequency><instruction><value>Cyclic regimen of 21 days treatment followed by 7 days with no treatment.</value>

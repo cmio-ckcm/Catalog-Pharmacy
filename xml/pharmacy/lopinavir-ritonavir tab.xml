@@ -5,8 +5,8 @@
 <value>1</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>lopinavir-ritonavir tab</value>
-</drug><strength><value>100 mg-25 mg</value>
+</form><drugname><value>lopinavir-ritonavir tab</value>
+</drugname><strength><value>100 mg-25 mg</value>
 <value>200 mg-50 mg</value>
 </strength><frequency><value>BID</value>
 <value>DAILY</value>

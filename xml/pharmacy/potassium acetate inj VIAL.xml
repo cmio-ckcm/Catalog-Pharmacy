@@ -4,8 +4,8 @@
 <value></value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>potassium acetate inj VIAL</value>
-</drug><strength><value>4 mmol/mL</value>
+</form><drugname><value>potassium acetate inj VIAL</value>
+</drugname><strength><value>4 mmol/mL</value>
 </strength><frequency><value>CONTINUOUS</value>
 </frequency><instruction><value></value>
 </instruction><volume><value>50 mL</value>

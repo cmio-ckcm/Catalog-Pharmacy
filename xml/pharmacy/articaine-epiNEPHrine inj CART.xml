@@ -2,8 +2,8 @@
 <dose><value>20 - 216</value>
 </dose><route><value>INTRAORAL INJ</value>
 </route><form><value>inj CART</value>
-</form><drug><value>articaine-epiNEPHrine inj CART</value>
-</drug><strength><value>4%-1:200 000</value>
+</form><drugname><value>articaine-epiNEPHrine inj CART</value>
+</drugname><strength><value>4%-1:200 000</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value></value>
 </instruction><volume><value>1.8 mL</value>

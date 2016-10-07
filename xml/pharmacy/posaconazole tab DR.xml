@@ -3,8 +3,8 @@
 <value>400</value>
 </dose><route><value>PO</value>
 </route><form><value>tab DR</value>
-</form><drug><value>posaconazole tab DR</value>
-</drug><strength><value>100 mg</value>
+</form><drugname><value>posaconazole tab DR</value>
+</drugname><strength><value>100 mg</value>
 </strength><frequency><value>BID</value>
 <value>DAILY</value>
 </frequency><instruction><value>for DAY 1 of treatment.</value>

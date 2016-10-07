@@ -4,8 +4,8 @@
 <value>15</value>
 </dose><route><value>PO</value>
 </route><form><value>liq ORAL</value>
-</form><drug><value>magnesium hydroxide liq ORAL</value>
-</drug><strength><value>80 mg/mL</value>
+</form><drugname><value>magnesium hydroxide liq ORAL</value>
+</drugname><strength><value>80 mg/mL</value>
 </strength><frequency><value>QID  </value>
 <value>QID</value>
 </frequency><instruction><value></value>

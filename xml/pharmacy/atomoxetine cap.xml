@@ -8,8 +8,8 @@
 <value>60</value>
 </dose><route><value>PO</value>
 </route><form><value>cap</value>
-</form><drug><value>atomoxetine cap</value>
-</drug><strength><value>10 mg</value>
+</form><drugname><value>atomoxetine cap</value>
+</drugname><strength><value>10 mg</value>
 <value>18 mg</value>
 <value>25 mg</value>
 <value>40 mg</value>

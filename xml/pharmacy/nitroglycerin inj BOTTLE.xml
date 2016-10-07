@@ -3,8 +3,8 @@
 <value></value>
 </dose><route><value>IV</value>
 </route><form><value>inj BOTTLE</value>
-</form><drug><value>nitroglycerin inj BOTTLE</value>
-</drug><strength><value>100 mcg/mL</value>
+</form><drugname><value>nitroglycerin inj BOTTLE</value>
+</drugname><strength><value>100 mcg/mL</value>
 <value>200 mcg/mL</value>
 <value>400 mcg/mL</value>
 </strength><frequency><value>CONTINUOUS</value>

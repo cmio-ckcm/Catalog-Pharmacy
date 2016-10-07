@@ -2,8 +2,8 @@
 <dose><value></value>
 </dose><route><value>TOP </value>
 </route><form><value>oint</value>
-</form><drug><value>mupirocin oint</value>
-</drug><strength><value>2%</value>
+</form><drugname><value>mupirocin oint</value>
+</drugname><strength><value>2%</value>
 </strength><frequency><value>TID</value>
 </frequency><instruction><value>Apply a thin film to affected area.</value>
 </instruction><volume><value></value>

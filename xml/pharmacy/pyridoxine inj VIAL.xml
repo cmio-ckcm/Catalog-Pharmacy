@@ -18,8 +18,8 @@
 </dose><route><value>IM</value>
 <value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>pyridoxine inj VIAL</value>
-</drug><strength><value>100 mg/mL</value>
+</form><drugname><value>pyridoxine inj VIAL</value>
+</drugname><strength><value>100 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>DAILY</value>
 <value>EVERY 30 MINUTES</value>

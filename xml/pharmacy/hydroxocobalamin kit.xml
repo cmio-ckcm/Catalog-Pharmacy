@@ -3,8 +3,8 @@
 <value>5</value>
 </dose><route><value>IV</value>
 </route><form><value>kit</value>
-</form><drug><value>hydroxocobalamin kit</value>
-</drug><strength><value>5 g</value>
+</form><drugname><value>hydroxocobalamin kit</value>
+</drugname><strength><value>5 g</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

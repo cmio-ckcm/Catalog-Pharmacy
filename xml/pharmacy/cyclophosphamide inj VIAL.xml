@@ -5,8 +5,8 @@
 <value>600</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>cyclophosphamide inj VIAL</value>
-</drug><strength><value>1000 mg</value>
+</form><drugname><value>cyclophosphamide inj VIAL</value>
+</drugname><strength><value>1000 mg</value>
 <value>2000 mg</value>
 <value>500 mg</value>
 </strength><frequency><value>ONCE</value>

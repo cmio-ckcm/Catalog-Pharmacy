@@ -5,8 +5,8 @@
 <value>250 - 500</value>
 </dose><route><value>IV</value>
 </route><form><value>inj BAG</value>
-</form><drug><value>sodium chloride 0.9% inj BAG</value>
-</drug><strength><value></value>
+</form><drugname><value>sodium chloride 0.9% inj BAG</value>
+</drugname><strength><value></value>
 </strength><frequency><value>CONTINUOUS</value>
 <value>ONCE</value>
 <value>DAILY</value>

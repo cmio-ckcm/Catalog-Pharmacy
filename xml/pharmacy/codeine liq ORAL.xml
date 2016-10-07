@@ -3,8 +3,8 @@
 <value>30</value>
 </dose><route><value>PO</value>
 </route><form><value>liq ORAL</value>
-</form><drug><value>codeine liq ORAL</value>
-</drug><strength><value>5 mg/mL</value>
+</form><drugname><value>codeine liq ORAL</value>
+</drugname><strength><value>5 mg/mL</value>
 </strength><frequency><value>QID</value>
 <value>Q6H</value>
 <value>Q4H</value>

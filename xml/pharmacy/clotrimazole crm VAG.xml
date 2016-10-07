@@ -2,8 +2,8 @@
 <dose><value>1</value>
 </dose><route><value>VAGINAL</value>
 </route><form><value>crm VAG</value>
-</form><drug><value>clotrimazole crm VAG</value>
-</drug><strength><value>2%</value>
+</form><drugname><value>clotrimazole crm VAG</value>
+</drugname><strength><value>2%</value>
 </strength><frequency><value>HS</value>
 </frequency><instruction><value>for 3 days.</value>
 <value>for 7 days.</value>

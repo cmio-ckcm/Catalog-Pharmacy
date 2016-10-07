@@ -2,8 +2,8 @@
 <dose><value>1</value>
 </dose><route><value>INH</value>
 </route><form><value>disk</value>
-</form><drug><value>fluticasone propionate-salmeterol disk</value>
-</drug><strength><value>100 mcg-50 mcg</value>
+</form><drugname><value>fluticasone propionate-salmeterol disk</value>
+</drugname><strength><value>100 mcg-50 mcg</value>
 <value>250 mcg-50 mcg</value>
 <value>500 mcg-50 mcg</value>
 </strength><frequency><value>BID</value>

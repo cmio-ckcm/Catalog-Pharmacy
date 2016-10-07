@@ -3,8 +3,8 @@
 <value>1.2</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>brentuximab inj VIAL</value>
-</drug><strength><value>50 mg</value>
+</form><drugname><value>brentuximab inj VIAL</value>
+</drugname><strength><value>50 mg</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

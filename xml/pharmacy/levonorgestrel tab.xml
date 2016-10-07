@@ -2,8 +2,8 @@
 <dose><value>1.5</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>levonorgestrel tab</value>
-</drug><strength><value>0.75 mg</value>
+</form><drugname><value>levonorgestrel tab</value>
+</drugname><strength><value>0.75 mg</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

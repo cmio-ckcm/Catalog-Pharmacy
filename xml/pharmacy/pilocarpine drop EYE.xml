@@ -3,8 +3,8 @@
 <value>2</value>
 </dose><route><value>OPHTH</value>
 </route><form><value>drop EYE</value>
-</form><drug><value>pilocarpine drop EYE</value>
-</drug><strength><value>1%</value>
+</form><drugname><value>pilocarpine drop EYE</value>
+</drugname><strength><value>1%</value>
 <value>2%</value>
 <value>4%</value>
 </strength><frequency><value>BID</value>

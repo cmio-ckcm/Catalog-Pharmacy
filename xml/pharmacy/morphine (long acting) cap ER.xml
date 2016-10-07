@@ -9,8 +9,8 @@
 <value>60</value>
 </dose><route><value>PO</value>
 </route><form><value>cap ER</value>
-</form><drug><value>morphine (long acting) cap ER</value>
-</drug><strength><value>10 mg</value>
+</form><drugname><value>morphine (long acting) cap ER</value>
+</drugname><strength><value>10 mg</value>
 <value>100 mg</value>
 <value>15 mg</value>
 <value>200 mg</value>

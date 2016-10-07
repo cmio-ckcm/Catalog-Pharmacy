@@ -4,8 +4,8 @@
 <value>15</value>
 </dose><route><value>PO</value>
 </route><form><value>liq ORAL</value>
-</form><drug><value>lidocaine liq ORAL</value>
-</drug><strength><value>2%</value>
+</form><drugname><value>lidocaine liq ORAL</value>
+</drugname><strength><value>2%</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

@@ -5,8 +5,8 @@
 <value>70</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>alendronate tab</value>
-</drug><strength><value>10 mg</value>
+</form><drugname><value>alendronate tab</value>
+</drugname><strength><value>10 mg</value>
 <value>40 mg</value>
 <value>5 mg</value>
 <value>70 mg</value>

@@ -2,8 +2,8 @@
 <dose><value></value>
 </dose><route><value>TOP</value>
 </route><form><value>crm</value>
-</form><drug><value>nystatin crm</value>
-</drug><strength><value>100 000 unit/g</value>
+</form><drugname><value>nystatin crm</value>
+</drugname><strength><value>100 000 unit/g</value>
 </strength><frequency><value>BID</value>
 <value>TID</value>
 </frequency><instruction><value>Apply liberally to affected area.</value>

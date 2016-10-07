@@ -6,8 +6,8 @@
 </dose><route><value>IM</value>
 <value>SC</value>
 </route><form><value>inj SYR</value>
-</form><drug><value>methotrexate inj SYR</value>
-</drug><strength><value>10 mg/1 mL</value>
+</form><drugname><value>methotrexate inj SYR</value>
+</drugname><strength><value>10 mg/1 mL</value>
 <value>15 mg/1.5 mL</value>
 <value>20 mg/2 mL</value>
 <value>25 mg/2.5 mL</value>

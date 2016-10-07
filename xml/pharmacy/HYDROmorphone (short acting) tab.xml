@@ -5,8 +5,8 @@
 <value>8</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>HYDROmorphone (short acting) tab</value>
-</drug><strength><value>1 mg</value>
+</form><drugname><value>HYDROmorphone (short acting) tab</value>
+</drugname><strength><value>1 mg</value>
 <value>2 mg</value>
 <value>4 mg</value>
 <value>8 mg</value>

@@ -2,8 +2,8 @@
 <dose><value>9</value>
 </dose><route><value>PO</value>
 </route><form><value>cap ER</value>
-</form><drug><value>budesonide (long acting) cap ER</value>
-</drug><strength><value>3 mg</value>
+</form><drugname><value>budesonide (long acting) cap ER</value>
+</drugname><strength><value>3 mg</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

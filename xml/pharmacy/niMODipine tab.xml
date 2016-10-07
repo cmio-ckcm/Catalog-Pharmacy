@@ -4,8 +4,8 @@
 <value>30</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>niMODipine tab</value>
-</drug><strength><value>30 mg</value>
+</form><drugname><value>niMODipine tab</value>
+</drugname><strength><value>30 mg</value>
 </strength><frequency><value>Q4H</value>
 </frequency><instruction><value>for 21 consecutive days after diagnosis of SAH.</value>
 </instruction><volume><value></value>

@@ -8,8 +8,8 @@
 <value>0.1 - 0.4</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>flumazenil inj VIAL</value>
-</drug><strength><value>0.1 mg/mL</value>
+</form><drugname><value>flumazenil inj VIAL</value>
+</drugname><strength><value>0.1 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>CONTINUOUS</value>
 </frequency><instruction><value>Administer  by direct injection over 15 seconds. May repeat dose every 45 seconds until patient is awake.</value>

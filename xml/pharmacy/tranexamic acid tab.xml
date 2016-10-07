@@ -4,8 +4,8 @@
 <value>25</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>tranexamic acid tab</value>
-</drug><strength><value>500 mg</value>
+</form><drugname><value>tranexamic acid tab</value>
+</drugname><strength><value>500 mg</value>
 </strength><frequency><value>Q8H</value>
 <value>Q12H</value>
 <value>TID</value>

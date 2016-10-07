@@ -2,8 +2,8 @@
 <dose><value>0.5</value>
 </dose><route><value>IM</value>
 </route><form><value>inj SYR</value>
-</form><drug><value>pneumococcal 13-valent conjugate inj SYR</value>
-</drug><strength><value>0.5 mL</value>
+</form><drugname><value>pneumococcal 13-valent conjugate inj SYR</value>
+</drugname><strength><value>0.5 mL</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

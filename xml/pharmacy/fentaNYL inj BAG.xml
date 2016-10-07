@@ -31,8 +31,8 @@
 <value>SC</value>
 <value>IV </value>
 </route><form><value>inj BAG</value>
-</form><drug><value>fentaNYL inj BAG</value>
-</drug><strength><value>1 mcg/mL</value>
+</form><drugname><value>fentaNYL inj BAG</value>
+</drugname><strength><value>1 mcg/mL</value>
 <value>2 mcg/mL</value>
 <value>3 mcg/mL</value>
 <value>5 mcg/mL</value>

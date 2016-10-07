@@ -28,8 +28,8 @@
 <value>IV</value>
 <value>SC</value>
 </route><form><value>inj AMP</value>
-</form><drug><value>atropine inj AMP</value>
-</drug><strength><value>0.4 mg/mL</value>
+</form><drugname><value>atropine inj AMP</value>
+</drugname><strength><value>0.4 mg/mL</value>
 <value>0.6 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>Q4H</value>

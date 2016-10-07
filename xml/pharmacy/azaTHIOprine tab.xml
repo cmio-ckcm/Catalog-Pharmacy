@@ -4,8 +4,8 @@
 </dose><route><value>PO</value>
 <value>PO </value>
 </route><form><value>tab</value>
-</form><drug><value>azaTHIOprine tab</value>
-</drug><strength><value>50 mg</value>
+</form><drugname><value>azaTHIOprine tab</value>
+</drugname><strength><value>50 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>
 </frequency><instruction><value></value>

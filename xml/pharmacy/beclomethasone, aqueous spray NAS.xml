@@ -3,8 +3,8 @@
 <value>2</value>
 </dose><route><value>INTRANASAL</value>
 </route><form><value>spray NAS</value>
-</form><drug><value>beclomethasone, aqueous spray NAS</value>
-</drug><strength><value>50 mcg</value>
+</form><drugname><value>beclomethasone, aqueous spray NAS</value>
+</drugname><strength><value>50 mcg</value>
 </strength><frequency><value>BID</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

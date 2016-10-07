@@ -5,8 +5,8 @@
 <value>1</value>
 </dose><route><value>IV</value>
 </route><form><value>inj AMP</value>
-</form><drug><value>digoxin inj AMP</value>
-</drug><strength><value>0.25 mg/mL</value>
+</form><drugname><value>digoxin inj AMP</value>
+</drugname><strength><value>0.25 mg/mL</value>
 </strength><frequency><value>DAILY</value>
 <value>EVERY OTHER DAY</value>
 <value>ONCE</value>

@@ -16,8 +16,8 @@
 <value>1.7</value>
 </dose><route><value>IV</value>
 </route><form><value>inj ACTOVIAL</value>
-</form><drug><value>methylPREDNISolone sodium succinate inj ACTOVIAL</value>
-</drug><strength><value>1000 mg</value>
+</form><drugname><value>methylPREDNISolone sodium succinate inj ACTOVIAL</value>
+</drugname><strength><value>1000 mg</value>
 <value>125 mg</value>
 <value>40 mg</value>
 <value>500 mg</value>

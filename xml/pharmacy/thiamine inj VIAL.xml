@@ -7,8 +7,8 @@
 </dose><route><value>IM</value>
 <value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>thiamine inj VIAL</value>
-</drug><strength><value>100 mg/mL</value>
+</form><drugname><value>thiamine inj VIAL</value>
+</drugname><strength><value>100 mg/mL</value>
 </strength><frequency><value>TID</value>
 <value>DAILY</value>
 </frequency><instruction><value></value>

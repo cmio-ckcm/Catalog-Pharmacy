@@ -5,8 +5,8 @@
 <value>100</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>dipyridamole tab</value>
-</drug><strength><value>25 mg</value>
+</form><drugname><value>dipyridamole tab</value>
+</drugname><strength><value>25 mg</value>
 <value>50 mg</value>
 <value>75 mg</value>
 </strength><frequency><value>QID</value>

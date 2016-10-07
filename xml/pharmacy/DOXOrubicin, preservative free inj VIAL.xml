@@ -4,8 +4,8 @@
 <value>60</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>DOXOrubicin, preservative free inj VIAL</value>
-</drug><strength><value>2 mg/mL</value>
+</form><drugname><value>DOXOrubicin, preservative free inj VIAL</value>
+</drugname><strength><value>2 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value>DAY 1 of 21. Administer dose by direct injection.</value>
 </instruction><volume><value>100 mL</value>

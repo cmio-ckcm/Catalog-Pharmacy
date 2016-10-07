@@ -6,8 +6,8 @@
 </dose><route><value>PO</value>
 <value>PO </value>
 </route><form><value>liq ORAL</value>
-</form><drug><value>magnesium citrate liq ORAL</value>
-</drug><strength><value>15 g/300 mL</value>
+</form><drugname><value>magnesium citrate liq ORAL</value>
+</drugname><strength><value>15 g/300 mL</value>
 </strength><frequency><value>ONCE</value>
 <value>DAILY</value>
 </frequency><instruction><value>ONCE. Refer to Bowel Evacuation procedure for additional fluid requirements.</value>

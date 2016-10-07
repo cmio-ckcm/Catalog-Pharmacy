@@ -3,8 +3,8 @@
 <value>2.5 - 10</value>
 </dose><route><value>INTRAPLEURAL</value>
 </route><form><value>powder</value>
-</form><drug><value>talc, sterile powder</value>
-</drug><strength><value>4 g</value>
+</form><drugname><value>talc, sterile powder</value>
+</drugname><strength><value>4 g</value>
 <value>5 g</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value></value>

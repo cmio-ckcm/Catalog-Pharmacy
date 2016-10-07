@@ -4,8 +4,8 @@
 <value>45</value>
 </dose><route><value>PO</value>
 </route><form><value>gel</value>
-</form><drug><value>mineral oil gel</value>
-</drug><strength><value>78%</value>
+</form><drugname><value>mineral oil gel</value>
+</drugname><strength><value>78%</value>
 </strength><frequency><value>HS</value>
 </frequency><instruction><value></value>
 </instruction><volume><value>15 g</value>

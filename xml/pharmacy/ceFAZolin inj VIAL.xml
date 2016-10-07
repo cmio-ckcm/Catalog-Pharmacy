@@ -4,8 +4,8 @@
 <value>500</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>ceFAZolin inj VIAL</value>
-</drug><strength><value>1 g</value>
+</form><drugname><value>ceFAZolin inj VIAL</value>
+</drugname><strength><value>1 g</value>
 <value>10 g</value>
 <value>500 mg</value>
 </strength><frequency><value>Q8H</value>

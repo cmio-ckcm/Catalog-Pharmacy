@@ -20,8 +20,8 @@
 </dose><route><value>IV</value>
 <value></value>
 </route><form><value>inj AMP</value>
-</form><drug><value>alcohol anhydrous inj AMP</value>
-</drug><strength><value>100%</value>
+</form><drugname><value>alcohol anhydrous inj AMP</value>
+</drugname><strength><value>100%</value>
 </strength><frequency><value>ONCE</value>
 <value>CONTINUOUS</value>
 <value></value>

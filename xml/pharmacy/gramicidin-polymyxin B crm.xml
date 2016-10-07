@@ -2,8 +2,8 @@
 <dose><value></value>
 </dose><route><value>TOP</value>
 </route><form><value>crm</value>
-</form><drug><value>gramicidin-polymyxin B crm</value>
-</drug><strength><value>0.25 mg-10 000 unit/g</value>
+</form><drugname><value>gramicidin-polymyxin B crm</value>
+</drugname><strength><value>0.25 mg-10 000 unit/g</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>
 <value>TID</value>

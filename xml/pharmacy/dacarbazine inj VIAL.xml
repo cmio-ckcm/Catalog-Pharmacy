@@ -8,8 +8,8 @@
 <value>600</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>dacarbazine inj VIAL</value>
-</drug><strength><value>600 mg</value>
+</form><drugname><value>dacarbazine inj VIAL</value>
+</drugname><strength><value>600 mg</value>
 </strength><frequency><value>ONCE</value>
 <value>DAILY</value>
 </frequency><instruction><value></value>

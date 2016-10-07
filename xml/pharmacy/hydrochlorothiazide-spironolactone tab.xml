@@ -3,8 +3,8 @@
 <value>2</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>hydrochlorothiazide-spironolactone tab</value>
-</drug><strength><value>25 mg-25 mg</value>
+</form><drugname><value>hydrochlorothiazide-spironolactone tab</value>
+</drugname><strength><value>25 mg-25 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>
 </frequency><instruction><value></value>

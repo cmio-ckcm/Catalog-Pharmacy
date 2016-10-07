@@ -5,8 +5,8 @@
 <value>0.5</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>digoxin tab</value>
-</drug><strength><value>0.0625 mg</value>
+</form><drugname><value>digoxin tab</value>
+</drugname><strength><value>0.0625 mg</value>
 <value>0.125 mg</value>
 <value>0.25 mg</value>
 </strength><frequency><value>DAILY</value>

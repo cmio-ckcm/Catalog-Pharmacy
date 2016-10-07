@@ -7,8 +7,8 @@
 <value>20 - 30</value>
 </dose><route><value>PO</value>
 </route><form><value>liq ORAL</value>
-</form><drug><value>isoniazid liq ORAL</value>
-</drug><strength><value>10 mg/mL</value>
+</form><drugname><value>isoniazid liq ORAL</value>
+</drugname><strength><value>10 mg/mL</value>
 </strength><frequency><value>DAILY</value>
 <value>THREE TIMES WEEKLY</value>
 </frequency><instruction><value></value>

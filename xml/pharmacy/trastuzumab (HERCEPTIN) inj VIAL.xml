@@ -3,8 +3,8 @@
 <value>6</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>trastuzumab (HERCEPTIN) inj VIAL</value>
-</drug><strength><value>440 mg</value>
+</form><drugname><value>trastuzumab (HERCEPTIN) inj VIAL</value>
+</drugname><strength><value>440 mg</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value>DAY 1 of 21. Administer (LOADING DOSE) diluted in 250 mL 0.9% sodium chloride over 90 minutes. Observe patient for a 60 minute period post-infusion.</value>
 <value>DAY 1 of 21. Administer dose diluted in 250 mL 0.9% sodium chloride over 60 minutes. Observe patient for a 30 minute period post-infusion. (For subsequent infusions give over 30 minutes if well tolerated. Observation for subsequent infusions not required if well tolerated.) [Cycles 2, 3 &amp; 4]</value>

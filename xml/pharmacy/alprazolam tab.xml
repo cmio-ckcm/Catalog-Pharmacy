@@ -3,8 +3,8 @@
 <value>0.5</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>ALPRAZolam tab</value>
-</drug><strength><value>0.25 mg</value>
+</form><drugname><value>ALPRAZolam tab</value>
+</drugname><strength><value>0.25 mg</value>
 <value>0.5 mg</value>
 </strength><frequency><value>HS</value>
 <value>TID</value>

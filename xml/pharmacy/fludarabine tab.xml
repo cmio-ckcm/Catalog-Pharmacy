@@ -3,8 +3,8 @@
 <value>32</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>fludarabine tab</value>
-</drug><strength><value>10 mg</value>
+</form><drugname><value>fludarabine tab</value>
+</drugname><strength><value>10 mg</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value>for 5 days, every 28 days cyclically.</value>
 <value>for 3 days.</value>

@@ -3,8 +3,8 @@
 <value>20</value>
 </dose><route><value>PR</value>
 </route><form><value>supp</value>
-</form><drug><value>morphine supp</value>
-</drug><strength><value>10 mg</value>
+</form><drugname><value>morphine supp</value>
+</drugname><strength><value>10 mg</value>
 </strength><frequency><value>Q3H</value>
 <value>Q4H</value>
 </frequency><instruction><value></value>

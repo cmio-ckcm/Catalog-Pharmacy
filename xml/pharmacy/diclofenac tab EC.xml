@@ -3,8 +3,8 @@
 <value>25</value>
 </dose><route><value>PO</value>
 </route><form><value>tab EC</value>
-</form><drug><value>diclofenac tab EC</value>
-</drug><strength><value>50 mg</value>
+</form><drugname><value>diclofenac tab EC</value>
+</drugname><strength><value>50 mg</value>
 <value>25 mg</value>
 </strength><frequency><value>BID</value>
 <value>TID</value>

@@ -3,8 +3,8 @@
 <value>250</value>
 </dose><route><value>NEB</value>
 </route><form><value>nebule</value>
-</form><drug><value>ipratropium nebule</value>
-</drug><strength><value>250 mcg/mL</value>
+</form><drugname><value>ipratropium nebule</value>
+</drugname><strength><value>250 mcg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>TID</value>
 <value>QID</value>

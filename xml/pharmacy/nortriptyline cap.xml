@@ -11,8 +11,8 @@
 <value>150</value>
 </dose><route><value>PO</value>
 </route><form><value>cap</value>
-</form><drug><value>nortriptyline cap</value>
-</drug><strength><value>10 mg</value>
+</form><drugname><value>nortriptyline cap</value>
+</drugname><strength><value>10 mg</value>
 <value>25 mg</value>
 </strength><frequency><value>HS</value>
 </frequency><instruction><value></value>

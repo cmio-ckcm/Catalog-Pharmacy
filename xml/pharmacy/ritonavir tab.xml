@@ -2,8 +2,8 @@
 <dose><value>600</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>ritonavir tab</value>
-</drug><strength><value>100 mg</value>
+</form><drugname><value>ritonavir tab</value>
+</drugname><strength><value>100 mg</value>
 </strength><frequency><value>BID</value>
 </frequency><instruction><value>Administer with breakfast and supper meals.</value>
 </instruction><volume><value></value>

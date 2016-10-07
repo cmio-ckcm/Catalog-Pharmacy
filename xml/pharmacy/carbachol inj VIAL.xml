@@ -2,8 +2,8 @@
 <dose><value>0.5</value>
 </dose><route><value>INTRA-OCULAR</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>carbachol inj VIAL</value>
-</drug><strength><value>0.01%</value>
+</form><drugname><value>carbachol inj VIAL</value>
+</drugname><strength><value>0.01%</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value>Instill 0.5 mL into anterior chamber of eye.</value>
 </instruction><volume><value>1.5 mL</value>

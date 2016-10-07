@@ -9,8 +9,8 @@
 <value>PO</value>
 <value>PR</value>
 </route><form><value>powder</value>
-</form><drug><value>sodium polystyrene sulfonate powder</value>
-</drug><strength><value></value>
+</form><drugname><value>sodium polystyrene sulfonate powder</value>
+</drugname><strength><value></value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>
 <value>TID</value>

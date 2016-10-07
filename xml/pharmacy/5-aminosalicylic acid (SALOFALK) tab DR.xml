@@ -2,8 +2,8 @@
 <dose><value>1000</value>
 </dose><route><value>PO</value>
 </route><form><value>tab DR</value>
-</form><drug><value>5-aminosalicylic acid (SALOFALK) tab DR</value>
-</drug><strength><value>500 mg</value>
+</form><drugname><value>5-aminosalicylic acid (SALOFALK) tab DR</value>
+</drugname><strength><value>500 mg</value>
 </strength><frequency><value>TID</value>
 <value>QID</value>
 </frequency><instruction><value></value>

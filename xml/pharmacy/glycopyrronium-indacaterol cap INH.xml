@@ -2,8 +2,8 @@
 <dose><value>1</value>
 </dose><route><value>INH</value>
 </route><form><value>cap INH</value>
-</form><drug><value>glycopyrronium-indacaterol cap INH</value>
-</drug><strength><value>50 mcg-110 mcg</value>
+</form><drugname><value>glycopyrronium-indacaterol cap INH</value>
+</drugname><strength><value>50 mcg-110 mcg</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value></value>
 </instruction><volume><value>6 dose</value>

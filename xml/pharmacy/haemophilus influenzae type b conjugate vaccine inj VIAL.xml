@@ -2,8 +2,8 @@
 <dose><value>0.5</value>
 </dose><route><value>IM</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>haemophilus influenzae type b conjugate vaccine inj VIAL</value>
-</drug><strength><value></value>
+</form><drugname><value>haemophilus influenzae type b conjugate vaccine inj VIAL</value>
+</drugname><strength><value></value>
 </strength><frequency><value>EVERY 2 MONTHS.</value>
 <value>MONTHLY</value>
 <value>ONCE</value>

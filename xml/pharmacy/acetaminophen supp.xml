@@ -4,8 +4,8 @@
 <value>650</value>
 </dose><route><value>PR</value>
 </route><form><value>supp</value>
-</form><drug><value>acetaminophen supp</value>
-</drug><strength><value>120 mg</value>
+</form><drugname><value>acetaminophen supp</value>
+</drugname><strength><value>120 mg</value>
 <value>325 mg</value>
 <value>650 mg</value>
 </strength><frequency><value>Q4H</value>

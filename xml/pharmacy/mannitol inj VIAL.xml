@@ -5,8 +5,8 @@
 <value>0.25 - 2 </value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>mannitol inj VIAL</value>
-</drug><strength><value>250 mg/mL</value>
+</form><drugname><value>mannitol inj VIAL</value>
+</drugname><strength><value>250 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>Q4H</value>
 <value>Q6H</value>

@@ -2,8 +2,8 @@
 <dose><value>2</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>pembrolizumab inj VIAL</value>
-</drug><strength><value>50 mg</value>
+</form><drugname><value>pembrolizumab inj VIAL</value>
+</drugname><strength><value>50 mg</value>
 </strength><frequency><value>EVERY 3 WEEKS</value>
 </frequency><instruction><value>Administer dose diluted on 50 mL sodium chloride 0.9% over 30 minutes.</value>
 </instruction><volume><value></value>

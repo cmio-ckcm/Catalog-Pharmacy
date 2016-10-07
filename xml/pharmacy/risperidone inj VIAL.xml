@@ -5,8 +5,8 @@
 <value>50</value>
 </dose><route><value>IM</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>risperidone inj VIAL</value>
-</drug><strength><value>12.5 mg</value>
+</form><drugname><value>risperidone inj VIAL</value>
+</drugname><strength><value>12.5 mg</value>
 <value>25 mg</value>
 <value>37.5 mg</value>
 <value>50 mg</value>

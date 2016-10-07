@@ -10,8 +10,8 @@
 </dose><route><value>IV</value>
 <value>IV </value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>rocuronium inj VIAL</value>
-</drug><strength><value>10 mg/mL</value>
+</form><drugname><value>rocuronium inj VIAL</value>
+</drugname><strength><value>10 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>CONTINUOUS</value>
 </frequency><instruction><value>Initial dose. Administer by direct injection</value>

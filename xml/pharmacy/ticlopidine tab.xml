@@ -3,8 +3,8 @@
 <value>500</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>ticlopidine tab</value>
-</drug><strength><value>250 mg </value>
+</form><drugname><value>ticlopidine tab</value>
+</drugname><strength><value>250 mg </value>
 </strength><frequency><value>BID</value>
 <value>ONCE</value>
 </frequency><instruction><value>Administer with breakfast and supper meals.</value>

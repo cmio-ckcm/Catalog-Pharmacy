@@ -3,8 +3,8 @@
 <value>100 000</value>
 </dose><route><value>PO</value>
 </route><form><value>cap</value>
-</form><drug><value>ergocalciferol cap</value>
-</drug><strength><value>50 000 unit</value>
+</form><drugname><value>ergocalciferol cap</value>
+</drugname><strength><value>50 000 unit</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

@@ -12,8 +12,8 @@
 <value>IV</value>
 <value>SC</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>cytarabine inj VIAL</value>
-</drug><strength><value>100 mg</value>
+</form><drugname><value>cytarabine inj VIAL</value>
+</drugname><strength><value>100 mg</value>
 <value>100 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>TWO TIMES WEEKLY</value>

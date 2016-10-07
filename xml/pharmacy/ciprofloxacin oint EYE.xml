@@ -2,8 +2,8 @@
 <dose><value></value>
 </dose><route><value>OPHTH</value>
 </route><form><value>oint EYE</value>
-</form><drug><value>ciprofloxacin oint EYE</value>
-</drug><strength><value>0.3%</value>
+</form><drugname><value>ciprofloxacin oint EYE</value>
+</drugname><strength><value>0.3%</value>
 </strength><frequency><value>TID</value>
 <value>BID</value>
 </frequency><instruction><value>Apply 1/2 inch ribbon of ointment into the conjuctival sac of LEFT eye for 2 days.</value>

@@ -2,8 +2,8 @@
 <dose><value></value>
 </dose><route><value>IRRIGATION</value>
 </route><form><value>liq TOP</value>
-</form><drug><value>bacitracin liq TOP</value>
-</drug><strength><value>50 000 unit</value>
+</form><drugname><value>bacitracin liq TOP</value>
+</drugname><strength><value>50 000 unit</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value>Irrigate affected area as required during procedure.</value>
 </instruction><volume><value></value>

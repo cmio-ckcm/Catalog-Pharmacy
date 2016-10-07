@@ -3,8 +3,8 @@
 <value>250</value>
 </dose><route><value>IV</value>
 </route><form><value>inj BAG</value>
-</form><drug><value>mannitol inj BAG</value>
-</drug><strength><value>100 mg/mL</value>
+</form><drugname><value>mannitol inj BAG</value>
+</drugname><strength><value>100 mg/mL</value>
 <value>200 mg/mL</value>
 </strength><frequency><value>CONTINUOUS</value>
 <value>ONCE</value>

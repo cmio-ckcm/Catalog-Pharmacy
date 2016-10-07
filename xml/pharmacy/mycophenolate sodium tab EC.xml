@@ -2,8 +2,8 @@
 <dose><value>720</value>
 </dose><route><value>PO</value>
 </route><form><value>tab EC</value>
-</form><drug><value>mycophenolate sodium tab EC</value>
-</drug><strength><value>180 mg</value>
+</form><drugname><value>mycophenolate sodium tab EC</value>
+</drugname><strength><value>180 mg</value>
 <value>360 mg</value>
 </strength><frequency><value>BID</value>
 </frequency><instruction><value>Administer 1 hour before breakfast and supper.</value>

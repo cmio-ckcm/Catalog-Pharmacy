@@ -5,8 +5,8 @@
 <value>80</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>valsartan tab</value>
-</drug><strength><value>160 mg</value>
+</form><drugname><value>valsartan tab</value>
+</drugname><strength><value>160 mg</value>
 <value>40 mg</value>
 <value>320 mg</value>
 <value>80 mg</value>

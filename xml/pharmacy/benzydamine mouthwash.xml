@@ -2,8 +2,8 @@
 <dose><value>15</value>
 </dose><route><value>GARGLE</value>
 </route><form><value>mouthwash</value>
-</form><drug><value>benzydamine mouthwash</value>
-</drug><strength><value>0.15%</value>
+</form><drugname><value>benzydamine mouthwash</value>
+</drugname><strength><value>0.15%</value>
 </strength><frequency><value>TID</value>
 <value>QID</value>
 <value>Q3H</value>

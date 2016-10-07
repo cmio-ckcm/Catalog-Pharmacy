@@ -5,8 +5,8 @@
 </dose><route><value>IM</value>
 <value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>dimenhyDRINATE inj VIAL</value>
-</drug><strength><value>50 mg/mL</value>
+</form><drugname><value>dimenhyDRINATE inj VIAL</value>
+</drugname><strength><value>50 mg/mL</value>
 </strength><frequency><value>Q4H</value>
 <value>Q6H</value>
 </frequency><instruction><value></value>

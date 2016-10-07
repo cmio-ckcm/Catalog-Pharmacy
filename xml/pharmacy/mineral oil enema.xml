@@ -4,8 +4,8 @@
 <value>60</value>
 </dose><route><value>PR</value>
 </route><form><value>enema</value>
-</form><drug><value>mineral oil enema</value>
-</drug><strength><value>100%</value>
+</form><drugname><value>mineral oil enema</value>
+</drugname><strength><value>100%</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value></value>
 </instruction><volume><value>118 mL</value>

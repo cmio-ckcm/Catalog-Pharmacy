@@ -3,8 +3,8 @@
 <value>2.5 - 10</value>
 </dose><route><value>IM</value>
 </route><form><value>inj AMP</value>
-</form><drug><value>loxapine inj AMP</value>
-</drug><strength><value>50 mg/mL</value>
+</form><drugname><value>loxapine inj AMP</value>
+</drugname><strength><value>50 mg/mL</value>
 </strength><frequency><value>Q4H</value>
 <value>Q6H</value>
 <value>Q8H</value>

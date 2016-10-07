@@ -2,8 +2,8 @@
 <dose><value>500</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>nicotinic acid tab</value>
-</drug><strength><value>500 mg</value>
+</form><drugname><value>nicotinic acid tab</value>
+</drugname><strength><value>500 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>
 <value>TID</value>

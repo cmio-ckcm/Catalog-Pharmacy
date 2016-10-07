@@ -2,8 +2,8 @@
 <dose><value></value>
 </dose><route><value>SC</value>
 </route><form><value>inj PEN</value>
-</form><drug><value>insulin lispro (HumaLOG KWIKPEN) inj PEN</value>
-</drug><strength><value>100 unit/mL</value>
+</form><drugname><value>insulin lispro (HumaLOG KWIKPEN) inj PEN</value>
+</drugname><strength><value>100 unit/mL</value>
 </strength><frequency><value>DAILY</value>
 <value>ONCE</value>
 </frequency><instruction><value></value>

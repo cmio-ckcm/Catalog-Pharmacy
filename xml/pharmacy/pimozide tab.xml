@@ -6,8 +6,8 @@
 <value>4</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>pimozide tab</value>
-</drug><strength><value>2 mg</value>
+</form><drugname><value>pimozide tab</value>
+</drugname><strength><value>2 mg</value>
 <value>4 mg</value>
 </strength><frequency><value>HS</value>
 <value>BID</value>

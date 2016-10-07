@@ -2,8 +2,8 @@
 <dose><value></value>
 </dose><route><value>TOP</value>
 </route><form><value>paste</value>
-</form><drug><value>triamcinolone acetonide paste</value>
-</drug><strength><value>0.1%</value>
+</form><drugname><value>triamcinolone acetonide paste</value>
+</drugname><strength><value>0.1%</value>
 </strength><frequency><value>HS</value>
 <value>BID</value>
 <value>TID</value>

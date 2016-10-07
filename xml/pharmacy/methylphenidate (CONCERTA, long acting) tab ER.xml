@@ -6,8 +6,8 @@
 <value>72</value>
 </dose><route><value>PO</value>
 </route><form><value>tab ER</value>
-</form><drug><value>methylphenidate (CONCERTA, long acting) tab ER</value>
-</drug><strength><value>18 mg</value>
+</form><drugname><value>methylphenidate (CONCERTA, long acting) tab ER</value>
+</drugname><strength><value>18 mg</value>
 <value>27 mg</value>
 <value>36 mg</value>
 <value>54 mg</value>

@@ -5,8 +5,8 @@
 <value>4</value>
 </dose><route><value>PO</value>
 </route><form><value>cap EC</value>
-</form><drug><value>lipase-amylase-protease cap EC</value>
-</drug><strength><value>10 500 unit-43 750 unit-25 000 unit</value>
+</form><drugname><value>lipase-amylase-protease cap EC</value>
+</drugname><strength><value>10 500 unit-43 750 unit-25 000 unit</value>
 <value>10 800 unit-42 000 unit-45 000 unit</value>
 <value>12 000 unit-39 000 unit-39 000 unit</value>
 <value>16 800 unit-70 000 unit-40 000 unit</value>

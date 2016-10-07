@@ -4,8 +4,8 @@
 <value>4.5</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>piperacillin-tazobactam inj VIAL</value>
-</drug><strength><value>2.25 g</value>
+</form><drugname><value>piperacillin-tazobactam inj VIAL</value>
+</drugname><strength><value>2.25 g</value>
 <value>3.375 g</value>
 <value>4.5 g</value>
 </strength><frequency><value>Q6H</value>

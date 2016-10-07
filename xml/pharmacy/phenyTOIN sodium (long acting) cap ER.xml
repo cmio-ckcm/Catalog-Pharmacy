@@ -7,8 +7,8 @@
 <value>4 -8</value>
 </dose><route><value>PO</value>
 </route><form><value>cap ER</value>
-</form><drug><value>phenyTOIN sodium (long acting) cap ER</value>
-</drug><strength><value>100 mg</value>
+</form><drugname><value>phenyTOIN sodium (long acting) cap ER</value>
+</drugname><strength><value>100 mg</value>
 <value>30 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>

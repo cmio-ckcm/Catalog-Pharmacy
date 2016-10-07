@@ -5,8 +5,8 @@
 </dose><route><value>PO</value>
 <value>PO </value>
 </route><form><value>liq ORAL</value>
-</form><drug><value>attapulgite activated liq ORAL</value>
-</drug><strength><value>40 mg/mL</value>
+</form><drugname><value>attapulgite activated liq ORAL</value>
+</drugname><strength><value>40 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value>Up to 7 times daily.</value>
 </instruction><volume><value></value>

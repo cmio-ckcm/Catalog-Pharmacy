@@ -5,8 +5,8 @@
 <value>1</value>
 </dose><route><value>IM</value>
 </route><form><value>inj AMP</value>
-</form><drug><value>sodium aurothiomalate inj AMP</value>
-</drug><strength><value>50 mg/mL</value>
+</form><drugname><value>sodium aurothiomalate inj AMP</value>
+</drugname><strength><value>50 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>WEEKLY</value>
 </frequency><instruction><value>Week 1.</value>

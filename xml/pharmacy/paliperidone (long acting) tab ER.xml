@@ -5,8 +5,8 @@
 <value>9</value>
 </dose><route><value>PO</value>
 </route><form><value>tab ER</value>
-</form><drug><value>paliperidone (long acting) tab ER</value>
-</drug><strength><value>3 mg</value>
+</form><drugname><value>paliperidone (long acting) tab ER</value>
+</drugname><strength><value>3 mg</value>
 <value>6 mg</value>
 <value>9 mg</value>
 </strength><frequency><value>DAILY</value>

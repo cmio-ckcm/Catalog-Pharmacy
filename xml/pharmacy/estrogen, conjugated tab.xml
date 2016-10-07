@@ -5,8 +5,8 @@
 <value>1.25</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>estrogen, conjugated tab</value>
-</drug><strength><value>0.3 mg</value>
+</form><drugname><value>estrogen, conjugated tab</value>
+</drugname><strength><value>0.3 mg</value>
 <value>0.625 mg</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value></value>

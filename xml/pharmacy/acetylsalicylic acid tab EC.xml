@@ -5,8 +5,8 @@
 <value>162</value>
 </dose><route><value>PO</value>
 </route><form><value>tab EC</value>
-</form><drug><value>acetylsalicylic acid tab EC</value>
-</drug><strength><value>325 mg</value>
+</form><drugname><value>acetylsalicylic acid tab EC</value>
+</drugname><strength><value>325 mg</value>
 <value>650 mg</value>
 <value>81 mg</value>
 </strength><frequency><value>DAILY</value>

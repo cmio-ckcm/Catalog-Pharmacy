@@ -2,8 +2,8 @@
 <dose><value>500</value>
 </dose><route><value>IV</value>
 </route><form><value>inj BAG</value>
-</form><drug><value>metroNIDAZOLE inj BAG</value>
-</drug><strength><value>5 mg/mL</value>
+</form><drugname><value>metroNIDAZOLE inj BAG</value>
+</drugname><strength><value>5 mg/mL</value>
 </strength><frequency><value>Q8H</value>
 <value>Q12H</value>
 </frequency><instruction><value></value>

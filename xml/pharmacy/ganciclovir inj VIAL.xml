@@ -7,8 +7,8 @@
 </dose><route><value>IV</value>
 <value>IV </value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>ganciclovir inj VIAL</value>
-</drug><strength><value>500 mg</value>
+</form><drugname><value>ganciclovir inj VIAL</value>
+</drugname><strength><value>500 mg</value>
 </strength><frequency><value>Q12H</value>
 <value>DAILY</value>
 <value>THREE TIMES WEEKLY </value>

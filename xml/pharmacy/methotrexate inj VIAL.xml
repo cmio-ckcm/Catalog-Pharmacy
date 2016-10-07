@@ -6,8 +6,8 @@
 <value>IV</value>
 <value>SC</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>methotrexate inj VIAL</value>
-</drug><strength><value>25 mg/mL</value>
+</form><drugname><value>methotrexate inj VIAL</value>
+</drugname><strength><value>25 mg/mL</value>
 </strength><frequency><value>WEEKLY</value>
 <value>ONCE</value>
 </frequency><instruction><value></value>

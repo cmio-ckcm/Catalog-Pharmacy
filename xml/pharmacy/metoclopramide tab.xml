@@ -3,8 +3,8 @@
 <value>5</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>metoclopramide tab</value>
-</drug><strength><value>10 mg</value>
+</form><drugname><value>metoclopramide tab</value>
+</drugname><strength><value>10 mg</value>
 <value>5 mg</value>
 </strength><frequency><value>BID</value>
 <value>TID</value>

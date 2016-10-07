@@ -2,8 +2,8 @@
 <dose><value>800</value>
 </dose><route><value>PO</value>
 </route><form><value>cap</value>
-</form><drug><value>indinavir cap</value>
-</drug><strength><value>400 mg</value>
+</form><drugname><value>indinavir cap</value>
+</drugname><strength><value>400 mg</value>
 </strength><frequency><value>Q8H</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

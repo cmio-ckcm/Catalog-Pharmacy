@@ -4,8 +4,8 @@
 <value>10</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>dextroamphetamine tab</value>
-</drug><strength><value>5 mg</value>
+</form><drugname><value>dextroamphetamine tab</value>
+</drugname><strength><value>5 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>
 <value>TID</value>

@@ -4,8 +4,8 @@
 <value>120</value>
 </dose><route><value>PO</value>
 </route><form><value>tab ER</value>
-</form><drug><value>isosorbide mononitrate (long acting) tab ER</value>
-</drug><strength><value>60 mg</value>
+</form><drugname><value>isosorbide mononitrate (long acting) tab ER</value>
+</drugname><strength><value>60 mg</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

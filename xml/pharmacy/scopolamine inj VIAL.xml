@@ -9,8 +9,8 @@
 <value>IV</value>
 <value>SC</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>scopolamine inj VIAL</value>
-</drug><strength><value>0.4 mg/mL</value>
+</form><drugname><value>scopolamine inj VIAL</value>
+</drugname><strength><value>0.4 mg/mL</value>
 <value>0.6 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>TID</value>

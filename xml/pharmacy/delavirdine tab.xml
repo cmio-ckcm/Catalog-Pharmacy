@@ -2,8 +2,8 @@
 <dose><value>400</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>delavirdine tab</value>
-</drug><strength><value>100 mg</value>
+</form><drugname><value>delavirdine tab</value>
+</drugname><strength><value>100 mg</value>
 </strength><frequency><value>TID</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

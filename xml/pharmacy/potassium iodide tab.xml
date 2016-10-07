@@ -5,8 +5,8 @@
 <value>16.25</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>potassium iodide tab</value>
-</drug><strength><value>65 mg</value>
+</form><drugname><value>potassium iodide tab</value>
+</drugname><strength><value>65 mg</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

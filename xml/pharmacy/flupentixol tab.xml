@@ -6,8 +6,8 @@
 <value>1.5</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>flupentixol tab</value>
-</drug><strength><value>0.5 mg</value>
+</form><drugname><value>flupentixol tab</value>
+</drugname><strength><value>0.5 mg</value>
 <value>3 mg</value>
 </strength><frequency><value>TID</value>
 </frequency><instruction><value></value>

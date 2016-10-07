@@ -18,8 +18,8 @@
 <value>IV</value>
 <value>SC</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>neostigmine inj VIAL</value>
-</drug><strength><value>1 mg/mL</value>
+</form><drugname><value>neostigmine inj VIAL</value>
+</drugname><strength><value>1 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>Q4H</value>
 <value>Q3H</value>

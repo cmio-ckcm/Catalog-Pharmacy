@@ -3,8 +3,8 @@
 </dose><route><value>IM</value>
 <value>SC</value>
 </route><form><value>inj SYR</value>
-</form><drug><value>influenza virus vaccine inj SYR</value>
-</drug><strength><value></value>
+</form><drugname><value>influenza virus vaccine inj SYR</value>
+</drugname><strength><value></value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value></value>
 </instruction><volume><value>0.5 mL</value>

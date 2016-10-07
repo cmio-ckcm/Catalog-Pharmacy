@@ -3,8 +3,8 @@
 <value>150</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>carmustine inj VIAL</value>
-</drug><strength><value>100 mg</value>
+</form><drugname><value>carmustine inj VIAL</value>
+</drugname><strength><value>100 mg</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value>Administer dose over 3 hours, diluted in 500 mL D5W.</value>
 <value>Administer dose over 1 to 2 hours, diluted in 500 mL 0.9% sodium chloride.</value>

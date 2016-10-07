@@ -4,8 +4,8 @@
 <value>1</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>eptifibatide inj VIAL</value>
-</drug><strength><value>0.75 mg/mL</value>
+</form><drugname><value>eptifibatide inj VIAL</value>
+</drugname><strength><value>0.75 mg/mL</value>
 <value>2 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>CONTINUOUS</value>

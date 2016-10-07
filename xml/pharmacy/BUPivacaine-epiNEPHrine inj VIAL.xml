@@ -9,8 +9,8 @@
 </dose><route><value>EPIDURAL</value>
 <value>INFILTRATION</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>BUPivacaine-epiNEPHrine inj VIAL</value>
-</drug><strength><value>0.25%-1:200 000</value>
+</form><drugname><value>BUPivacaine-epiNEPHrine inj VIAL</value>
+</drugname><strength><value>0.25%-1:200 000</value>
 <value>0.5%-1:200 000</value>
 </strength><frequency><value>ONCE</value>
 <value>Q3H</value>

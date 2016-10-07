@@ -3,8 +3,8 @@
 <value>50</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>zinc tab</value>
-</drug><strength><value>10 mg</value>
+</form><drugname><value>zinc tab</value>
+</drugname><strength><value>10 mg</value>
 <value>50 mg</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value></value>

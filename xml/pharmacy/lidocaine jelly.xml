@@ -6,8 +6,8 @@
 <value>0 - 6</value>
 </dose><route><value>TOP </value>
 </route><form><value>jelly</value>
-</form><drug><value>lidocaine jelly</value>
-</drug><strength><value>2%</value>
+</form><drugname><value>lidocaine jelly</value>
+</drugname><strength><value>2%</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value>Instill into anterior male urethra prior to catheterization.</value>
 <value>Slowly instill into urethra. Larger volumes to be instilled in smaller increments.</value>

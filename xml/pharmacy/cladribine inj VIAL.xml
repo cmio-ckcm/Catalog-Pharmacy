@@ -9,8 +9,8 @@
 </dose><route><value>IV</value>
 <value>SC</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>cladribine inj VIAL</value>
-</drug><strength><value>1 mg/mL</value>
+</form><drugname><value>cladribine inj VIAL</value>
+</drugname><strength><value>1 mg/mL</value>
 </strength><frequency><value>DAILY</value>
 <value>CONTINUOUS</value>
 <value>TID</value>

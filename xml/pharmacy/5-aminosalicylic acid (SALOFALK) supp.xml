@@ -3,8 +3,8 @@
 <value>500</value>
 </dose><route><value>PR</value>
 </route><form><value>supp</value>
-</form><drug><value>5-aminosalicylic acid (SALOFALK) supp</value>
-</drug><strength><value>1000 mg</value>
+</form><drugname><value>5-aminosalicylic acid (SALOFALK) supp</value>
+</drugname><strength><value>1000 mg</value>
 <value>500 mg</value>
 </strength><frequency><value>HS</value>
 <value>BID</value>

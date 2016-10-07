@@ -2,8 +2,8 @@
 <dose><value>1000</value>
 </dose><route><value>PO</value>
 </route><form><value>cap</value>
-</form><drug><value>sodium chloride cap</value>
-</drug><strength><value>1000 mg</value>
+</form><drugname><value>sodium chloride cap</value>
+</drugname><strength><value>1000 mg</value>
 </strength><frequency><value>BID</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

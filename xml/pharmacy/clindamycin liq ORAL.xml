@@ -6,8 +6,8 @@
 <value>450</value>
 </dose><route><value>PO</value>
 </route><form><value>liq ORAL</value>
-</form><drug><value>clindamycin liq ORAL</value>
-</drug><strength><value>15 mg/mL</value>
+</form><drugname><value>clindamycin liq ORAL</value>
+</drugname><strength><value>15 mg/mL</value>
 </strength><frequency><value>Q6H</value>
 <value>Q8H</value>
 <value>ONCE</value>

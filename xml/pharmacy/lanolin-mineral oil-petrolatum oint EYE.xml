@@ -2,8 +2,8 @@
 <dose><value></value>
 </dose><route><value>OPHTH</value>
 </route><form><value>oint EYE</value>
-</form><drug><value>lanolin-mineral oil-petrolatum oint EYE</value>
-</drug><strength><value></value>
+</form><drugname><value>lanolin-mineral oil-petrolatum oint EYE</value>
+</drugname><strength><value></value>
 </strength><frequency><value>HS</value>
 <value>ONCE</value>
 </frequency><instruction><value>Apply a small amount (one quarter inch) of ointment to inside of LEFT lower eyelid.</value>

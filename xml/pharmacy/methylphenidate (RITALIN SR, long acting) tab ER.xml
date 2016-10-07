@@ -2,8 +2,8 @@
 <dose><value>20</value>
 </dose><route><value>PO</value>
 </route><form><value>tab ER</value>
-</form><drug><value>methylphenidate (RITALIN SR, long acting) tab ER</value>
-</drug><strength><value>20 mg</value>
+</form><drugname><value>methylphenidate (RITALIN SR, long acting) tab ER</value>
+</drugname><strength><value>20 mg</value>
 </strength><frequency><value>BID</value>
 <value>TID</value>
 </frequency><instruction><value></value>

@@ -3,8 +3,8 @@
 <value>30</value>
 </dose><route><value>PO</value>
 </route><form><value>liq ORAL</value>
-</form><drug><value>aluminum hydroxide-magnesium hydroxide liq ORAL</value>
-</drug><strength><value>40 mg-40 mg/mL</value>
+</form><drugname><value>aluminum hydroxide-magnesium hydroxide liq ORAL</value>
+</drugname><strength><value>40 mg-40 mg/mL</value>
 </strength><frequency><value>TID</value>
 <value>QID</value>
 <value>Q6H  </value>

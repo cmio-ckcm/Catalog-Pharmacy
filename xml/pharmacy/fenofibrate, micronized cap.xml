@@ -4,8 +4,8 @@
 <value>134</value>
 </dose><route><value>PO</value>
 </route><form><value>cap</value>
-</form><drug><value>fenofibrate, micronized cap</value>
-</drug><strength><value>200 mg</value>
+</form><drugname><value>fenofibrate, micronized cap</value>
+</drugname><strength><value>200 mg</value>
 <value>67 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>SUPPER</value>

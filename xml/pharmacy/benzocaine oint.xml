@@ -2,8 +2,8 @@
 <dose><value></value>
 </dose><route><value>TOP </value>
 </route><form><value>oint</value>
-</form><drug><value>benzocaine oint</value>
-</drug><strength><value>20%</value>
+</form><drugname><value>benzocaine oint</value>
+</drugname><strength><value>20%</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>
 <value>TID</value>

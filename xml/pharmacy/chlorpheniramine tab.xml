@@ -3,8 +3,8 @@
 <value>8</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>chlorpheniramine tab</value>
-</drug><strength><value>4 mg</value>
+</form><drugname><value>chlorpheniramine tab</value>
+</drugname><strength><value>4 mg</value>
 </strength><frequency><value>HS</value>
 <value>Q4H</value>
 <value>Q6H</value>

@@ -2,8 +2,8 @@
 <dose><value>5</value>
 </dose><route><value>PO</value>
 </route><form><value>liq ORAL</value>
-</form><drug><value>calcium lactogluconate, sucrose free liq ORAL</value>
-</drug><strength><value>153.8 mg/mL</value>
+</form><drugname><value>calcium lactogluconate, sucrose free liq ORAL</value>
+</drugname><strength><value>153.8 mg/mL</value>
 </strength><frequency><value>BID</value>
 </frequency><instruction><value></value>
 </instruction><volume><value>150 mL</value>

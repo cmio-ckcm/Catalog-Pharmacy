@@ -5,8 +5,8 @@
 <value>NG TUBE</value>
 <value>G-TUBE</value>
 </route><form><value>granules</value>
-</form><drug><value>sodium phenylbutyrate granules</value>
-</drug><strength><value>483 mg/g</value>
+</form><drugname><value>sodium phenylbutyrate granules</value>
+</drugname><strength><value>483 mg/g</value>
 </strength><frequency><value>QID</value>
 <value>FIVE TIMES DAILY</value>
 <value>SIX TIMES DAILY</value>

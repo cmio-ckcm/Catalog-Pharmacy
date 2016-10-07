@@ -14,8 +14,8 @@
 </dose><route><value>IM</value>
 <value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>iron dextran inj VIAL</value>
-</drug><strength><value>50 mg/mL</value>
+</form><drugname><value>iron dextran inj VIAL</value>
+</drugname><strength><value>50 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>WEEKLY</value>
 <value>DAILY</value>

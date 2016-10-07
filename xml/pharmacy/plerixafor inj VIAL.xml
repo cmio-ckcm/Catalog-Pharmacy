@@ -3,8 +3,8 @@
 <value>0.16</value>
 </dose><route><value>SC</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>plerixafor inj VIAL</value>
-</drug><strength><value>20 mg/mL</value>
+</form><drugname><value>plerixafor inj VIAL</value>
+</drugname><strength><value>20 mg/mL</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value>for 4 days.</value>
 </instruction><volume><value>1.2 mL</value>

@@ -5,8 +5,8 @@
 <value>4</value>
 </dose><route><value>IM</value>
 </route><form><value>inj AMP</value>
-</form><drug><value>dimercaprol inj AMP</value>
-</drug><strength><value>100 mg/mL</value>
+</form><drugname><value>dimercaprol inj AMP</value>
+</drugname><strength><value>100 mg/mL</value>
 </strength><frequency><value>Q6H</value>
 <value>Q12H</value>
 <value>DAILY</value>

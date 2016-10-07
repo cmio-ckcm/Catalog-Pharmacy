@@ -2,8 +2,8 @@
 <dose><value>400</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>ceFIXime tab</value>
-</drug><strength><value>400 mg</value>
+</form><drugname><value>ceFIXime tab</value>
+</drugname><strength><value>400 mg</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

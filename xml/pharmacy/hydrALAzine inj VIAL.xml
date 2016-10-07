@@ -12,8 +12,8 @@
 <value>IV</value>
 <value>IV </value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>hydrALAzine inj VIAL</value>
-</drug><strength><value>20 mg/mL</value>
+</form><drugname><value>hydrALAzine inj VIAL</value>
+</drugname><strength><value>20 mg/mL</value>
 </strength><frequency><value>Q6H</value>
 <value>Q8H</value>
 <value>Q4H</value>

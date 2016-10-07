@@ -3,8 +3,8 @@
 <value>2</value>
 </dose><route><value>PO</value>
 </route><form><value>cap</value>
-</form><drug><value>levodopa-benserazide cap</value>
-</drug><strength><value>100 mg-25 mg</value>
+</form><drugname><value>levodopa-benserazide cap</value>
+</drugname><strength><value>100 mg-25 mg</value>
 <value>50 mg-12.5 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>

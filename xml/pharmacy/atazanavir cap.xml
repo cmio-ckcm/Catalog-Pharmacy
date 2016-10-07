@@ -5,8 +5,8 @@
 <value>400</value>
 </dose><route><value>PO</value>
 </route><form><value>cap</value>
-</form><drug><value>atazanavir cap</value>
-</drug><strength><value>150 mg</value>
+</form><drugname><value>atazanavir cap</value>
+</drugname><strength><value>150 mg</value>
 <value>200 mg</value>
 <value>300 mg</value>
 </strength><frequency><value>DAILY</value>

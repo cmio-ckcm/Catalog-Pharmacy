@@ -2,8 +2,8 @@
 <dose><value>5 - 10</value>
 </dose><route><value>TOP</value>
 </route><form><value>shampoo</value>
-</form><drug><value>ketoconazole shampoo</value>
-</drug><strength><value>2%</value>
+</form><drugname><value>ketoconazole shampoo</value>
+</drugname><strength><value>2%</value>
 </strength><frequency><value>TWICE WEEKLY</value>
 </frequency><instruction><value>Apply shampoo to wet scalp and work into a lather and leave on for 3 to 5 minutes before rinsing with water. Avoid contact with eyes and eyelids.</value>
 </instruction><volume><value></value>

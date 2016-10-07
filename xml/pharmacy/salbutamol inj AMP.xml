@@ -8,8 +8,8 @@
 </dose><route><value>IV</value>
 <value>IV </value>
 </route><form><value>inj AMP</value>
-</form><drug><value>salbutamol inj AMP</value>
-</drug><strength><value>1 mg/mL</value>
+</form><drugname><value>salbutamol inj AMP</value>
+</drugname><strength><value>1 mg/mL</value>
 </strength><frequency><value>CONTINUOUS</value>
 <value>Q4H</value>
 <value>ONCE</value>

@@ -6,8 +6,8 @@
 <value>IV</value>
 <value>SC</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>insulin regular (HumuLIN R) inj VIAL</value>
-</drug><strength><value>100 unit/mL</value>
+</form><drugname><value>insulin regular (HumuLIN R) inj VIAL</value>
+</drugname><strength><value>100 unit/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>CONTINUOUS</value>
 <value>DAILY</value>

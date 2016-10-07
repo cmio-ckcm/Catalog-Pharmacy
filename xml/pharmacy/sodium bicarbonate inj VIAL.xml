@@ -10,8 +10,8 @@
 </dose><route><value>INTRAOSSEOUS</value>
 <value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>sodium bicarbonate inj VIAL</value>
-</drug><strength><value>8.4%</value>
+</form><drugname><value>sodium bicarbonate inj VIAL</value>
+</drugname><strength><value>8.4%</value>
 </strength><frequency><value>ONCE</value>
 <value>CONTINUOUS</value>
 </frequency><instruction><value></value>

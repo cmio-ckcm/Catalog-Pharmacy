@@ -5,8 +5,8 @@
 <value>80</value>
 </dose><route><value>PO</value>
 </route><form><value>cap</value>
-</form><drug><value>ziprasidone cap</value>
-</drug><strength><value>20 mg</value>
+</form><drugname><value>ziprasidone cap</value>
+</drugname><strength><value>20 mg</value>
 <value>40 mg</value>
 <value>60 mg</value>
 <value>80 mg</value>

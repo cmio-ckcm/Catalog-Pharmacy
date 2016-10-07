@@ -6,8 +6,8 @@
 <value>2500</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>mitotane tab</value>
-</drug><strength><value>500 mg</value>
+</form><drugname><value>mitotane tab</value>
+</drugname><strength><value>500 mg</value>
 </strength><frequency><value>QID</value>
 <value>TID</value>
 </frequency><instruction><value></value>

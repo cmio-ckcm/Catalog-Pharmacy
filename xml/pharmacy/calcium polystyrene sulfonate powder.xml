@@ -4,8 +4,8 @@
 </dose><route><value>PO</value>
 <value>PR</value>
 </route><form><value>powder</value>
-</form><drug><value>calcium polystyrene sulfonate powder</value>
-</drug><strength><value></value>
+</form><drugname><value>calcium polystyrene sulfonate powder</value>
+</drugname><strength><value></value>
 </strength><frequency><value>TID</value>
 <value>QID</value>
 <value>DAILY</value>

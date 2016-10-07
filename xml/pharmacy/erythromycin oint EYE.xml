@@ -3,8 +3,8 @@
 <value>1</value>
 </dose><route><value>TOP</value>
 </route><form><value>oint EYE</value>
-</form><drug><value>erythromycin oint EYE</value>
-</drug><strength><value>5 mg/g</value>
+</form><drugname><value>erythromycin oint EYE</value>
+</drugname><strength><value>5 mg/g</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value>Instilled into each conjuctival sac.</value>
 </instruction><volume><value>3.5 g</value>

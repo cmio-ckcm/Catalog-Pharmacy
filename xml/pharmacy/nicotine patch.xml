@@ -4,8 +4,8 @@
 </dose><route><value>TOP</value>
 <value></value>
 </route><form><value>patch</value>
-</form><drug><value>nicotine patch</value>
-</drug><strength><value>14 mg/24 hour</value>
+</form><drugname><value>nicotine patch</value>
+</drugname><strength><value>14 mg/24 hour</value>
 <value>21 mg/24 hour</value>
 <value>7 mg/24 hour</value>
 </strength><frequency><value>DAILY</value>

@@ -5,8 +5,8 @@
 <value>50 -200</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>lacosamide inj VIAL</value>
-</drug><strength><value>10 mg/mL</value>
+</form><drugname><value>lacosamide inj VIAL</value>
+</drugname><strength><value>10 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>BID</value>
 </frequency><instruction><value>Loading Dose, up to MAXIMUM dose of 200 mg.</value>

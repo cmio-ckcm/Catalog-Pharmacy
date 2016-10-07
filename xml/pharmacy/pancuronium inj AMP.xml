@@ -11,8 +11,8 @@
 </dose><route><value>IV</value>
 <value>IV </value>
 </route><form><value>inj AMP</value>
-</form><drug><value>pancuronium inj AMP</value>
-</drug><strength><value>2 mg/mL</value>
+</form><drugname><value>pancuronium inj AMP</value>
+</drugname><strength><value>2 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>EVERY 25 MINUTES</value>
 <value>EVERY 30 MINUTES</value>

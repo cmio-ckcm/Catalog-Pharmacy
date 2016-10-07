@@ -6,8 +6,8 @@
 <value>500</value>
 </dose><route><value>PO</value>
 </route><form><value>liq ORAL</value>
-</form><drug><value>cloxacillin liq ORAL</value>
-</drug><strength><value>25 mg/mL</value>
+</form><drugname><value>cloxacillin liq ORAL</value>
+</drugname><strength><value>25 mg/mL</value>
 </strength><frequency><value>QID</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

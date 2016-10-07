@@ -6,8 +6,8 @@
 <value>45</value>
 </dose><route><value>PO</value>
 </route><form><value>liq ORAL</value>
-</form><drug><value>amoxicillin-clavulinic acid liq ORAL</value>
-</drug><strength><value>25 mg-6.25 mg/mL</value>
+</form><drugname><value>amoxicillin-clavulinic acid liq ORAL</value>
+</drugname><strength><value>25 mg-6.25 mg/mL</value>
 <value>40 mg-5.7 mg/mL</value>
 <value>50 mg-12.5 mg/mL</value>
 <value>80 mg-11.4 mg/mL</value>

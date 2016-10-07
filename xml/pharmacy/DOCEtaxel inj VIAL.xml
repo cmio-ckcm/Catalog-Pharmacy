@@ -3,8 +3,8 @@
 <value>100</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>DOCEtaxel inj VIAL</value>
-</drug><strength><value>20 mg</value>
+</form><drugname><value>DOCEtaxel inj VIAL</value>
+</drugname><strength><value>20 mg</value>
 <value>80 mg</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value>DAY 1 of 21. Administer dose in the following volume and at the corrsponding rate: a) Dilute dose in 100 mL - 0.9% sodium chloride (for doses less than 90 mg) and administer over 30 minutes to 1 hour. Titration usually not required. b) Dilute dose in 250 mL - 0.9% sodium chloride (for doses 90 to 200 mg) and administer at 100 mL/hour for first 15 minutes, then complete infusion over 45 minutes. c) Dilute dose in 500 mL - 0.9% sodium chloride (for doses greater than 200 mg) and administer at 100 mL/hour for first 15 minutes, then complete infusion over 1 hour.</value>

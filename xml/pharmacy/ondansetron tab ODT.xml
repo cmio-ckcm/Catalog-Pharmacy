@@ -3,8 +3,8 @@
 <value>8</value>
 </dose><route><value>PO</value>
 </route><form><value>tab ODT</value>
-</form><drug><value>ondansetron tab ODT</value>
-</drug><strength><value>4 mg</value>
+</form><drugname><value>ondansetron tab ODT</value>
+</drugname><strength><value>4 mg</value>
 <value>8 mg</value>
 </strength><frequency><value>BID</value>
 <value>TID</value>

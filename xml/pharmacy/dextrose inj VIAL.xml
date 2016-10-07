@@ -2,8 +2,8 @@
 <dose><value>50</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>dextrose inj VIAL</value>
-</drug><strength><value>50%</value>
+</form><drugname><value>dextrose inj VIAL</value>
+</drugname><strength><value>50%</value>
 </strength><frequency><value>STAT</value>
 <value>ONCE</value>
 </frequency><instruction><value>STAT, Direct administration over 1 - 3 minutes</value>

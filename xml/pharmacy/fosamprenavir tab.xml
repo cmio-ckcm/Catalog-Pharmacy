@@ -3,8 +3,8 @@
 <value>1400</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>fosamprenavir tab</value>
-</drug><strength><value>700 mg</value>
+</form><drugname><value>fosamprenavir tab</value>
+</drugname><strength><value>700 mg</value>
 </strength><frequency><value>BID</value>
 <value>DAILY</value>
 </frequency><instruction><value></value>

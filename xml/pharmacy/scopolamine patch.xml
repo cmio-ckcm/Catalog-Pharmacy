@@ -2,8 +2,8 @@
 <dose><value>1</value>
 </dose><route><value>TOP</value>
 </route><form><value>patch</value>
-</form><drug><value>scopolamine patch</value>
-</drug><strength><value>1.5 mg</value>
+</form><drugname><value>scopolamine patch</value>
+</drugname><strength><value>1.5 mg</value>
 </strength><frequency><value>Q72H</value>
 <value>ONCE</value>
 </frequency><instruction><value>Apply patch to hairless area behind ear, change patch every 72 hours.</value>

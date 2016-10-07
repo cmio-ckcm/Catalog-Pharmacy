@@ -3,8 +3,8 @@
 </dose><route><value>NEB</value>
 <value>NEB </value>
 </route><form><value>nebule</value>
-</form><drug><value>ipratropium-salbutamol nebule</value>
-</drug><strength><value>0.2 mg-1 mg/mL</value>
+</form><drugname><value>ipratropium-salbutamol nebule</value>
+</drugname><strength><value>0.2 mg-1 mg/mL</value>
 </strength><frequency><value>TID</value>
 <value>QID</value>
 <value>Q6H</value>

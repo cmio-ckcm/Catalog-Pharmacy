@@ -6,8 +6,8 @@
 <value>20</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>methotrexate tab</value>
-</drug><strength><value>2.5 mg</value>
+</form><drugname><value>methotrexate tab</value>
+</drugname><strength><value>2.5 mg</value>
 </strength><frequency><value>WEEKLY</value>
 <value>Q12H</value>
 </frequency><instruction><value></value>

@@ -2,8 +2,8 @@
 <dose><value>1</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>diclofenac-misoprostol tab</value>
-</drug><strength><value>50 mg-200 mcg</value>
+</form><drugname><value>diclofenac-misoprostol tab</value>
+</drugname><strength><value>50 mg-200 mcg</value>
 <value>75 mg-200 mcg</value>
 </strength><frequency><value>BID</value>
 </frequency><instruction><value></value>

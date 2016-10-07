@@ -4,8 +4,8 @@
 <value>60</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>DOXOrubicin inj VIAL</value>
-</drug><strength><value>150 mg</value>
+</form><drugname><value>DOXOrubicin inj VIAL</value>
+</drugname><strength><value>150 mg</value>
 <value>50 mg</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value>DAY 1 of 21. Administer dose by direct injection.</value>

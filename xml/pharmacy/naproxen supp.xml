@@ -3,8 +3,8 @@
 <value>250</value>
 </dose><route><value>PR</value>
 </route><form><value>supp</value>
-</form><drug><value>naproxen supp</value>
-</drug><strength><value>500 mg</value>
+</form><drugname><value>naproxen supp</value>
+</drugname><strength><value>500 mg</value>
 </strength><frequency><value>HS</value>
 <value>DAILY</value>
 <value>BID</value>

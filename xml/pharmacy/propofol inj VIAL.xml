@@ -12,8 +12,8 @@
 <value></value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>propofol inj VIAL</value>
-</drug><strength><value>10 mg/mL</value>
+</form><drugname><value>propofol inj VIAL</value>
+</drugname><strength><value>10 mg/mL</value>
 </strength><frequency><value>CONTINUOUS</value>
 <value>ONCE</value>
 </frequency><instruction><value>Initial Dose: Start at lower dose for at least 5 minutes. Increase by increments of 0.3 to 0.6 mg/kg/hour over 5 to 10 minutes until desired level of sedation is reached. </value>

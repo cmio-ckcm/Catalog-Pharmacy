@@ -2,8 +2,8 @@
 <dose><value>1</value>
 </dose><route><value>TOP</value>
 </route><form><value>powder</value>
-</form><drug><value>colloidal oatmeal powder</value>
-</drug><strength><value>21 g</value>
+</form><drugname><value>colloidal oatmeal powder</value>
+</drugname><strength><value>21 g</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value>Add to bath water.</value>
 </instruction><volume><value></value>

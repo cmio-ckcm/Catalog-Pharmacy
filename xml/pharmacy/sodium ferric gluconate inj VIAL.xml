@@ -3,8 +3,8 @@
 <value>1.5</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>sodium ferric gluconate inj VIAL</value>
-</drug><strength><value>12.5 mg/mL</value>
+</form><drugname><value>sodium ferric gluconate inj VIAL</value>
+</drugname><strength><value>12.5 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value>Administer dose over 1 hour.</value>
 </instruction><volume><value>5 mL</value>

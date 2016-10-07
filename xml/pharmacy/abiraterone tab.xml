@@ -3,8 +3,8 @@
 <value>1000</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>abiraterone tab</value>
-</drug><strength><value>250 mg</value>
+</form><drugname><value>abiraterone tab</value>
+</drugname><strength><value>250 mg</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

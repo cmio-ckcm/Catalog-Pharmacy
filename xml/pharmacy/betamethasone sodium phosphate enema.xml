@@ -2,8 +2,8 @@
 <dose><value>5</value>
 </dose><route><value>PR</value>
 </route><form><value>enema</value>
-</form><drug><value>betamethasone sodium phosphate enema</value>
-</drug><strength><value>5 mg/100 mL</value>
+</form><drugname><value>betamethasone sodium phosphate enema</value>
+</drugname><strength><value>5 mg/100 mL</value>
 </strength><frequency><value>HS</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

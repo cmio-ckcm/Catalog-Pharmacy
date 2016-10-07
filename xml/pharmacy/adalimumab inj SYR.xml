@@ -10,8 +10,8 @@
 <value>80</value>
 </dose><route><value>SC</value>
 </route><form><value>inj SYR</value>
-</form><drug><value>adalimumab inj SYR</value>
-</drug><strength><value>40 mg/0.8 mL</value>
+</form><drugname><value>adalimumab inj SYR</value>
+</drugname><strength><value>40 mg/0.8 mL</value>
 </strength><frequency><value>ONCE</value>
 <value>EVERY 2 WEEKS</value>
 <value>DAILY</value>

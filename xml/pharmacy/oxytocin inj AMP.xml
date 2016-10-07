@@ -17,8 +17,8 @@
 </dose><route><value>IM</value>
 <value>IV</value>
 </route><form><value>inj AMP</value>
-</form><drug><value>oxytocin inj AMP</value>
-</drug><strength><value>10 unit/mL</value>
+</form><drugname><value>oxytocin inj AMP</value>
+</drugname><strength><value>10 unit/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>CONTINUOUS</value>
 </frequency><instruction><value>Administer Intramuscularly with delivery of anterior shoulder.</value>

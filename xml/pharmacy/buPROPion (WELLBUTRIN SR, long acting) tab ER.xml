@@ -3,8 +3,8 @@
 <value>150</value>
 </dose><route><value>PO</value>
 </route><form><value>tab ER</value>
-</form><drug><value>buPROPion (WELLBUTRIN SR, long acting) tab ER</value>
-</drug><strength><value>100 mg</value>
+</form><drugname><value>buPROPion (WELLBUTRIN SR, long acting) tab ER</value>
+</drugname><strength><value>100 mg</value>
 <value>150 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>

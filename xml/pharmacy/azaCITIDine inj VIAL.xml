@@ -2,8 +2,8 @@
 <dose><value>75</value>
 </dose><route><value>SC</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>azaCITIDine inj VIAL</value>
-</drug><strength><value>100 mg</value>
+</form><drugname><value>azaCITIDine inj VIAL</value>
+</drugname><strength><value>100 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>FIVE TIMES WEEKLY</value>
 </frequency><instruction><value>for 7 days. Administer Monday through Sunday.</value>

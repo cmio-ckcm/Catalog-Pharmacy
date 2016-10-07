@@ -5,8 +5,8 @@
 <value>1</value>
 </dose><route><value>SC</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>enoxaparin inj VIAL</value>
-</drug><strength><value>100 mg/mL</value>
+</form><drugname><value>enoxaparin inj VIAL</value>
+</drugname><strength><value>100 mg/mL</value>
 </strength><frequency><value>Q12H</value>
 <value>DAILY</value>
 <value>ONCE</value>

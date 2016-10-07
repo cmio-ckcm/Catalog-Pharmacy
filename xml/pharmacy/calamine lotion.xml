@@ -2,8 +2,8 @@
 <dose><value></value>
 </dose><route><value>TOP</value>
 </route><form><value>lotion</value>
-</form><drug><value>calamine lotion</value>
-</drug><strength><value>8%</value>
+</form><drugname><value>calamine lotion</value>
+</drugname><strength><value>8%</value>
 </strength><frequency><value>ONCE</value>
 <value>TID</value>
 <value>QID</value>

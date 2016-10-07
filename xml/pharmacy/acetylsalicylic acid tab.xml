@@ -2,8 +2,8 @@
 <dose><value>325</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>acetylsalicylic acid tab</value>
-</drug><strength><value>325 mg</value>
+</form><drugname><value>acetylsalicylic acid tab</value>
+</drugname><strength><value>325 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>NOW</value>
 </frequency><instruction><value></value>

@@ -4,8 +4,8 @@
 </dose><route><value>IV</value>
 <value>IV </value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>heparin, preservative free inj VIAL</value>
-</drug><strength><value>100 unit/mL</value>
+</form><drugname><value>heparin, preservative free inj VIAL</value>
+</drugname><strength><value>100 unit/mL</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value>Administer into PICC line (non-groshong) following saline flush for maintenance of line patency</value>
 <value>Administer into central catheter line following saline flush for maintenance of line patency.</value>

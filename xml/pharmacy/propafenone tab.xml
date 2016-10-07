@@ -3,8 +3,8 @@
 <value>150</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>propafenone tab</value>
-</drug><strength><value>300 mg</value>
+</form><drugname><value>propafenone tab</value>
+</drugname><strength><value>300 mg</value>
 <value>150 mg</value>
 </strength><frequency><value>BID</value>
 <value>TID</value>

@@ -3,8 +3,8 @@
 <value>2</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>traMADol-acetaminophen tab</value>
-</drug><strength><value>37.5 mg-325 mg</value>
+</form><drugname><value>traMADol-acetaminophen tab</value>
+</drugname><strength><value>37.5 mg-325 mg</value>
 </strength><frequency><value>Q4H</value>
 <value>Q6H</value>
 </frequency><instruction><value></value>

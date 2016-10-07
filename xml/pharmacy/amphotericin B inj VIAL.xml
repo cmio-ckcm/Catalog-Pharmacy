@@ -14,8 +14,8 @@
 <value>1.5</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>amphotericin B inj VIAL</value>
-</drug><strength><value>50 mg</value>
+</form><drugname><value>amphotericin B inj VIAL</value>
+</drugname><strength><value>50 mg</value>
 </strength><frequency><value>DAILY  </value>
 <value>DAILY</value>
 <value>EVERY OTHER DAY</value>

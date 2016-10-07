@@ -2,8 +2,8 @@
 <dose><value>500</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>streptozocin inj VIAL</value>
-</drug><strength><value>1 g</value>
+</form><drugname><value>streptozocin inj VIAL</value>
+</drugname><strength><value>1 g</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value>for 5 days. Dilute dose in 500 mL 0.9% sodium chloride and administer over 1 hour.</value>
 <value>for 5 days. Dilute dose in 100 mL 0.9% sodium chloride and administer over 30 minutes.</value>

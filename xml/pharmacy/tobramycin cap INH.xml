@@ -2,8 +2,8 @@
 <dose><value>112</value>
 </dose><route><value>INH</value>
 </route><form><value>cap INH</value>
-</form><drug><value>tobramycin cap INH</value>
-</drug><strength><value>28 mg</value>
+</form><drugname><value>tobramycin cap INH</value>
+</drugname><strength><value>28 mg</value>
 </strength><frequency><value>Q12H </value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

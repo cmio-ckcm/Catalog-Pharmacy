@@ -2,8 +2,8 @@
 <dose><value>0.5 - 15</value>
 </dose><route><value>PO </value>
 </route><form><value>cap</value>
-</form><drug><value>cycloSPORINE cap</value>
-</drug><strength><value>10 mg</value>
+</form><drugname><value>cycloSPORINE cap</value>
+</drugname><strength><value>10 mg</value>
 <value>100 mg</value>
 <value>25 mg</value>
 <value>50 mg</value>

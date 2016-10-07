@@ -2,8 +2,8 @@
 <dose><value></value>
 </dose><route><value>TOP</value>
 </route><form><value>oint</value>
-</form><drug><value>collagenase oint</value>
-</drug><strength><value>250 unit/g</value>
+</form><drugname><value>collagenase oint</value>
+</drugname><strength><value>250 unit/g</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value>Continue treatment until sufficient debridement has occurred.</value>
 </instruction><volume><value>15 g</value>

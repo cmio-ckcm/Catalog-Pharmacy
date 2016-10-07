@@ -5,8 +5,8 @@
 <value>6</value>
 </dose><route><value>PO</value>
 </route><form><value>cap</value>
-</form><drug><value>rivastigmine cap</value>
-</drug><strength><value>1.5 mg</value>
+</form><drugname><value>rivastigmine cap</value>
+</drugname><strength><value>1.5 mg</value>
 <value>3 mg</value>
 <value>4.5 mg</value>
 <value>6 mg</value>

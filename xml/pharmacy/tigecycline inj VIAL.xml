@@ -6,8 +6,8 @@
 <value>25</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>tigecycline inj VIAL</value>
-</drug><strength><value>50 mg</value>
+</form><drugname><value>tigecycline inj VIAL</value>
+</drugname><strength><value>50 mg</value>
 </strength><frequency><value>ONCE</value>
 <value>Q12H</value>
 </frequency><instruction><value>Initial dose.</value>

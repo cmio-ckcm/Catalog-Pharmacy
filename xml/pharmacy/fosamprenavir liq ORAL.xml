@@ -6,8 +6,8 @@
 <value>300</value>
 </dose><route><value>PO</value>
 </route><form><value>liq ORAL</value>
-</form><drug><value>fosamprenavir liq ORAL</value>
-</drug><strength><value>50 mg/mL</value>
+</form><drugname><value>fosamprenavir liq ORAL</value>
+</drugname><strength><value>50 mg/mL</value>
 </strength><frequency><value>BID</value>
 <value>DAILY</value>
 </frequency><instruction><value></value>

@@ -10,8 +10,8 @@
 <value>1 - 2</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>cisatracurium inj VIAL</value>
-</drug><strength><value>2 mg/mL</value>
+</form><drugname><value>cisatracurium inj VIAL</value>
+</drugname><strength><value>2 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>CONTINUOUS</value>
 <value>Administer by direct injection. (Initial dose)</value>

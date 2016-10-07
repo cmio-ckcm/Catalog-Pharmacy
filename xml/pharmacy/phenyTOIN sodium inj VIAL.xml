@@ -16,8 +16,8 @@
 </dose><route><value>IV</value>
 <value>IV </value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>phenyTOIN sodium inj VIAL</value>
-</drug><strength><value>50 mg/mL</value>
+</form><drugname><value>phenyTOIN sodium inj VIAL</value>
+</drugname><strength><value>50 mg/mL</value>
 </strength><frequency><value>Q4H.</value>
 <value>ONCE</value>
 <value>DAILY</value>

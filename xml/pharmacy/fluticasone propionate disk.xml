@@ -2,8 +2,8 @@
 <dose><value>250</value>
 </dose><route><value>INH</value>
 </route><form><value>disk</value>
-</form><drug><value>fluticasone propionate disk</value>
-</drug><strength><value>250 mcg</value>
+</form><drugname><value>fluticasone propionate disk</value>
+</drugname><strength><value>250 mcg</value>
 </strength><frequency><value>BID</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

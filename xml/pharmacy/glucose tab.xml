@@ -6,8 +6,8 @@
 <value>12</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>glucose tab</value>
-</drug><strength><value>4 g</value>
+</form><drugname><value>glucose tab</value>
+</drugname><strength><value>4 g</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

@@ -10,8 +10,8 @@
 </dose><route><value>IV</value>
 <value>INTRAOSSEOUS</value>
 </route><form><value>inj SYR</value>
-</form><drug><value>sodium bicarbonate inj SYR</value>
-</drug><strength><value>4.2%</value>
+</form><drugname><value>sodium bicarbonate inj SYR</value>
+</drugname><strength><value>4.2%</value>
 <value>8.4%</value>
 </strength><frequency><value>ONCE</value>
 <value>CONTINUOUS</value>

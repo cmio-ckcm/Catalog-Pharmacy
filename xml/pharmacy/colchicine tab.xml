@@ -3,8 +3,8 @@
 <value>0.6</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>colchicine tab</value>
-</drug><strength><value>0.6 mg</value>
+</form><drugname><value>colchicine tab</value>
+</drugname><strength><value>0.6 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>
 </frequency><instruction><value></value>

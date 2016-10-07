@@ -7,8 +7,8 @@
 <value>400</value>
 </dose><route><value>IM</value>
 </route><form><value>inj AMP</value>
-</form><drug><value>zuclopenthixol decanoate inj AMP</value>
-</drug><strength><value>200 mg/mL</value>
+</form><drugname><value>zuclopenthixol decanoate inj AMP</value>
+</drugname><strength><value>200 mg/mL</value>
 </strength><frequency><value>EVERY 2 WEEKS</value>
 </frequency><instruction><value></value>
 </instruction><volume><value>1 mL</value>

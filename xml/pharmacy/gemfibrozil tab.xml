@@ -2,8 +2,8 @@
 <dose><value>600</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>gemfibrozil tab</value>
-</drug><strength><value>600 mg</value>
+</form><drugname><value>gemfibrozil tab</value>
+</drugname><strength><value>600 mg</value>
 </strength><frequency><value>BID</value>
 <value>DAILY</value>
 </frequency><instruction><value>Administer 1 hour before breakfast and supper.</value>

@@ -3,8 +3,8 @@
 <value>9.45</value>
 </dose><route><value>SC</value>
 </route><form><value>inj SYR</value>
-</form><drug><value>buserelin inj SYR</value>
-</drug><strength><value>6.3 mg</value>
+</form><drugname><value>buserelin inj SYR</value>
+</drugname><strength><value>6.3 mg</value>
 <value>9.45 mg</value>
 </strength><frequency><value>EVERY 2 MONTHS</value>
 <value>EVERY 3 MONTHS</value>

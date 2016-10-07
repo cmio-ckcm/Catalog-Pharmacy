@@ -4,8 +4,8 @@
 <value>0.25</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>indomethacin inj VIAL</value>
-</drug><strength><value>1 mg</value>
+</form><drugname><value>indomethacin inj VIAL</value>
+</drugname><strength><value>1 mg</value>
 </strength><frequency><value>ONCE</value>
 <value>Q24H  </value>
 </frequency><instruction><value>POST NATAL AGE &amp;lt; 48 HOURS: INITIAL DOSE 1 of 3 DOSES. Infuse dose intravenously over 20 minutes.</value>

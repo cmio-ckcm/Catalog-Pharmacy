@@ -2,8 +2,8 @@
 <dose><value>50</value>
 </dose><route><value>PO</value>
 </route><form><value>cap</value>
-</form><drug><value>pyridoxyl phosphate cap</value>
-</drug><strength><value>50 mg</value>
+</form><drugname><value>pyridoxyl phosphate cap</value>
+</drugname><strength><value>50 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>
 </frequency><instruction><value></value>

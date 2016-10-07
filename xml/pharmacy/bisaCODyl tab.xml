@@ -2,8 +2,8 @@
 <dose><value>5</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>bisaCODyl tab</value>
-</drug><strength><value>5 mg</value>
+</form><drugname><value>bisaCODyl tab</value>
+</drugname><strength><value>5 mg</value>
 </strength><frequency><value>HS</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

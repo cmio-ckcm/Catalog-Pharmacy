@@ -7,8 +7,8 @@
 <value>INTRACUTANEOUSLY</value>
 <value>SC</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>calcitonin inj VIAL</value>
-</drug><strength><value>200 unit/mL</value>
+</form><drugname><value>calcitonin inj VIAL</value>
+</drugname><strength><value>200 unit/mL</value>
 </strength><frequency><value>Q12H</value>
 <value>Q8H</value>
 <value>Q6H</value>

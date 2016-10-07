@@ -3,8 +3,8 @@
 <value>150</value>
 </dose><route><value>PO</value>
 </route><form><value>cap</value>
-</form><drug><value>etoposide cap</value>
-</drug><strength><value>50 mg</value>
+</form><drugname><value>etoposide cap</value>
+</drugname><strength><value>50 mg</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value>DAY 2 &amp; 3 of 21. DAILY for 2 days.</value>
 <value>DAYS 2 &amp; 3 of 21. DAILY for 2 days.</value>

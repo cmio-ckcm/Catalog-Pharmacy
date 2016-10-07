@@ -4,8 +4,8 @@
 <value>4 -8</value>
 </dose><route><value>PO</value>
 </route><form><value>tab CHEW</value>
-</form><drug><value>phenyTOIN tab CHEW</value>
-</drug><strength><value>50 mg</value>
+</form><drugname><value>phenyTOIN tab CHEW</value>
+</drugname><strength><value>50 mg</value>
 </strength><frequency><value>HS</value>
 <value>BID </value>
 <value>TID </value>

@@ -4,8 +4,8 @@
 <value>3</value>
 </dose><route><value>SL</value>
 </route><form><value>tab SL</value>
-</form><drug><value>buprenorphine-naloxone tab SL</value>
-</drug><strength><value>2 mg-0.5 mg</value>
+</form><drugname><value>buprenorphine-naloxone tab SL</value>
+</drugname><strength><value>2 mg-0.5 mg</value>
 <value>8 mg-2 mg</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value></value>

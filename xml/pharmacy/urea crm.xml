@@ -2,8 +2,8 @@
 <dose><value></value>
 </dose><route><value>TOP </value>
 </route><form><value>crm</value>
-</form><drug><value>urea crm</value>
-</drug><strength><value>10%</value>
+</form><drugname><value>urea crm</value>
+</drugname><strength><value>10%</value>
 <value>20%</value>
 </strength><frequency><value>TID</value>
 <value>BID</value>

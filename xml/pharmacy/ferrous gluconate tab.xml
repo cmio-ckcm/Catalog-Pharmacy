@@ -2,8 +2,8 @@
 <dose><value>300</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>ferrous gluconate tab</value>
-</drug><strength><value>300 mg</value>
+</form><drugname><value>ferrous gluconate tab</value>
+</drugname><strength><value>300 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>
 <value>TID</value>

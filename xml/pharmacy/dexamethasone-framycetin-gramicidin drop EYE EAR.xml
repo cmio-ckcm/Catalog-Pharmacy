@@ -5,8 +5,8 @@
 </dose><route><value>OPHTH</value>
 <value>OTIC</value>
 </route><form><value>drop EYE EAR</value>
-</form><drug><value>dexamethasone-framycetin-gramicidin drop EYE EAR</value>
-</drug><strength><value>0.5 mg-5 mg-0.05 mg/mL</value>
+</form><drugname><value>dexamethasone-framycetin-gramicidin drop EYE EAR</value>
+</drugname><strength><value>0.5 mg-5 mg-0.05 mg/mL</value>
 </strength><frequency><value>Q1H</value>
 <value>Q2H</value>
 <value>TID</value>

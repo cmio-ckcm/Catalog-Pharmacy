@@ -7,8 +7,8 @@
 <value>0.75</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>pramipexole tab</value>
-</drug><strength><value>1 mg</value>
+</form><drugname><value>pramipexole tab</value>
+</drugname><strength><value>1 mg</value>
 <value>1.5 mg</value>
 <value>0.25 mg</value>
 </strength><frequency><value>TID</value>

@@ -4,8 +4,8 @@
 <value>15</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>amikacin inj VIAL</value>
-</drug><strength><value>250 mg/mL</value>
+</form><drugname><value>amikacin inj VIAL</value>
+</drugname><strength><value>250 mg/mL</value>
 </strength><frequency><value>Q8H</value>
 <value>Q12H</value>
 <value>Q24H</value>

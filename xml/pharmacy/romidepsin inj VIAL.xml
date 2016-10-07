@@ -3,8 +3,8 @@
 <value>10</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>romidepsin inj VIAL</value>
-</drug><strength><value>10 mg</value>
+</form><drugname><value>romidepsin inj VIAL</value>
+</drugname><strength><value>10 mg</value>
 </strength><frequency><value>WEEKLY</value>
 </frequency><instruction><value>for 3 doses; DAY 1, 8 &amp; 15 of 28 day cycle. Administer dose diluted in 500 mL sodium chloride 0.9% over 4 hours.</value>
 </instruction><volume><value></value>

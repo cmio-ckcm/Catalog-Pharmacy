@@ -2,8 +2,8 @@
 <dose><value>3</value>
 </dose><route><value>PO</value>
 </route><form><value>packet</value>
-</form><drug><value>fosfomycin packet</value>
-</drug><strength><value>3 g</value>
+</form><drugname><value>fosfomycin packet</value>
+</drugname><strength><value>3 g</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

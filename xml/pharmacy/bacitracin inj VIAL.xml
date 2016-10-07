@@ -3,8 +3,8 @@
 <value>1000</value>
 </dose><route><value>IM</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>bacitracin inj VIAL</value>
-</drug><strength><value>50 000 unit</value>
+</form><drugname><value>bacitracin inj VIAL</value>
+</drugname><strength><value>50 000 unit</value>
 </strength><frequency><value>BID</value>
 <value>TID</value>
 </frequency><instruction><value>Administer daily calculated dose in 2 equally divided doses</value>

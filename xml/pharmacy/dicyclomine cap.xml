@@ -3,8 +3,8 @@
 <value>20</value>
 </dose><route><value>PO</value>
 </route><form><value>cap</value>
-</form><drug><value>dicyclomine cap</value>
-</drug><strength><value>10 mg</value>
+</form><drugname><value>dicyclomine cap</value>
+</drugname><strength><value>10 mg</value>
 </strength><frequency><value>QID</value>
 <value>Q4H</value>
 </frequency><instruction><value></value>

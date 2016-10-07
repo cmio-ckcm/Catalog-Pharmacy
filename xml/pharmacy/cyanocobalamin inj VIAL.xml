@@ -3,8 +3,8 @@
 </dose><route><value>IM</value>
 <value>SC</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>cyanocobalamin inj VIAL</value>
-</drug><strength><value>1000 mcg/mL</value>
+</form><drugname><value>cyanocobalamin inj VIAL</value>
+</drugname><strength><value>1000 mcg/mL</value>
 </strength><frequency><value>DAILY</value>
 <value>WEEKLY</value>
 <value>MONTHLY</value>

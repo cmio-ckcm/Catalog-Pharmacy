@@ -5,8 +5,8 @@
 <value>0.5 - 1</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>dexmedetomidine inj VIAL</value>
-</drug><strength><value>100 mcg/mL</value>
+</form><drugname><value>dexmedetomidine inj VIAL</value>
+</drugname><strength><value>100 mcg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>CONTINUOUS</value>
 </frequency><instruction><value>LOADING DOSE: Administer over 10 to 20 minutes.</value>

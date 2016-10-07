@@ -9,8 +9,8 @@
 <value>PO</value>
 <value>PR</value>
 </route><form><value>liq ORAL</value>
-</form><drug><value>sodium polystyrene sulfonate liq ORAL</value>
-</drug><strength><value>250 mg/mL</value>
+</form><drugname><value>sodium polystyrene sulfonate liq ORAL</value>
+</drugname><strength><value>250 mg/mL</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>
 <value>TID</value>

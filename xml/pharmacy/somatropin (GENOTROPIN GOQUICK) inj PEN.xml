@@ -2,8 +2,8 @@
 <dose><value>0.16 - 0.24</value>
 </dose><route><value>SC</value>
 </route><form><value>inj PEN</value>
-</form><drug><value>somatropin (GENOTROPIN GOQUICK) inj PEN</value>
-</drug><strength><value>12 mg</value>
+</form><drugname><value>somatropin (GENOTROPIN GOQUICK) inj PEN</value>
+</drugname><strength><value>12 mg</value>
 <value>5.3 mg</value>
 </strength><frequency><value>SIX TIMES WEEKLY</value>
 <value>DAILY</value>

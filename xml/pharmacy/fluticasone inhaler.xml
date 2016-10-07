@@ -4,8 +4,8 @@
 <value>200</value>
 </dose><route><value>INH</value>
 </route><form><value>inhaler</value>
-</form><drug><value>fluticasone inhaler</value>
-</drug><strength><value>50 mcg</value>
+</form><drugname><value>fluticasone inhaler</value>
+</drugname><strength><value>50 mcg</value>
 </strength><frequency><value>BID</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

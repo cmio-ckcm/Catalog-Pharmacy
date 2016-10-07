@@ -5,8 +5,8 @@
 <value>5</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>rosuvastatin tab</value>
-</drug><strength><value>10 mg</value>
+</form><drugname><value>rosuvastatin tab</value>
+</drugname><strength><value>10 mg</value>
 <value>20 mg</value>
 <value>40 mg</value>
 <value>5 mg</value>

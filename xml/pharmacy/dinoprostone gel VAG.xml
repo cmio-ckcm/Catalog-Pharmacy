@@ -4,8 +4,8 @@
 <value>2</value>
 </dose><route><value>VAGINAL</value>
 </route><form><value>gel VAG</value>
-</form><drug><value>dinoprostone gel VAG</value>
-</drug><strength><value>0.5 mg</value>
+</form><drugname><value>dinoprostone gel VAG</value>
+</drugname><strength><value>0.5 mg</value>
 <value>1 mg</value>
 <value>2 mg</value>
 </strength><frequency><value>ONCE</value>

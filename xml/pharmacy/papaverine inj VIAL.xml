@@ -5,8 +5,8 @@
 <value>IV</value>
 <value>SC</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>papaverine inj VIAL</value>
-</drug><strength><value>32.5 mg/mL</value>
+</form><drugname><value>papaverine inj VIAL</value>
+</drugname><strength><value>32.5 mg/mL</value>
 </strength><frequency><value>Q3H</value>
 <value>Q6H</value>
 </frequency><instruction><value></value>

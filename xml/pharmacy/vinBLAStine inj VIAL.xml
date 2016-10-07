@@ -7,8 +7,8 @@
 <value>6</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>vinBLAStine inj VIAL</value>
-</drug><strength><value>1 mg/mL</value>
+</form><drugname><value>vinBLAStine inj VIAL</value>
+</drugname><strength><value>1 mg/mL</value>
 </strength><frequency><value>WEEKLY</value>
 <value>ONCE</value>
 <value>DAILY</value>

@@ -2,8 +2,8 @@
 <dose><value></value>
 </dose><route><value>TOP</value>
 </route><form><value>crm</value>
-</form><drug><value>betamethasone valerate crm</value>
-</drug><strength><value>0.05%</value>
+</form><drugname><value>betamethasone valerate crm</value>
+</drugname><strength><value>0.05%</value>
 <value>0.1%</value>
 </strength><frequency><value>BID</value>
 <value>TID</value>

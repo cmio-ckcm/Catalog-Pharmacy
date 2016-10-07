@@ -3,8 +3,8 @@
 <value>4</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>cyproheptadine tab</value>
-</drug><strength><value>4 mg</value>
+</form><drugname><value>cyproheptadine tab</value>
+</drugname><strength><value>4 mg</value>
 </strength><frequency><value>TID</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

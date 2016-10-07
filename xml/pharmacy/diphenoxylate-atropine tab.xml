@@ -3,8 +3,8 @@
 <value>2</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>diphenoxylate-atropine tab</value>
-</drug><strength><value>2.5 mg-0.025 mg</value>
+</form><drugname><value>diphenoxylate-atropine tab</value>
+</drugname><strength><value>2.5 mg-0.025 mg</value>
 </strength><frequency><value>BID</value>
 <value>TID</value>
 <value>QID</value>

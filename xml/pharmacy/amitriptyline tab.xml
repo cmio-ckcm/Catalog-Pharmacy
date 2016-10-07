@@ -9,8 +9,8 @@
 <value>150</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>amitriptyline tab</value>
-</drug><strength><value>10 mg</value>
+</form><drugname><value>amitriptyline tab</value>
+</drugname><strength><value>10 mg</value>
 <value>25 mg</value>
 <value>50 mg</value>
 <value>75 mg</value>

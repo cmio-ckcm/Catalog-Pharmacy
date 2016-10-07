@@ -2,8 +2,8 @@
 <dose><value>1</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>emtricitabine-rilpivirine-tenofovir tab</value>
-</drug><strength><value>200 mg-25 mg-300 mg</value>
+</form><drugname><value>emtricitabine-rilpivirine-tenofovir tab</value>
+</drugname><strength><value>200 mg-25 mg-300 mg</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value>Administer with a meal.</value>
 </instruction><volume><value></value>

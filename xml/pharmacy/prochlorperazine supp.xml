@@ -3,8 +3,8 @@
 <value>5</value>
 </dose><route><value>PR</value>
 </route><form><value>supp</value>
-</form><drug><value>prochlorperazine supp</value>
-</drug><strength><value>10 mg</value>
+</form><drugname><value>prochlorperazine supp</value>
+</drugname><strength><value>10 mg</value>
 </strength><frequency><value>TID</value>
 <value>QID</value>
 <value>BID</value>

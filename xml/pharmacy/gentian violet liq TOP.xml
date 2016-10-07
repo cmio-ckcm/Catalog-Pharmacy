@@ -2,8 +2,8 @@
 <dose><value></value>
 </dose><route><value>TOP</value>
 </route><form><value>liq TOP</value>
-</form><drug><value>gentian violet liq TOP</value>
-</drug><strength><value>1%</value>
+</form><drugname><value>gentian violet liq TOP</value>
+</drugname><strength><value>1%</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>
 </frequency><instruction><value>Apply to the affected area.</value>

@@ -3,8 +3,8 @@
 <value>2.5 - 5</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>caffeine citrate inj VIAL</value>
-</drug><strength><value>20 mg/mL</value>
+</form><drugname><value>caffeine citrate inj VIAL</value>
+</drugname><strength><value>20 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>Q24H</value>
 </frequency><instruction><value>LOADING DOSE.</value>

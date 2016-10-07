@@ -5,8 +5,8 @@
 <value>600</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>ibuprofen tab</value>
-</drug><strength><value>200 mg</value>
+</form><drugname><value>ibuprofen tab</value>
+</drugname><strength><value>200 mg</value>
 <value>300 mg</value>
 <value>400 mg</value>
 <value>600 mg</value>

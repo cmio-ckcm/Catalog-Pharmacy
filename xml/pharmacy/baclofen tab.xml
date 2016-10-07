@@ -4,8 +4,8 @@
 <value>20</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>baclofen tab</value>
-</drug><strength><value>10 mg</value>
+</form><drugname><value>baclofen tab</value>
+</drugname><strength><value>10 mg</value>
 <value>20 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>

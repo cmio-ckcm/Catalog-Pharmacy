@@ -5,8 +5,8 @@
 <value>4</value>
 </dose><route><value>PO</value>
 </route><form><value>cap</value>
-</form><drug><value>pomalidomide cap</value>
-</drug><strength><value>1 mg </value>
+</form><drugname><value>pomalidomide cap</value>
+</drugname><strength><value>1 mg </value>
 <value>2 mg</value>
 <value>3 mg</value>
 <value>4 mg</value>

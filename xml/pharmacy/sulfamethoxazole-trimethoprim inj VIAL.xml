@@ -6,8 +6,8 @@
 <value>150</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>sulfamethoxazole-trimethoprim inj VIAL</value>
-</drug><strength><value>80 mg-16 mg/mL</value>
+</form><drugname><value>sulfamethoxazole-trimethoprim inj VIAL</value>
+</drugname><strength><value>80 mg-16 mg/mL</value>
 </strength><frequency><value>Q12H</value>
 <value>Q8H</value>
 <value>Q6H</value>

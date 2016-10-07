@@ -4,8 +4,8 @@
 <value>100</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>acebutolol tab</value>
-</drug><strength><value>200 mg</value>
+</form><drugname><value>acebutolol tab</value>
+</drugname><strength><value>200 mg</value>
 <value>100 mg</value>
 </strength><frequency><value>BID</value>
 <value>DAILY</value>

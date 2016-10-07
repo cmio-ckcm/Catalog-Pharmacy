@@ -10,8 +10,8 @@
 <value>6 - 40</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>sirolimus tab</value>
-</drug><strength><value>1 mg </value>
+</form><drugname><value>sirolimus tab</value>
+</drugname><strength><value>1 mg </value>
 </strength><frequency><value>DAILY</value>
 <value>ONCE</value>
 </frequency><instruction><value></value>

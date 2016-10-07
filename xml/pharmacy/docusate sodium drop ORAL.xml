@@ -2,8 +2,8 @@
 <dose><value>100</value>
 </dose><route><value>PO</value>
 </route><form><value>drop ORAL</value>
-</form><drug><value>docusate sodium drop ORAL</value>
-</drug><strength><value>10 mg/mL</value>
+</form><drugname><value>docusate sodium drop ORAL</value>
+</drugname><strength><value>10 mg/mL</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>
 <value>TID</value>

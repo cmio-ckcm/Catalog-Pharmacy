@@ -4,8 +4,8 @@
 </dose><route><value>IV</value>
 <value>IV </value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>multivitamin, child inj VIAL</value>
-</drug><strength><value></value>
+</form><drugname><value>multivitamin, child inj VIAL</value>
+</drugname><strength><value></value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value></value>
 </instruction><volume><value>6 mL</value>

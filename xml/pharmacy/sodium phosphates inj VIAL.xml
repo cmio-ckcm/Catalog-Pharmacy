@@ -10,8 +10,8 @@
 <value>0.08 - 0.36</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>sodium phosphates inj VIAL</value>
-</drug><strength><value>3 mmol/mL</value>
+</form><drugname><value>sodium phosphates inj VIAL</value>
+</drugname><strength><value>3 mmol/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>DAILY</value>
 </frequency><instruction><value>Administer dose over 4 to 6 hours.</value>

@@ -2,8 +2,8 @@
 <dose><value>300</value>
 </dose><route><value>IV</value>
 </route><form><value>inj AMP</value>
-</form><drug><value>clodronate inj AMP</value>
-</drug><strength><value>60 mg/mL</value>
+</form><drugname><value>clodronate inj AMP</value>
+</drugname><strength><value>60 mg/mL</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value></value>
 </instruction><volume><value>5 mL</value>

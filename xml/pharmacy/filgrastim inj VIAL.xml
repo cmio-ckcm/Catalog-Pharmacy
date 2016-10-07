@@ -5,8 +5,8 @@
 </dose><route><value>IV</value>
 <value>SC</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>filgrastim inj VIAL</value>
-</drug><strength><value>300 mcg</value>
+</form><drugname><value>filgrastim inj VIAL</value>
+</drugname><strength><value>300 mcg</value>
 <value>480 mcg</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value>DAY +7. Administer until ANC greater than 1X109/L for greater than 24 hours. May administer by SC route.</value>

@@ -3,8 +3,8 @@
 <value>150</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>dabigatran tab</value>
-</drug><strength><value>110 mg</value>
+</form><drugname><value>dabigatran tab</value>
+</drugname><strength><value>110 mg</value>
 <value>150 mg</value>
 </strength><frequency><value>BID</value>
 </frequency><instruction><value></value>

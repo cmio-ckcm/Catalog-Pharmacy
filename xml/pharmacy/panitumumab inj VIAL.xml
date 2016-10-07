@@ -2,8 +2,8 @@
 <dose><value>6</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>panitumumab inj VIAL</value>
-</drug><strength><value>20 mg/mL</value>
+</form><drugname><value>panitumumab inj VIAL</value>
+</drugname><strength><value>20 mg/mL</value>
 </strength><frequency><value>EVERY 2 WEEKS</value>
 </frequency><instruction><value></value>
 </instruction><volume><value>5 mL</value>

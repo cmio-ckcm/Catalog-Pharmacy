@@ -3,8 +3,8 @@
 <value>200</value>
 </dose><route><value>PO</value>
 </route><form><value>cap</value>
-</form><drug><value>progresterone cap</value>
-</drug><strength><value>100 mg</value>
+</form><drugname><value>progresterone cap</value>
+</drugname><strength><value>100 mg</value>
 </strength><frequency><value>HS</value>
 <value>DAILY</value>
 </frequency><instruction><value></value>

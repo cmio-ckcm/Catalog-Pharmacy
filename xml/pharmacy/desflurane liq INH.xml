@@ -3,8 +3,8 @@
 <value>1.7 - 7.5</value>
 </dose><route><value>INH</value>
 </route><form><value>liq INH</value>
-</form><drug><value>desflurane liq INH</value>
-</drug><strength><value>100%</value>
+</form><drugname><value>desflurane liq INH</value>
+</drugname><strength><value>100%</value>
 </strength><frequency><value>CONTINUOUS</value>
 </frequency><instruction><value>Administered by inhalation in combination with 100% oxygen</value>
 <value>Administered by inhalation in combination with 60% N2O/40% oxygen</value>

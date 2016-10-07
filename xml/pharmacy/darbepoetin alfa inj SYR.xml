@@ -13,8 +13,8 @@
 </dose><route><value>IV</value>
 <value>SC</value>
 </route><form><value>inj SYR</value>
-</form><drug><value>darbepoetin alfa inj SYR</value>
-</drug><strength><value>10 mcg</value>
+</form><drugname><value>darbepoetin alfa inj SYR</value>
+</drugname><strength><value>10 mcg</value>
 <value>100 mcg</value>
 <value>130 mcg</value>
 <value>150 mcg</value>

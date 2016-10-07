@@ -5,8 +5,8 @@
 <value>8</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>mitoXANTRONE inj VIAL</value>
-</drug><strength><value>2 mg/mL</value>
+</form><drugname><value>mitoXANTRONE inj VIAL</value>
+</drugname><strength><value>2 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>DAILY</value>
 </frequency><instruction><value>Administer dose diluted in 50 mL 0.9% sodium chloride over 15 to 30 minutes.</value>

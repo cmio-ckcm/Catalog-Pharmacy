@@ -4,8 +4,8 @@
 <value>5</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>procyclidine tab</value>
-</drug><strength><value>2.5 mg</value>
+</form><drugname><value>procyclidine tab</value>
+</drugname><strength><value>2.5 mg</value>
 <value>5 mg</value>
 </strength><frequency><value>TID</value>
 <value>DAILY</value>

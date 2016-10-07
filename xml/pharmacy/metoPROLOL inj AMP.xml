@@ -3,8 +3,8 @@
 <value></value>
 </dose><route><value>IV</value>
 </route><form><value>inj AMP</value>
-</form><drug><value>metoPROLOL inj AMP</value>
-</drug><strength><value>1 mg/mL</value>
+</form><drugname><value>metoPROLOL inj AMP</value>
+</drugname><strength><value>1 mg/mL</value>
 </strength><frequency><value>EVERY 5 MINUTES</value>
 <value>Q6H</value>
 </frequency><instruction><value>Administer dose by direct injection at 5 minute intervals, up to a maximum of 15 mg (3 doses) according to the patient&amp;apos;s tolerance and response.</value>

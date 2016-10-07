@@ -5,8 +5,8 @@
 </dose><route><value>PO</value>
 <value>PO/IV</value>
 </route><form><value>liq ORAL</value>
-</form><drug><value>ondansetron liq ORAL</value>
-</drug><strength><value>0.8 mg/mL</value>
+</form><drugname><value>ondansetron liq ORAL</value>
+</drugname><strength><value>0.8 mg/mL</value>
 </strength><frequency><value>Q8H</value>
 <value>BID</value>
 <value>ONCE</value>

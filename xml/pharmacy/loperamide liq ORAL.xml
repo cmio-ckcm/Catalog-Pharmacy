@@ -3,8 +3,8 @@
 <value>4</value>
 </dose><route><value>PO</value>
 </route><form><value>liq ORAL</value>
-</form><drug><value>loperamide liq ORAL</value>
-</drug><strength><value>0.2 mg/mL</value>
+</form><drugname><value>loperamide liq ORAL</value>
+</drugname><strength><value>0.2 mg/mL</value>
 </strength><frequency><value>BID</value>
 <value>TID</value>
 <value>QID</value>

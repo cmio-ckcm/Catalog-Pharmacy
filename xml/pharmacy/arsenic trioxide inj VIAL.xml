@@ -2,8 +2,8 @@
 <dose><value>0.15</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>arsenic trioxide inj VIAL</value>
-</drug><strength><value>1 mg/mL</value>
+</form><drugname><value>arsenic trioxide inj VIAL</value>
+</drugname><strength><value>1 mg/mL</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value>Dilute dose in 250 mL 0.9% sodium chloride and administer over 1 to 2 hours.</value>
 </instruction><volume><value>10 mL</value>

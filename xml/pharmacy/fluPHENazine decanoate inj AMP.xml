@@ -3,8 +3,8 @@
 <value>25</value>
 </dose><route><value>IM</value>
 </route><form><value>inj AMP</value>
-</form><drug><value>fluPHENazine decanoate inj AMP</value>
-</drug><strength><value>100 mg/mL</value>
+</form><drugname><value>fluPHENazine decanoate inj AMP</value>
+</drugname><strength><value>100 mg/mL</value>
 </strength><frequency><value>EVERY 2 WEEKS</value>
 <value>EVERY 3 WEEKS</value>
 </frequency><instruction><value>Administer by deep intramuscular injection.</value>

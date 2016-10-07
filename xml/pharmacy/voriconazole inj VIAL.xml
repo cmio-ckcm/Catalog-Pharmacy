@@ -4,8 +4,8 @@
 <value>3</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>voriconazole inj VIAL</value>
-</drug><strength><value>200 mg</value>
+</form><drugname><value>voriconazole inj VIAL</value>
+</drugname><strength><value>200 mg</value>
 </strength><frequency><value>Q12H</value>
 <value>Q12H  </value>
 </frequency><instruction><value>for 2 doses.</value>

@@ -2,8 +2,8 @@
 <dose><value>10</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>hyoscine butylbromide tab</value>
-</drug><strength><value>10 mg</value>
+</form><drugname><value>hyoscine butylbromide tab</value>
+</drugname><strength><value>10 mg</value>
 </strength><frequency><value>TID</value>
 <value>QID</value>
 <value>Q6H</value>

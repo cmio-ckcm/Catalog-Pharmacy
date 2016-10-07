@@ -8,8 +8,8 @@
 <value>25</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>bendamustine inj VIAL</value>
-</drug><strength><value>100 mg</value>
+</form><drugname><value>bendamustine inj VIAL</value>
+</drugname><strength><value>100 mg</value>
 <value>25 mg</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value>For 2 days (DAY 1 &amp; 2 of 28 day cycle). Administer dose over 60 minutes.</value>

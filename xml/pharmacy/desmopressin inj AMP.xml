@@ -9,8 +9,8 @@
 <value>SC</value>
 <value>IM</value>
 </route><form><value>inj AMP</value>
-</form><drug><value>desmopressin inj AMP</value>
-</drug><strength><value>15 mcg/mL</value>
+</form><drugname><value>desmopressin inj AMP</value>
+</drugname><strength><value>15 mcg/mL</value>
 <value>4 mcg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>DAILY</value>

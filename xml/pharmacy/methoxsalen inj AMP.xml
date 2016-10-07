@@ -2,8 +2,8 @@
 <dose><value></value>
 </dose><route><value></value>
 </route><form><value>inj AMP</value>
-</form><drug><value>methoxsalen inj AMP</value>
-</drug><strength><value>20 mcg/mL</value>
+</form><drugname><value>methoxsalen inj AMP</value>
+</drugname><strength><value>20 mcg/mL</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value>Add dose to recirculation bag prior to photoactivation phase.</value>
 </instruction><volume><value>10 mL</value>

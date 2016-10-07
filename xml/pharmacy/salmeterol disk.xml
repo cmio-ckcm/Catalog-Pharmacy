@@ -2,8 +2,8 @@
 <dose><value>50</value>
 </dose><route><value>INH</value>
 </route><form><value>disk</value>
-</form><drug><value>salmeterol disk</value>
-</drug><strength><value>50 mcg</value>
+</form><drugname><value>salmeterol disk</value>
+</drugname><strength><value>50 mcg</value>
 </strength><frequency><value>BID</value>
 </frequency><instruction><value></value>
 </instruction><volume><value>60 dose</value>

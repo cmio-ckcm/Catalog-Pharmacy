@@ -3,8 +3,8 @@
 <value>900</value>
 </dose><route><value>PO</value>
 </route><form><value>liq ORAL</value>
-</form><drug><value>valGANciclovir liq ORAL</value>
-</drug><strength><value>50 mg/mL</value>
+</form><drugname><value>valGANciclovir liq ORAL</value>
+</drugname><strength><value>50 mg/mL</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>
 <value>EVERY OTHER DAY</value>

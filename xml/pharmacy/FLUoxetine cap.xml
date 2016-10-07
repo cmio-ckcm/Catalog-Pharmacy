@@ -6,8 +6,8 @@
 <value>60</value>
 </dose><route><value>PO</value>
 </route><form><value>cap</value>
-</form><drug><value>FLUoxetine cap</value>
-</drug><strength><value>10 mg</value>
+</form><drugname><value>FLUoxetine cap</value>
+</drugname><strength><value>10 mg</value>
 <value>20 mg</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value></value>

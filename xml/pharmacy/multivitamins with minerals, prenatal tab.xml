@@ -2,8 +2,8 @@
 <dose><value>1</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>multivitamins with minerals, prenatal tab</value>
-</drug><strength><value></value>
+</form><drugname><value>multivitamins with minerals, prenatal tab</value>
+</drugname><strength><value></value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

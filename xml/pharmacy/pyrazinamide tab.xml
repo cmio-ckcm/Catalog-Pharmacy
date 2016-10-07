@@ -10,8 +10,8 @@
 <value>20 - 40</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>pyrazinamide tab</value>
-</drug><strength><value>500 mg</value>
+</form><drugname><value>pyrazinamide tab</value>
+</drugname><strength><value>500 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>TWO TIMES WEEKLY</value>
 <value>THREE TIMES WEEKLY</value>

@@ -10,8 +10,8 @@
 </dose><route><value>EPIDURAL</value>
 <value>INFILTRATION</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>BUPivacaine inj VIAL</value>
-</drug><strength><value>0.25%</value>
+</form><drugname><value>BUPivacaine inj VIAL</value>
+</drugname><strength><value>0.25%</value>
 <value>0.5%</value>
 <value>0.75%</value>
 </strength><frequency><value>ONCE</value>

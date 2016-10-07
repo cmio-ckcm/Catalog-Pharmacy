@@ -5,8 +5,8 @@
 <value>200</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>etravirine tab</value>
-</drug><strength><value>100 mg</value>
+</form><drugname><value>etravirine tab</value>
+</drugname><strength><value>100 mg</value>
 <value>200 mg</value>
 </strength><frequency><value>BID</value>
 </frequency><instruction><value>Administer after a meal.</value>

@@ -4,8 +4,8 @@
 <value>5</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>oxyCODONE (short acting) tab</value>
-</drug><strength><value>10 mg</value>
+</form><drugname><value>oxyCODONE (short acting) tab</value>
+</drugname><strength><value>10 mg</value>
 <value>20 mg</value>
 <value>5 mg</value>
 </strength><frequency><value>Q4H</value>

@@ -4,8 +4,8 @@
 <value>1875</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>pegaspargase inj VIAL</value>
-</drug><strength><value>750 unit/mL</value>
+</form><drugname><value>pegaspargase inj VIAL</value>
+</drugname><strength><value>750 unit/mL</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value></value>
 </instruction><volume><value>5 mL</value>

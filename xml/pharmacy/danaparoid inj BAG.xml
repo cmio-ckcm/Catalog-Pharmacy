@@ -5,8 +5,8 @@
 <value>150</value>
 </dose><route><value>IV</value>
 </route><form><value>inj BAG</value>
-</form><drug><value>danaparoid inj BAG</value>
-</drug><strength><value>18 unit/mL</value>
+</form><drugname><value>danaparoid inj BAG</value>
+</drugname><strength><value>18 unit/mL</value>
 <value>9 unit/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>CONTINUOUS</value>

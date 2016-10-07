@@ -4,8 +4,8 @@
 <value>500</value>
 </dose><route><value>IV</value>
 </route><form><value>inj BAG</value>
-</form><drug><value>potassium chloride in sodium chloride 0.9% inj BAG</value>
-</drug><strength><value>20 mmol</value>
+</form><drugname><value>potassium chloride in sodium chloride 0.9% inj BAG</value>
+</drugname><strength><value>20 mmol</value>
 <value>40 mmol</value>
 </strength><frequency><value>CONTINUOUS</value>
 <value>ONCE</value>

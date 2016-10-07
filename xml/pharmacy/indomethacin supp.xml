@@ -3,8 +3,8 @@
 <value>50</value>
 </dose><route><value>PR</value>
 </route><form><value>supp</value>
-</form><drug><value>indomethacin supp</value>
-</drug><strength><value>100 mg</value>
+</form><drugname><value>indomethacin supp</value>
+</drugname><strength><value>100 mg</value>
 <value>50 mg</value>
 </strength><frequency><value>HS</value>
 <value>BID</value>

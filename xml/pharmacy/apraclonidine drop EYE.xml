@@ -3,8 +3,8 @@
 <value>2</value>
 </dose><route><value>OPHTH</value>
 </route><form><value>drop EYE</value>
-</form><drug><value>apraclonidine drop EYE</value>
-</drug><strength><value>0.5%</value>
+</form><drugname><value>apraclonidine drop EYE</value>
+</drugname><strength><value>0.5%</value>
 </strength><frequency><value>TID</value>
 </frequency><instruction><value>Instill one drop in LEFT eye TID.</value>
 <value>Instill two drops in LEFT eye TID.</value>

@@ -6,8 +6,8 @@
 <value>60</value>
 </dose><route><value>PO</value>
 </route><form><value>liq ORAL</value>
-</form><drug><value>omeprazole liq ORAL</value>
-</drug><strength><value>2 mg/mL</value>
+</form><drugname><value>omeprazole liq ORAL</value>
+</drugname><strength><value>2 mg/mL</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>
 </frequency><instruction><value></value>

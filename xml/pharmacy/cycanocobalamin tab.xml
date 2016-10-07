@@ -5,8 +5,8 @@
 <value>500</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>cycanocobalamin tab</value>
-</drug><strength><value>1000 mcg</value>
+</form><drugname><value>cycanocobalamin tab</value>
+</drugname><strength><value>1000 mcg</value>
 <value>250 mcg</value>
 <value>500 mcg</value>
 </strength><frequency><value>DAILY</value>

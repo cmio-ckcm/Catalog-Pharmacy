@@ -2,8 +2,8 @@
 <dose><value>510</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>ferumoxytol inj VIAL</value>
-</drug><strength><value>510 mg</value>
+</form><drugname><value>ferumoxytol inj VIAL</value>
+</drugname><strength><value>510 mg</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value></value>
 <value>for 2 doses, with second dose repeated on Day 2.</value>

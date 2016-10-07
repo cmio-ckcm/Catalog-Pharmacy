@@ -6,8 +6,8 @@
 <value>0.15 - 0.2</value>
 </dose><route><value>PO</value>
 </route><form><value>cap</value>
-</form><drug><value>tacrolimus cap</value>
-</drug><strength><value>0.5 mg</value>
+</form><drugname><value>tacrolimus cap</value>
+</drugname><strength><value>0.5 mg</value>
 <value>1 mg </value>
 <value>5 mg </value>
 </strength><frequency><value>Q12H</value>

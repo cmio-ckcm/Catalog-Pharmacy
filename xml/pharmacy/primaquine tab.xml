@@ -4,8 +4,8 @@
 <value>0.39</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>primaquine tab</value>
-</drug><strength><value>26.3 mg</value>
+</form><drugname><value>primaquine tab</value>
+</drugname><strength><value>26.3 mg</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value>for 14 days.</value>
 </instruction><volume><value></value>

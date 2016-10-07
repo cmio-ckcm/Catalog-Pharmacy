@@ -4,8 +4,8 @@
 <value>150</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>cyproterone tab</value>
-</drug><strength><value>50 mg</value>
+</form><drugname><value>cyproterone tab</value>
+</drugname><strength><value>50 mg</value>
 </strength><frequency><value>BID</value>
 <value>TID</value>
 </frequency><instruction><value></value>

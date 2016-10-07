@@ -2,8 +2,8 @@
 <dose><value>1</value>
 </dose><route><value>OPHTH</value>
 </route><form><value>gel EYE</value>
-</form><drug><value>carbomer-disodium edetate-sorbitol gel EYE</value>
-</drug><strength><value>10 g</value>
+</form><drugname><value>carbomer-disodium edetate-sorbitol gel EYE</value>
+</drugname><strength><value>10 g</value>
 </strength><frequency><value>TID</value>
 <value>QID</value>
 </frequency><instruction><value>Instill into affected eye(s).</value>

@@ -2,8 +2,8 @@
 <dose><value></value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>methylPREDNISolone tab</value>
-</drug><strength><value>4 mg</value>
+</form><drugname><value>methylPREDNISolone tab</value>
+</drugname><strength><value>4 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>
 <value>TID</value>

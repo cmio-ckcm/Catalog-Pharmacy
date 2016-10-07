@@ -27,8 +27,8 @@
 </dose><route><value>EPIDURAL</value>
 <value>INFILTRATION</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>lidocaine-epiNEPHrine inj VIAL</value>
-</drug><strength><value>1%-1:100 000</value>
+</form><drugname><value>lidocaine-epiNEPHrine inj VIAL</value>
+</drugname><strength><value>1%-1:100 000</value>
 <value>1%-1:200 000</value>
 <value>2%-1:100 000</value>
 <value>2%-1:200 000</value>

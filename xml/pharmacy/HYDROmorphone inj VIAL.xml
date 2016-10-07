@@ -23,8 +23,8 @@
 <value>SC</value>
 <value></value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>HYDROmorphone inj VIAL</value>
-</drug><strength><value>10 mg/mL</value>
+</form><drugname><value>HYDROmorphone inj VIAL</value>
+</drugname><strength><value>10 mg/mL</value>
 <value>2 mg/mL</value>
 <value>50 mg/mL</value>
 </strength><frequency><value>CONTINUOUS</value>

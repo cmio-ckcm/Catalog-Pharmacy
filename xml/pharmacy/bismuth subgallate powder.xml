@@ -3,8 +3,8 @@
 <value>400</value>
 </dose><route><value>PO</value>
 </route><form><value>powder</value>
-</form><drug><value>bismuth subgallate powder</value>
-</drug><strength><value>1 g</value>
+</form><drugname><value>bismuth subgallate powder</value>
+</drugname><strength><value>1 g</value>
 </strength><frequency><value>QID  </value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

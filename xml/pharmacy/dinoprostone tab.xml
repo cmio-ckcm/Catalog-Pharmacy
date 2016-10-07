@@ -2,8 +2,8 @@
 <dose><value>0.5</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>dinoprostone tab</value>
-</drug><strength><value>0.5 mg</value>
+</form><drugname><value>dinoprostone tab</value>
+</drugname><strength><value>0.5 mg</value>
 </strength><frequency><value>ONCE</value>
 <value>Q1H</value>
 </frequency><instruction><value>initial dose; repeat dose in 60 minutes.</value>

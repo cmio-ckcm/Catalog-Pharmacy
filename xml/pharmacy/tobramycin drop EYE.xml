@@ -3,8 +3,8 @@
 <value>2</value>
 </dose><route><value>OPHTH</value>
 </route><form><value>drop EYE</value>
-</form><drug><value>tobramycin drop EYE</value>
-</drug><strength><value>0.3%</value>
+</form><drugname><value>tobramycin drop EYE</value>
+</drugname><strength><value>0.3%</value>
 </strength><frequency><value>Q4H</value>
 </frequency><instruction><value>Instill into LEFT eye, while awake.</value>
 <value>Instill into RIGHT eye, while awake.</value>

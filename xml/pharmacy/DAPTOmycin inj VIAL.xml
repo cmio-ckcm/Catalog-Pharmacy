@@ -3,8 +3,8 @@
 <value>6</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>DAPTOmycin inj VIAL</value>
-</drug><strength><value>500 mg</value>
+</form><drugname><value>DAPTOmycin inj VIAL</value>
+</drugname><strength><value>500 mg</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

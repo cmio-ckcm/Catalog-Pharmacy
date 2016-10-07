@@ -4,8 +4,8 @@
 <value></value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>nitroglycerin inj VIAL</value>
-</drug><strength><value>5 mg/mL</value>
+</form><drugname><value>nitroglycerin inj VIAL</value>
+</drugname><strength><value>5 mg/mL</value>
 </strength><frequency><value>CONTINUOUS</value>
 <value>EVERY 3 MINUTES</value>
 </frequency><instruction><value>Administer by continuous infusion. Titrate dose every 3 to 5 minutes as required in increments of 0.5 to 1 mcg/kg/minute.</value>

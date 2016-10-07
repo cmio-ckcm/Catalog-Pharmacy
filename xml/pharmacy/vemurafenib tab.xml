@@ -4,8 +4,8 @@
 <value>480</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>vemurafenib tab</value>
-</drug><strength><value>240 mg</value>
+</form><drugname><value>vemurafenib tab</value>
+</drugname><strength><value>240 mg</value>
 </strength><frequency><value>BID</value>
 </frequency><instruction><value>for 28 days. Administer in the morning and evening.</value>
 </instruction><volume><value></value>

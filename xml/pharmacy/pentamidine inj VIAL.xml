@@ -7,8 +7,8 @@
 <value>IV</value>
 <value>IV </value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>pentamidine inj VIAL</value>
-</drug><strength><value>300 mg</value>
+</form><drugname><value>pentamidine inj VIAL</value>
+</drugname><strength><value>300 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>EVERY 2 WEEKS</value>
 <value>EVERY 3 WEEKS</value>

@@ -13,8 +13,8 @@
 <value>IV</value>
 <value>SC</value>
 </route><form><value>inj SYR</value>
-</form><drug><value>glucagon inj SYR</value>
-</drug><strength><value>1 mg</value>
+</form><drugname><value>glucagon inj SYR</value>
+</drugname><strength><value>1 mg</value>
 </strength><frequency><value>ONCE</value>
 <value>CONTINUOUS</value>
 </frequency><instruction><value>May repeat dose if necessary.</value>

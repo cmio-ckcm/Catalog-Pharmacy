@@ -3,8 +3,8 @@
 </dose><route><value>IV</value>
 <value>SC</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>treprostinil inj VIAL</value>
-</drug><strength><value>1 mg/mL</value>
+</form><drugname><value>treprostinil inj VIAL</value>
+</drugname><strength><value>1 mg/mL</value>
 <value>10 mg/mL</value>
 <value>2.5 mg/mL</value>
 <value>5 mg/mL</value>

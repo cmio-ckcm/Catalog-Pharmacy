@@ -2,8 +2,8 @@
 <dose><value>1</value>
 </dose><route><value>PR</value>
 </route><form><value>supp</value>
-</form><drug><value>opium-belladonna supp</value>
-</drug><strength><value>65 mg-15 mg</value>
+</form><drugname><value>opium-belladonna supp</value>
+</drugname><strength><value>65 mg-15 mg</value>
 </strength><frequency><value>HS</value>
 <value>BID</value>
 <value>TID</value>

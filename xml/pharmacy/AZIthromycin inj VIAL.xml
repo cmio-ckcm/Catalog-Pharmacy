@@ -2,8 +2,8 @@
 <dose><value>500</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>AZIthromycin inj VIAL</value>
-</drug><strength><value>500 mg</value>
+</form><drugname><value>AZIthromycin inj VIAL</value>
+</drugname><strength><value>500 mg</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

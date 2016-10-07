@@ -3,8 +3,8 @@
 <value>2</value>
 </dose><route><value>INH</value>
 </route><form><value>inhaler</value>
-</form><drug><value>salbutamol inhaler</value>
-</drug><strength><value>100 mcg</value>
+</form><drugname><value>salbutamol inhaler</value>
+</drugname><strength><value>100 mcg</value>
 </strength><frequency><value>ONCE</value>
 <value>QID</value>
 </frequency><instruction><value>for relief of bronchospasm symptoms.</value>

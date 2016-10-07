@@ -5,8 +5,8 @@
 <value>150</value>
 </dose><route><value>PO</value>
 </route><form><value>tab ER</value>
-</form><drug><value>codeine CR (long acting) tab ER</value>
-</drug><strength><value>100 mg</value>
+</form><drugname><value>codeine CR (long acting) tab ER</value>
+</drugname><strength><value>100 mg</value>
 <value>50 mg</value>
 </strength><frequency><value>Q12H</value>
 <value>BID</value>

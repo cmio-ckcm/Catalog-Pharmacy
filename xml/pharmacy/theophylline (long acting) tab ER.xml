@@ -4,8 +4,8 @@
 <value>600</value>
 </dose><route><value>PO</value>
 </route><form><value>tab ER</value>
-</form><drug><value>theophylline (long acting) tab ER</value>
-</drug><strength><value>400 mg</value>
+</form><drugname><value>theophylline (long acting) tab ER</value>
+</drugname><strength><value>400 mg</value>
 <value>600 mg</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value></value>

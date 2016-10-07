@@ -9,8 +9,8 @@
 <value>IV</value>
 <value>SC</value>
 </route><form><value>inj AMP</value>
-</form><drug><value>nalbuphine inj AMP</value>
-</drug><strength><value>10 mg/mL</value>
+</form><drugname><value>nalbuphine inj AMP</value>
+</drugname><strength><value>10 mg/mL</value>
 </strength><frequency><value>Q3H</value>
 <value>Q4H</value>
 <value>Q6H</value>

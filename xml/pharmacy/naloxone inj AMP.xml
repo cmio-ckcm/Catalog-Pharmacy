@@ -10,8 +10,8 @@
 <value>IV</value>
 <value>SC</value>
 </route><form><value>inj AMP</value>
-</form><drug><value>naloxone inj AMP</value>
-</drug><strength><value>0.4 mg/ml</value>
+</form><drugname><value>naloxone inj AMP</value>
+</drugname><strength><value>0.4 mg/ml</value>
 <value>1 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>CONTINUOUS</value>

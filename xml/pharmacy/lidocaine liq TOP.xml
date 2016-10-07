@@ -3,8 +3,8 @@
 <value>0.5 - 3</value>
 </dose><route><value>TOP </value>
 </route><form><value>liq TOP</value>
-</form><drug><value>lidocaine liq TOP</value>
-</drug><strength><value>4%</value>
+</form><drugname><value>lidocaine liq TOP</value>
+</drugname><strength><value>4%</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value>Apply topically to affected area requiring antiseptic.</value>
 </instruction><volume><value></value>

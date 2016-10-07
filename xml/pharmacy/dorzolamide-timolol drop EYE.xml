@@ -2,8 +2,8 @@
 <dose><value>1</value>
 </dose><route><value>TOP</value>
 </route><form><value>drop EYE</value>
-</form><drug><value>dorzolamide-timolol drop EYE</value>
-</drug><strength><value>2%-5%</value>
+</form><drugname><value>dorzolamide-timolol drop EYE</value>
+</drugname><strength><value>2%-5%</value>
 </strength><frequency><value>BID</value>
 </frequency><instruction><value>Instill in LEFT eye.</value>
 <value>Instill in RIGHT eye.</value>

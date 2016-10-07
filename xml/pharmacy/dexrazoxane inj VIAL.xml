@@ -3,8 +3,8 @@
 <value>1000</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>dexrazoxane inj VIAL</value>
-</drug><strength><value>250 mg</value>
+</form><drugname><value>dexrazoxane inj VIAL</value>
+</drugname><strength><value>250 mg</value>
 <value>500 mg</value>
 </strength><frequency><value>ONCE</value>
 <value>Q24H  </value>

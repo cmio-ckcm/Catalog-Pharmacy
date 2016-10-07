@@ -2,8 +2,8 @@
 <dose><value></value>
 </dose><route><value>OPHTH</value>
 </route><form><value>oint EYE</value>
-</form><drug><value>dexamethasone-tobramycin oint EYE</value>
-</drug><strength><value>0.1%-0.3%</value>
+</form><drugname><value>dexamethasone-tobramycin oint EYE</value>
+</drugname><strength><value>0.1%-0.3%</value>
 </strength><frequency><value>TID</value>
 <value>QID</value>
 <value>HS</value>

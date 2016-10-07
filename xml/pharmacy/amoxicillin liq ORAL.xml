@@ -4,8 +4,8 @@
 <value>500</value>
 </dose><route><value>PO</value>
 </route><form><value>liq ORAL</value>
-</form><drug><value>amoxicillin liq ORAL</value>
-</drug><strength><value>50 mg/mL</value>
+</form><drugname><value>amoxicillin liq ORAL</value>
+</drugname><strength><value>50 mg/mL</value>
 </strength><frequency><value>Q8H</value>
 <value>TID</value>
 </frequency><instruction><value></value>

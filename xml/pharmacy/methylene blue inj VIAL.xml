@@ -6,8 +6,8 @@
 </dose><route><value>IM</value>
 <value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>methylene blue inj VIAL</value>
-</drug><strength><value>1%</value>
+</form><drugname><value>methylene blue inj VIAL</value>
+</drugname><strength><value>1%</value>
 </strength><frequency><value>ONCE</value>
 <value>Q4H</value>
 <value>Q6H</value>

@@ -4,8 +4,8 @@
 <value>2</value>
 </dose><route><value>TOP </value>
 </route><form><value>patch</value>
-</form><drug><value>lidocaine-prilocaine patch</value>
-</drug><strength><value>2.5%-2.5%</value>
+</form><drugname><value>lidocaine-prilocaine patch</value>
+</drugname><strength><value>2.5%-2.5%</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value>Apply to affected skin area for 60 minutes prior to procedure.</value>
 <value>Apply to affected skin area(s) for 60 minutes prior to procedure.</value>

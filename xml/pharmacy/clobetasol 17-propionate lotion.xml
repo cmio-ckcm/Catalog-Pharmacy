@@ -2,8 +2,8 @@
 <dose><value></value>
 </dose><route><value>TOP</value>
 </route><form><value>lotion</value>
-</form><drug><value>clobetasol 17-propionate lotion</value>
-</drug><strength><value>0.05%</value>
+</form><drugname><value>clobetasol 17-propionate lotion</value>
+</drugname><strength><value>0.05%</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>
 </frequency><instruction><value>Apply to affected area and rub into area .</value>

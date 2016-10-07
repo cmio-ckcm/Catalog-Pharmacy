@@ -3,8 +3,8 @@
 <value>10 </value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>fomepizole inj VIAL</value>
-</drug><strength><value>1 g/mL</value>
+</form><drugname><value>fomepizole inj VIAL</value>
+</drugname><strength><value>1 g/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>Q12H</value>
 </frequency><instruction><value>LOADING DOSE</value>

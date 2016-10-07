@@ -7,8 +7,8 @@
 </dose><route><value>IM</value>
 <value>IV</value>
 </route><form><value>inj AMP</value>
-</form><drug><value>ergonovine inj AMP</value>
-</drug><strength><value>0.25 mg/mL</value>
+</form><drugname><value>ergonovine inj AMP</value>
+</drugname><strength><value>0.25 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>Q2H</value>
 <value>Q4H</value>

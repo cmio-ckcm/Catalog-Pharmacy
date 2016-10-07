@@ -3,8 +3,8 @@
 <value>4</value>
 </dose><route><value>BUCCAL</value>
 </route><form><value>gum</value>
-</form><drug><value>nicotine gum</value>
-</drug><strength><value>2 mg</value>
+</form><drugname><value>nicotine gum</value>
+</drugname><strength><value>2 mg</value>
 <value>4 mg</value>
 </strength><frequency><value>Q1H</value>
 <value>Q2H</value>

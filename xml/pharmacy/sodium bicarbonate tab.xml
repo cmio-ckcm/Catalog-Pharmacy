@@ -11,8 +11,8 @@
 </dose><route><value>PO</value>
 <value>PEG TUBE</value>
 </route><form><value>tab</value>
-</form><drug><value>sodium bicarbonate tab</value>
-</drug><strength><value>325 mg</value>
+</form><drugname><value>sodium bicarbonate tab</value>
+</drugname><strength><value>325 mg</value>
 <value>500 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>

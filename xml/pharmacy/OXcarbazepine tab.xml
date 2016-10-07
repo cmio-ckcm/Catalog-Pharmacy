@@ -5,8 +5,8 @@
 <value>900</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>OXcarbazepine tab</value>
-</drug><strength><value>150 mg</value>
+</form><drugname><value>OXcarbazepine tab</value>
+</drugname><strength><value>150 mg</value>
 <value>300 mg</value>
 </strength><frequency><value>BID</value>
 </frequency><instruction><value></value>

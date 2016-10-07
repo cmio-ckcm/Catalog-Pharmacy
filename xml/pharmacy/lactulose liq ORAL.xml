@@ -2,8 +2,8 @@
 <dose><value>30</value>
 </dose><route><value>PO</value>
 </route><form><value>liq ORAL</value>
-</form><drug><value>lactulose liq ORAL</value>
-</drug><strength><value>667 mg/mL</value>
+</form><drugname><value>lactulose liq ORAL</value>
+</drugname><strength><value>667 mg/mL</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>
 </frequency><instruction><value></value>

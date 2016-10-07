@@ -8,8 +8,8 @@
 <value>0 - 0.067</value>
 </dose><route><value>SC</value>
 </route><form><value>inj CART</value>
-</form><drug><value>somatropin (HUMATROPE) inj CART</value>
-</drug><strength><value>12 mg</value>
+</form><drugname><value>somatropin (HUMATROPE) inj CART</value>
+</drugname><strength><value>12 mg</value>
 <value>24 mg</value>
 <value>6 mg</value>
 </strength><frequency><value>DAILY</value>

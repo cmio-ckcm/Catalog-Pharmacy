@@ -5,8 +5,8 @@
 <value>400</value>
 </dose><route><value>PO</value>
 </route><form><value>cap</value>
-</form><drug><value>mexiletine cap</value>
-</drug><strength><value>100 mg</value>
+</form><drugname><value>mexiletine cap</value>
+</drugname><strength><value>100 mg</value>
 <value>200 mg</value>
 </strength><frequency><value>Q12H</value>
 <value>Q8H</value>

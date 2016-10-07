@@ -4,8 +4,8 @@
 </dose><route><value>IM</value>
 <value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>ketorolac inj VIAL</value>
-</drug><strength><value>30 mg/mL</value>
+</form><drugname><value>ketorolac inj VIAL</value>
+</drugname><strength><value>30 mg/mL</value>
 </strength><frequency><value>Q4H</value>
 <value>Q6H</value>
 <value>Q8H</value>

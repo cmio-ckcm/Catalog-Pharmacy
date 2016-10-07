@@ -2,8 +2,8 @@
 <dose><value></value>
 </dose><route><value>SC</value>
 </route><form><value>inj CART</value>
-</form><drug><value>insulin detemir (LEVEMIR) inj CART</value>
-</drug><strength><value>100 unit/mL</value>
+</form><drugname><value>insulin detemir (LEVEMIR) inj CART</value>
+</drugname><strength><value>100 unit/mL</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>
 <value>ONCE</value>

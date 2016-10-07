@@ -3,8 +3,8 @@
 <value>800</value>
 </dose><route><value>PO</value>
 </route><form><value>tab EC</value>
-</form><drug><value>5-aminosalicylic acid (ASACOL) tab EC</value>
-</drug><strength><value>400 mg</value>
+</form><drugname><value>5-aminosalicylic acid (ASACOL) tab EC</value>
+</drugname><strength><value>400 mg</value>
 </strength><frequency><value>TID</value>
 </frequency><instruction><value>Administer 1 hour before meals.</value>
 </instruction><volume><value></value>

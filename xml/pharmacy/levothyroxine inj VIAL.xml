@@ -10,8 +10,8 @@
 </dose><route><value>IM</value>
 <value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>levothyroxine inj VIAL</value>
-</drug><strength><value>500 mcg</value>
+</form><drugname><value>levothyroxine inj VIAL</value>
+</drugname><strength><value>500 mcg</value>
 </strength><frequency><value>DAILY</value>
 <value>Q24H.</value>
 <value>ONCE</value>

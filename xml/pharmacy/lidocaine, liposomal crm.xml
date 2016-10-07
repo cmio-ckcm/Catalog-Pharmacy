@@ -2,8 +2,8 @@
 <dose><value>2.5</value>
 </dose><route><value>TOP </value>
 </route><form><value>crm</value>
-</form><drug><value>lidocaine, liposomal crm</value>
-</drug><strength><value>4%</value>
+</form><drugname><value>lidocaine, liposomal crm</value>
+</drugname><strength><value>4%</value>
 </strength><frequency><value>ONCE</value>
 <value>TID</value>
 <value>QID</value>

@@ -2,8 +2,8 @@
 <dose><value>5</value>
 </dose><route><value>ENDOTRACHEAL</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>bovine lipid extract surfactant inj VIAL</value>
-</drug><strength><value>27 mg/mL</value>
+</form><drugname><value>bovine lipid extract surfactant inj VIAL</value>
+</drugname><strength><value>27 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value>Total dose may be administered as a single dose or up to three aliquots.</value>
 </instruction><volume><value>3 mL</value>

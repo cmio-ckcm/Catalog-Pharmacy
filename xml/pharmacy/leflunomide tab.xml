@@ -3,8 +3,8 @@
 <value>10</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>leflunomide tab</value>
-</drug><strength><value>20 mg</value>
+</form><drugname><value>leflunomide tab</value>
+</drugname><strength><value>20 mg</value>
 <value>10 mg</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value></value>

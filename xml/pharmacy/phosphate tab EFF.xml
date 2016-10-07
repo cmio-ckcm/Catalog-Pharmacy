@@ -2,8 +2,8 @@
 <dose><value>500</value>
 </dose><route><value>PO</value>
 </route><form><value>tab EFF</value>
-</form><drug><value>phosphate tab EFF</value>
-</drug><strength><value>500 mg</value>
+</form><drugname><value>phosphate tab EFF</value>
+</drugname><strength><value>500 mg</value>
 </strength><frequency><value>BID</value>
 <value>DAILY</value>
 </frequency><instruction><value></value>

@@ -5,8 +5,8 @@
 </dose><route><value>IV</value>
 <value>SC</value>
 </route><form><value>inj AMP</value>
-</form><drug><value>calcitriol inj AMP</value>
-</drug><strength><value>1 mcg/mL</value>
+</form><drugname><value>calcitriol inj AMP</value>
+</drugname><strength><value>1 mcg/mL</value>
 </strength><frequency><value>THREE TIMES WEEKLY</value>
 <value>DAILY</value>
 <value>BID</value>

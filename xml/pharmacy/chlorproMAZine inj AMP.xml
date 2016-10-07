@@ -3,8 +3,8 @@
 <value>50</value>
 </dose><route><value>IM</value>
 </route><form><value>inj AMP</value>
-</form><drug><value>chlorproMAZine inj AMP</value>
-</drug><strength><value>25 mg/mL</value>
+</form><drugname><value>chlorproMAZine inj AMP</value>
+</drugname><strength><value>25 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>TID</value>
 <value>QID</value>

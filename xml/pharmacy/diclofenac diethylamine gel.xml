@@ -4,8 +4,8 @@
 <value>4</value>
 </dose><route><value>TOP</value>
 </route><form><value>gel</value>
-</form><drug><value>diclofenac diethylamine gel</value>
-</drug><strength><value>1.16%</value>
+</form><drugname><value>diclofenac diethylamine gel</value>
+</drugname><strength><value>1.16%</value>
 <value>2.32%</value>
 </strength><frequency><value>TID</value>
 <value>QID</value>

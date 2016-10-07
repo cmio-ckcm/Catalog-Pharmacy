@@ -10,8 +10,8 @@
 </dose><route><value>IM</value>
 <value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>succinylcholine inj VIAL</value>
-</drug><strength><value>20 mg/mL</value>
+</form><drugname><value>succinylcholine inj VIAL</value>
+</drugname><strength><value>20 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>CONTINUOUS</value>
 <value>EVERY 5 MINUTES</value>

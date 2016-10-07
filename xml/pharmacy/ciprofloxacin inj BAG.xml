@@ -3,8 +3,8 @@
 <value>400</value>
 </dose><route><value>IV</value>
 </route><form><value>inj BAG</value>
-</form><drug><value>ciprofloxacin inj BAG</value>
-</drug><strength><value>2 mg/mL</value>
+</form><drugname><value>ciprofloxacin inj BAG</value>
+</drugname><strength><value>2 mg/mL</value>
 </strength><frequency><value>Q12H</value>
 <value>DAILY</value>
 </frequency><instruction><value></value>

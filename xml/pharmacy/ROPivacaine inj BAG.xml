@@ -7,8 +7,8 @@
 <value>INFILTRATION</value>
 <value>SPINAL</value>
 </route><form><value>inj BAG</value>
-</form><drug><value>ROPivacaine inj BAG</value>
-</drug><strength><value>2 mg/mL</value>
+</form><drugname><value>ROPivacaine inj BAG</value>
+</drugname><strength><value>2 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>CONTINUOUS</value>
 </frequency><instruction><value>Bolus dose.</value>

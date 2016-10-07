@@ -6,8 +6,8 @@
 <value>5 - 10</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>propylthiouracil tab</value>
-</drug><strength><value>100 mg</value>
+</form><drugname><value>propylthiouracil tab</value>
+</drugname><strength><value>100 mg</value>
 <value>50 mg</value>
 </strength><frequency><value>Q8H</value>
 <value>Q6H</value>

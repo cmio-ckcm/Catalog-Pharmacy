@@ -3,8 +3,8 @@
 <value>400</value>
 </dose><route><value>IM</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>ARIPiprazole monohydrate inj VIAL</value>
-</drug><strength><value>300 mg</value>
+</form><drugname><value>ARIPiprazole monohydrate inj VIAL</value>
+</drugname><strength><value>300 mg</value>
 <value>400 mg</value>
 </strength><frequency><value>MONTHLY</value>
 </frequency><instruction><value></value>

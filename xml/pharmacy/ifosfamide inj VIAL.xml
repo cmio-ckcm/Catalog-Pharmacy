@@ -8,8 +8,8 @@
 <value>3500</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>ifosfamide inj VIAL</value>
-</drug><strength><value>1 g</value>
+</form><drugname><value>ifosfamide inj VIAL</value>
+</drugname><strength><value>1 g</value>
 <value>3 g</value>
 </strength><frequency><value>DAILY</value>
 <value>ONCE</value>

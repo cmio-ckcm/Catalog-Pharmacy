@@ -2,8 +2,8 @@
 <dose><value>15</value>
 </dose><route><value>ORAL RINSE</value>
 </route><form><value>mouthwash</value>
-</form><drug><value>chlorhexidine gluconate mouthwash</value>
-</drug><strength><value>0.0012</value>
+</form><drugname><value>chlorhexidine gluconate mouthwash</value>
+</drugname><strength><value>0.0012</value>
 </strength><frequency><value>BID</value>
 </frequency><instruction><value>Rinse in Mouth for 30 seconds, then expectorate.</value>
 </instruction><volume><value></value>

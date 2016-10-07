@@ -8,8 +8,8 @@
 <value>175</value>
 </dose><route><value>PO</value>
 </route><form><value>cap</value>
-</form><drug><value>dantrolene cap</value>
-</drug><strength><value>25 mg</value>
+</form><drugname><value>dantrolene cap</value>
+</drugname><strength><value>25 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>TID</value>
 <value>QID</value>

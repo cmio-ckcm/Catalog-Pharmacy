@@ -2,8 +2,8 @@
 <dose><value></value>
 </dose><route><value>TOP</value>
 </route><form><value>crm</value>
-</form><drug><value>clotrimazole crm</value>
-</drug><strength><value>1%</value>
+</form><drugname><value>clotrimazole crm</value>
+</drugname><strength><value>1%</value>
 </strength><frequency><value>BID</value>
 </frequency><instruction><value>Apply to affected area.</value>
 </instruction><volume><value></value>

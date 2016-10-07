@@ -15,8 +15,8 @@
 <value>SC</value>
 <value>IV </value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>heparin inj VIAL</value>
-</drug><strength><value>1000 unit/mL</value>
+</form><drugname><value>heparin inj VIAL</value>
+</drugname><strength><value>1000 unit/mL</value>
 <value>10 000 unit/mL</value>
 <value>10 unit/mL</value>
 <value>25 000 unit/mL</value>

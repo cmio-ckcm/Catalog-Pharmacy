@@ -3,8 +3,8 @@
 <value>2</value>
 </dose><route><value>INH</value>
 </route><form><value>inhaler</value>
-</form><drug><value>budesonide - formoterol inhaler</value>
-</drug><strength><value>100 mcg-6 mcg</value>
+</form><drugname><value>budesonide - formoterol inhaler</value>
+</drugname><strength><value>100 mcg-6 mcg</value>
 <value>200 mcg-6 mcg</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>

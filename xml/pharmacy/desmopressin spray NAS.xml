@@ -5,8 +5,8 @@
 <value>40</value>
 </dose><route><value>INTRANASAL</value>
 </route><form><value>spray NAS</value>
-</form><drug><value>desmopressin spray NAS</value>
-</drug><strength><value>10 mcg</value>
+</form><drugname><value>desmopressin spray NAS</value>
+</drugname><strength><value>10 mcg</value>
 </strength><frequency><value>HS</value>
 <value>BID</value>
 </frequency><instruction><value></value>

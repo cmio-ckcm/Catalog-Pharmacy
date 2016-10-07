@@ -3,8 +3,8 @@
 <value>20</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>dicyclomine tab</value>
-</drug><strength><value>10 mg</value>
+</form><drugname><value>dicyclomine tab</value>
+</drugname><strength><value>10 mg</value>
 </strength><frequency><value>QID</value>
 <value>Q4H</value>
 </frequency><instruction><value></value>

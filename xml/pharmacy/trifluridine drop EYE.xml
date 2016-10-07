@@ -2,8 +2,8 @@
 <dose><value>1</value>
 </dose><route><value>OPHTH</value>
 </route><form><value>drop EYE</value>
-</form><drug><value>trifluridine drop EYE</value>
-</drug><strength><value>1%</value>
+</form><drugname><value>trifluridine drop EYE</value>
+</drugname><strength><value>1%</value>
 </strength><frequency><value>Q2H</value>
 <value>Q4H</value>
 </frequency><instruction><value>Instill onto cornea of LEFT eye, while awake. Maximum of 9 drops per day.</value>

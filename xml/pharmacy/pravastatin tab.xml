@@ -4,8 +4,8 @@
 <value>40</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>pravastatin tab</value>
-</drug><strength><value>10 mg</value>
+</form><drugname><value>pravastatin tab</value>
+</drugname><strength><value>10 mg</value>
 <value>20 mg</value>
 <value>40 mg</value>
 </strength><frequency><value>DAILY</value>

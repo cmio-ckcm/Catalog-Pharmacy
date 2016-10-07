@@ -4,8 +4,8 @@
 <value>240</value>
 </dose><route><value>PO</value>
 </route><form><value>tab ER</value>
-</form><drug><value>verapamil (long acting) tab ER</value>
-</drug><strength><value>120 mg</value>
+</form><drugname><value>verapamil (long acting) tab ER</value>
+</drugname><strength><value>120 mg</value>
 <value>180 mg</value>
 <value>240 mg</value>
 </strength><frequency><value>DAILY</value>

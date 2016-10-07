@@ -4,8 +4,8 @@
 <value>1500</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>vigabatrin tab</value>
-</drug><strength><value>500 mg</value>
+</form><drugname><value>vigabatrin tab</value>
+</drugname><strength><value>500 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>
 </frequency><instruction><value></value>

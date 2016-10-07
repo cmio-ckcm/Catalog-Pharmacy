@@ -5,8 +5,8 @@
 </dose><route><value>IV</value>
 <value>SC</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>bortezomib inj VIAL</value>
-</drug><strength><value>3.5 mg</value>
+</form><drugname><value>bortezomib inj VIAL</value>
+</drugname><strength><value>3.5 mg</value>
 </strength><frequency><value>ONCE</value>
 <value>WEEKLY</value>
 </frequency><instruction><value>DAY -5. Administer over 3 to 5 seconds into a free flowing 100 mL 0.9% sodium chloride infusion. Run in the remaining 0.9% sodium chloride over 10 minutes.</value>

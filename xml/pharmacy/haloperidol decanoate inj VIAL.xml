@@ -6,8 +6,8 @@
 <value>200</value>
 </dose><route><value>IM</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>haloperidol decanoate inj VIAL</value>
-</drug><strength><value>100 mg/mL</value>
+</form><drugname><value>haloperidol decanoate inj VIAL</value>
+</drugname><strength><value>100 mg/mL</value>
 </strength><frequency><value>EVERY 4 WEEKS</value>
 </frequency><instruction><value>Administer by deep intramuscular injection.</value>
 </instruction><volume><value>1 mL</value>

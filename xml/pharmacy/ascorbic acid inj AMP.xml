@@ -7,8 +7,8 @@
 <value>IV</value>
 <value>SC</value>
 </route><form><value>inj AMP</value>
-</form><drug><value>ascorbic acid inj AMP</value>
-</drug><strength><value>250 mg/mL</value>
+</form><drugname><value>ascorbic acid inj AMP</value>
+</drugname><strength><value>250 mg/mL</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>
 </frequency><instruction><value></value>

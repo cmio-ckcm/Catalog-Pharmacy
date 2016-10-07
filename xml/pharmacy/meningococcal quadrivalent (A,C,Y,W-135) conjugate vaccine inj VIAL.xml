@@ -2,8 +2,8 @@
 <dose><value>0.5</value>
 </dose><route><value>IM</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>meningococcal quadrivalent (A,C,Y,W-135) conjugate vaccine inj VIAL</value>
-</drug><strength><value></value>
+</form><drugname><value>meningococcal quadrivalent (A,C,Y,W-135) conjugate vaccine inj VIAL</value>
+</drugname><strength><value></value>
 </strength><frequency><value>ONCE</value>
 <value>EVERY 3 MONTHS</value>
 </frequency><instruction><value></value>

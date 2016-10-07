@@ -2,8 +2,8 @@
 <dose><value>300</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>tenofovir disoproxil fumarate tab</value>
-</drug><strength><value>300 mg</value>
+</form><drugname><value>tenofovir disoproxil fumarate tab</value>
+</drugname><strength><value>300 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>Q48H</value>
 <value>Q72H</value>

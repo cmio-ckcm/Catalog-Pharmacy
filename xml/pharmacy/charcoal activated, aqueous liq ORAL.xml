@@ -5,8 +5,8 @@
 <value>OG</value>
 <value>PO</value>
 </route><form><value>liq ORAL</value>
-</form><drug><value>charcoal activated, aqueous liq ORAL</value>
-</drug><strength><value>25 g</value>
+</form><drugname><value>charcoal activated, aqueous liq ORAL</value>
+</drugname><strength><value>25 g</value>
 <value>50 g</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value></value>

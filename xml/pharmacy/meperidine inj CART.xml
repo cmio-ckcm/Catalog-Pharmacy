@@ -7,8 +7,8 @@
 </dose><route><value>IV</value>
 <value>IV </value>
 </route><form><value>inj CART</value>
-</form><drug><value>meperidine inj CART</value>
-</drug><strength><value>10 mg/mL</value>
+</form><drugname><value>meperidine inj CART</value>
+</drugname><strength><value>10 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>CONTINUOUS</value>
 </frequency><instruction><value>PCA bolus dose with lockout interval of 5 minutes.</value>

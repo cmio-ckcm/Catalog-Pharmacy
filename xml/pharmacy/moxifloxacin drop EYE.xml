@@ -2,8 +2,8 @@
 <dose><value>1</value>
 </dose><route><value>OPHTH</value>
 </route><form><value>drop EYE</value>
-</form><drug><value>moxifloxacin drop EYE</value>
-</drug><strength><value>0.5%</value>
+</form><drugname><value>moxifloxacin drop EYE</value>
+</drugname><strength><value>0.5%</value>
 </strength><frequency><value>TID </value>
 <value>TID</value>
 </frequency><instruction><value>Instill into LEFT eye.</value>

@@ -3,8 +3,8 @@
 <value>0.8</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>busulfan inj VIAL</value>
-</drug><strength><value>6 mg/mL</value>
+</form><drugname><value>busulfan inj VIAL</value>
+</drugname><strength><value>6 mg/mL</value>
 </strength><frequency><value>DAILY</value>
 <value>Q6H</value>
 </frequency><instruction><value>for 3 days. Administer dose over 3 to 4 hours.</value>

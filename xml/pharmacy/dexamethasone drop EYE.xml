@@ -3,8 +3,8 @@
 <value>1</value>
 </dose><route><value>OPHTH</value>
 </route><form><value>drop EYE</value>
-</form><drug><value>dexamethasone drop EYE</value>
-</drug><strength><value>0.1%</value>
+</form><drugname><value>dexamethasone drop EYE</value>
+</drugname><strength><value>0.1%</value>
 </strength><frequency><value>Q2H</value>
 <value>Q1H</value>
 <value>Q4H</value>

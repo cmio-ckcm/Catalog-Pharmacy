@@ -3,8 +3,8 @@
 <value>12 500</value>
 </dose><route><value>IM</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>asparaginase (KIDROLASE) inj VIAL</value>
-</drug><strength><value>10 000 unit</value>
+</form><drugname><value>asparaginase (KIDROLASE) inj VIAL</value>
+</drugname><strength><value>10 000 unit</value>
 </strength><frequency><value>ONCE</value>
 <value>WEEKLY</value>
 </frequency><instruction><value>ONCE. (Day 5 of 28). Observe patient for 1 hour post Asparaginase dose.</value>

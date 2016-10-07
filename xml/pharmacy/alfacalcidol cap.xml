@@ -6,8 +6,8 @@
 <value>2</value>
 </dose><route><value>PO</value>
 </route><form><value>cap</value>
-</form><drug><value>alfacalcidol cap</value>
-</drug><strength><value>0.25 mcg</value>
+</form><drugname><value>alfacalcidol cap</value>
+</drugname><strength><value>0.25 mcg</value>
 <value>1 mcg</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value></value>

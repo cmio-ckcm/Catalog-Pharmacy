@@ -8,8 +8,8 @@
 <value>IV</value>
 <value>SC</value>
 </route><form><value>inj AMP</value>
-</form><drug><value>hyoscine butylbromide inj AMP</value>
-</drug><strength><value>20 mg/mL</value>
+</form><drugname><value>hyoscine butylbromide inj AMP</value>
+</drugname><strength><value>20 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>DAILY</value>
 <value>BID</value>

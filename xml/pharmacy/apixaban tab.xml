@@ -4,8 +4,8 @@
 <value>10</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>apixaban tab</value>
-</drug><strength><value>2.5 mg</value>
+</form><drugname><value>apixaban tab</value>
+</drugname><strength><value>2.5 mg</value>
 <value>5 mg</value>
 </strength><frequency><value>BID</value>
 </frequency><instruction><value></value>

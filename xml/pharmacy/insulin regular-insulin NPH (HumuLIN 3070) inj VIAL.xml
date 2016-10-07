@@ -2,8 +2,8 @@
 <dose><value></value>
 </dose><route><value>SC</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>insulin regular-insulin NPH (HumuLIN 30/70) inj VIAL</value>
-</drug><strength><value>100 unit/mL</value>
+</form><drugname><value>insulin regular-insulin NPH (HumuLIN 30/70) inj VIAL</value>
+</drugname><strength><value>100 unit/mL</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>
 </frequency><instruction><value></value>

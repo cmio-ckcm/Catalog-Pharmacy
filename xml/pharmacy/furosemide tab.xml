@@ -6,8 +6,8 @@
 <value>80</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>furosemide tab</value>
-</drug><strength><value>20 mg</value>
+</form><drugname><value>furosemide tab</value>
+</drugname><strength><value>20 mg</value>
 <value>40 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>

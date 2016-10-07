@@ -5,8 +5,8 @@
 <value>7.7</value>
 </dose><route><value>IV</value>
 </route><form><value>inj AMP</value>
-</form><drug><value>fluorescein sodium inj AMP</value>
-</drug><strength><value>10%</value>
+</form><drugname><value>fluorescein sodium inj AMP</value>
+</drugname><strength><value>10%</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value>Inject rapidly into the antecubital vien.</value>
 <value>Administer over 5 minutes, repeat every 2 hours as required.</value>

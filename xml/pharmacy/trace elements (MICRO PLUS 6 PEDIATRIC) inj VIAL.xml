@@ -2,8 +2,8 @@
 <dose><value></value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>trace elements (MICRO PLUS 6 PEDIATRIC) inj VIAL</value>
-</drug><strength><value>1 mL</value>
+</form><drugname><value>trace elements (MICRO PLUS 6 PEDIATRIC) inj VIAL</value>
+</drugname><strength><value>1 mL</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value>Ordered as part of Parenteral Nutrition order.</value>
 </instruction><volume><value>10 mL</value>

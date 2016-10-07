@@ -5,8 +5,8 @@
 <value>75</value>
 </dose><route><value>IM</value>
 </route><form><value>inj SYR</value>
-</form><drug><value>paliperidone palmitate inj SYR</value>
-</drug><strength><value>100 mg</value>
+</form><drugname><value>paliperidone palmitate inj SYR</value>
+</drugname><strength><value>100 mg</value>
 <value>150 mg</value>
 <value>50 mg</value>
 <value>75 mg</value>

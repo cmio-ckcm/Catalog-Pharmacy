@@ -2,8 +2,8 @@
 <dose><value>3</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>ipilimumab inj VIAL</value>
-</drug><strength><value>5 mg/mL</value>
+</form><drugname><value>ipilimumab inj VIAL</value>
+</drugname><strength><value>5 mg/mL</value>
 </strength><frequency><value>EVERY 3 WEEKS</value>
 </frequency><instruction><value>for 4 doses. Administer dose over 30 minutes through an in-line 0.2 to 0.22 micron filter. If patient has experienced a prior infusion reaction, adminster all subsequent infusions over 90 minutes.</value>
 </instruction><volume><value>10 mL</value>

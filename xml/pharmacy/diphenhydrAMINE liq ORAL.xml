@@ -7,8 +7,8 @@
 <value>50</value>
 </dose><route><value>PO</value>
 </route><form><value>liq ORAL</value>
-</form><drug><value>diphenhydrAMINE liq ORAL</value>
-</drug><strength><value>1.25 mg/mL</value>
+</form><drugname><value>diphenhydrAMINE liq ORAL</value>
+</drugname><strength><value>1.25 mg/mL</value>
 </strength><frequency><value>Q4H</value>
 <value>Q6H</value>
 <value>ONCE</value>

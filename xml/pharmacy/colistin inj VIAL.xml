@@ -14,8 +14,8 @@
 </dose><route><value>IV</value>
 <value>NEBULE</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>colistin inj VIAL</value>
-</drug><strength><value>150 mg</value>
+</form><drugname><value>colistin inj VIAL</value>
+</drugname><strength><value>150 mg</value>
 </strength><frequency><value>Q8H</value>
 <value>Q6H</value>
 <value>BID</value>

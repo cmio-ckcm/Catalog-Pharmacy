@@ -2,8 +2,8 @@
 <dose><value>0.5</value>
 </dose><route><value>IM</value>
 </route><form><value>inj AMP</value>
-</form><drug><value>tetanus - diptheria toxoid inj AMP</value>
-</drug><strength><value></value>
+</form><drugname><value>tetanus - diptheria toxoid inj AMP</value>
+</drugname><strength><value></value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value></value>
 </instruction><volume><value>0.5 mL</value>

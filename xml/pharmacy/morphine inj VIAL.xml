@@ -30,8 +30,8 @@
 <value></value>
 <value>SC</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>morphine inj VIAL</value>
-</drug><strength><value>50 mg/mL</value>
+</form><drugname><value>morphine inj VIAL</value>
+</drugname><strength><value>50 mg/mL</value>
 </strength><frequency><value>CONTINUOUS</value>
 <value>ONCE</value>
 <value></value>

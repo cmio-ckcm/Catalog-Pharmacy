@@ -2,8 +2,8 @@
 <dose><value>1000</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>mycophenolate mofetil inj VIAL</value>
-</drug><strength><value>500 mg</value>
+</form><drugname><value>mycophenolate mofetil inj VIAL</value>
+</drugname><strength><value>500 mg</value>
 </strength><frequency><value>BID</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

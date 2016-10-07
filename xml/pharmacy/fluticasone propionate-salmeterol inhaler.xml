@@ -2,8 +2,8 @@
 <dose><value>2</value>
 </dose><route><value>INH</value>
 </route><form><value>inhaler</value>
-</form><drug><value>fluticasone propionate-salmeterol inhaler</value>
-</drug><strength><value>125 mcg-25 mcg</value>
+</form><drugname><value>fluticasone propionate-salmeterol inhaler</value>
+</drugname><strength><value>125 mcg-25 mcg</value>
 <value>250 mcg-25 mcg</value>
 </strength><frequency><value>BID</value>
 </frequency><instruction><value>Administer in the morning and evening.</value>

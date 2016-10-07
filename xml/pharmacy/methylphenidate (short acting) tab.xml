@@ -6,8 +6,8 @@
 <value>15</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>methylphenidate (short acting) tab</value>
-</drug><strength><value>10 mg</value>
+</form><drugname><value>methylphenidate (short acting) tab</value>
+</drugname><strength><value>10 mg</value>
 <value>5 mg</value>
 </strength><frequency><value>TID</value>
 <value>BID</value>

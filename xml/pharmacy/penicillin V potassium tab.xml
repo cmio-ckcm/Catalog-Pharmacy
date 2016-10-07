@@ -2,8 +2,8 @@
 <dose><value>300</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>penicillin V potassium tab</value>
-</drug><strength><value>300 mg</value>
+</form><drugname><value>penicillin V potassium tab</value>
+</drugname><strength><value>300 mg</value>
 </strength><frequency><value>QID</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

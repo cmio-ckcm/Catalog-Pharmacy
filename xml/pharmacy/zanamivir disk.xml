@@ -2,8 +2,8 @@
 <dose><value>10</value>
 </dose><route><value>INH</value>
 </route><form><value>disk</value>
-</form><drug><value>zanamivir disk</value>
-</drug><strength><value>5 mg</value>
+</form><drugname><value>zanamivir disk</value>
+</drugname><strength><value>5 mg</value>
 </strength><frequency><value>BID</value>
 <value>Q12H</value>
 <value>DAILY</value>

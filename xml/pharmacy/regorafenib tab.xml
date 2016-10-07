@@ -4,8 +4,8 @@
 <value>80</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>regorafenib tab</value>
-</drug><strength><value>40 mg</value>
+</form><drugname><value>regorafenib tab</value>
+</drugname><strength><value>40 mg</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value>for 21 days, follwed by 7 days without treatment.</value>
 </instruction><volume><value></value>

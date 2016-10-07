@@ -7,8 +7,8 @@
 <value>300</value>
 </dose><route><value>PO</value>
 </route><form><value>tab CHEW</value>
-</form><drug><value>raltegravir tab CHEW</value>
-</drug><strength><value>100 mg</value>
+</form><drugname><value>raltegravir tab CHEW</value>
+</drugname><strength><value>100 mg</value>
 <value>25 mg</value>
 </strength><frequency><value>BID</value>
 </frequency><instruction><value></value>

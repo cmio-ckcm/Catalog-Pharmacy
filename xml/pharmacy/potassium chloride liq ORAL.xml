@@ -2,8 +2,8 @@
 <dose><value>15</value>
 </dose><route><value>PO</value>
 </route><form><value>liq ORAL</value>
-</form><drug><value>potassium chloride liq ORAL</value>
-</drug><strength><value>100 mg/mL</value>
+</form><drugname><value>potassium chloride liq ORAL</value>
+</drugname><strength><value>100 mg/mL</value>
 </strength><frequency><value>BID</value>
 <value>TID</value>
 <value>QID</value>

@@ -2,8 +2,8 @@
 <dose><value>600</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>efavirenz tab</value>
-</drug><strength><value>600 mg</value>
+</form><drugname><value>efavirenz tab</value>
+</drugname><strength><value>600 mg</value>
 </strength><frequency><value>HS</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

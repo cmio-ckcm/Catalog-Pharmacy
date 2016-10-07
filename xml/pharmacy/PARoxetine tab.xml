@@ -6,8 +6,8 @@
 <value>60</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>PARoxetine tab</value>
-</drug><strength><value>10 mg</value>
+</form><drugname><value>PARoxetine tab</value>
+</drugname><strength><value>10 mg</value>
 <value>20 mg</value>
 <value>30 mg</value>
 </strength><frequency><value>DAILY</value>

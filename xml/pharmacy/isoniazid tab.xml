@@ -7,8 +7,8 @@
 <value>20 - 30</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>isoniazid tab</value>
-</drug><strength><value>100 mg</value>
+</form><drugname><value>isoniazid tab</value>
+</drugname><strength><value>100 mg</value>
 <value>300 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>THREE TIMES WEEKLY</value>

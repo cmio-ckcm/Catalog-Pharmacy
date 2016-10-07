@@ -2,8 +2,8 @@
 <dose><value>1</value>
 </dose><route><value>INTRAVAGINALLY</value>
 </route><form><value>gel VAG</value>
-</form><drug><value>metroNIDAZOLE gel VAG</value>
-</drug><strength><value>0.75%</value>
+</form><drugname><value>metroNIDAZOLE gel VAG</value>
+</drugname><strength><value>0.75%</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value></value>
 </instruction><volume><value></value>

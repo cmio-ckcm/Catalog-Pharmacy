@@ -2,8 +2,8 @@
 <dose><value>300</value>
 </dose><route><value>INH</value>
 </route><form><value>liq INH</value>
-</form><drug><value>tobramycin liq INH</value>
-</drug><strength><value>60 mg/mL</value>
+</form><drugname><value>tobramycin liq INH</value>
+</drugname><strength><value>60 mg/mL</value>
 </strength><frequency><value>Q12H</value>
 </frequency><instruction><value></value>
 </instruction><volume><value>5 mL</value>

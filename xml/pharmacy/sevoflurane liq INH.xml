@@ -3,8 +3,8 @@
 <value>0.5 - 3.3</value>
 </dose><route><value>INH</value>
 </route><form><value>liq INH</value>
-</form><drug><value>sevoflurane liq INH</value>
-</drug><strength><value>99.97%</value>
+</form><drugname><value>sevoflurane liq INH</value>
+</drugname><strength><value>99.97%</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value>Administered with oxygen</value>
 <value>Administered with Nitrous Oxide and oxygen</value>

@@ -12,8 +12,8 @@
 <value>IV</value>
 <value>NEB</value>
 </route><form><value>inj VIAL</value>
-</form><drug><value>aztreonam inj VIAL</value>
-</drug><strength><value>1 g</value>
+</form><drugname><value>aztreonam inj VIAL</value>
+</drugname><strength><value>1 g</value>
 <value>75 mg</value>
 </strength><frequency><value>Q8H</value>
 <value>Q12H</value>

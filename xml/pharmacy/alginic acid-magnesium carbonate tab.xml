@@ -3,8 +3,8 @@
 <value>2</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>alginic acid-magnesium carbonate tab</value>
-</drug><strength><value>200 mg-40 mg</value>
+</form><drugname><value>alginic acid-magnesium carbonate tab</value>
+</drugname><strength><value>200 mg-40 mg</value>
 </strength><frequency><value></value>
 <value>TID</value>
 <value>QID</value>

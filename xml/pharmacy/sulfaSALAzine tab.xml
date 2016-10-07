@@ -5,8 +5,8 @@
 <value>2000</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>sulfaSALAzine tab</value>
-</drug><strength><value>500 mg</value>
+</form><drugname><value>sulfaSALAzine tab</value>
+</drugname><strength><value>500 mg</value>
 </strength><frequency><value>BID</value>
 <value>QID</value>
 <value>TID  </value>

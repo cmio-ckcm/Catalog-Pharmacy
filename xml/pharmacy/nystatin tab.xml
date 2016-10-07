@@ -2,8 +2,8 @@
 <dose><value>500 000</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>nystatin tab</value>
-</drug><strength><value>500 000 unit</value>
+</form><drugname><value>nystatin tab</value>
+</drugname><strength><value>500 000 unit</value>
 </strength><frequency><value>QID</value>
 <value>TID</value>
 </frequency><instruction><value></value>

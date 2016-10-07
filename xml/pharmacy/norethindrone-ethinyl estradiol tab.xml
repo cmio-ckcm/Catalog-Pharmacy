@@ -2,8 +2,8 @@
 <dose><value>1</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
-</form><drug><value>norethindrone-ethinyl estradiol tab</value>
-</drug><strength><value>1 mg-0.035 mg</value>
+</form><drugname><value>norethindrone-ethinyl estradiol tab</value>
+</drugname><strength><value>1 mg-0.035 mg</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value>for 21 days, then off for seven days. Repeat cycle.</value>
 </instruction><volume><value></value>
