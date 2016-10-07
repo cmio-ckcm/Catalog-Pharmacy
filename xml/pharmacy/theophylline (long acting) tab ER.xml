@@ -1,0 +1,24 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "theophylline (long acting) tab ER>
+<dose><value>400</value>
+<value>300</value>
+<value>600</value>
+</dose><route><value>PO</value>
+</route><form><value>tab ER</value>
+</form><drug><value>theophylline (long acting) tab ER</value>
+</drug><strength><value>400 mg</value>
+<value>600 mg</value>
+</strength><frequency><value>DAILY</value>
+</frequency><instruction><value></value>
+<value>Administer with supper.</value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Respiratory Smooth Muscle Relaxants</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

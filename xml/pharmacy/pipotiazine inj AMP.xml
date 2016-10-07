@@ -1,0 +1,23 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "pipotiazine inj AMP>
+<dose><value>12.5 - 250</value>
+</dose><route><value>IM</value>
+</route><form><value>inj AMP</value>
+</form><drug><value>pipotiazine inj AMP</value>
+</drug><strength><value>25 mg/mL</value>
+<value>50 mg/mL</value>
+</strength><frequency><value>EVERY 4 WEEKS</value>
+<value>EVERY 3 WEEKS</value>
+</frequency><instruction><value></value>
+</instruction><volume><value>1 mL</value>
+<value>2 mL</value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value>Initially administer in low doses (25 mg every 4 weeks) and increase gradually up to 250 mg monthly based upon response to pipotiazine. Some chronic psychotic patients may be resistant to usual doses, but may respond to doses up to 600 mg per month without an increase in toxicity.</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Discontinued.</value>
+</ahsformularystatus><ahfsname><value>Psychotherapeutic Agents, Antipsychotics</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

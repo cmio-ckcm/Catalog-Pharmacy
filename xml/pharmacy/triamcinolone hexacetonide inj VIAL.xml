@@ -1,0 +1,28 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "triamcinolone hexacetonide inj VIAL>
+<dose><value>20 - 100</value>
+<value>2.5 - 20</value>
+<value>1</value>
+<value>5 - 40</value>
+</dose><route><value>IM</value>
+<value>INTRA-ARTICULAR</value>
+<value>INTRADERMAL</value>
+<value>INTRA-SYNOVIAL</value>
+<value>SUBLESIONAL</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>triamcinolone hexacetonide inj VIAL</value>
+</drug><strength><value>20 mg/mL</value>
+</strength><frequency><value>ONCE</value>
+</frequency><instruction><value></value>
+<value>Administer dose per injection site.</value>
+</instruction><volume><value>1 mL</value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value>ADULT</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2344</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary, Health Canada Special Access Programme.</value>
+</ahsformularystatus><ahfsname><value>Adrenals</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

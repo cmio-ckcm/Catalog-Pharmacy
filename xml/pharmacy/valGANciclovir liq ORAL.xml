@@ -1,0 +1,24 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "valGANciclovir liq ORAL>
+<dose><value>450</value>
+<value>900</value>
+</dose><route><value>PO</value>
+</route><form><value>liq ORAL</value>
+</form><drug><value>valGANciclovir liq ORAL</value>
+</drug><strength><value>50 mg/mL</value>
+</strength><frequency><value>DAILY</value>
+<value>BID</value>
+<value>EVERY OTHER DAY</value>
+<value>TWO TIMES WEEKLY</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3243</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Usage guidelines.</value>
+</ahsformularystatus><ahfsname><value>Antivirals, Nucleosides and Nucleotides</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

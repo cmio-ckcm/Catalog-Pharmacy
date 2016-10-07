@@ -1,0 +1,23 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "fondaparinux inj SYR>
+<dose><value>2.5</value>
+</dose><route><value>IV</value>
+<value>SC</value>
+</route><form><value>inj SYR</value>
+</form><drug><value>fondaparinux inj SYR</value>
+</drug><strength><value>2.5 mg/0.5 mL</value>
+</strength><frequency><value>ONCE</value>
+<value>DAILY</value>
+</frequency><instruction><value>Administer by direct injection.</value>
+<value>Administer by subcutaneous injection.</value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</ahsformularystatus><ahfsname><value>Antithrombotic Agents, Anticoagulants</value>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose><value>YES</value>
+</maximumprndose></drug>

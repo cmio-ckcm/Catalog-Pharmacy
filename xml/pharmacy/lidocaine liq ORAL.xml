@@ -1,0 +1,22 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "lidocaine liq ORAL>
+<dose><value>5</value>
+<value>10</value>
+<value>15</value>
+</dose><route><value>PO</value>
+</route><form><value>liq ORAL</value>
+</form><drug><value>lidocaine liq ORAL</value>
+</drug><strength><value>2%</value>
+</strength><frequency><value>ONCE</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>mL</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>EENT Drugs, Local Anesthetics, </value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

@@ -1,0 +1,24 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "lipid emulsion (INTRALIPID) inj BAG>
+<dose><value></value>
+<value>1</value>
+</dose><route><value>IV</value>
+</route><form><value>inj BAG</value>
+</form><drug><value>lipid emulsion (INTRALIPID) inj BAG</value>
+</drug><strength><value>20%</value>
+</strength><frequency><value></value>
+<value>DAILY</value>
+</frequency><instruction><value></value>
+<value>Administer over 12 hours</value>
+</instruction><volume><value>500 mL</value>
+</volume><units><value>mL/hour</value>
+<value>g (lipid)/kg/day</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1975</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Usage guidelines.</value>
+</ahsformularystatus><ahfsname><value>Caloric Agents</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "formoterol inhaler>
+<dose><value>12</value>
+<value>24</value>
+<value>6</value>
+</dose><route><value>INH</value>
+</route><form><value>inhaler</value>
+</form><drug><value>formoterol inhaler</value>
+</drug><strength><value>12 mcg</value>
+<value>6 mcg</value>
+</strength><frequency><value>Q12H</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>mcg</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Sympathomimetic (Adrenergic) Agents, beta-Adrenergic Agonists</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

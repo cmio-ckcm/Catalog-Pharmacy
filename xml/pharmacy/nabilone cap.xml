@@ -1,0 +1,28 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "nabilone cap>
+<dose><value>0.5</value>
+<value>1</value>
+<value>2</value>
+</dose><route><value>PO</value>
+</route><form><value>cap</value>
+</form><drug><value>nabilone cap</value>
+</drug><strength><value>0.5 mg</value>
+<value>1 mg</value>
+</strength><frequency><value>BID</value>
+<value>ONCE</value>
+<value>HS</value>
+</frequency><instruction><value></value>
+<value>Administer pre-chemotherapy.</value>
+<value>Administer the night prior to chemotherapy.</value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value>Maximum recommended daily dose: 6 mg.</value>
+<value>1 to 3 hours prior to chemotherapy. Suggested daily maximum dose: 6 mg.</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Antiemetics, Miscellaneous</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

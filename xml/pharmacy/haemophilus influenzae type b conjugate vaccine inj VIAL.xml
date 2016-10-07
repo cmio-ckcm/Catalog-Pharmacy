@@ -1,0 +1,26 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "haemophilus influenzae type b conjugate vaccine inj VIAL>
+<dose><value>0.5</value>
+</dose><route><value>IM</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>haemophilus influenzae type b conjugate vaccine inj VIAL</value>
+</drug><strength><value></value>
+</strength><frequency><value>EVERY 2 MONTHS.</value>
+<value>MONTHLY</value>
+<value>ONCE</value>
+</frequency><instruction><value>for 3 doses: Administer a cycle of 3 doses beginning at 2 months of age, administer the second dose 2 months later and administer the third dose 2 months following the second dose. </value>
+<value>for 2 doses; ONCE, followed by a second dose one month later.</value>
+<value></value>
+</instruction><volume><value>0.5 mL</value>
+</volume><units><value>mL</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value>INFANT, previously unvaccinated.</value>
+<value>INFANT, aged 6 to 12 months; previously unvaccinated.</value>
+<value>CHILDREN, aged 1 to 5 years.</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2260</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</ahsformularystatus><ahfsname><value>Vaccines</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

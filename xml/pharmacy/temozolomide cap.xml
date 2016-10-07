@@ -1,0 +1,42 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "temozolomide cap>
+<dose><value>75</value>
+<value>150</value>
+<value>200</value>
+<value>100</value>
+<value>50</value>
+<value>35</value>
+</dose><route><value>PO</value>
+</route><form><value>cap</value>
+</form><drug><value>temozolomide cap</value>
+</drug><strength><value>100 mg</value>
+<value>140 mg</value>
+<value>20 mg</value>
+<value>250 mg</value>
+<value>5 mg</value>
+</strength><frequency><value>DAILY</value>
+<value>HS</value>
+<value>DAILY.  </value>
+</frequency><instruction><value></value>
+<value>for 5 days.</value>
+<value>for 12 weeks.</value>
+</instruction><volume><value></value>
+</volume><units><value>mg/m2</value>
+<value>mg/m2/day</value>
+</units><additionalnotes><value>Concomitant Phase: dose to be administered 1 hour prior to radiation therapy and on non-radiation therapy day, take dose at the same time as on radiation therapy days. Treatment for 42 days. No dose reductions are recommended, however dose interruptions may occur based upon patient tolerance. Dosing based on ideal body weight, round dose to nearest 5 or 10 mg. Consideration for prescription for ondansetron and sulfamethoxazole/trimethoprim.</value>
+<value>Maintenance Phase: Cycle 1: 5 days treatment followed by 23 days without treatment. Dosing based on ideal body weight. Round dose to nearest 5 mg.</value>
+<value>Maintenance Phase: Cycle 2 - 6 (if patient tolerance supports dose escalation): 5 days treatment followed by 23 days without treatment. Dosing based upon ideal body weight. Round dose to nearest 5 or 10 mg. Dose capped at maximum BSA = 2.2 m2.</value>
+<value>Maintenance Phase: Cycle 2 - 6 (dose reduction for prior toxicity): 5 days treatment followed by 23 days without treatment. Dosing based upon ideal body weight. Round dose to nearest 5 mg. </value>
+<value>Continuous dosing. Dosing based upon ideal body weight. Round dose to nearest 5 mg. If ANC is greater than or equal to 0.5 and less than 1.5 X 109/L OR Platelets are greater than or equal to 10 and less than 100 X 109/L: withhold Temozolomide until ANC is greater than or equal to 1.5 X 109/L AND Platelets are greater than or equal to 100 X 109/L. IF ANC is less than 0.5 X 109/L OR Platelets are less than 10 X 109/L, reduce dose to 35 mg/m2 or stop Temozolomide. Non-Hematologic toxicity: adjust as per authorized prescriber.</value>
+</additionalnotes><population><value>ADULT</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3450</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3451</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3449</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3453</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3448</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</ahsformularystatus><ahfsname><value>Antineoplastic Agents</value>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose><value>YES</value>
+</maximumprndose></drug>

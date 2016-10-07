@@ -1,0 +1,29 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "oxazepam tab>
+<dose><value>10</value>
+<value>15</value>
+<value>30</value>
+</dose><route><value>PO</value>
+</route><form><value>tab</value>
+</form><drug><value>oxazepam tab</value>
+</drug><strength><value>10 mg</value>
+<value>15 mg</value>
+<value>30 mg</value>
+</strength><frequency><value>TID</value>
+<value>QID</value>
+<value>HS</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+<value>Anxiety</value>
+<value>Insomnia</value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+<value>YES</value>
+</prninformation><ahsformularystatus><value>Formulary with Usage guidelines.</value>
+</ahsformularystatus><ahfsname><value>Anxiolytics, Sedatives, and Hypnotics, Benzodiazepines</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

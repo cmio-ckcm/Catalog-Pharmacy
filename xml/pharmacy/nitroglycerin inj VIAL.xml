@@ -1,0 +1,34 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "nitroglycerin inj VIAL>
+<dose><value>0.25 - 5</value>
+<value>50 - 100</value>
+<value></value>
+</dose><route><value>IV</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>nitroglycerin inj VIAL</value>
+</drug><strength><value>5 mg/mL</value>
+</strength><frequency><value>CONTINUOUS</value>
+<value>EVERY 3 MINUTES</value>
+</frequency><instruction><value>Administer by continuous infusion. Titrate dose every 3 to 5 minutes as required in increments of 0.5 to 1 mcg/kg/minute.</value>
+<value>Administer by direct injection, up to a maximum of 200 mcg. Dosing inveral may extend up to 5 minutes.</value>
+<value>Administer by continuous infusion. Initiate dose at 5 to 10 mcg/minute and titrate dose with 5 to 10 mcg/minute increments every 3 to 5 minutes until desired hemodynamic or clinical response.</value>
+<value>Administer by continuous infusion. Initiate dose at 0.1 to 0.2 mcg/kg/minute. Titrate dose with 0.1 mcg/kg/minute increments every 3 to 5 minutes until response noted.</value>
+</instruction><volume><value>10 mL</value>
+</volume><units><value>mcg/kg/minute</value>
+<value>mcg</value>
+<value>mcg/minute</value>
+</units><additionalnotes><value>Usual dose: 1 to 3 mcg/kg/minute.</value>
+<value>Uterine relaxation</value>
+<value>If no response at 20 mcg/minute, increments of 10 to 20 mcg/minute can be used.</value>
+<value>If no response at dose of 0.3 mcg/kg/minute, increase by increments of 0.2 to 0.4 mcg/kg/minute.</value>
+</additionalnotes><population><value>NEONATE</value>
+<value>INFANT / CHILDREN</value>
+<value>ADULT</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+<value>YES</value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Anticonvulsants, Benzodiazepines</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

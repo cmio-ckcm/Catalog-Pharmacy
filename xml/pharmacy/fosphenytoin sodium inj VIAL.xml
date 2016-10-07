@@ -1,0 +1,37 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "fosphenytoin sodium inj VIAL>
+<dose><value>10 - 20</value>
+<value>4 - 6</value>
+<value>4 - 8</value>
+<value>4 - 7</value>
+<value>15 - 20</value>
+</dose><route><value>IM</value>
+<value>IV</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>fosphenytoin sodium inj VIAL</value>
+</drug><strength><value>75 mg/mL</value>
+</strength><frequency><value>ONCE</value>
+<value>DAILY</value>
+<value>BID</value>
+<value>TID</value>
+</frequency><instruction><value>LOADING DOSE</value>
+<value></value>
+<value>Administer daily calculated dose in 2 equally divided doses.</value>
+<value>Administer daily calculated dose in 3 equally divided doses.</value>
+</instruction><volume><value>10 mL</value>
+</volume><units><value>mg PE/kg</value>
+<value>mg PE/kg/day</value>
+</units><additionalnotes><value>Nonemergent loading dose. 1.5 mg fosphenytoin sodium = 1 mg phenytoin sodium = 1 mg phenytoin Equivalent Units (PE).</value>
+<value>Maintenance dose. 1.5 mg fosphenytoin sodium = 1 mg phenytoin sodium = 1 mg phenytoin Equivalent Units (PE).</value>
+<value>Status Epilepticus. 1.5 mg fosphenytoin sodium = 1 mg phenytoin sodium = 1 mg phenytoin Equivalent Units (PE).</value>
+</additionalnotes><population><value>ADULT / NEONATE / INFANT / CHILDREN</value>
+<value>ADULT</value>
+<value>NEONATE</value>
+<value>INFANT / CHILDREN</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3627</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</ahsformularystatus><ahfsname><value>Anticonvulsants, Hydantoins</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

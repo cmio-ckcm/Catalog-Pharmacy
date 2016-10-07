@@ -1,0 +1,23 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "potassium chloride liq ORAL>
+<dose><value>15</value>
+</dose><route><value>PO</value>
+</route><form><value>liq ORAL</value>
+</form><drug><value>potassium chloride liq ORAL</value>
+</drug><strength><value>100 mg/mL</value>
+</strength><frequency><value>BID</value>
+<value>TID</value>
+<value>QID</value>
+<value>DAILY</value>
+</frequency><instruction><value>Administer with food. Dilute dose in 250 mL fluid and drink slowly.</value>
+</instruction><volume><value></value>
+</volume><units><value>mL</value>
+</units><additionalnotes><value>15 mL = 20 mMol potassium</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Replacement Preparations</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

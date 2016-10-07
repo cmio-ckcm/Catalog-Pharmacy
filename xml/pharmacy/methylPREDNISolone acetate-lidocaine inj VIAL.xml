@@ -1,0 +1,27 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "methylPREDNISolone acetate-lidocaine inj VIAL>
+<dose><value>40</value>
+<value>80</value>
+<value>120</value>
+<value>4</value>
+<value>8</value>
+<value>10</value>
+<value>20</value>
+</dose><route><value>IM</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>methylPREDNISolone acetate-lidocaine inj VIAL</value>
+</drug><strength><value>40 mg-10 mg/mL</value>
+</strength><frequency><value>ONCE</value>
+</frequency><instruction><value></value>
+</instruction><volume><value>1 mL</value>
+<value>2 mL</value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Adrenals</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

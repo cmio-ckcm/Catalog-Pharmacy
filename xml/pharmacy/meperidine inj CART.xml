@@ -1,0 +1,39 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "meperidine inj CART>
+<dose><value>2.5</value>
+<value>5</value>
+<value>7.5</value>
+<value>10</value>
+<value>5 - 25</value>
+</dose><route><value>IV</value>
+<value>IV </value>
+</route><form><value>inj CART</value>
+</form><drug><value>meperidine inj CART</value>
+</drug><strength><value>10 mg/mL</value>
+</strength><frequency><value>ONCE</value>
+<value>CONTINUOUS</value>
+</frequency><instruction><value>PCA bolus dose with lockout interval of 5 minutes.</value>
+<value>PCA bolus dose with lockout interval of 6 minutes.</value>
+<value>PCA bolus dose with lockout interval of 7 minutes.</value>
+<value>PCA bolus dose with lockout interval of 8 minutes.</value>
+<value>PCA bolus dose with lockout interval of 9 minutes.</value>
+<value>PCA bolus dose with lockout interval of 10 minutes.</value>
+<value>PCA bolus dose with lockout interval of 11 minutes.</value>
+<value>PCA bolus dose with lockout interval of 12 minutes.</value>
+<value>PCA bolus dose with lockout interval of 13 minutes.</value>
+<value>PCA bolus dose with lockout interval of 14 minutes.</value>
+<value>PCA bolus dose with lockout interval of 15 minutes.</value>
+<value>PCA: Basal infusion rate</value>
+</instruction><volume><value>30 mL</value>
+</volume><units><value>mg</value>
+<value>mg/hour</value>
+</units><additionalnotes><value>Adults.</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value>YES</value>
+<value></value>
+</prninformation><ahsformularystatus><value>Discontinued.</value>
+</ahsformularystatus><ahfsname><value>Analgesics and Antipyretics, Opiate Agonists</value>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose><value>YES</value>
+</maximumprndose></drug>

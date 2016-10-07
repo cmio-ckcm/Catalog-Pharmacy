@@ -1,0 +1,25 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "carboxymethylcellulose, preservative free drop EYE>
+<dose><value>1</value>
+<value>2</value>
+</dose><route><value>OPHTH</value>
+</route><form><value>drop EYE</value>
+</form><drug><value>carboxymethylcellulose, preservative free drop EYE</value>
+</drug><strength><value>1%</value>
+</strength><frequency><value>Q1H</value>
+<value>Q2H</value>
+</frequency><instruction><value>Instill into affected eye(s).</value>
+<value>Instill into LEFT eye.</value>
+<value>Instill into RIGHT eye.</value>
+<value>Instill into BOTH eyes.</value>
+</instruction><volume><value></value>
+</volume><units><value>gtt</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</ahsformularystatus><ahfsname><value>EENT Drugs, Miscellaneous</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

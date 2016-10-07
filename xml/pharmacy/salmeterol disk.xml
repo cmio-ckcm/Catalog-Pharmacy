@@ -1,0 +1,20 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "salmeterol disk>
+<dose><value>50</value>
+</dose><route><value>INH</value>
+</route><form><value>disk</value>
+</form><drug><value>salmeterol disk</value>
+</drug><strength><value>50 mcg</value>
+</strength><frequency><value>BID</value>
+</frequency><instruction><value></value>
+</instruction><volume><value>60 dose</value>
+</volume><units><value>mcg</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Sympathomimetic (Adrenergic) Agents, beta-Adrenergic Agonists</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

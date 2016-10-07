@@ -1,0 +1,20 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "dinoprostone insert VAG>
+<dose><value>10</value>
+</dose><route><value>VAGINAL</value>
+</route><form><value>insert VAG</value>
+</form><drug><value>dinoprostone insert VAG</value>
+</drug><strength><value>10 mg</value>
+</strength><frequency><value>ONCE</value>
+</frequency><instruction><value>Insert transversely into the posterior fornix of vagina.</value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Oxytocics</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

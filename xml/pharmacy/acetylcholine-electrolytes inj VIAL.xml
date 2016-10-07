@@ -1,0 +1,26 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "acetylcholine-electrolytes inj VIAL>
+<dose><value>5</value>
+<value>10</value>
+<value>15</value>
+<value>20</value>
+</dose><route><value>INTRA-OCULAR</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>acetylcholine-electrolytes inj VIAL</value>
+</drug><strength><value>20 mg</value>
+</strength><frequency><value>ONCE</value>
+</frequency><instruction><value>INJECT INTO ANTERIOR CHAMBER OF EYE.</value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value>5 mg = 0.5 mL of reconstituted solution</value>
+<value>10 mg = 1 mL of reconstiuted solution</value>
+<value>15 mg = 1.5 mL of reconstituted solution</value>
+<value>20mg = 2 mL of reconstituted solution</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>EENT Drugs, Antiglaucoma Agents, Miotics</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

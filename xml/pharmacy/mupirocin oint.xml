@@ -1,0 +1,20 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "mupirocin oint>
+<dose><value></value>
+</dose><route><value>TOP </value>
+</route><form><value>oint</value>
+</form><drug><value>mupirocin oint</value>
+</drug><strength><value>2%</value>
+</strength><frequency><value>TID</value>
+</frequency><instruction><value>Apply a thin film to affected area.</value>
+</instruction><volume><value></value>
+</volume><units><value></value>
+</units><additionalnotes><value>Treatment up to 10 days.</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Skin and Mucous Membrane Agents, Antibacterials</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

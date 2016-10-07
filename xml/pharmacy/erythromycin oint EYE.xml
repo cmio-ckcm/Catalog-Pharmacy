@@ -1,0 +1,21 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "erythromycin oint EYE>
+<dose><value>0.5</value>
+<value>1</value>
+</dose><route><value>TOP</value>
+</route><form><value>oint EYE</value>
+</form><drug><value>erythromycin oint EYE</value>
+</drug><strength><value>5 mg/g</value>
+</strength><frequency><value>ONCE</value>
+</frequency><instruction><value>Instilled into each conjuctival sac.</value>
+</instruction><volume><value>3.5 g</value>
+</volume><units><value>cm</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>EENT Drugs, Anti-infectives, Antibacterials</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

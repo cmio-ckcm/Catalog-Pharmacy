@@ -1,0 +1,26 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "potassium iodide tab>
+<dose><value>130</value>
+<value>65</value>
+<value>32.5</value>
+<value>16.25</value>
+</dose><route><value>PO</value>
+</route><form><value>tab</value>
+</form><drug><value>potassium iodide tab</value>
+</drug><strength><value>65 mg</value>
+</strength><frequency><value>DAILY</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value>ADULT</value>
+<value>INFANT / CHILDREN. 3 - 18 years of age</value>
+<value>INFANT / CHILDREN. 1 month to 3 years of age.</value>
+<value>NEONATE. Up to 1 month of age.</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Antithyroid Agents</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

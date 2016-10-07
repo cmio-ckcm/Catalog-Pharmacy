@@ -1,0 +1,34 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "ergonovine inj AMP>
+<dose><value>0.2</value>
+<value>0.25</value>
+<value>0.5</value>
+<value>0.05</value>
+<value>0.1</value>
+</dose><route><value>IM</value>
+<value>IV</value>
+</route><form><value>inj AMP</value>
+</form><drug><value>ergonovine inj AMP</value>
+</drug><strength><value>0.25 mg/mL</value>
+</strength><frequency><value>ONCE</value>
+<value>Q2H</value>
+<value>Q4H</value>
+</frequency><instruction><value>Administer immediately post-partum.</value>
+<value></value>
+<value>post-partum hemorrhage</value>
+<value>May administer up to 5 doses.</value>
+</instruction><volume><value>1 mL</value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value></value>
+<value>Dilute dose in 5 mL normal saline and administer over at least one minute into Y-site of running IV.</value>
+<value>Diagnosis of Coronary Artery Spasm.</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+<value>Post-Partum hemorrhage</value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+<value>YES</value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Oxytocics</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

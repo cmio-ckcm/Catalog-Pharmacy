@@ -1,0 +1,51 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "scopolamine inj VIAL>
+<dose><value>0.2 - 0.6</value>
+<value>0.2 - 1</value>
+<value>0.32 - 0.65</value>
+<value>0.3 - 0.6</value>
+<value>6</value>
+<value>0.3 - 0.8</value>
+</dose><route><value>IM</value>
+<value>IV</value>
+<value>SC</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>scopolamine inj VIAL</value>
+</drug><strength><value>0.4 mg/mL</value>
+<value>0.6 mg/mL</value>
+</strength><frequency><value>ONCE</value>
+<value>TID</value>
+<value>QID</value>
+<value>Q6H</value>
+<value>Q2H  </value>
+<value>Q3H  </value>
+<value>Q4H</value>
+<value>Q8H</value>
+</frequency><instruction><value>Administer 30 minutes pre-op</value>
+<value>Administer 60 minutes pre-op</value>
+<value></value>
+<value>ONCE. May repeat dose TID PRN for sedation.</value>
+<value>ONCE. May repeat dose QID PRN for sedation.</value>
+<value>for reduction of upper airway secretions.</value>
+</instruction><volume><value>1 mL</value>
+</volume><units><value>mg</value>
+<value>mcg/kg/dose</value>
+</units><additionalnotes><value></value>
+<value>MAXIMUM dose: 0.3 mg/dose</value>
+</additionalnotes><population><value>ADULT. Inhibition of Salivation</value>
+<value>ADULT. Antiemetic.</value>
+<value>ADULT. Amnesia.</value>
+<value>ADULT. Sedation.</value>
+<value>INFANT / CHILDREN. Preoperative Adjunct</value>
+<value>INFANT / CHILDREN. Antiemetic.</value>
+<value>ADULT. Palliative care</value>
+</population><indicationprn><value></value>
+<value>Sedation</value>
+<value>Nausea</value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+<value>YES</value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Anticholinergic Agents, Antimuscarinics/Antispasmodics</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

@@ -1,0 +1,24 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "busulfan inj VIAL>
+<dose><value>3.2</value>
+<value>0.8</value>
+</dose><route><value>IV</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>busulfan inj VIAL</value>
+</drug><strength><value>6 mg/mL</value>
+</strength><frequency><value>DAILY</value>
+<value>Q6H</value>
+</frequency><instruction><value>for 3 days. Administer dose over 3 to 4 hours.</value>
+<value>for 4 days. Administer dose over 3 to 4 hours.</value>
+<value>for 4 consectutive days. (Total of 16 doses). Administer dose over 2 hours.</value>
+</instruction><volume><value>10 mL</value>
+</volume><units><value>mg/kg</value>
+</units><additionalnotes><value>Use Ideal Body Weight for dose calculation if less than actual body weight. For obese patients consider using adjusted body weight.</value>
+</additionalnotes><population><value>ADULT</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3350</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Antineoplastic Agents</value>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose><value>YES</value>
+</maximumprndose></drug>

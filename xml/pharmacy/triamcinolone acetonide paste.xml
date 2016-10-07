@@ -1,0 +1,23 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "triamcinolone acetonide paste>
+<dose><value></value>
+</dose><route><value>TOP</value>
+</route><form><value>paste</value>
+</form><drug><value>triamcinolone acetonide paste</value>
+</drug><strength><value>0.1%</value>
+</strength><frequency><value>HS</value>
+<value>BID</value>
+<value>TID</value>
+</frequency><instruction><value>Press a small amount (about 0.6 cm) of paste to the lesion without rubbing.</value>
+<value>Press a small amount (about 0.6 cm) of paste to the lesion without rubbing after meals.</value>
+</instruction><volume><value></value>
+</volume><units><value></value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value>ADULT</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Skin and Mucous Membrane Agents, Anti-inflammatory Agents</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

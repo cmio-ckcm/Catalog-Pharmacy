@@ -1,0 +1,23 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "buPROPion (WELLBUTRIN SR, long acting) tab ER>
+<dose><value>100</value>
+<value>150</value>
+</dose><route><value>PO</value>
+</route><form><value>tab ER</value>
+</form><drug><value>buPROPion (WELLBUTRIN SR, long acting) tab ER</value>
+</drug><strength><value>100 mg</value>
+<value>150 mg</value>
+</strength><frequency><value>DAILY</value>
+<value>BID</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value>Bupropion is associated with dose-related risk of seizures. The recommended maximum dose: 300 mg/day, no single dose should exceed 150 mg.  </value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Psychotherapeutic Agents, Antidepressants</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

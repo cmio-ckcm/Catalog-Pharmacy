@@ -1,0 +1,22 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "bovine lipid extract surfactant inj VIAL>
+<dose><value>5</value>
+</dose><route><value>ENDOTRACHEAL</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>bovine lipid extract surfactant inj VIAL</value>
+</drug><strength><value>27 mg/mL</value>
+</strength><frequency><value>ONCE</value>
+</frequency><instruction><value>Total dose may be administered as a single dose or up to three aliquots.</value>
+</instruction><volume><value>3 mL</value>
+<value>4 mL</value>
+<value>5 mL</value>
+</volume><units><value>mL/kg</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>Dosing based upon dose weight range table provided by manufacturer.</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</ahsformularystatus><ahfsname><value>Pulmonary Surfactants</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

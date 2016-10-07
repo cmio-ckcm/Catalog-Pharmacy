@@ -1,0 +1,35 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "chloroprocaine inj VIAL>
+<dose><value>2 - 2.5</value>
+<value>15 - 25</value>
+<value>1 - 800</value>
+<value>2 - 3</value>
+<value>40 - 60</value>
+<value></value>
+<value>30 - 40</value>
+</dose><route><value>EPIDURAL</value>
+<value>INFILTRATION</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>chloroprocaine inj VIAL</value>
+</drug><strength><value>2%</value>
+</strength><frequency><value>ONCE</value>
+</frequency><instruction><value></value>
+</instruction><volume><value>20 mL</value>
+</volume><units><value>mL</value>
+<value>mg</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value>ADULT. LUMBAR EPIDURAL.</value>
+<value>ADULT. Caudal</value>
+<value>ADULT. Local infiltration. MAXIMUM total dose: 800 mg.</value>
+<value>ADULT. Mandibular</value>
+<value>ADULT. Pudendal (each side) block. Total dose: 400 mg</value>
+<value>ADULT. Brachial plexus.</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary, Health Canada Special Access Programme.</value>
+</ahsformularystatus><ahfsname><value>Local Anesthetics</value>
+</ahfsname><highalert><value>YES</value>
+<value></value>
+</highalert><maximumprndose><value>YES</value>
+<value></value>
+</maximumprndose></drug>

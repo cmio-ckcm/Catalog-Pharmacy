@@ -1,0 +1,23 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "terbutaline inhaler>
+<dose><value>0.5</value>
+</dose><route><value>INH</value>
+</route><form><value>inhaler</value>
+</form><drug><value>terbutaline inhaler</value>
+</drug><strength><value>0.5 mg</value>
+</strength><frequency><value>ONCE</value>
+</frequency><instruction><value>Dose my be repeated after 5 minutes if symptoms are not relieved.</value>
+<value>prior to exercise.</value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value>Greater than 6 doses/24 hour period should not be required. If effects last less than 3 hours, patient should be reassessed.</value>
+</additionalnotes><population><value>ADULT / CHILDREN, 6 years and older.</value>
+</population><indicationprn><value>Bronchospasm</value>
+<value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value>YES</value>
+<value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Sympathomimetic (Adrenergic) Agents, beta-Adrenergic Agonists</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

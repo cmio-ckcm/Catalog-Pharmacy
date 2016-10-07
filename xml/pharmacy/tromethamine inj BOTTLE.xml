@@ -1,0 +1,31 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "tromethamine inj BOTTLE>
+<dose><value></value>
+<value>24 - 40</value>
+<value>1 - 4.2</value>
+<value>3.3 - 6.6</value>
+</dose><route><value>IV</value>
+</route><form><value>inj BOTTLE</value>
+</form><drug><value>tromethamine inj BOTTLE</value>
+</drug><strength><value>36 mg/mL</value>
+</strength><frequency><value>ONCE</value>
+<value>CONTINUOUS</value>
+</frequency><instruction><value>Administer over 1 hour.</value>
+<value>Administer by continuous infusion.</value>
+</instruction><volume><value>500 mL</value>
+</volume><units><value>mL/kg</value>
+<value>mL/kg/day</value>
+<value>mmol/kg/day</value>
+<value>ml/kg/day</value>
+</units><additionalnotes><value>NEONATE: Calculated as: 1 mL/kg for each pH unit below 7.2; additional doses to be determined by changes in PaO2, pH and PCO2. 120 mg = 3.3 mL = 1 mmol of tromethamine.</value>
+<value>120 mg = 3.3 mL = 1 mmol of tromethamine.</value>
+</additionalnotes><population><value>NEONATE: Calculated as: 1 mL/kg for each pH unit below 7.2; additional doses to be determined by changes in PaO2, pH and PCO2.</value>
+<value>NEONATE.</value>
+<value>INFANT / CHILDREN / ADULT</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Alkalinizing Agents</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

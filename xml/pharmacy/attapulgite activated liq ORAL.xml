@@ -1,0 +1,25 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "attapulgite activated liq ORAL>
+<dose><value>15</value>
+<value>30</value>
+<value>7.5</value>
+</dose><route><value>PO</value>
+<value>PO </value>
+</route><form><value>liq ORAL</value>
+</form><drug><value>attapulgite activated liq ORAL</value>
+</drug><strength><value>40 mg/mL</value>
+</strength><frequency><value>ONCE</value>
+</frequency><instruction><value>Up to 7 times daily.</value>
+</instruction><volume><value></value>
+</volume><units><value>mL</value>
+</units><additionalnotes><value>CHILDREN: 6 - 12 YEARS</value>
+<value>ADULTS / CHILDREN OVER 12 YEARS</value>
+<value>CHILDREN: 3 - 6 YEARS</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value>YES</value>
+</prninformation><ahsformularystatus><value>Formulary with Therapeutic Interchange.</value>
+</ahsformularystatus><ahfsname><value>Antidiarrhea Agents</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

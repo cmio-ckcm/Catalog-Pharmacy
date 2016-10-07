@@ -1,0 +1,24 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "ferrous fumarate cap>
+<dose><value>300</value>
+</dose><route><value>PO</value>
+</route><form><value>cap</value>
+</form><drug><value>ferrous fumarate cap</value>
+</drug><strength><value>300 mg</value>
+</strength><frequency><value>DAILY</value>
+<value>LUNCH</value>
+<value>SUPPER</value>
+<value>BID</value>
+<value>TID</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value>Ferrous fumarate 300mg provides 100 mg elemental iron. Treatment of adult iron deficiency anemia requires approximately 180mg elemental iron daily. Recommend 4 to 6 months treatment after hemoglobin levels normalize. </value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Antianemia Drugs, Iron Preparations</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "baclofen inj AMP>
+<dose><value>10 - 1000</value>
+<value>10 - 1200</value>
+<value>25 - 1000</value>
+<value>25 - 2000</value>
+</dose><route><value>INTRATHECAL</value>
+</route><form><value>inj AMP</value>
+</form><drug><value>baclofen inj AMP</value>
+</drug><strength><value>0.05 mg/mL</value>
+<value>0.5 mg/mL</value>
+<value>2 mg/mL</value>
+</strength><frequency><value>DAILY</value>
+<value>CONTINUOUS</value>
+</frequency><instruction><value></value>
+<value>Administer by continuous infusion.</value>
+</instruction><volume><value>1 mL</value>
+<value>20 mL</value>
+<value>5 mL</value>
+</volume><units><value>mcg</value>
+<value>mcg/day</value>
+</units><additionalnotes><value>Abrupt discontinuation of intrathecal baclofen, regardless of cause, has resulted in sequelae that include high fever, altered mental status, exaggerated rebound spasticity, and muscle regidity, that in rare cases hasd advanced to rhabdomyolysis, multiple organ-system failure and death. Health Canada Advisory;2002JUL01.</value>
+</additionalnotes><population><value>ADULT. Dose titration phase.</value>
+<value>ADULT. Maintenance therapy.</value>
+<value>CHILDREN</value>
+<value>CHILDREN, 12 years of age and younger.</value>
+<value>CHILDREN , over 12 years of age</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1606</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1623</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1607</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</ahsformularystatus><ahfsname><value>Skeletal Muscle Relaxants, GABA-derivative Skeletal Muscle Relaxants</value>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose><value>YES</value>
+</maximumprndose></drug>

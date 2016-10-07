@@ -1,0 +1,26 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "methylnaltrexone inj VIAL>
+<dose><value>6</value>
+<value>8</value>
+<value>12</value>
+<value>18</value>
+</dose><route><value>SC</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>methylnaltrexone inj VIAL</value>
+</drug><strength><value>20 mg/mL</value>
+</strength><frequency><value>EVERY OTHER DAY</value>
+</frequency><instruction><value></value>
+</instruction><volume><value>0.6 mL</value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value>Reduce dose by 50% in patients with CrCl less than 30 mL/minute.</value>
+</additionalnotes><population><value>Patients weighing 33 to less than 38 kg.</value>
+<value>Patients weighing 38 to less than 62 kg.</value>
+<value>Patients weighing 62 to less than 115 kg.</value>
+<value>Patients weighing 115 to 126 kg.</value>
+</population><indicationprn><value>Constipation</value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1639</value>
+</backgroundinformation><prninformation><value>YES</value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions, Usage guidelines.</value>
+</ahsformularystatus><ahfsname><value>GI Drugs, Miscellaneous</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

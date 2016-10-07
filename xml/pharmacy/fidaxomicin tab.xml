@@ -1,0 +1,20 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "fidaxomicin tab>
+<dose><value>200</value>
+</dose><route><value>PO</value>
+</route><form><value>tab</value>
+</form><drug><value>fidaxomicin tab</value>
+</drug><strength><value>200 mg</value>
+</strength><frequency><value>BID</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value>Recommended treatment is 10 days. No dose adjust required based upon age, gender hepatic or renal function. Fidaxomicin has minimal systemic absorbption and is NOT used for systemic infections. </value>
+</additionalnotes><population><value>ADULT</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Under review.</value>
+</ahsformularystatus><ahfsname><value>Antibacterials, Macrolides</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

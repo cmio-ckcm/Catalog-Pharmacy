@@ -1,0 +1,22 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "sodium chondroitin sulfate-sodium hyaluronidate inj SYR>
+<dose><value></value>
+</dose><route><value>INTRA-OCULAR</value>
+</route><form><value>inj SYR</value>
+</form><drug><value>sodium chondroitin sulfate-sodium hyaluronidate inj SYR</value>
+</drug><strength><value>4%-3%</value>
+</strength><frequency><value>ONCE</value>
+</frequency><instruction><value>Inject into anterior chamber of LEFT eye.</value>
+<value>Inject into anterior chamber of RIGHT eye.</value>
+</instruction><volume><value>0.5 mL</value>
+<value>0.75 mL</value>
+</volume><units><value>mL</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary_pending DTC decision.</value>
+</ahsformularystatus><ahfsname><value>EENT Drugs, Miscellaneous</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

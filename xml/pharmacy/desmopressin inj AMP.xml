@@ -1,0 +1,33 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "desmopressin inj AMP>
+<dose><value>0.3 mcg/kg</value>
+<value>0.4</value>
+<value>1</value>
+<value>2</value>
+<value>3</value>
+<value>4</value>
+</dose><route><value>IV</value>
+<value>SC</value>
+<value>IM</value>
+</route><form><value>inj AMP</value>
+</form><drug><value>desmopressin inj AMP</value>
+</drug><strength><value>15 mcg/mL</value>
+<value>4 mcg/mL</value>
+</strength><frequency><value>ONCE</value>
+<value>DAILY</value>
+</frequency><instruction><value>Administer 30 minutes pre-operatively.</value>
+<value></value>
+</instruction><volume><value>1 mL</value>
+</volume><units><value>mcg</value>
+</units><additionalnotes><value>MAXIMUM DOSE: 20 mcg. Administer over 20-30 minutes</value>
+<value>MAXIMUM DOSE: 20 mcg</value>
+<value></value>
+<value>Administer over 20-30 minutes</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Pituitary</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

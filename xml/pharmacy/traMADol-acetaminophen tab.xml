@@ -1,0 +1,22 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "traMADol-acetaminophen tab>
+<dose><value>1</value>
+<value>2</value>
+</dose><route><value>PO</value>
+</route><form><value>tab</value>
+</form><drug><value>traMADol-acetaminophen tab</value>
+</drug><strength><value>37.5 mg-325 mg</value>
+</strength><frequency><value>Q4H</value>
+<value>Q6H</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>TAB</value>
+</units><additionalnotes><value>Maximum: 8 tablets per day. Tramadol is not officially indicated in patients under 18 years in Canada, due to the genetic variability of tramadol metabolism via CYP2D6 to the M1 active metabolite (M1 is up to 6 times more potent than tramadol in producing analgesia and 200 times more potent in µ-opioid binding) and the potential for opioid-related toxicity in fast metabolizers. </value>
+</additionalnotes><population><value>ADULT</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1010</value>
+</backgroundinformation><prninformation><value>YES</value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</ahsformularystatus><ahfsname><value>Analgesics and Antipyretics, Opiate Agonists</value>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose><value>YES</value>
+</maximumprndose></drug>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "talc, sterile powder>
+<dose><value>4 - 8</value>
+<value>2.5 - 10</value>
+</dose><route><value>INTRAPLEURAL</value>
+</route><form><value>powder</value>
+</form><drug><value>talc, sterile powder</value>
+</drug><strength><value>4 g</value>
+<value>5 g</value>
+</strength><frequency><value>ONCE</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>g</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2055</value>
+<value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary, Health Canada Special Access Programme.</value>
+</ahsformularystatus><ahfsname><value>Sclerosing Agents</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

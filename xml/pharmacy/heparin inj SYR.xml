@@ -1,0 +1,25 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "heparin inj SYR>
+<dose><value>3</value>
+<value>2</value>
+<value>5</value>
+</dose><route><value>IV</value>
+<value>IV </value>
+</route><form><value>inj SYR</value>
+</form><drug><value>heparin inj SYR</value>
+</drug><strength><value>10 unit/mL</value>
+</strength><frequency><value>ONCE</value>
+</frequency><instruction><value>Administer into PICC line (non-groshong) following saline flush for maintenance of line patency</value>
+<value>Administer into peripheral catheter line following saline flush for maintenance of line patency.</value>
+<value>Administer into central catheter line following saline flush for maintenance of line patency.</value>
+</instruction><volume><value>5 mL</value>
+</volume><units><value>mL</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value>Maintenance of line patency</value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value>YES</value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Antithrombotic Agents, Anticoagulants</value>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose><value>YES</value>
+</maximumprndose></drug>

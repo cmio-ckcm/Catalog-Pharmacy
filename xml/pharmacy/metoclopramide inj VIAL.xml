@@ -1,0 +1,36 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "metoclopramide inj VIAL>
+<dose><value>10</value>
+<value>20</value>
+<value>1</value>
+<value>2</value>
+<value>3</value>
+</dose><route><value>IV</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>metoclopramide inj VIAL</value>
+</drug><strength><value>5 mg/mL</value>
+</strength><frequency><value>ONCE</value>
+<value>Q4H</value>
+<value>Q6H</value>
+<value>Q8H</value>
+<value>Q12H</value>
+</frequency><instruction><value></value>
+<value>Administer 30 minutes pre-chemotherapy.</value>
+<value>Administer post-chemotherapy.</value>
+<value>DAY -1. Administer pre-chemotherapy. May be administered by PO route.</value>
+</instruction><volume><value>10 mL</value>
+<value>2 mL</value>
+<value>30 mL</value>
+</volume><units><value>mg</value>
+<value>mg/kg</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+<value>YES</value>
+</prninformation><ahsformularystatus><value>Discontinued.</value>
+<value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Gastrointestinal Drugs, Prokinetic Agents</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

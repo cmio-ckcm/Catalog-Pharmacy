@@ -1,0 +1,27 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "etravirine tab>
+<dose><value>100</value>
+<value>125</value>
+<value>150</value>
+<value>200</value>
+</dose><route><value>PO</value>
+</route><form><value>tab</value>
+</form><drug><value>etravirine tab</value>
+</drug><strength><value>100 mg</value>
+<value>200 mg</value>
+</strength><frequency><value>BID</value>
+</frequency><instruction><value>Administer after a meal.</value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value>Patient weight: 16 - 20 kg</value>
+<value>Patient weight: 20 - 25 kg</value>
+<value>Patient weight: 25 - 30 kg</value>
+<value>Patient weight: &amp;gt;30 kg and Adults</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</ahsformularystatus><ahfsname><value>Antivirals, Antiretrovirals</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

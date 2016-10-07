@@ -1,0 +1,31 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "diltiazem (long acting) cap ER>
+<dose><value>120</value>
+<value>180</value>
+<value>360</value>
+<value>240</value>
+<value>300</value>
+</dose><route><value>PO</value>
+</route><form><value>cap ER</value>
+</form><drug><value>diltiazem (long acting) cap ER</value>
+</drug><strength><value>120 mg</value>
+<value>180 mg</value>
+<value>240 mg</value>
+<value>300 mg</value>
+<value>360 mg</value>
+</strength><frequency><value>DAILY</value>
+<value>BID</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value></value>
+<value>All diltiazem exteneded release products (Cardizem CD, Tiazac, Tiazac XC, Diltiazem T) are considered interchangeable by AHS Drugs &amp; Therapeutics Committee. Only the brand with the lowest contract price will be stocked.</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Non-Formulary.</value>
+<value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Calcium-Channel Blocking Agents, Miscellaneous</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

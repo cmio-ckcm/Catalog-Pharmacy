@@ -1,0 +1,23 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "lidocaine-epiNEPHrine inj CART>
+<dose><value>1 - 7</value>
+<value></value>
+</dose><route><value>INFILTRATION</value>
+</route><form><value>inj CART</value>
+</form><drug><value>lidocaine-epiNEPHrine inj CART</value>
+</drug><strength><value>2%-1:100 000</value>
+</strength><frequency><value>ONCE</value>
+</frequency><instruction><value></value>
+</instruction><volume><value>1.8 mL</value>
+</volume><units><value>mg/kg</value>
+<value>mL</value>
+</units><additionalnotes><value>CHILDREN.</value>
+<value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Local Anesthetics</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

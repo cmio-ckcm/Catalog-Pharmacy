@@ -1,0 +1,34 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "potassium chloride inj VIAL>
+<dose><value>10</value>
+<value>20</value>
+<value>40</value>
+<value></value>
+</dose><route><value>IV</value>
+<value></value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>potassium chloride inj VIAL</value>
+</drug><strength><value>2 mmol/mL</value>
+</strength><frequency><value>ONCE</value>
+<value></value>
+</frequency><instruction><value>Administer over 1 hour.</value>
+<value>Administer over 2 hours.</value>
+<value></value>
+</instruction><volume><value>10 mL</value>
+<value>20 mL</value>
+<value>250 mL</value>
+</volume><units><value>mmol</value>
+<value></value>
+</units><additionalnotes><value></value>
+<value>Pharmacy Use ONLY. For sterile manufacturing.</value>
+</additionalnotes><population><value>ADULT</value>
+<value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3034</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3009</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3010</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</ahsformularystatus><ahfsname><value>Replacement Preparations</value>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose><value>YES</value>
+</maximumprndose></drug>

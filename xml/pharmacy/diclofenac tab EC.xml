@@ -1,0 +1,23 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "diclofenac tab EC>
+<dose><value>50</value>
+<value>25</value>
+</dose><route><value>PO</value>
+</route><form><value>tab EC</value>
+</form><drug><value>diclofenac tab EC</value>
+</drug><strength><value>50 mg</value>
+<value>25 mg</value>
+</strength><frequency><value>BID</value>
+<value>TID</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value>Doses of 150 mg per day for 4 weeks or longer are associated with increased risk of major vascular events. Recommended maximum daily dose: 100 mg per day. [Health Canada. October 6, 2014]</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>https://share.ahsnet.ca/teams/PSPP/ppublications/Drugs%20%20Therapeutics%20Backgrounder/Drugs%20and%20Therapeutics%20Backgrounder-diclofenac.pdf</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Analgesics and Antipyretics, Nonsteroidal Anti-inflammatory Agents</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

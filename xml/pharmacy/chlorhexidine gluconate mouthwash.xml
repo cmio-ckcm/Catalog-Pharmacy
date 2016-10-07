@@ -1,0 +1,20 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "chlorhexidine gluconate mouthwash>
+<dose><value>15</value>
+</dose><route><value>ORAL RINSE</value>
+</route><form><value>mouthwash</value>
+</form><drug><value>chlorhexidine gluconate mouthwash</value>
+</drug><strength><value>0.0012</value>
+</strength><frequency><value>BID</value>
+</frequency><instruction><value>Rinse in Mouth for 30 seconds, then expectorate.</value>
+</instruction><volume><value></value>
+</volume><units><value>mL</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>EENT Drugs, Anti-infectives, Anti-infectives, Miscellaneous</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

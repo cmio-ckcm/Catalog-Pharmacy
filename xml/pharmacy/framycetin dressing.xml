@@ -1,0 +1,21 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "framycetin dressing>
+<dose><value></value>
+</dose><route><value>TOP</value>
+</route><form><value>dressing</value>
+</form><drug><value>framycetin dressing</value>
+</drug><strength><value>1%</value>
+</strength><frequency><value>DAILY</value>
+</frequency><instruction><value>Apply a single layer dressing to fit the would size directly to the wound and cover with an appropriate dressing.</value>
+</instruction><volume><value>10cm X 10 cm</value>
+<value>10cm X 30 cm</value>
+</volume><units><value></value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Skin and Mucous Membrane Agents, Antibacterials</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

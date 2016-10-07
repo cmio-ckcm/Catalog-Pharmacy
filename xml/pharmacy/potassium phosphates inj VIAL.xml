@@ -1,0 +1,44 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "potassium phosphates inj VIAL>
+<dose><value>0.16</value>
+<value>0.24</value>
+<value>0.32</value>
+<value>0.64</value>
+<value>0.5</value>
+<value>0.25</value>
+<value>15 - 30</value>
+<value>0.75 - 1.36</value>
+<value>0.5 - 1.5</value>
+</dose><route><value>IV</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>potassium phosphates inj VIAL</value>
+</drug><strength><value>3 mmol/mL</value>
+</strength><frequency><value>ONCE</value>
+<value>DAILY</value>
+</frequency><instruction><value></value>
+</instruction><volume><value>10 mL</value>
+<value>15 mL</value>
+<value>50 mL</value>
+</volume><units><value>mmol/kg</value>
+<value>mmol/day</value>
+<value>mmol/kg/day</value>
+</units><additionalnotes><value>To a maximum dose of 15 mmol</value>
+<value>To a maximum dose of 30 mmol</value>
+<value>To a maximum dose of 45 mmol</value>
+<value>To a maximum dose of 60 mmol</value>
+<value>Administer over a minimum of 2 hours to a maximum rate of 7.5 mmol/hour of phosphate</value>
+<value>TPN</value>
+<value>Dietary Maintenance</value>
+</additionalnotes><population><value></value>
+<value>ADULT.</value>
+<value>NEONATE</value>
+<value>INFANT / CHILDREN. </value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3051</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3023</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3024</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</ahsformularystatus><ahfsname><value>Replacement Preparations</value>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose><value>YES</value>
+</maximumprndose></drug>

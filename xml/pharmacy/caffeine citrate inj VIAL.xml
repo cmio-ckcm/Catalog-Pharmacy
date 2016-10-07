@@ -1,0 +1,23 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "caffeine citrate inj VIAL>
+<dose><value>10 - 12.5</value>
+<value>2.5 - 5</value>
+</dose><route><value>IV</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>caffeine citrate inj VIAL</value>
+</drug><strength><value>20 mg/mL</value>
+</strength><frequency><value>ONCE</value>
+<value>Q24H</value>
+</frequency><instruction><value>LOADING DOSE.</value>
+<value>MAINTENANCE DOSE.</value>
+</instruction><volume><value>5 mL</value>
+</volume><units><value>mg/kg</value>
+</units><additionalnotes><value>Apnea of Prematurity. DOSING BASED UP CAFFEINE BASE. Caffeine CITRATE 20 mg = Caffeine BASE 10 mg. </value>
+</additionalnotes><population><value>NEONATE</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1805</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary, Health Canada Special Access Programme.</value>
+</ahsformularystatus><ahfsname><value>Anorexigenic Agents and Respiratory and Cerebral Stimulants, Miscellaneous</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

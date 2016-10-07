@@ -1,0 +1,27 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "somatropin (NUTROPIN AQ PEN) inj CART>
+<dose><value>0 - 0.043</value>
+<value>0 - 0.05</value>
+<value>0 - 0.054</value>
+<value>0 - 0.125</value>
+</dose><route><value>IM</value>
+<value>SC</value>
+</route><form><value>inj CART</value>
+</form><drug><value>somatropin (NUTROPIN AQ PEN) inj CART</value>
+</drug><strength><value>5 mg/mL</value>
+</strength><frequency><value>DAILY</value>
+<value>THREE TIMES WEEKLY</value>
+</frequency><instruction><value></value>
+</instruction><volume><value>2 mL</value>
+</volume><units><value>mg/kg</value>
+</units><additionalnotes><value>Pediatric Growth Hormone Deficiency; weekly doage up to 0.3 mg/kg/week.</value>
+<value>Chronic Renal Insufficiency; weekly dosage up to 0.35 mg/kg/week. </value>
+<value>Turner&amp;apos;s syndrome; weekly dosage up to 0.375 mg/kg/week.</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1939</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</ahsformularystatus><ahfsname><value>Pituitary</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

@@ -1,0 +1,30 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "triamcinolone acetonide inj VIAL>
+<dose><value>2.5 - 10</value>
+<value>1</value>
+<value>20 - 100</value>
+</dose><route><value>INTRA-ARTICULAR</value>
+<value>INTRA-LESIONAL</value>
+<value>INTRA-SYNOVIAL</value>
+<value>SUBLESIONAL</value>
+<value>IM</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>triamcinolone acetonide inj VIAL</value>
+</drug><strength><value>10 mg/mL</value>
+<value>40 mg/mL</value>
+</strength><frequency><value>ONCE</value>
+</frequency><instruction><value></value>
+<value>Administer dose per injection site.</value>
+</instruction><volume><value>5 mL</value>
+<value>1 mL</value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value></value>
+<value>MAXIMUM dose injected at one time should not exceed 30 mg.</value>
+</additionalnotes><population><value>ADULT</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Adrenals</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

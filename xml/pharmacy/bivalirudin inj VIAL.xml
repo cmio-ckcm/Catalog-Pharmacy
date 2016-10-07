@@ -1,0 +1,48 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "bivalirudin inj VIAL>
+<dose><value>0.75</value>
+<value>1.75</value>
+<value>0.3</value>
+<value>0.25</value>
+<value>1</value>
+<value>2.5</value>
+<value>0.5</value>
+<value>0.1</value>
+<value>0.2</value>
+<value>0.2 - 0.5</value>
+</dose><route><value>IV</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>bivalirudin inj VIAL</value>
+</drug><strength><value>250 mg</value>
+</strength><frequency><value>ONCE</value>
+<value>CONTINUOUS</value>
+</frequency><instruction><value>Administer as bolus dose by direct injection.</value>
+<value>Administer by continuous infusion for duration of procedure.</value>
+<value>Administer by direct injection, if activated clotting time is less than 225 seconds 5 minutes after the direct IV bolus dose.</value>
+<value>Administer by continuous infusion, post PCI.</value>
+<value>Administer by direct injection.</value>
+<value>Administer by continuous infusion.</value>
+<value>Administer by continuous infusion. If aPTT luess then 60: Increase dose by 20%. IF aPTT 60 to 90: No Change. IF aPTT greater than 90: Hold infusion 1 hour and restart at 50% prior dose.</value>
+</instruction><volume><value></value>
+</volume><units><value>mg/kg</value>
+<value>mg/kg/hour</value>
+</units><additionalnotes><value>PCI</value>
+<value>PCI. In patients with Creatinine Clearance less than 30 mL/minute, reduce the continuous infusion rate to 1 mg/kg/hour.</value>
+<value>Post-PCI. May be administered for 4 to 12 hours following stoppage of 1.75 mg/kg/hour infusion., if needed.</value>
+<value>Cardiac Surgery - On Cardiopulmonary Bypass (CBP)</value>
+<value>Cardiac Surgery - On Cardiopulmonary Bypass (CBP). Infusion may be stopped approximately 15 minutes prior to end of CBP.</value>
+<value>Cardiac Surgery - On cardiopulmonary Bypass (CBP). Restarting or if CBP is not stopped within 20 minutes.</value>
+<value>Cardiac Surgery - Off Cardiopulmonary Bypass</value>
+<value>Cardiac Surgery - Off Cardiopulmonary Bypass. If patient must be started on CBP, then follow with infusion at 2.5 mg/kg/hour.</value>
+<value>Pre / Post Cardiac Surgery. Bolus dose followed by continuous infusion.</value>
+<value>Pre / Post Cardiac Surgery. Bolus dose followed by continuous infusion. Monitor aPTT to maintain desired range of 1.5 to 2.5 times baseline value.</value>
+<value>Alternative Anti-thrombotic (AT) in Ventricular Assist Device (VAD) Patients. If GFR is 30 to 60 mL/minute: 0.3 mg/kg/hour. If GFR is less than 30 mL/minute: o.2 mg/kg/hour.</value>
+</additionalnotes><population><value>ADULT</value>
+<value>INFANT/CHILDREN</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1528</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</ahsformularystatus><ahfsname><value>Antithrombotic Agents, Anticoagulants</value>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose><value>YES</value>
+</maximumprndose></drug>

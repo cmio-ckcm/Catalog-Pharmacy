@@ -1,0 +1,35 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "verapamil inj AMP>
+<dose><value>0.1 - 0.2</value>
+<value>0.1 - 0.3</value>
+<value>2.5 - 5</value>
+<value>5 - 10</value>
+<value>1 - 5</value>
+</dose><route><value>IV</value>
+<value>IV </value>
+</route><form><value>inj AMP</value>
+</form><drug><value>verapamil inj AMP</value>
+</drug><strength><value>2.5 mg/mL</value>
+</strength><frequency><value>ONCE</value>
+<value>CONTINUOUS</value>
+</frequency><instruction><value></value>
+<value>Administer by direct injection over 2 minutes.</value>
+<value>Maintenance infusion: Titrate to desired effect.</value>
+</instruction><volume><value>2 mL</value>
+</volume><units><value>mg/kg/dose</value>
+<value>mg</value>
+<value>mg/hour</value>
+<value>mcg/kg/minute</value>
+</units><additionalnotes><value>INFANT (less than 1 year of age):MAXIMUM: 2 mg/dose. Where required, the dose can be repeated 30 minutes after initial dose.</value>
+<value>CHILDREN (1 TO 15 years of age):MAXIMUM: 5 mg/dose. Where required, the dose can be repeated 30 minutes after initial dose. MAXIMUM repeat dose: 10mg.</value>
+<value>ADULT: If no response and no adverse event, may give 5 to 10 mg every 15 to 30 minutes to a total dose of 20 to 30 mg.</value>
+<value>ADULT.</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>In patients with hepatic cirrhosis, reduce dose to 20% to 50% of normal dose and monitor BP for hypotension and PR prolongation.</value>
+<value>In patients with hepatic cirrhosis, reduce dose to 20% to 50% of normal dose and monitor for abnormal PR prolongation or other adverse effects.</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Calcium-Channel Blocking Agents, Miscellaneous</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

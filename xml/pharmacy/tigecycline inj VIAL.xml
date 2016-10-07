@@ -1,0 +1,31 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "tigecycline inj VIAL>
+<dose><value>1.5</value>
+<value>1</value>
+<value>100</value>
+<value>50</value>
+<value>25</value>
+</dose><route><value>IV</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>tigecycline inj VIAL</value>
+</drug><strength><value>50 mg</value>
+</strength><frequency><value>ONCE</value>
+<value>Q12H</value>
+</frequency><instruction><value>Initial dose.</value>
+<value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg/kg</value>
+<value>mg</value>
+</units><additionalnotes><value>MAXIMUM: 100 mg/dose.</value>
+<value>MAXIMUM: 50 mg/dose.</value>
+<value></value>
+</additionalnotes><population><value>CHILDREN, 12 YEARS AND OLDER</value>
+<value>ADULT</value>
+<value>ADULT, with severe hepatic failure (Child-Pugh Class C)</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2575</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions, Usage guidelines.</value>
+</ahsformularystatus><ahfsname><value>Antibacterials, Tetracyclines</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

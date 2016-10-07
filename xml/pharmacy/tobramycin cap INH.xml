@@ -1,0 +1,20 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "tobramycin cap INH>
+<dose><value>112</value>
+</dose><route><value>INH</value>
+</route><form><value>cap INH</value>
+</form><drug><value>tobramycin cap INH</value>
+</drug><strength><value>28 mg</value>
+</strength><frequency><value>Q12H </value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value>Administer drug on alternating 28 day cycles of drug/no drug.</value>
+</additionalnotes><population><value>ADULT / CHILDREN, greater than 6 years of age.</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=4862</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</ahsformularystatus><ahfsname><value>Antibacterials, Aminoglycosides</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

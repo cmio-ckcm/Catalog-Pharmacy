@@ -1,0 +1,36 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "piperacillin inj VIAL>
+<dose><value>3</value>
+<value>4</value>
+<value>150</value>
+<value>200</value>
+<value>200 - 300</value>
+<value>500</value>
+</dose><route><value>IV</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>piperacillin inj VIAL</value>
+</drug><strength><value>3 g</value>
+</strength><frequency><value>Q4H</value>
+<value>Q6H</value>
+<value>Q8H</value>
+</frequency><instruction><value></value>
+<value>Administer daily calculated dose in 3 equally divided doses.</value>
+<value>Administer daily calculated dose in 4 equally divided doses.</value>
+<value>Administer daily calculated dose in 6 equally divided doses.</value>
+</instruction><volume><value></value>
+</volume><units><value>g  </value>
+<value>g</value>
+<value>mg/kg/day</value>
+</units><additionalnotes><value></value>
+<value>Neonates: aged 7 days or less</value>
+<value>Neonates: aged more than 7 days</value>
+<value>INFANTS / CHILDREN: usual recommended dose. Maximum dose = lesser of 500 mg/kg/24 hours or 24 g/24 hours.</value>
+<value>INFANTS / CHILDREN: Cystic Fibrosis recommended dose. Maximum dose = lesser of 500 mg/kg/24 hours or 24 g/24 hours.</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Antibacterials, Penicillins</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

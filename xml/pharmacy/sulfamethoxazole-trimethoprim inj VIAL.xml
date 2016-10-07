@@ -1,0 +1,41 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "sulfamethoxazole-trimethoprim inj VIAL>
+<dose><value>8 - 10</value>
+<value>15 - 20</value>
+<value>10</value>
+<value>6 - 12</value>
+<value>150</value>
+</dose><route><value>IV</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>sulfamethoxazole-trimethoprim inj VIAL</value>
+</drug><strength><value>80 mg-16 mg/mL</value>
+</strength><frequency><value>Q12H</value>
+<value>Q8H</value>
+<value>Q6H</value>
+<value>DAILY</value>
+</frequency><instruction><value>Administer daily calculated dose in 2 equally divided doses.</value>
+<value>Administer daily calculated dose in 3 equally divided doses.</value>
+<value>Administer daily calculated dose in 4 equally divided doses.</value>
+<value></value>
+<value>Administer daily calculated dose in 2 equally divided doses, on alternate days; three times a week.</value>
+<value>Administer daily calculated dose in 2 equally divided doses, for 3 days/week on consecutive days.</value>
+</instruction><volume><value>5 mL</value>
+</volume><units><value>mg/kg/day (trimethoprim component)</value>
+<value>mL</value>
+<value>mg/m2/day (trimethoprim component)</value>
+</units><additionalnotes><value>Dosing based upon trimethoprim component.</value>
+<value>Pneumocystitis jiroveci pneumonia (PJP). Dosing based upon trimethoprim component.</value>
+<value>Pneumocystitis jiroveci pneumonia (PJP), prophylaxis. 10 mL injection solution provides 160 mg trimethoprim component. Maximum daily dose: trimethoprim 320 mg / sulfamethoxazole 1600mg.</value>
+<value>Mild - moderate infections. Dose based upon trimethoprim component.</value>
+<value>Serious infections / Pneumocystitis jiroveci pneuomonia. </value>
+<value>Serious infections / Pneumocystitis jiroveci pneuomonia</value>
+<value>Pneumocystitis jiroveci pneumonia (PJP), prophylaxis. Maximum daily dose: trimethoprim 320 mg / sulfamethoxazole 1600mg.</value>
+</additionalnotes><population><value>ADULT</value>
+<value>INFANT / CHILDREN, aged 2 months and older</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Antibacterials, Sulfonamides</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

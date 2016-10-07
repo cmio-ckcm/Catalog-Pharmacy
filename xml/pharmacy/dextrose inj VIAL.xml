@@ -1,0 +1,22 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "dextrose inj VIAL>
+<dose><value>50</value>
+</dose><route><value>IV</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>dextrose inj VIAL</value>
+</drug><strength><value>50%</value>
+</strength><frequency><value>STAT</value>
+<value>ONCE</value>
+</frequency><instruction><value>STAT, Direct administration over 1 - 3 minutes</value>
+<value>Administer over 15 - 30 minutes</value>
+</instruction><volume><value>50 mL</value>
+</volume><units><value>mL</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Caloric Agents</value>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose><value>YES</value>
+</maximumprndose></drug>

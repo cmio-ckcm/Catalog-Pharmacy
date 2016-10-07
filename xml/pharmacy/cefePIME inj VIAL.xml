@@ -1,0 +1,26 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "cefePIME inj VIAL>
+<dose><value>500</value>
+<value>1</value>
+<value>2</value>
+</dose><route><value>IM</value>
+<value>IV</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>cefePIME inj VIAL</value>
+</drug><strength><value>1 g</value>
+<value>2 g</value>
+</strength><frequency><value>Q12H</value>
+<value>Q8H</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+<value>g</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions, Usage guidelines.</value>
+</ahsformularystatus><ahfsname><value>Antibacterials, Cephalosporins</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

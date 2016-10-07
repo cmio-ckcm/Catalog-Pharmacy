@@ -1,0 +1,22 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "ISOtretinoin cap>
+<dose><value>0.5</value>
+<value>0.1 - 1</value>
+</dose><route><value>PO</value>
+</route><form><value>cap</value>
+</form><drug><value>ISOtretinoin cap</value>
+</drug><strength><value>10 mg</value>
+<value>40 mg</value>
+</strength><frequency><value>DAILY</value>
+</frequency><instruction><value>Administer with a meal.</value>
+</instruction><volume><value></value>
+</volume><units><value>mg/kg</value>
+</units><additionalnotes><value>Complete treatment course is 12 to 16 weeks.</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</ahsformularystatus><ahfsname><value>Skin and Mucous Membrane Agents, Miscellaneous</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

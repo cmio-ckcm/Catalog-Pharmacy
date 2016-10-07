@@ -1,0 +1,27 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "voriconazole tab>
+<dose><value>400</value>
+<value>200</value>
+<value>100</value>
+</dose><route><value>PO</value>
+</route><form><value>tab</value>
+</form><drug><value>voriconazole tab</value>
+</drug><strength><value>200 mg</value>
+<value>50 mg</value>
+</strength><frequency><value>BID</value>
+</frequency><instruction><value>for 2 doses.</value>
+<value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value>Loading dose (patients &amp;gt;40 kg) for first 24 hours followed by maintenance dose at 50%.</value>
+<value></value>
+<value>Loading dose (patients &amp;lt;40 kg) for first 24 hours followed by maintenance dose at 50%.</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2461</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2460</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions, Usage guidelines.</value>
+</ahsformularystatus><ahfsname><value>Antifungals, Azoles</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

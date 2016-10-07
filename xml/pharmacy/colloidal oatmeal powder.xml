@@ -1,0 +1,20 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "colloidal oatmeal powder>
+<dose><value>1</value>
+</dose><route><value>TOP</value>
+</route><form><value>powder</value>
+</form><drug><value>colloidal oatmeal powder</value>
+</drug><strength><value>21 g</value>
+</strength><frequency><value>DAILY</value>
+</frequency><instruction><value>Add to bath water.</value>
+</instruction><volume><value></value>
+</volume><units><value>packet</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Skin and Mucous Membrane Agents, Antipruritics and Local Anesthetics</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

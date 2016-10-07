@@ -1,0 +1,26 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "ipratropium nebule>
+<dose><value>500</value>
+<value>250</value>
+</dose><route><value>NEB</value>
+</route><form><value>nebule</value>
+</form><drug><value>ipratropium nebule</value>
+</drug><strength><value>250 mcg/mL</value>
+</strength><frequency><value>ONCE</value>
+<value>TID</value>
+<value>QID</value>
+<value>Q8H</value>
+<value>Q6H</value>
+</frequency><instruction><value></value>
+</instruction><volume><value>1 mL</value>
+<value>2 mL</value>
+</volume><units><value>mcg</value>
+</units><additionalnotes><value>Further dilute dose volume to 3 to 5 mL volume with sterile saline prior to administration</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions, Usage guidelines.</value>
+</ahsformularystatus><ahfsname><value>Anticholinergic Agents, Antimuscarinics/Antispasmodics</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

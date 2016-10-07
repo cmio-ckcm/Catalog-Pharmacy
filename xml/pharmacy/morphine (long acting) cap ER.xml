@@ -1,0 +1,35 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "morphine (long acting) cap ER>
+<dose><value>10</value>
+<value>20</value>
+<value>100</value>
+<value>15</value>
+<value>45</value>
+<value>200</value>
+<value>30</value>
+<value>60</value>
+</dose><route><value>PO</value>
+</route><form><value>cap ER</value>
+</form><drug><value>morphine (long acting) cap ER</value>
+</drug><strength><value>10 mg</value>
+<value>100 mg</value>
+<value>15 mg</value>
+<value>200 mg</value>
+<value>30 mg</value>
+<value>60 mg</value>
+</strength><frequency><value>DAILY</value>
+<value>BID</value>
+<value>Q12H</value>
+<value>HS</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Analgesics and Antipyretics, Opiate Agonists</value>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose><value>YES</value>
+</maximumprndose></drug>

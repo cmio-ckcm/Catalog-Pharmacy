@@ -1,0 +1,39 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "sodium polystyrene sulfonate liq ORAL>
+<dose><value>15</value>
+<value>1</value>
+<value>0.5</value>
+<value>30</value>
+<value>45</value>
+</dose><route><value>NG TUBE</value>
+<value>OG TUBE</value>
+<value>PO</value>
+<value>PR</value>
+</route><form><value>liq ORAL</value>
+</form><drug><value>sodium polystyrene sulfonate liq ORAL</value>
+</drug><strength><value>250 mg/mL</value>
+</strength><frequency><value>DAILY</value>
+<value>BID</value>
+<value>TID</value>
+<value>QID</value>
+</frequency><instruction><value></value>
+<value>Administer daily calculated dose in 3 equally divided doses.</value>
+<value>Administer doses 6 hours apart.</value>
+<value>Administer daily calculated dose in 2 equally divided doses.</value>
+</instruction><volume><value>500 mL</value>
+<value>60 mL</value>
+</volume><units><value>g </value>
+<value>g/kg/day</value>
+<value>g</value>
+</units><additionalnotes><value></value>
+<value>Initial dose</value>
+<value>Maintenance dose</value>
+</additionalnotes><population><value>ADULT</value>
+<value>CHILDREN</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Ion-removing Agents, Potassium-removing Agents</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

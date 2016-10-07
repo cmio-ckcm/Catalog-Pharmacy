@@ -1,0 +1,30 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "interferon alfa-2b inj VIAL>
+<dose><value>3</value>
+<value>9</value>
+<value>36</value>
+</dose><route><value>IM</value>
+<value>SC</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>interferon alfa-2b inj VIAL</value>
+</drug><strength><value>10 million unit/mL</value>
+<value>6 million unit/mL</value>
+</strength><frequency><value>THREE TIMES WEEKLY</value>
+<value>DAILY</value>
+</frequency><instruction><value></value>
+</instruction><volume><value>1 mL</value>
+<value>3 mL</value>
+</volume><units><value>million unit</value>
+</units><additionalnotes><value>Chronic Hepatitis C</value>
+<value>Hairy Cell Leukemia treatment for 16 to 24 weeks</value>
+<value>Chronic myelogenous leukemia (chronic phase)</value>
+<value>Aids-related Kaposi&amp;apos;s sarcoma: treatment for 10 to 12 weeks, followed by dose administered 3 times weekly.</value>
+<value>Aids-related Kaposi&amp;apos;s sarcoma</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>Monitor blood pressure, heart rate and rhythm, temperature and hematologic indices.</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Antivirals, Interferons</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

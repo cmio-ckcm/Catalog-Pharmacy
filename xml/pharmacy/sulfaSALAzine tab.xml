@@ -1,0 +1,30 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "sulfaSALAzine tab>
+<dose><value>500</value>
+<value>1000</value>
+<value>1500</value>
+<value>2000</value>
+</dose><route><value>PO</value>
+</route><form><value>tab</value>
+</form><drug><value>sulfaSALAzine tab</value>
+</drug><strength><value>500 mg</value>
+</strength><frequency><value>BID</value>
+<value>QID</value>
+<value>TID  </value>
+<value>TID</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value></value>
+<value>Maintenance of remission.</value>
+<value>Acute attacks.</value>
+</additionalnotes><population><value>ADULT</value>
+<value>CHILDREN, 25 to less than 35 kg.</value>
+<value>CHILDREN, 35 to less than 50 kg.</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Antibacterials, Sulfonamides</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

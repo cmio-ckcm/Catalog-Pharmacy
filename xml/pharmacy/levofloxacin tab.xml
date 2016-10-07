@@ -1,0 +1,25 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "levofloxacin tab>
+<dose><value>250</value>
+<value>500</value>
+<value>750</value>
+</dose><route><value>PO</value>
+</route><form><value>tab</value>
+</form><drug><value>levofloxacin tab</value>
+</drug><strength><value>250 mg</value>
+<value>500 mg</value>
+<value>750 mg</value>
+</strength><frequency><value>DAILY</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Usage guidelines.</value>
+<value>Formulary with Usage guidelines, therapeutic interchange.</value>
+</ahsformularystatus><ahfsname><value>Antibacterials, Quinolones</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

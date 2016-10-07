@@ -1,0 +1,22 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "bacitracin-polymyxin B oint>
+<dose><value></value>
+</dose><route><value>TOP</value>
+</route><form><value>oint</value>
+</form><drug><value>bacitracin-polymyxin B oint</value>
+</drug><strength><value>500 unit-10 000 unit/g</value>
+</strength><frequency><value>DAILY</value>
+<value>BID</value>
+<value>TID</value>
+</frequency><instruction><value>Apply a thin film to affected area and gently rub into skin (if condition permits). </value>
+</instruction><volume><value>15 g</value>
+</volume><units><value></value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Skin and Mucous Membrane Agents, Antibacterials</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

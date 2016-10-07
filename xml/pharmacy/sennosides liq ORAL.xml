@@ -1,0 +1,27 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "sennosides liq ORAL>
+<dose><value>10</value>
+<value>15</value>
+<value>5</value>
+</dose><route><value>PO</value>
+</route><form><value>liq ORAL</value>
+</form><drug><value>sennosides liq ORAL</value>
+</drug><strength><value>1.7 mg/mL</value>
+</strength><frequency><value>DAILY</value>
+<value>HS</value>
+<value>BID</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>mL</value>
+</units><additionalnotes><value>Suggested dose for pregnant patients 5 to 10 mL once or twice daily.</value>
+<value></value>
+</additionalnotes><population><value>ADULT</value>
+<value>CHILDREN; aged 6 to 12 years.</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+<value>YES</value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Cathartics and Laxatives</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

@@ -1,0 +1,30 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "enoxaparin inj VIAL>
+<dose><value>30</value>
+<value>40</value>
+<value>1.5</value>
+<value>1</value>
+</dose><route><value>SC</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>enoxaparin inj VIAL</value>
+</drug><strength><value>100 mg/mL</value>
+</strength><frequency><value>Q12H</value>
+<value>DAILY</value>
+<value>ONCE</value>
+<value>BID</value>
+</frequency><instruction><value></value>
+<value>Administer dose 2 hours pre-operatively.</value>
+</instruction><volume><value>3 mL</value>
+</volume><units><value>mg</value>
+<value>mg/kg</value>
+</units><additionalnotes><value></value>
+<value>MAXIMUM: 180 mg</value>
+<value>MAXIMUM: 100 mg</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Antithrombotic Agents, Anticoagulants</value>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose><value>YES</value>
+</maximumprndose></drug>

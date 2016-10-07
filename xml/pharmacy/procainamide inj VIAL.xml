@@ -1,0 +1,57 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "procainamide inj VIAL>
+<dose><value>20 - 30</value>
+<value>7 - 10</value>
+<value>20 - 80</value>
+<value>3 - 6</value>
+<value>15</value>
+<value>20 - 50</value>
+<value>100</value>
+<value>1 - 4</value>
+</dose><route><value>IM</value>
+<value>IV</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>procainamide inj VIAL</value>
+</drug><strength><value>100 mg/mL</value>
+</strength><frequency><value>Q4H</value>
+<value>Q6H</value>
+<value>ONCE</value>
+<value>CONTINUOUS</value>
+<value>EVERY 5 MINUTES</value>
+</frequency><instruction><value>Administer daily calculated dose in 6 equally divided doses.</value>
+<value>Administer daily calculated dose in 4 equally divided doses.</value>
+<value>Administer over 1 hour (Initial dose).</value>
+<value>Administer by continuous infusion (Maintenance infusion).</value>
+<value>Administer over 5 minutes by direct injection. May repeat dose every 5 to 10 minutes as required, to a MAXIMUM total loading dose of 15 mg/kg.</value>
+<value>Administer dose over 30 to 60 minutes.</value>
+<value>Administer until arrhythmia is controlled, hypotension occurs, QRS complex widens by 50% of original width or a total dose of 17 mg/kg is administered.</value>
+<value>Administer every 5 minutes until arrhythmia is controlled, hypotension occurs, QRS complex widens by 50% of original width or a total dose of 17 mg/kg is administered.</value>
+</instruction><volume><value>10 mL</value>
+</volume><units><value>mg/kg/day</value>
+<value>mg/kg</value>
+<value>mcg/kg/minute</value>
+<value>mg/minute</value>
+<value>mg</value>
+</units><additionalnotes><value>MAXIMUM dose: 4 g/day.</value>
+<value></value>
+<value>Premature neonates should receive the lowest dose.</value>
+<value>Dose not to exceed 100 mg/dose.</value>
+<value>MAXIMUM dose: 2 g/day.</value>
+<value>Stop infusion if hypotension occurs or if QRS complex widens by more than 50% of baseline.</value>
+</additionalnotes><population><value>INFANT / CHILDREN</value>
+<value>NEONATE.</value>
+<value>INFANT / CHILDREN. Loading dose.</value>
+<value>INFANT / CHILDREN. Maintenance dose.</value>
+<value>INFANT / CHILDREN. Perfusing Tachycardias (PALS Guidelines 2010)</value>
+<value>ADULT. Loading dose.</value>
+<value>ADULT.   Maintenance dose.</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+<value>YES</value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Cardiac Drugs, Antiarrhythmic Agents</value>
+</ahfsname><highalert><value></value>
+<value>YES</value>
+</highalert><maximumprndose><value></value>
+<value>YES</value>
+</maximumprndose></drug>

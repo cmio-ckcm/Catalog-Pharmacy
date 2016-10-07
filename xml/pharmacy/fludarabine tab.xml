@@ -1,0 +1,24 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "fludarabine tab>
+<dose><value>40</value>
+<value>32</value>
+</dose><route><value>PO</value>
+</route><form><value>tab</value>
+</form><drug><value>fludarabine tab</value>
+</drug><strength><value>10 mg</value>
+</strength><frequency><value>DAILY</value>
+</frequency><instruction><value>for 5 days, every 28 days cyclically.</value>
+<value>for 3 days.</value>
+</instruction><volume><value></value>
+</volume><units><value>mg/m2</value>
+</units><additionalnotes><value></value>
+<value>Suggested dosage for patients with CrCl 30 to 70 mL/minute.</value>
+</additionalnotes><population><value></value>
+<value>ADULT</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3392</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Antineoplastic Agents</value>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose><value>YES</value>
+</maximumprndose></drug>

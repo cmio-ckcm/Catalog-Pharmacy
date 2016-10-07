@@ -1,0 +1,38 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "sodium chloride inj VIAL>
+<dose><value>2</value>
+<value>3</value>
+<value>5</value>
+<value>10</value>
+<value></value>
+</dose><route><value>IV</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>sodium chloride inj VIAL</value>
+</drug><strength><value>0.9%</value>
+<value>4 mmol/mL</value>
+</strength><frequency><value>ONCE</value>
+</frequency><instruction><value>Administer into lock-device.</value>
+<value></value>
+</instruction><volume><value>10 mL</value>
+<value>20 mL</value>
+<value>100 mL</value>
+<value>2 mL</value>
+<value>30 mL</value>
+</volume><units><value>mL</value>
+<value>mmol</value>
+</units><additionalnotes><value></value>
+<value>To be added to daily Parenteral Nutrition order by pharmacy</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3054</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3025</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3026</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Not a pharmacy product.</value>
+<value>Formulary with Restrictions.</value>
+</ahsformularystatus><ahfsname><value>Replacement Preparations</value>
+</ahfsname><highalert><value></value>
+<value>YES</value>
+</highalert><maximumprndose><value></value>
+<value>YES</value>
+</maximumprndose></drug>

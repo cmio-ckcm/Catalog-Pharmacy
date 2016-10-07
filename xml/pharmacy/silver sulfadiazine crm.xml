@@ -1,0 +1,21 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "silver sulfadiazine crm>
+<dose><value></value>
+</dose><route><value>TOP</value>
+</route><form><value>crm</value>
+</form><drug><value>silver sulfadiazine crm</value>
+</drug><strength><value>1%</value>
+</strength><frequency><value>DAILY</value>
+<value>BID</value>
+</frequency><instruction><value>Apply topically to affected area to a depth of 2 mm.</value>
+</instruction><volume><value></value>
+</volume><units><value></value>
+</units><additionalnotes><value>http://www.ncbi.nlm.nih.gov/pubmed/23543513</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Skin and Mucous Membrane Agents, Local Anti-infectives, Miscellaneous</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

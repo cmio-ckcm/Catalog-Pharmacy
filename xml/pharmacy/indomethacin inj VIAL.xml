@@ -1,0 +1,38 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "indomethacin inj VIAL>
+<dose><value>0.2</value>
+<value>0.1</value>
+<value>0.25</value>
+</dose><route><value>IV</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>indomethacin inj VIAL</value>
+</drug><strength><value>1 mg</value>
+</strength><frequency><value>ONCE</value>
+<value>Q24H  </value>
+</frequency><instruction><value>POST NATAL AGE &amp;lt; 48 HOURS: INITIAL DOSE 1 of 3 DOSES. Infuse dose intravenously over 20 minutes.</value>
+<value>POST NATAL AGE &amp;lt; 48 HOURS: INITIAL DOSE 1 of 3 DOSES. Infuse dose intravenously over 30 minutes.</value>
+<value>POST NATAL AGE &amp;lt; 48 HOURS: 2ND OF 3 DOSES. Infuse intravenously at 12 hours after initial dose.</value>
+<value>POST NATAL AGE &amp;lt; 48 HOURS: 3RD OF 3 DOSES. Infuse intravenously at 36 hours after initial dose.</value>
+<value>POST NATAL AGE = 2 TO 7 DAYS: INITIAL DOSE 1 of 3 DOSES. Infuse dose intravenously over 20 minutes.</value>
+<value>POST NATAL AGE = 2 TO 7 DAYS: INITIAL DOSE 1 of 3 DOSES. Infuse dose intravenously over 30 minutes.</value>
+<value>POST NATAL AGE = 2 TO 7 DAYS: 2ND OF 3 DOSES. Infuse intravenously at 12 hours after initial dose.</value>
+<value>POST NATAL AGE = 2 TO 7 DAYS: 3RD OF 3 DOSES. Infuse intravenously at 36 hours after initial dose.</value>
+<value>POST NATAL AGE &amp;gt; 7 DAYS: INITIAL DOSE 1 of 3 DOSES. Infuse dose intravenously over 20 minutes.</value>
+<value>POST NATAL AGE &amp;gt; 7 DAYS: INITIAL DOSE 1 of 3 DOSES. Infuse dose intravenously over 30 minutes.</value>
+<value>POST NATAL AGE &amp;gt; 7 DAYS: 2ND OF 3 DOSES. Infuse intravenously at 12 hours after initial dose.</value>
+<value>POST NATAL AGE &amp;gt; 7 DAYS: 3RD OF 3 DOSES. Infuse intravenously at 36 hours after initial dose.</value>
+<value>for 3 doses starting at 6 hours of age for Patent Ductus Arteriosus Prophylaxis.</value>
+<value>for 3 doses starting at 9 hours of age for Patent Ductus Arteriosus Prophylaxis.</value>
+<value>for 3 doses starting at 12 hours of age for Patent Ductus Arteriosus Prophylaxis.</value>
+</instruction><volume><value></value>
+</volume><units><value>mg/kg</value>
+</units><additionalnotes><value>Adjust dosing interval in patients with renal dusfunction</value>
+<value>Neonates less than 27 weeks gestational age or less than 1 kg body weight recommended to receive prophylaxis.</value>
+</additionalnotes><population><value>NEONATE</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=308</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary, Health Canada Special Access Programme.</value>
+</ahsformularystatus><ahfsname><value>Analgesics and Antipyretics, Nonsteroidal Anti-inflammatory Agents</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

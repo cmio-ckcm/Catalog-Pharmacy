@@ -1,0 +1,22 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "scopolamine patch>
+<dose><value>1</value>
+</dose><route><value>TOP</value>
+</route><form><value>patch</value>
+</form><drug><value>scopolamine patch</value>
+</drug><strength><value>1.5 mg</value>
+</strength><frequency><value>Q72H</value>
+<value>ONCE</value>
+</frequency><instruction><value>Apply patch to hairless area behind ear, change patch every 72 hours.</value>
+<value>Apply patch to hairless area behind ear the night before surgery and remove 24 hours post-surgery.</value>
+</instruction><volume><value></value>
+</volume><units><value>patch</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Anticholinergic Agents, Antimuscarinics/Antispasmodics</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

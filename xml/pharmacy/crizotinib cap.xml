@@ -1,0 +1,24 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "crizotinib cap>
+<dose><value>200</value>
+<value>250</value>
+</dose><route><value>PO</value>
+</route><form><value>cap</value>
+</form><drug><value>crizotinib cap</value>
+</drug><strength><value>200 mg</value>
+<value>250 mg</value>
+</strength><frequency><value>BID</value>
+<value>DAILY</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value>Continuous dosing; 1 cycle = 30 days to correspond with ARIA orders.</value>
+</additionalnotes><population><value>Crizotinib. Metastatic Non-Small Cell Lung Cancer</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=6121</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=6122</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</ahsformularystatus><ahfsname><value>Antineoplastic Agents</value>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose><value>YES</value>
+</maximumprndose></drug>

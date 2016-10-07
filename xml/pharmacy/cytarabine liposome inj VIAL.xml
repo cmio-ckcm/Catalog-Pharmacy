@@ -1,0 +1,31 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "cytarabine liposome inj VIAL>
+<dose><value>50</value>
+</dose><route><value>INTRATHECAL</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>cytarabine liposome inj VIAL</value>
+</drug><strength><value>10 mg/mL</value>
+</strength><frequency><value>EVERY 14 DAYS</value>
+<value>ONCE</value>
+<value>EVERY 28 DAYS</value>
+</frequency><instruction><value>for 2 doses.</value>
+<value>Administer at week 5.</value>
+<value>Administer at week 7.</value>
+<value>Administer at week 9.</value>
+<value>Administer at week 13.</value>
+<value>for 4 doses.</value>
+</instruction><volume><value>5 mL</value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value>Solid Tunor Neoplastic Meningitis: Induction</value>
+<value>Solid Tunor Neoplastic Meningitis: Consolidation. Administer at week 5, 7, 9, and 13 for a total of 4 doses.</value>
+<value>Lymphomatous meningitis: Induction</value>
+<value>Lymphomatous meningitis: Consolidation. Administer at week 5, 7, 9, and 13 for a total of 4 doses.</value>
+<value>Lymphomatous meningitis: Maintenance</value>
+</additionalnotes><population><value>ADULT</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3469</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary, Health Canada Special Access Programme.</value>
+</ahsformularystatus><ahfsname><value>Antineoplastic Agents</value>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose><value>YES</value>
+</maximumprndose></drug>

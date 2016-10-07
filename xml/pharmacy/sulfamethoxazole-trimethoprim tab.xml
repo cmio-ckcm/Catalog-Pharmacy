@@ -1,0 +1,25 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "sulfamethoxazole-trimethoprim tab>
+<dose><value>1</value>
+<value>2</value>
+</dose><route><value>PO</value>
+</route><form><value>tab</value>
+</form><drug><value>sulfamethoxazole-trimethoprim tab</value>
+</drug><strength><value>400 mg-80 mg</value>
+<value>800 mg-160 mg</value>
+</strength><frequency><value>DAILY</value>
+<value>BID</value>
+<value>HS</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>tab</value>
+<value>TAB</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Antibacterials, Sulfonamides</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

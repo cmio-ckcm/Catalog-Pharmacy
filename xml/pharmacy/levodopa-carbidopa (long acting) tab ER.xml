@@ -1,0 +1,23 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "levodopa-carbidopa (long acting) tab ER>
+<dose><value>1</value>
+</dose><route><value>PO</value>
+</route><form><value>tab ER</value>
+</form><drug><value>levodopa-carbidopa (long acting) tab ER</value>
+</drug><strength><value>100 mg-25 mg</value>
+<value>200 mg-50 mg</value>
+</strength><frequency><value>TID</value>
+<value>QID</value>
+<value>BID</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>tab</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Antiparkinsonian Agents, Dopamine Precursors</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

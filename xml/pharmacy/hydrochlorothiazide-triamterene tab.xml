@@ -1,0 +1,25 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "hydrochlorothiazide-triamterene tab>
+<dose><value>0.5</value>
+<value>1</value>
+<value>2</value>
+</dose><route><value>PO</value>
+</route><form><value>tab</value>
+</form><drug><value>hydrochlorothiazide-triamterene tab</value>
+</drug><strength><value>25 mg-50 mg</value>
+</strength><frequency><value>DAILY</value>
+<value>BID</value>
+</frequency><instruction><value></value>
+<value>Administer after breakfast.</value>
+<value>Administer after breakfast and lunch.</value>
+</instruction><volume><value></value>
+</volume><units><value>tab</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Diuretics, Thiazide Diuretics</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

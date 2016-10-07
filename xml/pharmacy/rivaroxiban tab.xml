@@ -1,0 +1,30 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "rivaroxiban tab>
+<dose><value>10</value>
+<value>15</value>
+<value>20</value>
+</dose><route><value>PO</value>
+</route><form><value>tab</value>
+</form><drug><value>rivaroxiban tab</value>
+</drug><strength><value>10 mg</value>
+<value>15 mg</value>
+<value>20 mg</value>
+</strength><frequency><value>DAILY</value>
+<value>BID</value>
+</frequency><instruction><value></value>
+<value>Administer with a meal.</value>
+<value>Administer with breakfast and supper meals.</value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value>Direct oral anticoagulants NOT indicated for treatment of cancer-associated thrombosis. Evidence supports LMWH agents.</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1570</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=5261</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=5281</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+<value>Formulary with Restrictions, Usage guidelines.</value>
+</ahsformularystatus><ahfsname><value>Antithrombotic Agents, Anticoagulants</value>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose><value>YES</value>
+</maximumprndose></drug>

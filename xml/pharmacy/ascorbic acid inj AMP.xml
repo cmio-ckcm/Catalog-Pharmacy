@@ -1,0 +1,26 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "ascorbic acid inj AMP>
+<dose><value>100</value>
+<value>250</value>
+<value>500</value>
+<value>1000</value>
+</dose><route><value>IM</value>
+<value>IV</value>
+<value>SC</value>
+</route><form><value>inj AMP</value>
+</form><drug><value>ascorbic acid inj AMP</value>
+</drug><strength><value>250 mg/mL</value>
+</strength><frequency><value>DAILY</value>
+<value>BID</value>
+</frequency><instruction><value></value>
+</instruction><volume><value>2 mL</value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Vitamin C</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

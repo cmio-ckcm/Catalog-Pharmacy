@@ -1,0 +1,23 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "dimenhyDRINATE liq ORAL>
+<dose><value>15</value>
+<value>30</value>
+</dose><route><value>PO</value>
+</route><form><value>liq ORAL</value>
+</form><drug><value>dimenhyDRINATE liq ORAL</value>
+</drug><strength><value>3 mg/mL</value>
+</strength><frequency><value>Q6H</value>
+<value>Q8H</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value>15 mg = 5 mL</value>
+<value>30 mg = 10 mL</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>MAXIMUM DOSE: Children 2 - 6 years: 75mg/24 hr. Chlidren 6 - 12 years: 150 mg/24 hr.</value>
+</backgroundinformation><prninformation><value>YES</value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Antiemetics, Antihistamines</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

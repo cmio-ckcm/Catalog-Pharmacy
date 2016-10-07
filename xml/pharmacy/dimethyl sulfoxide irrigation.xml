@@ -1,0 +1,20 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "dimethyl sulfoxide irrigation>
+<dose><value>50</value>
+</dose><route><value>BLADDER INSTILLATION</value>
+</route><form><value>irrigation</value>
+</form><drug><value>dimethyl sulfoxide irrigation</value>
+</drug><strength><value>50%</value>
+</strength><frequency><value>ONCE</value>
+</frequency><instruction><value>Instill directly into bladder and retain for 15 minutes. Expulsion via spontaneous voiding.</value>
+</instruction><volume><value></value>
+</volume><units><value>mL</value>
+</units><additionalnotes><value>BLADDER INSTILLATION ONLY. NOT FOR IV OR IM USE</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Other Miscellaneous Therapeutic Agents</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

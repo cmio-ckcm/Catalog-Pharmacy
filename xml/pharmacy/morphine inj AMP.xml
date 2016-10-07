@@ -1,0 +1,91 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "morphine inj AMP>
+<dose><value></value>
+<value>2</value>
+<value>2.5</value>
+<value>5</value>
+<value>7.5</value>
+<value>10</value>
+<value>15</value>
+<value>20</value>
+<value>12.5</value>
+<value>25</value>
+<value>30</value>
+<value>40</value>
+<value>50</value>
+<value>75</value>
+<value>100</value>
+<value>125</value>
+<value>150</value>
+<value>175</value>
+<value>200</value>
+</dose><route><value>IM</value>
+<value>IV</value>
+<value>SC</value>
+</route><form><value>inj AMP</value>
+</form><drug><value>morphine inj AMP</value>
+</drug><strength><value>10 mg/mL</value>
+<value>15 mg/mL</value>
+<value>2 mg/mL</value>
+</strength><frequency><value>Q4H</value>
+<value>CONTINUOUS</value>
+<value>ONCE</value>
+<value>Q4H  </value>
+<value>Q6H  </value>
+<value>Q8H  </value>
+<value>Q2H</value>
+</frequency><instruction><value></value>
+<value>Continuous Infusion: 50 mcg/mL 10 mL Syringe, Titrate to desired effect.</value>
+<value>PCA: 50 mcg/mL 10 mL syringe, IV basal rate</value>
+<value>PCA: 50 mcg/mL 10 mL syringe, IV bolus dose with lockout interval of 5 minutes.</value>
+<value>PCA: 50 mcg/mL 10 mL syringe, IV bolus dose with lockout interval of 6 minutes.</value>
+<value>PCA: 50 mcg/mL 10 mL syringe, IV bolus dose with lockout interval of 7 minutes.</value>
+<value>PCA: 50 mcg/mL 10 mL syringe, IV bolus dose with lockout interval of 8 minutes.</value>
+<value>PCA: 50 mcg/mL 10 mL syringe, IV bolus dose with lockout interval of 9 minutes.</value>
+<value>PCA: 50 mcg/mL 10 mL syringe, IV bolus dose with lockout interval of 10 minutes.</value>
+<value>Continuous Infusion: 100 mcg/mL 20 mL syringe, Titrate to desired effect.</value>
+<value>PCA: 100 mcg/mL 20 mL syringe, IV basal rate</value>
+<value>PCA: 100 mcg/mL 20 mL syringe, IV bolus dose with lockout interval of 5 minutes.</value>
+<value>PCA: 100 mcg/mL 20 mL syringe, IV bolus dose with lockout interval of 6 minutes.</value>
+<value>PCA: 100 mcg/mL 20 mL syringe, IV bolus dose with lockout interval of 7 minutes.</value>
+<value>PCA: 100 mcg/mL 20 mL syringe, IV bolus dose with lockout interval of 8 minutes.</value>
+<value>PCA: 100 mcg/mL 20 mL syringe, IV bolus dose with lockout interval of 9 minutes.</value>
+<value>PCA: 100 mcg/mL 20 mL syringe, IV bolus dose with lockout interval of 10 minutes.</value>
+<value>Continuous Infusion: 200 mcg/mL 10 mL syringe, Titrate to desired effect.</value>
+<value>PCA: 200 mcg/mL 10 mL syringe, IV basal rate</value>
+<value>PCA: 200 mcg/mL 10 mL syringe, IV bolus dose with lockout interval of 5 minutes.</value>
+<value>PCA: 200 mcg/mL 10 mL syringe, IV bolus dose with lockout interval of 6 minutes.</value>
+<value>PCA: 200 mcg/mL 10 mL syringe, IV bolus dose with lockout interval of 7 minutes.</value>
+<value>PCA: 200 mcg/mL 10 mL syringe, IV bolus dose with lockout interval of 8 minutes.</value>
+<value>PCA: 200 mcg/mL 10 mL syringe, IV bolus dose with lockout interval of 9 minutes.</value>
+<value>PCA: 200 mcg/mL 10 mL syringe, IV bolus dose with lockout interval of 10 minutes.</value>
+<value>Continuous Infusion: 500 mcg/mL 10 mL syringe, Titrate to desired effect.</value>
+<value>PCA: 500 mcg/mL 10 mL syringe, IV basal rate</value>
+<value>PCA: 500 mcg/mL 10 mL syringe, IV bolus dose with lockout interval of 5 minutes.</value>
+<value>PCA: 500 mcg/mL 10 mL syringe, IV bolus dose with lockout interval of 6 minutes.</value>
+<value>PCA: 500 mcg/mL 10 mL syringe, IV bolus dose with lockout interval of 7 minutes.</value>
+<value>PCA: 500 mcg/mL 10 mL syringe, IV bolus dose with lockout interval of 8 minutes.</value>
+<value>PCA: 500 mcg/mL 10 mL syringe, IV bolus dose with lockout interval of 9 minutes.</value>
+<value>PCA: 500 mcg/mL 10 mL syringe, IV bolus dose with lockout interval of 10 minutes.</value>
+<value>5 minutes pre-procedure</value>
+<value>Loading dose.</value>
+<value>Continuous Infusion: 50 mcg/mL 10 mL syringe, Titrate to desired effect.</value>
+</instruction><volume><value>1 mL</value>
+</volume><units><value>mg</value>
+<value>mcg/kg/hour</value>
+<value>mcg/kg/dose</value>
+<value>mcg/kg </value>
+</units><additionalnotes><value></value>
+<value>Usual lock-out time is 5 to 10 minutes.</value>
+</additionalnotes><population><value></value>
+<value>Neonate</value>
+<value>Infant/Child</value>
+</population><indicationprn><value></value>
+<value>Pain</value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value>YES</value>
+<value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Analgesics and Antipyretics, Opiate Agonists</value>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose><value>YES</value>
+</maximumprndose></drug>

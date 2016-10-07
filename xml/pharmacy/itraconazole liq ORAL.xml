@@ -1,0 +1,23 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "itraconazole liq ORAL>
+<dose><value>100</value>
+<value>200</value>
+</dose><route><value>PO</value>
+</route><form><value>liq ORAL</value>
+</form><drug><value>itraconazole liq ORAL</value>
+</drug><strength><value>10 mg/mL</value>
+</strength><frequency><value>BID</value>
+<value>DAILY</value>
+</frequency><instruction><value>Swish solution in oral cavity and swallow.</value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>100 mg = 10 mL</value>
+<value>200 mg  = 20 mL</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Non-Formulary.</value>
+</ahsformularystatus><ahfsname><value>Antifungals, Azoles</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

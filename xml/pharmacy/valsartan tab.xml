@@ -1,0 +1,27 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "valsartan tab>
+<dose><value>160</value>
+<value>320</value>
+<value>40</value>
+<value>80</value>
+</dose><route><value>PO</value>
+</route><form><value>tab</value>
+</form><drug><value>valsartan tab</value>
+</drug><strength><value>160 mg</value>
+<value>40 mg</value>
+<value>320 mg</value>
+<value>80 mg</value>
+</strength><frequency><value>DAILY</value>
+<value>BID</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Renin-Angiotensin-Aldosterone System Inhibitors, Angiotensin II Receptor Antagonists</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

@@ -1,1 +1,0 @@
-../web/xslt/drug-table.xslt

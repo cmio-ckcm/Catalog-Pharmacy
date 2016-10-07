@@ -1,0 +1,43 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "epiNEPHrine inj VIAL>
+<dose><value>0.5</value>
+<value>1 - 20</value>
+<value>0.05 - 0.2</value>
+<value>0.02 - 0.2</value>
+<value>0.2 - 0.5</value>
+</dose><route><value>IM</value>
+<value>IV</value>
+<value>SC</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>epiNEPHrine inj VIAL</value>
+</drug><strength><value>1 mg/mL</value>
+</strength><frequency><value>ONCE</value>
+<value>CONTINUOUS</value>
+<value>Q2H  </value>
+<value>EVERY 20 MINUTES</value>
+</frequency><instruction><value>Administer every 5 to 15 minutes as needed for anaphylaxis.</value>
+<value>Administer by continuous infusion, titrate to desired response.</value>
+<value></value>
+<value>Administer every 20 minutes to a MAXIMUM of 3 doses.</value>
+</instruction><volume><value>1 mL</value>
+<value>30 mL</value>
+</volume><units><value>mg</value>
+<value>mcg/minute</value>
+<value>mcg/kg/minute</value>
+</units><additionalnotes><value>Anaphylaxis. May be administered more frequently than every 5 minutes if required.</value>
+<value>Post-Cardiac Arrest or Acute Hypotension.</value>
+<value>Symptomatic Bradycardia. Usual range is 2 to 10 mcg/minute.</value>
+<value>Symptomatic Bradycardia. Usual range is 0.02 to 0.15 mcg/kg/minute.</value>
+<value>Bronchospasm</value>
+<value>Bronchospasm, severe asthma attacks.</value>
+</additionalnotes><population><value>ADULT</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=239</value>
+</backgroundinformation><prninformation><value>YES</value>
+<value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Sympathomimetic (Adrenergic) Agents</value>
+</ahfsname><highalert><value></value>
+<value>YES</value>
+</highalert><maximumprndose><value></value>
+<value>YES</value>
+</maximumprndose></drug>

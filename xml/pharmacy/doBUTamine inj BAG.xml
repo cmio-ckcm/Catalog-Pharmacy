@@ -1,0 +1,29 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "doBUTamine inj BAG>
+<dose><value>2.5</value>
+<value>5</value>
+<value>7.5</value>
+<value>10</value>
+<value>12.5</value>
+<value>15</value>
+<value>17.5</value>
+<value>20</value>
+</dose><route><value>IV</value>
+</route><form><value>inj BAG</value>
+</form><drug><value>doBUTamine inj BAG</value>
+</drug><strength><value>1000 mcg/mL</value>
+<value>2000 mcg/mL</value>
+<value>4000 mcg/mL</value>
+</strength><frequency><value>CONTINUOUS</value>
+</frequency><instruction><value>Titrate infusion rate to desired response.</value>
+</instruction><volume><value>250 mL</value>
+</volume><units><value>mcg/kg/minute</value>
+</units><additionalnotes><value>http://intraweb01.albertahealthservices.ca/pharmacy/pm/pm_preview.asp?id=7829</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Sympathomimetic (Adrenergic) Agents, beta-Adrenergic Agonists</value>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose><value>YES</value>
+</maximumprndose></drug>

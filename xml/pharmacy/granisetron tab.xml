@@ -1,0 +1,24 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "granisetron tab>
+<dose><value>2</value>
+<value>1</value>
+</dose><route><value>PO</value>
+</route><form><value>tab</value>
+</form><drug><value>granisetron tab</value>
+</drug><strength><value>1 mg </value>
+</strength><frequency><value>ONCE</value>
+</frequency><instruction><value>Administer 1 hour prior to chemotherapy.</value>
+<value>Administer 12 hours post-chemotherapy.</value>
+<value>Administer 1 hour before radiation treatment.</value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value></value>
+<value>Administer 1 hour prior to chemotherapy and 12 hours post-chemotherapy.</value>
+</additionalnotes><population><value>ADULT</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1653</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions, Usage guidelines.</value>
+</ahsformularystatus><ahfsname><value>Antiemetics, 5-HT3 Receptor Antagonists</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

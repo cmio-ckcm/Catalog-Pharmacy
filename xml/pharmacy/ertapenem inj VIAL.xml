@@ -1,0 +1,33 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "ertapenem inj VIAL>
+<dose><value>1</value>
+<value>15</value>
+<value>150</value>
+<value>500</value>
+</dose><route><value>IM</value>
+<value>IV</value>
+<value>IV </value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>ertapenem inj VIAL</value>
+</drug><strength><value>1 g</value>
+</strength><frequency><value>DAILY</value>
+<value>Q12H</value>
+<value>ONCE</value>
+</frequency><instruction><value></value>
+<value>Maximum single dose: 500 mg.</value>
+<value>POST-DIALYSIS, if patient received 500 mg dose within 6 hours of dialysis.</value>
+</instruction><volume><value></value>
+</volume><units><value>g</value>
+<value>mg/kg/dose</value>
+<value>mg</value>
+</units><additionalnotes><value></value>
+<value>Patients with GFR less than or equal to 30 mL/minute/1.73m2</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+<value>YES</value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions, Usage guidelines.</value>
+</ahsformularystatus><ahfsname><value>Antibacterials, Miscellaneous beta-Lactams</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

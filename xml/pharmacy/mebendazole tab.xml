@@ -1,0 +1,23 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "mebendazole tab>
+<dose><value>100</value>
+</dose><route><value>PO</value>
+</route><form><value>tab</value>
+</form><drug><value>mebendazole tab</value>
+</drug><strength><value>100 mg</value>
+</strength><frequency><value>ONCE</value>
+<value>BID</value>
+</frequency><instruction><value></value>
+<value>Administer in the morning and evening for 3 consectutive days.</value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value>Adults and children over 2 years. Recommend retreatment after 2 and 4 weeks. Enterobius re-infection is known to be very frequent.</value>
+<value>Adults and children over years. Recommended for Trichuriasis, Ascariasis, Ankylstomiasis, Strongyloidisasis, Taeniasis, and mixed infections. A second treatment course is advised if not cured 3 weeks after treatment.</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Anthelmintics</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

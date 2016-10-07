@@ -1,0 +1,34 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "HYDROmorphone SR (long acting) cap ER>
+<dose><value>12</value>
+<value>18</value>
+<value>24</value>
+<value>3</value>
+<value>9</value>
+<value>30</value>
+<value>4.5</value>
+<value>6</value>
+</dose><route><value>PO</value>
+</route><form><value>cap ER</value>
+</form><drug><value>HYDROmorphone SR (long acting) cap ER</value>
+</drug><strength><value>12 mg</value>
+<value>18 mg</value>
+<value>24 mg</value>
+<value>3 mg</value>
+<value>30 mg</value>
+<value>4.5 mg</value>
+<value>6 mg</value>
+</strength><frequency><value>BID</value>
+<value>Q12H</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Analgesics and Antipyretics, Opiate Agonists</value>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose><value>YES</value>
+</maximumprndose></drug>

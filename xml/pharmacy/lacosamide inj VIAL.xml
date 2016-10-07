@@ -1,0 +1,30 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "lacosamide inj VIAL>
+<dose><value>2 - 2.5</value>
+<value>50 - 100</value>
+<value>100 - 200</value>
+<value>50 -200</value>
+</dose><route><value>IV</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>lacosamide inj VIAL</value>
+</drug><strength><value>10 mg/mL</value>
+</strength><frequency><value>ONCE</value>
+<value>BID</value>
+</frequency><instruction><value>Loading Dose, up to MAXIMUM dose of 200 mg.</value>
+<value>LOADING DOSE.  </value>
+<value></value>
+</instruction><volume><value>20 mL</value>
+</volume><units><value>mg/kg</value>
+<value>mg</value>
+</units><additionalnotes><value></value>
+<value>Maintenance Dose: Refractory Status Epilepticus</value>
+<value>Refractory Partial-Onset Seizures. Initiate dosing at 50 mg BID, increasing dose at weekly intervals by 50 mg BID based upon clinical response and tolerability.</value>
+</additionalnotes><population><value>INFANT/CHILDREN</value>
+<value>ADULT</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</ahsformularystatus><ahfsname><value>Anticonvulsants, Anticonvulsants, Miscellaneous</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

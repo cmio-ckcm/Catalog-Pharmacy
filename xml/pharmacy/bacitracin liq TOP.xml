@@ -1,0 +1,20 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "bacitracin liq TOP>
+<dose><value></value>
+</dose><route><value>IRRIGATION</value>
+</route><form><value>liq TOP</value>
+</form><drug><value>bacitracin liq TOP</value>
+</drug><strength><value>50 000 unit</value>
+</strength><frequency><value>ONCE</value>
+</frequency><instruction><value>Irrigate affected area as required during procedure.</value>
+</instruction><volume><value></value>
+</volume><units><value>mL</value>
+</units><additionalnotes><value>50 - 100 unit/mL in 0.9% sodium chloride, Lactated Ringer&amp;apos;s or Sterile Water for Irrgiation.</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value>YES</value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Antibacterials, Miscellaneous</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

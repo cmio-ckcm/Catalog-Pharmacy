@@ -1,0 +1,22 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "polyvinyl alcohol drop EYE>
+<dose><value>1 - 2</value>
+</dose><route><value>OPHTH</value>
+</route><form><value>drop EYE</value>
+</form><drug><value>polyvinyl alcohol drop EYE</value>
+</drug><strength><value>1.4%</value>
+</strength><frequency><value>ONCE</value>
+</frequency><instruction><value>Instill into conjuctiva of LEFT eye to relieve occular dryness or irritation.</value>
+<value>Instill into conjuctiva of RIGHT eye to relieve occular dryness or irritation.</value>
+<value>Instill into conjuctiva of affected eye(s) to relieve occular dryness or irritation.</value>
+</instruction><volume><value>0.4 mL</value>
+</volume><units><value>gtt</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value>YES</value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>EENT Drugs, Miscellaneous</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

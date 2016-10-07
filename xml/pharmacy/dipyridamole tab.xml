@@ -1,0 +1,27 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "dipyridamole tab>
+<dose><value>25</value>
+<value>75</value>
+<value>50</value>
+<value>100</value>
+</dose><route><value>PO</value>
+</route><form><value>tab</value>
+</form><drug><value>dipyridamole tab</value>
+</drug><strength><value>25 mg</value>
+<value>50 mg</value>
+<value>75 mg</value>
+</strength><frequency><value>QID</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value>Administer with 50 mg dose for a total of 75 mg.</value>
+<value></value>
+<value>Administer with 25 mg dose for a total of 75 mg.</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Vasodilating Agents, Miscellaneous</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

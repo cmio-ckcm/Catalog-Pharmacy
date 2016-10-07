@@ -1,0 +1,71 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "pyridoxine inj VIAL>
+<dose><value>10 - 100</value>
+<value>50</value>
+<value>75</value>
+<value>100</value>
+<value>50 - 100</value>
+<value>5 - 25</value>
+<value>10 - 50</value>
+<value>10 - 20</value>
+<value>10 - 600</value>
+<value>100 - 600</value>
+<value>300</value>
+<value>1</value>
+<value>25</value>
+<value></value>
+<value>5</value>
+<value>4</value>
+</dose><route><value>IM</value>
+<value>IV</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>pyridoxine inj VIAL</value>
+</drug><strength><value>100 mg/mL</value>
+</strength><frequency><value>ONCE</value>
+<value>DAILY</value>
+<value>EVERY 30 MINUTES</value>
+</frequency><instruction><value></value>
+<value>for 3 weeks.</value>
+<value>following initial dose, up to an amount equal to the amount of Isoniazide ingested. </value>
+<value>Repeat dose as necessary to a Maximum total dose of 10 grams. </value>
+<value>Initial dose, known amount of ingestion: Administer a total dose equal to amount of isoniazid ingested, up to a maximum of 5 grams or 70 mg/kg. Administer at a rate of 0.5 to 1 g/minute.</value>
+<value>Administer at 0.5 to 1 g/minute. May repeat dose every 5 to 10 minutes to control seizures or CNS toxicity.</value>
+<value>Administer over 15 minutes.</value>
+<value>Administer over 30 minutes.</value>
+<value>Administer over 10 minutes.</value>
+<value>Initial dose, known amount of ingestion: Administer a total dose equal to amount of isoniazid ingested. Initially administer 5 g over 30 minutes. If required, the remainder may be administered by IV infusion over the next 1 to 2 hours.</value>
+<value>for Isoniazid ingestion greater than 10 grams (Initial dose).</value>
+</instruction><volume><value>30 mL</value>
+</volume><units><value>mg</value>
+<value>g</value>
+<value>mg/kg/dose</value>
+<value>g </value>
+<value>mg/kg</value>
+</units><additionalnotes><value>IV route preferred.</value>
+<value>Oral route preferred.</value>
+<value>INFANTS: pyridoxine-dependent seizures. Oral route preferred.</value>
+<value>CHILDREN: Dietary deficiency. Reduce dose after 3 weeks to 1.5 to 2.5 mg daily in an oral multivitamin</value>
+<value>CHILDREN: Drug-induced neuritis.</value>
+<value>ADULT: Dietary deficiency. After 3 weeks, switch to 2 to 5 mg/day orally.</value>
+<value>ADULT: Pyridoxine-dependency syndrome. Switch to oral pryidoxine 30mg/day once patient responds.</value>
+<value>ADULT: Pyridoxine deficiency due to Isoniazid treatment. Follow with oral pyridoxine 30 mg/day.</value>
+<value>ADULT: Metabolic disorders, Sideroblastic anemia.</value>
+<value>ADULT: Cycloserine poisoning. Higher doses may be required (300 mg is usual dose).</value>
+<value>ADULT: Acute Isoniazid poisoning. Known amount of Isoniazid ingested greater than 10 grams.</value>
+<value></value>
+<value>CHILDREN: Acute mushroom poinsoning (genus Gyromitra)</value>
+<value>Administer until seizures stop of the Maximum initial dose is administered. May repeat every 5 to 10 minutes to control seizures or CNS toxicity. If seizures stop before the initial pyridoxine dose, administer the initial dose over 4 to 6 hours.</value>
+<value>ADULT: Hydralazine poisoning.</value>
+<value>ADULT: Gyromitra mushroom poisoning. Maximum dose: 10 grams.</value>
+<value>ADULT: Ethylene Glycol poisoning. Continue treatment until ethylene glycol concentration is less than 3 mmol/L and there is no evidence of acidosis or end-organ dmamage (renal failure).</value>
+<value>ADULT: Acute Isoniazid poisoning. </value>
+<value>ADULT: Acute Isoniazid poisoning. Amount of Isoniazid ingested is NOT known.</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+<value>YES</value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Vitamin B Complex</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

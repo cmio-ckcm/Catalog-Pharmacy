@@ -1,0 +1,25 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "cholestyramine resin powder>
+<dose><value>4</value>
+</dose><route><value>PO</value>
+</route><form><value>powder</value>
+</form><drug><value>cholestyramine resin powder</value>
+</drug><strength><value>4 g/5 g</value>
+<value>4 g/9 g</value>
+</strength><frequency><value>DAILY</value>
+<value>HS</value>
+<value>BID</value>
+<value>TID</value>
+<value>QID</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>g</value>
+</units><additionalnotes><value>Mix powder with 60 - 180 ml of fluid</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Antilipemic Agents, Bile Acid Sequestrants</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

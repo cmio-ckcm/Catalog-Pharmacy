@@ -1,0 +1,33 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "quiNINE dihydrochloride inj AMP>
+<dose><value>20</value>
+<value>10</value>
+<value>7</value>
+</dose><route><value>IV</value>
+</route><form><value>inj AMP</value>
+</form><drug><value>quiNINE dihydrochloride inj AMP</value>
+</drug><strength><value>300 mg/mL</value>
+</strength><frequency><value>ONCE</value>
+<value>Q8H</value>
+<value>Q12H  </value>
+</frequency><instruction><value>Infuse over 4 hours. </value>
+<value>starting 8 hours after beginning of loading dose infusion.</value>
+<value>starting 12 hours after the beginning of loading dose infusion.</value>
+<value>Administer over 30 minutes.</value>
+<value>immediately following loading dose.</value>
+</instruction><volume><value>2 mL</value>
+</volume><units><value>mg/kg</value>
+</units><additionalnotes><value>Loading dose with NO infusion pump.</value>
+<value>Maintenance dose with NO infusion pump.</value>
+<value>Loading dose with infusion pump.</value>
+<value>Maintenance dose with infusion pump.</value>
+</additionalnotes><population><value>ADULT / INFANT / CHILDREN</value>
+<value>ADULT  </value>
+<value>INFANT / CHILDREN</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2588</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Usage guidelines. Health Canada Special Access Programme.</value>
+</ahsformularystatus><ahfsname><value>Antiprotozoals, Antimalarials</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

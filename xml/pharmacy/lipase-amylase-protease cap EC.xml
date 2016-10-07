@@ -1,0 +1,31 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "lipase-amylase-protease cap EC>
+<dose><value>1</value>
+<value>2</value>
+<value>3</value>
+<value>4</value>
+</dose><route><value>PO</value>
+</route><form><value>cap EC</value>
+</form><drug><value>lipase-amylase-protease cap EC</value>
+</drug><strength><value>10 500 unit-43 750 unit-25 000 unit</value>
+<value>10 800 unit-42 000 unit-45 000 unit</value>
+<value>12 000 unit-39 000 unit-39 000 unit</value>
+<value>16 800 unit-70 000 unit-40 000 unit</value>
+<value>20 000 unit-65 000 unit-65 000 unit</value>
+<value>4 200 unit-17 500 unit-10 000 unit</value>
+</strength><frequency><value>TID</value>
+<value>ONCE</value>
+</frequency><instruction><value>Administer with meals.</value>
+<value>To be administered with snacks.</value>
+</instruction><volume><value></value>
+</volume><units><value>cap</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+<value>YES</value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Digestants</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

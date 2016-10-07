@@ -1,0 +1,26 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "amikacin inj VIAL>
+<dose><value>5</value>
+<value>7.5</value>
+<value>15</value>
+</dose><route><value>IV</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>amikacin inj VIAL</value>
+</drug><strength><value>250 mg/mL</value>
+</strength><frequency><value>Q8H</value>
+<value>Q12H</value>
+<value>Q24H</value>
+<value>Q36H</value>
+<value>Q48H </value>
+</frequency><instruction><value></value>
+</instruction><volume><value>2 mL</value>
+</volume><units><value>mg/kg</value>
+</units><additionalnotes><value>Recommend Ideal Body weight for dosing, Ajusted Body Weight for dosing obese patients.</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2529</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions, Usage guidelines.</value>
+</ahsformularystatus><ahfsname><value>Antibacterials, Aminoglycosides</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

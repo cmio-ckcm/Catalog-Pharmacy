@@ -1,0 +1,38 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "darunavir tab>
+<dose><value>600</value>
+<value>375</value>
+<value>450</value>
+<value>800</value>
+</dose><route><value>PO</value>
+</route><form><value>tab</value>
+</form><drug><value>darunavir tab</value>
+</drug><strength><value>150 mg</value>
+<value>400 mg</value>
+<value>600 mg</value>
+<value>75 mg</value>
+<value>800 mg</value>
+</strength><frequency><value>BID</value>
+<value>DAILY</value>
+</frequency><instruction><value>Administer with food. Dose given with ritinovir 100mg. </value>
+<value>Administer with food. Dose given with ritinovir 50mg. </value>
+<value>Administer with food. Dose given with ritinovir 60 mg.</value>
+<value>Administer with food. Dose given with ritinovir 100mg.</value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value></value>
+<value>Children: 15 - &amp;lt;30 kg body weight</value>
+<value>Children: &amp;gt;=30 to &amp;lt;40 kg body weight</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=5661</value>
+<value></value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3255</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=5662</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=5663</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+<value>Discontinued.</value>
+</ahsformularystatus><ahfsname><value>Antivirals, Antiretrovirals</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

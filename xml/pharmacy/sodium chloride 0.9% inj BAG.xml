@@ -1,0 +1,81 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "sodium chloride 0.9% inj BAG>
+<dose><value></value>
+<value>500</value>
+<value>250</value>
+<value>250 - 500</value>
+</dose><route><value>IV</value>
+</route><form><value>inj BAG</value>
+</form><drug><value>sodium chloride 0.9% inj BAG</value>
+</drug><strength><value></value>
+</strength><frequency><value>CONTINUOUS</value>
+<value>ONCE</value>
+<value>DAILY</value>
+</frequency><instruction><value>Administer by continuous infusion.</value>
+<value>DAY 1. Administer 1000 mL over 2 hours. &amp;quot;posthydration&amp;quot;.</value>
+<value>DAY 8. Administer 1000 mL over 2 hours. &amp;quot;posthydration&amp;quot;.</value>
+<value>DAY 1 of 21. Administer 1000 mL over 2 hours. &amp;quot;posthydration&amp;quot;.</value>
+<value>DAY 1 of 21. Administer 1000 mL over 2 hours.</value>
+<value>DAY 1 of 21. Administer 1000 mL over 2 hours (posthydration).</value>
+<value>DAY 1 of 21. Administer 1000 mL over 2 hours. &amp;quot;prehydration&amp;quot;.</value>
+<value>DAY 1 of 28. Administer 1000 mL over 2 hours. &amp;quot;prehydration&amp;quot;.</value>
+<value>DAY 8 of 28. Administer 1000 mL over 2 hours. &amp;quot;prehydration&amp;quot;.</value>
+<value>Bolus dose.</value>
+<value>DAYS 1, 2 &amp; 3 of 21. Administer 250 mL over 30 minutes prior to each CISplatin dose. (Prehydration)</value>
+<value>DAY 1. Administer 100 mL concurrently with vinorelbine, then remaining 400 mL over 30 minutes, immediately post-vinorelbine. &amp;quot;prehydration&amp;quot;</value>
+<value>DAY 8. Administer 100 mL concurrently with vinorelbine, then remaining 400 mL over 30 minutes, immediately post-vinorelbine. &amp;quot;prehydration&amp;quot;</value>
+<value>DAY 15. Administer 100 mL concurrently with vinorelbine, then remaining 400 mL over 30 minutes, immediately post-vinorelbine.</value>
+<value>DAY 22. Administer 100 mL concurrently with vinorelbine, then remaining 400 mL over 30 minutes, immediately post-vinorelbine.</value>
+<value>DAY 1 of 21. Administer 100 mL concurrently with vinorelbine, then remaining 400 mL over 30 minutes, immediately post-vinorelbine. &amp;quot;prehydration&amp;quot;</value>
+<value>DAY 8 of 21. Administer 100 mL concurrently with vinorelbine, then remaining 400 mL over 30 minutes, immediately post-vinorelbine.</value>
+<value>DAY 1 of 21. Administer over 1 hour. &amp;quot;Posthydration&amp;quot;.</value>
+<value>DAY 1 of 21. Administer 100 mL concurrently with vinorelbine, then remaining 400 mL over 30 minutes, immediately post-vinorelbine.</value>
+<value>DAY 1 of 21. Administer 250 to 500 mL concurrently with gemcitabine.</value>
+<value>DAY 8 of 21. Administer 250 to 500 mL concurrently with gemcitabine.</value>
+<value>DAY 1 of 21. Administer over 1 hour (re-hydration).</value>
+<value>DAY 8 of 21. Administer concurrently with gemcitabine infusion.</value>
+<value>DAY 1 of 21. Administer concurrently with gemcitabine infusion.</value>
+<value>DAY 1 of 21. Administer over 1 hour. (Prehydration)</value>
+<value>DAY 1 of 21. Administer over 1 hour. (Posthydration)</value>
+<value>DAY 8 of 28. Administer over 1 hour. (Posthydration)</value>
+<value>DAY 1 of 21. Administer over 1 hour after CISplatin. (Post-hydration)</value>
+<value>DAY 1 of 21. Administer over 1 hour after CISplatin. (Post hydration)</value>
+</instruction><volume><value>1000 mL</value>
+<value>100 mL</value>
+<value>25 mL</value>
+<value>250 mL</value>
+<value>50 mL</value>
+<value>500 mL</value>
+</volume><units><value>mL/hour</value>
+<value>mL</value>
+</units><additionalnotes><value></value>
+<value>Alternatives may include magnesium sulfat 4000 mg additive or potassium chloride 20 mmol.</value>
+<value>Alternatives may include magnesium sulfate 4000 mg additive and/or potassium chloride 20 mmol.</value>
+<value>Actual rate and volume will be variable and based upon nursing assessment of discomfort at injection site.</value>
+</additionalnotes><population><value></value>
+<value>Adjuvant Vinorelbine/CISplatin (every 28 days). Non-Small Cell Lung Cancer</value>
+<value>Adjuvant Vinorelbine/CISplatin (every 21 days). Non-Small Cell Lung Cancer</value>
+<value>Pemetrexed/CISplatin. Non-Small Cell Lung Cancer</value>
+<value>Vinorelbine / CISplatin. Advanced NSCLC</value>
+<value>CISplatin &amp; Vinorelbine with CONCURRENT RT. Non-Small Cell Lung Cancer</value>
+<value>Gemcitabine / CISplatin. Non-Small Cell Lung Cancer</value>
+<value>CISplatin/etoposide (po). Small Cell Lung Cancer</value>
+<value>Pemetrexed / CISplatin. Mesothelioma.</value>
+<value>Etoposide (Days 1-5)/CISplatin (Days 1 &amp; 8) with concurrent RT. Pancoast Tumor</value>
+<value>CISplatin/etoposide (IV). Small Cell Lung Cancer.</value>
+<value>Vinorelbine (Day 1 &amp; 8 every 21 Days). Non-Small Cell Lung Cancer (Advanced Stage)</value>
+<value>Vinorelbine / CARBOplatin. Non-Small Cell Lung Cancer (Advanced Stage)</value>
+<value>Gemcitabine / CARBOplatin. Non-Small Cell Lung Cancer</value>
+<value>Gemcitabine. Non-Small Cell Lung Cancer</value>
+<value>cyclophosphamide, DOXOrubicin, vinCRIStine (CAV). Small Cell Lung Cancer.</value>
+<value>DOXOrubicin/CISplatin/cyclophosphamide (PAC). Thymic Malignancy</value>
+<value>Vinorelbine and CARBOplatin with CONCURRENT RT. Non-Small Cell Lung Cancer.</value>
+<value>CISplatin/DOXOrubicin/vinCRIStine/cyclophosphamide. Thymoma</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+<value>400 mL over 30 minutes = 800 mL/hour</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Not a pharmacy product.</value>
+</ahsformularystatus><ahfsname><value>Replacement Preparations</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

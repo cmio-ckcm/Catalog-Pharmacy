@@ -1,0 +1,23 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "ibrutinib cap>
+<dose><value>420</value>
+<value>280</value>
+<value>140</value>
+<value>560</value>
+</dose><route><value>PO</value>
+</route><form><value>cap</value>
+</form><drug><value>ibrutinib cap</value>
+</drug><strength><value>140 mg</value>
+</strength><frequency><value>DAILY</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value>If ANC is less than 1 X 109/L or Platelets are less than 25 X 109/L: Notify prescriber.</value>
+</additionalnotes><population><value>ADULT</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=7841</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</ahsformularystatus><ahfsname><value>Antineoplastic Agents</value>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose><value>YES</value>
+</maximumprndose></drug>

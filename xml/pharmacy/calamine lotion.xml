@@ -1,0 +1,25 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "calamine lotion>
+<dose><value></value>
+</dose><route><value>TOP</value>
+</route><form><value>lotion</value>
+</form><drug><value>calamine lotion</value>
+</drug><strength><value>8%</value>
+</strength><frequency><value>ONCE</value>
+<value>TID</value>
+<value>QID</value>
+</frequency><instruction><value>Apply to affected areas of skin as required.</value>
+<value>Apply TID to affected areas</value>
+<value>Apply QID to affected areas.</value>
+</instruction><volume><value></value>
+</volume><units><value></value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value>YES</value>
+<value></value>
+</prninformation><ahsformularystatus><value>Not a pharmacy product.</value>
+</ahsformularystatus><ahfsname><value>Skin and Mucous Membrane Agents, Antipruritics and Local Anesthetics</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

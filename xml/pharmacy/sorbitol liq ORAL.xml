@@ -1,0 +1,25 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "sorbitol liq ORAL>
+<dose><value>2</value>
+<value>30</value>
+<value>60</value>
+<value></value>
+</dose><route><value>PO</value>
+</route><form><value>liq ORAL</value>
+</form><drug><value>sorbitol liq ORAL</value>
+</drug><strength><value>70%</value>
+</strength><frequency><value>ONCE</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>mL/kg </value>
+<value>mL</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value>CHILDREN, aged 2 to 11 years</value>
+<value>ADULT</value>
+</population><indicationprn><value>Constipation</value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Cathartics and Laxatives</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

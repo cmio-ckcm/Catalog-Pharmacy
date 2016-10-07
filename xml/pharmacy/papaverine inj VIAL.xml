@@ -1,0 +1,27 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "papaverine inj VIAL>
+<dose><value>30 - 120</value>
+<value>1.5</value>
+</dose><route><value>IM</value>
+<value>IV</value>
+<value>SC</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>papaverine inj VIAL</value>
+</drug><strength><value>32.5 mg/mL</value>
+</strength><frequency><value>Q3H</value>
+<value>Q6H</value>
+</frequency><instruction><value></value>
+</instruction><volume><value>2 mL</value>
+</volume><units><value>mg</value>
+<value>mg/kg</value>
+</units><additionalnotes><value></value>
+<value>CHILDREN: Recommended dosing</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value>YES</value>
+<value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Vasodilating Agents, Miscellaneous</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

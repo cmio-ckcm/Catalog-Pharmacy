@@ -1,0 +1,27 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "PACLitaxel, NAB inj VIAL>
+<dose><value>125</value>
+<value>100</value>
+<value>75</value>
+<value>150</value>
+<value>260</value>
+</dose><route><value>IV</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>PACLitaxel, NAB inj VIAL</value>
+</drug><strength><value>100 mg</value>
+</strength><frequency><value>WEEKLY</value>
+<value>ONCE</value>
+</frequency><instruction><value>for 3 weeks. Administer dose over 30 minutes.</value>
+<value>Administer dose over 30 minutes.</value>
+</instruction><volume><value></value>
+</volume><units><value>mg/m2</value>
+</units><additionalnotes><value>Metastatic Pancreatic Cancer</value>
+<value>Metastatic Breast Cancer</value>
+</additionalnotes><population><value>ADULT</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3430</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</ahsformularystatus><ahfsname><value>Antineoplastic Agents</value>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose><value>YES</value>
+</maximumprndose></drug>

@@ -1,0 +1,22 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "isosorbide mononitrate (long acting) tab ER>
+<dose><value>30</value>
+<value>60</value>
+<value>120</value>
+</dose><route><value>PO</value>
+</route><form><value>tab ER</value>
+</form><drug><value>isosorbide mononitrate (long acting) tab ER</value>
+</drug><strength><value>60 mg</value>
+</strength><frequency><value>DAILY</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Vasodilating Agents, Nitrates and Nitrites</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

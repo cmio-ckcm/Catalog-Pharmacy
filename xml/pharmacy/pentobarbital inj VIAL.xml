@@ -1,0 +1,31 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "pentobarbital inj VIAL>
+<dose><value>5 - 15</value>
+<value>0.5 - 5</value>
+<value>5</value>
+<value>100</value>
+</dose><route><value>IV</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>pentobarbital inj VIAL</value>
+</drug><strength><value>50 mg/mL</value>
+</strength><frequency><value>ONCE</value>
+<value>CONTINUOUS</value>
+</frequency><instruction><value>Administer by direct injection.</value>
+<value>Administer by continuous infusion.</value>
+<value>Administer by direct injection, for breakthough seizure activity.</value>
+<value>may repeat dose in 25 to 50 mg increments at 1 minute intervals as required, up to a total administration of 500mg.</value>
+</instruction><volume><value>20 mL</value>
+</volume><units><value>mg/kg</value>
+<value>mg/kg/hour</value>
+<value>mg</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value>ADULT / CHILDREN</value>
+<value>ADULT  </value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1814</value>
+</backgroundinformation><prninformation><value></value>
+<value>YES</value>
+</prninformation><ahsformularystatus><value>Formulary, Health Canada Special Access Programme.</value>
+</ahsformularystatus><ahfsname><value>Anxiolytics, Sedatives, and Hypnotics, Barbiturates</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

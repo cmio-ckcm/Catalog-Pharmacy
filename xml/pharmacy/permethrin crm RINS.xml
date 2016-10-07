@@ -1,0 +1,20 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "permethrin crm RINS>
+<dose><value></value>
+</dose><route><value>TOP</value>
+</route><form><value>crm RINS</value>
+</form><drug><value>permethrin crm RINS</value>
+</drug><strength><value>1%</value>
+</strength><frequency><value>ONCE</value>
+</frequency><instruction><value>Wash hair with conditioner-free shampoo. Protect eyes throughout application by using a washcloth or towel. Shake container well, then apply between 1/2 to 1 bottle to thoroughly saturate the hair and scalp, especially behind the ears and at the base of the neck. Leave in hair for 10 minutes. Rinse off hair with water only and dry hair. Comb hair to remove tangles, then utilize the nit removal comb to remove nits by combing from the hair rott to the end of the hair shaft.</value>
+</instruction><volume><value>50 mL</value>
+</volume><units><value></value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Skin and Mucous Membrane Agents, Scabicides and Pediculicides</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

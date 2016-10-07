@@ -1,0 +1,28 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "amoxicillin cap>
+<dose><value>250</value>
+<value>500</value>
+<value>1000</value>
+</dose><route><value>PO</value>
+</route><form><value>cap</value>
+</form><drug><value>amoxicillin cap</value>
+</drug><strength><value>250 mg</value>
+<value>500 mg</value>
+</strength><frequency><value>TID</value>
+<value>BID</value>
+</frequency><instruction><value></value>
+<value>for 7 days.</value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value></value>
+<value>Treatment of chlamydia urethral, cervical, rectal or pharyngeal infections in pregnant/lactating women.</value>
+</additionalnotes><population><value></value>
+<value>ADULT</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2401</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2402</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Antibacterials, Penicillins</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

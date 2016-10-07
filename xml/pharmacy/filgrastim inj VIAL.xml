@@ -1,0 +1,27 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "filgrastim inj VIAL>
+<dose><value>300</value>
+<value>600</value>
+<value>480</value>
+</dose><route><value>IV</value>
+<value>SC</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>filgrastim inj VIAL</value>
+</drug><strength><value>300 mcg</value>
+<value>480 mcg</value>
+</strength><frequency><value>DAILY</value>
+</frequency><instruction><value>DAY +7. Administer until ANC greater than 1X109/L for greater than 24 hours. May administer by SC route.</value>
+<value>DAY +7. Administer until ANC greater than 1X109/L for greater than 24 hours. May administer by IV route.</value>
+</instruction><volume><value>1 mL</value>
+<value>1.6 mL</value>
+</volume><units><value>mcg/kg</value>
+</units><additionalnotes><value>Dose banding (based on 5 mcg/kg) to use full vials of filgrastim. Patient weight less than 60 kg: 300 mcg/dose. 60 to 90 kg: 480 mcg/dose. Greater than 90 kg: 600 mcg/dose.</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2885</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2886</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</ahsformularystatus><ahfsname><value>Hematopoietic Agents</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

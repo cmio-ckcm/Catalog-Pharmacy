@@ -1,0 +1,32 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "somatropin (SAIZEN) inj CART>
+<dose><value>0.067</value>
+<value>0.028</value>
+<value>0.107 - 0.125</value>
+<value>0.045 - 0.054</value>
+<value>0.05</value>
+</dose><route><value>SC</value>
+</route><form><value>inj CART</value>
+</form><drug><value>somatropin (SAIZEN) inj CART</value>
+</drug><strength><value>12 mg</value>
+<value>20 mg</value>
+<value>6 mg</value>
+</strength><frequency><value>THREE TIMES WEEKLY</value>
+<value>DAILY</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg/kg</value>
+</units><additionalnotes><value>Growth failure due to inadequate endogenous growth hormone secretion.</value>
+<value>Turner&amp;apos;s syndrome</value>
+<value>Growth failure in children with chronic renal failure</value>
+<value>Growth disturbance in short children born small for gestational age.</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=4041</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=4042</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=4040</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</ahsformularystatus><ahfsname><value>Pituitary</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

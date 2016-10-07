@@ -1,0 +1,20 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "hydroxypropylmethylcellulose inj SYR>
+<dose><value></value>
+</dose><route><value>INTRA-OCULAR</value>
+</route><form><value>inj SYR</value>
+</form><drug><value>hydroxypropylmethylcellulose inj SYR</value>
+</drug><strength><value>20 mg/mL</value>
+</strength><frequency><value>ONCE</value>
+</frequency><instruction><value>Inject into anterior chamber of eye using a 20 gauge or smaller cannula.</value>
+</instruction><volume><value>1 mL</value>
+</volume><units><value>mL</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>EENT Drugs, Miscellaneous</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

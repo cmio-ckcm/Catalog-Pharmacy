@@ -1,0 +1,26 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "nitroglycerin tab SL>
+<dose><value>0.3</value>
+<value>0.6</value>
+</dose><route><value>SL</value>
+</route><form><value>tab SL</value>
+</form><drug><value>nitroglycerin tab SL</value>
+</drug><strength><value>0.3 mg</value>
+<value>0.6 mg</value>
+</strength><frequency><value>EVERY 5 MINUTES</value>
+<value>ONCE</value>
+</frequency><instruction><value>Place tablet under the tongue at first sign of angina symptoms. May repeat dose at 5 minute intervals until relief is obtained.</value>
+<value>Administer 5 minutes prior to engaging in an activity which may precipitate an acute angina attack.</value>
+<value>Administer 10 minutes prior to engaging in an activity which may precipitate an acute angina attack.</value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value>Prompt medical attention is recommended if pain persists after a total of 3 tablets in a 15 minute period.</value>
+<value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value>Angina symptoms</value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value>YES</value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Vasodilating Agents, Nitrates and Nitrites</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

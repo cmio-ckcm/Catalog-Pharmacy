@@ -1,0 +1,31 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "ferumoxytol inj VIAL>
+<dose><value>510</value>
+</dose><route><value>IV</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>ferumoxytol inj VIAL</value>
+</drug><strength><value>510 mg</value>
+</strength><frequency><value>ONCE</value>
+</frequency><instruction><value></value>
+<value>for 2 doses, with second dose repeated on Day 2.</value>
+<value>for 2 doses, with second dose repeated on Day 3.</value>
+<value>for 2 doses, with second dose repeated on Day 4.</value>
+<value>for 2 doses, with second dose repeated on Day 5.</value>
+<value>for 2 doses, with second dose repeated on Day 6.</value>
+<value>for 2 doses, with second dose repeated on Day 7.</value>
+<value>for 2 doses, with second dose repeated on Day 8.</value>
+</instruction><volume><value>17 mL</value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value>Iron-deficiency Anemia in Chronic Kidney Disease.</value>
+<value>Iron-deficiency Anemia in Chronic Kidney Disease. Administer a second dose 2 to 8 days later.</value>
+</additionalnotes><population><value>ADULT, weighing 50 kg or less with a baseline Hgb greater than 100 to 120 g/L.</value>
+<value>ADULT, weighing 50 kg or less with a baseline Hgb less than 100 g/L.</value>
+<value>ADULT, weighing 50 kg or greater with a baseline Hgb less than 100 g/L.</value>
+<value>ADULT, weighing greater than 50 kg with a baseline Hgb greater than 100 to 120 g/L.</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Discontinued.</value>
+</ahsformularystatus><ahfsname><value>Antianemia Drugs, Iron Preparations</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

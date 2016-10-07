@@ -1,0 +1,31 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "lithium citrate liq ORAL>
+<dose><value>15 - 20</value>
+<value>150</value>
+<value>300</value>
+<value>600</value>
+<value>900</value>
+</dose><route><value>PO</value>
+</route><form><value>liq ORAL</value>
+</form><drug><value>lithium citrate liq ORAL</value>
+</drug><strength><value>1.6 mmol/mL</value>
+</strength><frequency><value>TID</value>
+<value>QID</value>
+<value>BID</value>
+<value>HS</value>
+</frequency><instruction><value>Administer daily calculated dose in 3 equally divided doses.</value>
+<value>Administer daily calculated dose in 4 equally divided doses.</value>
+<value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg/kg/day</value>
+<value>mg</value>
+</units><additionalnotes><value>Lithium citrate 1.6 mmol/mL is approximately equivalent to 60 mg/mL of lithium carbonate.</value>
+<value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Antimanic Agents</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

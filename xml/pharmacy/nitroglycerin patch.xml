@@ -1,0 +1,28 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "nitroglycerin patch>
+<dose><value>1</value>
+<value></value>
+</dose><route><value>TOP</value>
+<value></value>
+</route><form><value>patch</value>
+</form><drug><value>nitroglycerin patch</value>
+</drug><strength><value>0.2 mg/hour</value>
+<value>0.4 mg/hour</value>
+<value>0.6 mg/hour</value>
+<value>0.8 mg/hour</value>
+</strength><frequency><value>DAILY</value>
+</frequency><instruction><value>Apply patch for 12 hours, then remove.</value>
+<value>REMOVE Nitroglycerin patch.</value>
+</instruction><volume><value></value>
+</volume><units><value>patch</value>
+<value></value>
+</units><additionalnotes><value>Rotate application sites.</value>
+<value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Vasodilating Agents, Nitrates and Nitrites</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

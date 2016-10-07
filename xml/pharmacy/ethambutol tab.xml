@@ -1,0 +1,34 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "ethambutol tab>
+<dose><value>15 - 20</value>
+<value>25 - 40</value>
+<value>25</value>
+<value>15</value>
+<value>15 - 25</value>
+<value>30 - 50</value>
+</dose><route><value>PO</value>
+</route><form><value>tab</value>
+</form><drug><value>ethambutol tab</value>
+</drug><strength><value>100 mg</value>
+<value>400 mg</value>
+</strength><frequency><value>DAILY</value>
+<value>THREE TIMES WEEKLY</value>
+</frequency><instruction><value>Initial treatment as part of a multi-drug regimen treatment.</value>
+<value></value>
+<value>Retreatment as part of a multi-drug regimen treatment.</value>
+<value>Retreatment after 60 days of therapy or when bacteriologic cultures return negative; as part of a multi-drug regimen treatment.</value>
+</instruction><volume><value></value>
+</volume><units><value>mg/kg</value>
+</units><additionalnotes><value>Up to 1.6 gram</value>
+<value>Up to 2.4 gram. Monthly eye examination recommended.</value>
+<value>Monthly eye examinations recommended.</value>
+<value></value>
+</additionalnotes><population><value>ADULT</value>
+<value>CHILDREN</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Antimycobacterials, Antituberculosis Agents</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

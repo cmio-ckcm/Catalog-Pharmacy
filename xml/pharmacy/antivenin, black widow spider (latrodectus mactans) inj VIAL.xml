@@ -1,0 +1,21 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "antivenin, black widow spider (latrodectus mactans) inj VIAL>
+<dose><value>6000</value>
+</dose><route><value>IM</value>
+<value>IV</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>antivenin, black widow spider (latrodectus mactans) inj VIAL</value>
+</drug><strength><value>6000 unit</value>
+</strength><frequency><value>ONCE</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>unit</value>
+</units><additionalnotes><value>One dose usually adequate. Recommend skin or conjuctival test be performed prior to administration of antivenin.</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary, Health Canada Special Access Programme.</value>
+</ahsformularystatus><ahfsname><value>Serums</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

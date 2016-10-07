@@ -1,0 +1,34 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "mannitol inj VIAL>
+<dose><value>50 - 100</value>
+<value>0.5 - 1</value>
+<value>0.25 - 0.5</value>
+<value>0.25 - 2 </value>
+</dose><route><value>IV</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>mannitol inj VIAL</value>
+</drug><strength><value>250 mg/mL</value>
+</strength><frequency><value>ONCE</value>
+<value>Q4H</value>
+<value>Q6H</value>
+</frequency><instruction><value></value>
+<value>INITIAL DOSE: Administer over 5 minutes.</value>
+<value>INITIAL DOSE: Administer over 10 minutes.</value>
+</instruction><volume><value>50 mL</value>
+</volume><units><value>g</value>
+<value>g/kg/dose</value>
+<value>g/kg </value>
+<value>g/kg</value>
+</units><additionalnotes><value>ADULT: prevention of Oliguric phase of Acute Renal Failure.</value>
+<value>INFANTS / CHILDREN: Initial dose - Intracranial pressure.</value>
+<value>INFANTS / CHILDREN: Maintenance dose - Intracranial pressure.</value>
+<value>ADULT: Increased intracranial pressure.</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+<value>YES</value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Kidney Function</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

@@ -1,0 +1,26 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "methocarbamol tab>
+<dose><value>500</value>
+<value>1000</value>
+</dose><route><value>PO</value>
+</route><form><value>tab</value>
+</form><drug><value>methocarbamol tab</value>
+</drug><strength><value>500 mg</value>
+</strength><frequency><value>QID</value>
+<value>Q4H</value>
+<value>Q3H</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value>ADULTS.</value>
+<value>ADULTS. Severe conditions.</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+<value>for Muscle Spasms.</value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+<value>YES</value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Skeletal Muscle Relaxants, Centrally Acting Skeletal Muscle Relaxants</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

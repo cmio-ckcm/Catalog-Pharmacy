@@ -1,0 +1,25 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "isoflurane liq INH>
+<dose><value>2.5 - 4.5</value>
+<value>1.5 - 3</value>
+<value>1.5 - 3.5</value>
+<value>1 - 2.5</value>
+</dose><route><value>INH</value>
+</route><form><value>liq INH</value>
+</form><drug><value>isoflurane liq INH</value>
+</drug><strength><value>99.9%</value>
+</strength><frequency><value>ONCE</value>
+</frequency><instruction><value>Administered by inhalation in combination with 100% oxygen</value>
+<value>Administered by inhalation in combination with 60% N2O/40% oxygen</value>
+</instruction><volume><value></value>
+</volume><units><value>%</value>
+</units><additionalnotes><value>Induction</value>
+<value>Maintenance</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>General Anesthetics, Inhalation Anesthetics</value>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose><value>YES</value>
+</maximumprndose></drug>

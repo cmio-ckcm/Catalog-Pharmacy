@@ -1,0 +1,20 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "calcium lactogluconate liq ORAL>
+<dose><value>5</value>
+</dose><route><value>PO</value>
+</route><form><value>liq ORAL</value>
+</form><drug><value>calcium lactogluconate liq ORAL</value>
+</drug><strength><value>153.8 mg/mL</value>
+</strength><frequency><value>TID</value>
+</frequency><instruction><value></value>
+</instruction><volume><value>150 mL</value>
+</volume><units><value>mL</value>
+</units><additionalnotes><value>20 mg/mL of elemental calcium</value>
+</additionalnotes><population><value>INFANT/CHILDREN</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Replacement Preparations</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

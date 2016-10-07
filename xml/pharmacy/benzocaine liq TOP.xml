@@ -1,0 +1,22 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "benzocaine liq TOP>
+<dose><value></value>
+</dose><route><value>TOP </value>
+</route><form><value>liq TOP</value>
+</form><drug><value>benzocaine liq TOP</value>
+</drug><strength><value>10%</value>
+</strength><frequency><value>TID</value>
+<value>QID</value>
+</frequency><instruction><value>Apply a small amount to the affected area.</value>
+</instruction><volume><value></value>
+</volume><units><value></value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value>ADULT</value>
+<value>CHILDREN, 2 years and older</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>EENT Drugs, Local Anesthetics, </value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

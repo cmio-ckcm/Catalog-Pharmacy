@@ -1,0 +1,46 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "sodium phosphates inj VIAL>
+<dose><value>0.16</value>
+<value>0.24</value>
+<value>0.32</value>
+<value>9</value>
+<value>15</value>
+<value>21</value>
+<value>20 - 40</value>
+<value>0.5 - 2</value>
+<value>0.08 - 0.36</value>
+</dose><route><value>IV</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>sodium phosphates inj VIAL</value>
+</drug><strength><value>3 mmol/mL</value>
+</strength><frequency><value>ONCE</value>
+<value>DAILY</value>
+</frequency><instruction><value>Administer dose over 4 to 6 hours.</value>
+<value>Administer dose diluted in D5W 50 mL over 4 hours.</value>
+<value>Administer dose diluted in D5W 100 mL over 4 hours.</value>
+<value></value>
+<value>Administer dose over 4 hours. May be extended up to 6 hours.</value>
+</instruction><volume><value>10 mL</value>
+</volume><units><value>mmol/kg</value>
+<value>mmol</value>
+<value>mmol/kg/day</value>
+<value>mmol/kg/dose</value>
+</units><additionalnotes><value>Patients with serum phosphorus 0.16 to 0.32 mmol/L. Sodium phosphate injection contains 3 mmol phosphate and 4 mmol sodium/mL.</value>
+<value>Patients with serum phosphorus less than 0.16 mmol/L. Sodium phosphate injection contains 3 mmol phosphate and 4 mmol sodium/mL.</value>
+<value>For patients with serum phosphorus 0.32 mmol/L or less and weighing 40 to 60 kg (actual body weight). Sodium phosphate injection contains 3 mmol phosphate and 4 mmol sodium/mL.</value>
+<value>For patients with serum phosphorus 0.32 mmol/L or less and weighing 61 to 80 kg (actual body weight). Sodium phosphate injection contains 3 mmol phosphate and 4 mmol sodium/mL.</value>
+<value>For patients with serum phosphorus 0.32 mmol/L or less and weighing 81 to 120 kg (actual body weight). Sodium phosphate injection contains 3 mmol phosphate and 4 mmol sodium/mL.</value>
+<value>Administer as part of Parenteral Nutrition order. Sodium phosphate injection contains 3 mmol phosphate and 4 mmol sodium/mL.</value>
+<value>Hypophosphatemia, administered as maintenance replacement or parenteral nutrition. Sodium phosphate injection contains 3 mmol phosphate and 4 mmol sodium/mL.</value>
+<value>Hypophosphatemia. Sodium phosphate injection contains 3 mmol phosphate and 4 mmol sodium/mL.</value>
+<value>Parenteral Nutrition, maintenance requirement. Sodium phosphate injection contains 3 mmol phosphate and 4 mmol sodium/mL.</value>
+</additionalnotes><population><value>ADULT</value>
+<value>NEONATE</value>
+<value>INFANT, CHILDREN</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3029</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</ahsformularystatus><ahfsname><value>Replacement Preparations</value>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose><value>YES</value>
+</maximumprndose></drug>

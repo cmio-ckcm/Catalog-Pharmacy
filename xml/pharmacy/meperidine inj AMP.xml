@@ -1,0 +1,92 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "meperidine inj AMP>
+<dose><value>25 - 100</value>
+<value>25 - 50</value>
+<value>4 - 20</value>
+<value>0.35</value>
+<value>0.2 - 0.25</value>
+<value>0.8 - 1</value>
+<value>50</value>
+<value>75</value>
+<value>0.5 - 1</value>
+<value>50 - 150</value>
+<value>100</value>
+<value>125</value>
+<value>150</value>
+<value>12.5 - 50</value>
+<value>10</value>
+<value>15</value>
+<value>20</value>
+<value>10 - 30</value>
+<value>5 - 25</value>
+<value>2.5</value>
+<value>5</value>
+<value>7.5</value>
+</dose><route><value>EPIDURAL</value>
+<value>IM</value>
+<value>IV</value>
+<value>IV </value>
+<value>SC</value>
+</route><form><value>inj AMP</value>
+</form><drug><value>meperidine inj AMP</value>
+</drug><strength><value>50 mg/mL</value>
+</strength><frequency><value>ONCE</value>
+<value>CONTINUOUS</value>
+<value>Q2H</value>
+<value>Q3H</value>
+<value>Q4H</value>
+<value>Q1H</value>
+</frequency><instruction><value>Initial dose: Post-op and Post-cesarian</value>
+<value>Subsequent dose: Post-op and Post-cesarian</value>
+<value>Administer by continous EPIDURAL infusion. </value>
+<value>for Post-Operative shivering.</value>
+<value>for acute pain.</value>
+<value></value>
+<value>Administer 30 minutes prior to anesthesia.</value>
+<value>Administer 60 minutes prior to anesthesia.</value>
+<value>Administer 90 minutes prior to anesthesia.</value>
+<value>for blood product-induced chills.</value>
+<value>when pain becomes regular.</value>
+<value>for Amphotericin-induced chills.</value>
+<value>until analgesia achieved, then administer by other routes.</value>
+<value>Administer by continuous infusion.</value>
+<value>PCA bolus dose with lockout interval of 5 minutes.</value>
+<value>PCA bolus dose with lockout interval of 6 minutes.</value>
+<value>PCA bolus dose with lockout interval of 7 minutes.</value>
+<value>PCA bolus dose with lockout interval of 8 minutes.</value>
+<value>PCA bolus dose with lockout interval of 9 minutes.</value>
+<value>PCA bolus dose with lockout interval of 10 minutes.</value>
+<value>PCA bolus dose with lockout interval of 11 minutes.</value>
+<value>PCA bolus dose with lockout interval of 12 minutes.</value>
+<value>PCA bolus dose with lockout interval of 13 minutes.</value>
+<value>PCA bolus dose with lockout interval of 14 minutes.</value>
+<value>PCA bolus dose with lockout interval of 15 minutes.</value>
+<value>PCA: Basal infusion rate</value>
+</instruction><volume><value>1 mL</value>
+</volume><units><value>mg</value>
+<value>mg/hour</value>
+<value>mg/kg</value>
+<value>mg/kg/dose</value>
+<value>mg </value>
+</units><additionalnotes><value></value>
+<value>Total daily doses of 60 to 240 mg generally adequate.</value>
+<value>Infants / Children</value>
+<value>Infants less than 6 months.</value>
+<value>Infants more than 6 months of age and children weighing less than 50 kg. Maximum dose: 75mg.</value>
+<value>Infants more than 6 months of age and children weighing more than 50 kg.</value>
+<value>Infants / Children. Maximum dose: 2 mg/kg or 150 mg.</value>
+<value>Adults.</value>
+<value>Obstetrical anaesthesia.</value>
+<value>Adults. For prevention, administer 20 minutes before chills expected to begin.</value>
+<value>Adults. Frequency determined by patient&amp;apos;s clinical condition and response, interval of 6 to 10 minutes. Maximum dose: 100 mg/hour.</value>
+<value>Adults. Dose dependant on previous narcotic use and titrating to patient response.</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+<value>for Acute Pain.</value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+<value>YES</value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</ahsformularystatus><ahfsname><value>Analgesics and Antipyretics, Opiate Agonists</value>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose><value>YES</value>
+</maximumprndose></drug>

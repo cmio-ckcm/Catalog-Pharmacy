@@ -1,0 +1,75 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "phentolamine inj AMP>
+<dose><value>5</value>
+<value>0.05 - 0.1</value>
+<value>5 - 10</value>
+<value>0.1 - 2.5</value>
+<value>0.1 - 0.2</value>
+<value>2 - 5</value>
+<value>2.5 - 5</value>
+<value>0.2 - 2</value>
+<value>2.5 - 15</value>
+<value>1</value>
+<value>0.3 - 0.5</value>
+</dose><route><value>IM</value>
+<value>INFILTRATION</value>
+<value>IV</value>
+<value>SC</value>
+</route><form><value>inj AMP</value>
+</form><drug><value>phentolamine inj AMP</value>
+</drug><strength><value>10 mg/mL</value>
+<value>5 mg/mL</value>
+</strength><frequency><value>ONCE</value>
+<value>Q2H  </value>
+<value>Q3H</value>
+<value>Q4H</value>
+<value>CONTINUOUS</value>
+</frequency><instruction><value></value>
+<value>Administer 1 hour pre-operatively.</value>
+<value>Administer 90 minutes pre-operatively.</value>
+<value>Administer 2 hours pre-operatively.</value>
+<value>Infiltrate area using a 1 mg/mL solution (in preservative-free Normal Saline).</value>
+<value>Inject (diluted 0.5 mg/mL) solution locally into the area of extravasation in divided increments of 0.2 mL using a 25-gauge needle.</value>
+<value>Inject (diluted 0.5 mg/mL) solution locally into the area of extravasation in divided increments of 0.2 mL using a 27-gauge or 30-gauge needle.</value>
+<value>Administer 60 minutes pre-operatively.</value>
+<value>As required during Pheochromocytoma surgical excision.</value>
+<value>Administer by direct injection. Dose may be repeated every 5 minutes until hypertension controlled.</value>
+<value>Administer by continuous infusion.</value>
+<value>Administer by direct injection. Dose may be repeated every 5 to 10 minutes.</value>
+<value>Continuous infusion. Titrate to effect to control hypertension</value>
+<value>Inject (1mg/mL) solution in divided sites into the area of extravasation. </value>
+</instruction><volume><value>1 mL</value>
+</volume><units><value>mg</value>
+<value>mg/kg/dose</value>
+<value>mg/minute</value>
+<value>mcg/kg/minute</value>
+</units><additionalnotes><value>ADULT. Pheochromocytoma diagnosis</value>
+<value>Maximum single dose: 5 mg.</value>
+<value>MAXIMUM dose: 5 mg/dose. Administer 1 to 2 hours pre-op.</value>
+<value>ADULT. Extravasation treatment</value>
+<value>Maximum dose: 0.1 mg/kg or 2.5 mg.</value>
+<value>Do not exceed a dose of 0.2 mg/kg.</value>
+<value>Do not exceed a dose of 0.2 mg/kg or 5 mg total.</value>
+<value>ADULT. Pheochromocytoma Surgical Excision. Administer 1 to 2 hours pre-op.</value>
+<value>ADULT. Pheochromocytoma Surgical Excision.</value>
+<value>ADULT. Hypetension secondary to pheochromocytoma</value>
+<value>ADULT. Cocaine-induced Acute Coronary Syndrome.</value>
+<value></value>
+<value>Maximum dose: 0.2 mg/kg or 5 mg.</value>
+</additionalnotes><population><value>ADULT</value>
+<value>INFANT / CHILDREN. Pheochromocytoma diagnosis.</value>
+<value>INFANT / CHILDREN. Hypertensive emergency (prior to surgery for pheochromocytoma.)</value>
+<value>NEONATE. Extravasation treatment</value>
+<value>NEONATE.  Extravasation treatment.</value>
+<value>INFANT / CHILDREN. Extravasation treatment.</value>
+<value>NEONATE. Hypertensive emergency (prior to surgery for pheochromocytoma.)</value>
+<value>ADULT. Extravasation treatment</value>
+</population><indicationprn><value></value>
+<value>Hypertension</value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+<value>YES</value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Sympatholytic (Adrenergic Blocking) Agents, alpha-Adrenergic Blocking Agents</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

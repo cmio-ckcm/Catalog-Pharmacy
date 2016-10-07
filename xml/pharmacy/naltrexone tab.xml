@@ -1,0 +1,33 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "naltrexone tab>
+<dose><value>50</value>
+<value>100</value>
+<value>150</value>
+<value>25</value>
+</dose><route><value>PO</value>
+</route><form><value>tab</value>
+</form><drug><value>naltrexone tab</value>
+</drug><strength><value>50 mg</value>
+</strength><frequency><value>DAILY</value>
+<value>TWO TIMES WEEKLY</value>
+<value>EVERY OTHER DAY</value>
+<value>WEEKLY</value>
+<value>EVERY THREE DAYS</value>
+<value>ONCE</value>
+</frequency><instruction><value></value>
+<value>Administer on Monday and Wednesday.</value>
+<value>Administer on Friday.</value>
+<value>Observe patient for 1 hour. If no opiod withdrawal syptoms occur, repeat 25 mg dose.</value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value>Patient should be opioid-free for 7 to 10 days prior to treatment. A NARCAN challenge test is recommended.</value>
+<value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+<value>YES</value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Opiate Antagonists</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

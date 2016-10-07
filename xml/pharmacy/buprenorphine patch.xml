@@ -1,0 +1,24 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "buprenorphine patch>
+<dose><value>1</value>
+</dose><route><value>TOP</value>
+</route><form><value>patch</value>
+</form><drug><value>buprenorphine patch</value>
+</drug><strength><value>10 mcg/hr</value>
+<value>20 mcg/hr</value>
+<value>5 mcg/hr</value>
+</strength><frequency><value>WEEKLY</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>patch</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=6342</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=6343</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=6341</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</ahsformularystatus><ahfsname><value>Analgesics and Antipyretics, Opiate Partial Agonists</value>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose><value>YES</value>
+</maximumprndose></drug>

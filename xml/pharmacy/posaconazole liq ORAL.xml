@@ -1,0 +1,26 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "posaconazole liq ORAL>
+<dose><value>200</value>
+<value>400</value>
+</dose><route><value>PO</value>
+</route><form><value>liq ORAL</value>
+</form><drug><value>posaconazole liq ORAL</value>
+</drug><strength><value>40 mg/mL</value>
+</strength><frequency><value>TID</value>
+<value>BID</value>
+<value>QID</value>
+</frequency><instruction><value>200 mg = 5 mL of 40mg/mL suspension</value>
+<value>400 mg = 10 mL of 40 mg/mL suspension</value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value>ADULT: Prophylaxis</value>
+<value>Mucormycosis</value>
+<value>Consideration for patients unable to tolerate 400 mg dosing.</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2459</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions, Usage guidelines.</value>
+</ahsformularystatus><ahfsname><value>Antifungals, Azoles</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

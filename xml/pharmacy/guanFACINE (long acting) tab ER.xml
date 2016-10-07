@@ -1,0 +1,34 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "guanFACINE (long acting) tab ER>
+<dose><value>1</value>
+<value>2</value>
+<value>3</value>
+<value>4</value>
+<value>5</value>
+<value>6</value>
+<value>7</value>
+</dose><route><value>PO</value>
+</route><form><value>tab ER</value>
+</form><drug><value>guanFACINE (long acting) tab ER</value>
+</drug><strength><value>1 mg</value>
+<value>2 mg</value>
+<value>2 mg </value>
+<value>3 mg</value>
+<value>4 mg</value>
+</strength><frequency><value>DAILY</value>
+<value>HS</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value>Maximum dose: 4 mg for children aged 6 to 12 years. Maximum dose: 7 mg for children aged 13 to 17 years.</value>
+</additionalnotes><population><value>CHILDREN</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=7081</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=7082</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=7083</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=7084</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</ahsformularystatus><ahfsname><value>Hypotensive Agents, Central alpha-Agonists</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "polyethylene glycol 3350 powder>
+<dose><value>17</value>
+</dose><route><value>PO</value>
+</route><form><value>powder</value>
+</form><drug><value>polyethylene glycol 3350 powder</value>
+</drug><strength><value>1 g</value>
+</strength><frequency><value>DAILY</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>g</value>
+</units><additionalnotes><value>Dissolve powder by stirring into 250 mL of beverage prior to consumption.</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>17 g is approximately equal to one heaping tablespoon of powder.</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Cathartics and Laxatives</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

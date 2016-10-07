@@ -1,0 +1,35 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "dimercaprol inj AMP>
+<dose><value>2.5</value>
+<value>3</value>
+<value>5</value>
+<value>4</value>
+</dose><route><value>IM</value>
+</route><form><value>inj AMP</value>
+</form><drug><value>dimercaprol inj AMP</value>
+</drug><strength><value>100 mg/mL</value>
+</strength><frequency><value>Q6H</value>
+<value>Q12H</value>
+<value>DAILY</value>
+<value>Q4H</value>
+<value>ONCE</value>
+<value>BID</value>
+</frequency><instruction><value>Administer Q6H X 2 days, then Q12H X 1 day, then DAILY for 10 days.</value>
+<value>Administer Q4H X 2 days, then Q6H X 1 day, then Q12H for 10 days.</value>
+<value>Initial dose.</value>
+<value>for 10 days.</value>
+<value></value>
+</instruction><volume><value>3 mL</value>
+</volume><units><value>mg/kg</value>
+</units><additionalnotes><value>Premedication with H1 anatagonist is recommended.</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>Acute, mild gold/arsenic poisoning</value>
+<value>Acute, severe gold/arsenic poisoning</value>
+<value>Acute mercury poisoning</value>
+<value>Lead poisoning</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Heavy Metal Antagonists</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

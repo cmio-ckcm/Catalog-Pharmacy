@@ -1,0 +1,36 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "lidocaine inj BAG>
+<dose><value>1 - 4</value>
+<value>30 - 50</value>
+<value>3 - 5 </value>
+<value>10 - 50</value>
+<value>20 - 50</value>
+<value>10</value>
+</dose><route><value>IV</value>
+<value>SC</value>
+</route><form><value>inj BAG</value>
+</form><drug><value>lidocaine inj BAG</value>
+</drug><strength><value>4 mg/mL</value>
+</strength><frequency><value>CONTINUOUS</value>
+<value>ONCE</value>
+</frequency><instruction><value>Administer by continuous infusion.</value>
+<value>Administer over 1 hour.</value>
+<value>Administer over 12 to 24 hours.</value>
+</instruction><volume><value>250 mL</value>
+<value>500 mL</value>
+</volume><units><value>mg/minute</value>
+<value>mcg/kg/minute</value>
+<value>mg/kg</value>
+</units><additionalnotes><value></value>
+<value>Maximum dose: 4 mg/minute.</value>
+</additionalnotes><population><value>ADULT: Antiarrhythmic</value>
+<value>ADULT: Pain Management</value>
+<value>NEONATE. Maintenance dose. Suggested premature neonates receive the lowest dosage.</value>
+<value>INFANT / CHILDREN: Initiate infusionimmediately after initial dose. Decrease dose in patients with shock, congestive heart failure, liver failure or decreased liver blood flow.</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Cardiac Drugs, Antiarrhythmic Agents</value>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose><value>YES</value>
+</maximumprndose></drug>

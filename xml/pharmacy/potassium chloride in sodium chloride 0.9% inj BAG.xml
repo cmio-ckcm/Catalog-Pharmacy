@@ -1,0 +1,45 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "potassium chloride in sodium chloride 0.9% inj BAG>
+<dose><value></value>
+<value>200</value>
+<value>500</value>
+</dose><route><value>IV</value>
+</route><form><value>inj BAG</value>
+</form><drug><value>potassium chloride in sodium chloride 0.9% inj BAG</value>
+</drug><strength><value>20 mmol</value>
+<value>40 mmol</value>
+</strength><frequency><value>CONTINUOUS</value>
+<value>ONCE</value>
+</frequency><instruction><value>Administer by continuous infusion.</value>
+<value>DAY -2. Administer by continuous infusion starting the evening before chemotherapy, run until day 0 post transplant. Then reassess.</value>
+<value>DAY 1. Administer 1000 mL over 2 hours. &amp;quot;posthydration&amp;quot;. MAXIMUM RATE: 10 mmol/hour.</value>
+<value>DAY 8. Administer 1000 mL over 2 hours. &amp;quot;posthydration&amp;quot;. MAXIMUM RATE: 10 mmol/hour.</value>
+<value>DAY 1 of 21. Administer 1000 mL over 2 hours. &amp;quot;posthydration&amp;quot;. MAXIMUM RATE: 10 mmol/hour.</value>
+<value>DAY 1 of 21. Administer 1000 mL over 2 hours (posthydration). MAXIMUM RATE: 10 mmol/hour.</value>
+<value>DAY 1 of 21. Administer 1000 mL over 2 hours as  prehydration. MAXIMUM RATE: 10 mmol/hour.</value>
+<value>DAY 1 of 28. Administer 1000 mL over 2 hours as  prehydration. MAXIMUM RATE: 10 mmol/hour.</value>
+<value>DAY 8 of 28. Administer 1000 mL over 2 hours as  prehydration. MAXIMUM RATE: 10 mmol/hour.</value>
+</instruction><volume><value>1000 mL</value>
+</volume><units><value>mL/hour</value>
+</units><additionalnotes><value></value>
+<value>May be used as alternative to 1000 mL 0.9% sodium chloride posthydration.</value>
+<value>May be used as alternative to 1000 mL 0.9% sodium chloride.</value>
+<value>May be used as alternative to 1000 mL 0.9% sodium chloride prehydration.</value>
+<value>Requirement  determined by physician.</value>
+</additionalnotes><population><value></value>
+<value>Adjuvant Vinorelbine/CISplatin (every 28 days). Non-Small Cell Lung Cancer</value>
+<value>Adjuvant Vinorelbine/CISplatin (every 21 days). Non-Small Cell Lung Cancer</value>
+<value>Pemetrexed/CISplatin. Non-Small Cell Lung Cancer</value>
+<value>Vinorelbine / CISplatin. Advanced NSCLC</value>
+<value>CISplatin &amp; Vinorelbine with CONCURRENT RT. Non-Small Cell Lung Cancer</value>
+<value>Gemcitabine / CISplatin. Non-Small Cell Lung Cancer</value>
+<value>CISplatin/etoposide (po). Small Cell Lung Cancer</value>
+<value>Pemetrexed / CISplatin. Mesothelioma.</value>
+<value>Etoposide (Days 1-5)/CISplatin (Days 1 &amp; 8) with concurrent RT. Pancoast Tumor</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Not a pharmacy product.</value>
+</ahsformularystatus><ahfsname><value>Replacement Preparations</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

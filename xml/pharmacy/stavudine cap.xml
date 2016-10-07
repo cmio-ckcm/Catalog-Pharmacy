@@ -1,0 +1,38 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "stavudine cap>
+<dose><value>15</value>
+<value>20</value>
+<value>30</value>
+<value>40</value>
+</dose><route><value>PO</value>
+</route><form><value>cap</value>
+</form><drug><value>stavudine cap</value>
+</drug><strength><value>15 mg</value>
+<value>20 mg</value>
+<value>30 mg </value>
+<value>40 mg</value>
+</strength><frequency><value>Q12H</value>
+<value>Q24H</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg </value>
+<value>mg</value>
+</units><additionalnotes><value>Supported by suggested dosing of 2 mg/kg/day.</value>
+<value>Suggested dosing for patients weighing less than 60 kg AND CrCl of 25 to 50 mL/minute.</value>
+<value>Suggested dosing for patients weighing less than 60 kg AND CrCl less than 25 mL/minute.</value>
+<value>Suggested dosing for patients weighing 60 kg or greater AND CrCl of 25 to 50 mL/minute.</value>
+<value>Suggested dosing for patients weighing 60 kg or greater AND CrCl less than 25 mL/minute.</value>
+<value>Suggested dosing for patients weighing less than 60 kg AND CrCl greater than 50 mL/minute.</value>
+<value>Suggested dosing for patients weighing 60 kg or greater AND CrCl greater than 50 mL/minute.</value>
+</additionalnotes><population><value>INFANT / CHILDREN </value>
+<value>ADULT</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3299</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3300</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3301</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3302</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</ahsformularystatus><ahfsname><value>Antivirals, Antiretrovirals</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "5-aminosalicylic acid (ASACOL) tab EC>
+<dose><value>400</value>
+<value>800</value>
+</dose><route><value>PO</value>
+</route><form><value>tab EC</value>
+</form><drug><value>5-aminosalicylic acid (ASACOL) tab EC</value>
+</drug><strength><value>400 mg</value>
+</strength><frequency><value>TID</value>
+</frequency><instruction><value>Administer 1 hour before meals.</value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Gastrointestinal Drugs, Anti-inflammatory Agents</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

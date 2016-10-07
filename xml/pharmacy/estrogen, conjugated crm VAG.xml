@@ -1,0 +1,26 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "estrogen, conjugated crm VAG>
+<dose><value>0.5</value>
+<value>1</value>
+<value>1.5</value>
+<value>2</value>
+</dose><route><value>TOP</value>
+<value>VAGINAL</value>
+</route><form><value>crm VAG</value>
+</form><drug><value>estrogen, conjugated crm VAG</value>
+</drug><strength><value>0.625 mg/g</value>
+</strength><frequency><value>DAILY</value>
+<value>TWO TIMES WEEKLY</value>
+</frequency><instruction><value>Cyclic regimen of 21 days treatment followed by 7 days with no treatment.</value>
+<value></value>
+</instruction><volume><value>14 g</value>
+</volume><units><value>g</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Estrogens and Estrogen Agonists-Antagonists, Estrogens</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "lidocaine inj SYR>
+<dose><value>1 - 1.5</value>
+<value>0.5 - 0.75</value>
+<value>0.5 - 1</value>
+<value>1</value>
+</dose><route><value>IV</value>
+</route><form><value>inj SYR</value>
+</form><drug><value>lidocaine inj SYR</value>
+</drug><strength><value>20 mg/mL</value>
+</strength><frequency><value>ONCE</value>
+<value>EVERY 5 MINUTES</value>
+<value>EVERY 10 MINUTES</value>
+<value>EVERY 15 MINUTES</value>
+</frequency><instruction><value>INITIAL DOSE: Administer by direct injection.</value>
+<value>Administer by direct injection for refractory ventricular fibrillation.</value>
+<value>INITIAL DOSE: Administer by direct injection. May repeat dose every 10 minutes as required to control arrhythmia.</value>
+<value>INITIAL DOSE: Administer by direct injection. May repeat for 2 doses at 10 minute intervals as required to control arrhythmia.</value>
+<value>INITIAL DOSE: Administer by direct injection. May repeat for 2 doses at 15 minute intervals as required to control arrhythmia.</value>
+</instruction><volume><value>5 mL</value>
+</volume><units><value>mg/kg</value>
+<value>mg/kg/dose</value>
+</units><additionalnotes><value></value>
+<value>Maximum total dose: 3 mg/kg.</value>
+</additionalnotes><population><value>ADULT: Cardiac arrest (from ventricular fibrillation or tachycardia).</value>
+<value>ADULT.</value>
+<value>NEONATE. MAXIMUM total dose: 5 mg/kg. </value>
+<value>INFANT / CHILDREN. Maximum total dose: The lessor of 5 mg/kg or 100 mg/dose.</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+<value>YES</value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Cardiac Drugs, Antiarrhythmic Agents</value>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose><value>YES</value>
+</maximumprndose></drug>

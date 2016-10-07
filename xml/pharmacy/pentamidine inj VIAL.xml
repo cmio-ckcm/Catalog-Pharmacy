@@ -1,0 +1,40 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "pentamidine inj VIAL>
+<dose><value>4</value>
+<value>300</value>
+<value>2 - 4</value>
+</dose><route><value>IM</value>
+<value>INH</value>
+<value>IV</value>
+<value>IV </value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>pentamidine inj VIAL</value>
+</drug><strength><value>300 mg</value>
+</strength><frequency><value>DAILY</value>
+<value>EVERY 2 WEEKS</value>
+<value>EVERY 3 WEEKS</value>
+<value>EVERY 4 WEEKS</value>
+<value>MONTHLY</value>
+<value>WEEKLY</value>
+<value>TWO TIMES WEEKLY</value>
+</frequency><instruction><value></value>
+<value>Administer by Respirgard II nebulizer.</value>
+</instruction><volume><value></value>
+</volume><units><value>mg/kg</value>
+<value>mg</value>
+</units><additionalnotes><value>Recommended treamtment is 14 days. Benefits and risks of treament for longer than 14 days are not well defined.</value>
+<value></value>
+<value>Recommend treatment until lesions heal.</value>
+</additionalnotes><population><value>CHILDREN. Treatment of Pneumocystis jiroveci.</value>
+<value>CHILDREN. Prophylaxis of Pneumocystis jiroveci.</value>
+<value>ADULT. Prophylaxis of Pneumocystis jiroveci.</value>
+<value>ADULT. Leishmaniasis, visceral</value>
+<value>ADULT. Leishmaniasis, cutaneous</value>
+<value>ADULT. Treatment of Pneumocystis jiroveci.</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Antiprotozoals, Miscellaneous</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

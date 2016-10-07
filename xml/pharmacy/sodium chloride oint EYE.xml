@@ -1,0 +1,24 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "sodium chloride oint EYE>
+<dose><value></value>
+</dose><route><value>OPHTH</value>
+</route><form><value>oint EYE</value>
+</form><drug><value>sodium chloride oint EYE</value>
+</drug><strength><value>5%</value>
+</strength><frequency><value>DAILY</value>
+<value>ONCE</value>
+</frequency><instruction><value>Apply a 6 mm (one-quarter inch) ribbon of ointment to the LEFT eye conjuctival sac.</value>
+<value>Apply a 6 mm (one-quarter inch) ribbon of ointment to the RIGHT eye conjuctival sac.</value>
+<value>Apply a 6 mm (one-quarter inch) ribbon of ointment to the affected eye(s) conjuctival sac.</value>
+</instruction><volume><value>3.5 g</value>
+</volume><units><value></value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+<value>YES</value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>EENT Drugs, Miscellaneous</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

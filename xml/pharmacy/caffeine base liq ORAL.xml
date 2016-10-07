@@ -1,0 +1,23 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "caffeine base liq ORAL>
+<dose><value>5 - 10</value>
+<value>2.5</value>
+</dose><route><value>PO</value>
+</route><form><value>liq ORAL</value>
+</form><drug><value>caffeine base liq ORAL</value>
+</drug><strength><value>10 mg/mL</value>
+</strength><frequency><value>ONCE</value>
+<value>DAILY</value>
+</frequency><instruction><value>LOADING DOSE.</value>
+<value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg/kg</value>
+</units><additionalnotes><value>Apnea of Prematurity. DOSING BASED UP CAFFEINE BASE. Caffeine CITRATE 20 mg = Caffeine BASE 10 mg. </value>
+</additionalnotes><population><value>NEONATE</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary, Health Canada Special Access Programme.</value>
+</ahsformularystatus><ahfsname><value>Anorexigenic Agents and Respiratory and Cerebral Stimulants, Miscellaneous</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

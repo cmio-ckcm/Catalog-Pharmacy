@@ -1,0 +1,65 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "levetiracetam inj VIAL>
+<dose><value>20 - 30</value>
+<value>10</value>
+<value>20</value>
+<value>30</value>
+<value>20 - 60</value>
+<value>50</value>
+<value>30 - 55</value>
+<value>7</value>
+<value>14</value>
+<value>21</value>
+<value>25</value>
+<value>500</value>
+<value>1000</value>
+<value>1500</value>
+<value>250</value>
+<value>750</value>
+<value>1250</value>
+</dose><route><value>IV</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>levetiracetam inj VIAL</value>
+</drug><strength><value>100 mg/mL</value>
+</strength><frequency><value>ONCE</value>
+<value>Q12H</value>
+<value>Q24H</value>
+</frequency><instruction><value></value>
+<value>Administer daily calculated dose in 2 equally divided doses. Administer over 15 minutes.</value>
+<value>Administer over 15 minutes.</value>
+<value>Administer as loading dose.</value>
+<value>Administer daily calculated dose in 2 equally divided doses.</value>
+</instruction><volume><value>5 mL</value>
+</volume><units><value>mg/kg/dose</value>
+<value>mg/kg/day</value>
+<value>mg/kg</value>
+<value>mg</value>
+</units><additionalnotes><value>Status Epilepticus</value>
+<value>Neonatal Seizures. May increase dosage as needed by 10 mg/kg/day over 3 days to a usal MAXIMUM dose of 30 mg/kg/day. Additional increases up to 45 to 60 mg/kg/day have been used with persistent seizure activity or clinical EEG findings.</value>
+<value>Status Epilepticus. Initial dose should not exceed adult initial dose range of 1000 to 3000 mg.</value>
+<value>Status Epilepticus. Loading dose, up to a MAXIMUM dose of 2500 mg; follow with maintenance dosing.</value>
+<value>Status Epilepticus. Maintenance dose.</value>
+<value>Partial Onset Seizures; AGE: 1 month to less than 6 months. Initial dose, increase dose by 7 mg/kg/dose twice daily at 2 week intervals to the recommended dose of 21 mg/kg/dose twice daily.</value>
+<value>Partial Onset Seizures; AGE: 1 month to less than 6 months. Increase dose by 7 mg/kg/dose twice daily at 2 week intervals to the recommended dose of 21 mg/kg/dose twice daily.</value>
+<value>Partial Onset Seizures; AGE: 6 months to less than 4 years. Initial dose, increase dose by 10 mg/kg/dose twice daily at 2 week intervals to the recommended dose of 25 mg/kg/dose twice daily, if tolerated.</value>
+<value>Partial Onset Seizures; AGE: 6 months to less than 4 years. Increase dose by 10 mg/kg/dose twice daily at 2 week intervals to the recommended dose of 25 mg/kg/dose twice daily, if tolerated.</value>
+<value>Partial Onset Seizures; AGE: 4 years to less than 16 years. Initial dose, increase dose by 10 mg/kg/dose twice daily at 2 week intervals to the recommended dose of 30 mg/kg/dose twice daily, if tolerated. MAXIMUM daily dose: 3000 mg.</value>
+<value>Partial Onset Seizures; AGE: 4 years to less than 16 years. Increase dose by 10 mg/kg/dose twice daily at 2 week intervals to the recommended dose of 30 mg/kg/dose twice daily, if tolerated. MAXIMUM daily dose: 3000 mg.</value>
+<value>Partial Onset Seizures; AGE: 16 years and older. Initial dose, may increase every 2 weeks by 500 mg/dose twice daily, if tolerated, to a MAXIMUM dose of 1500 mg twice daily. Efficacy of doses greater than 3000 mg/day has not been established.</value>
+<value>Partial Onset Seizures; AGE: 16 years and older. May increase every 2 weeks by 500 mg/dose twice daily, if tolerated, to a MAXIMUM dose of 1500 mg twice daily. Efficacy of doses greater than 3000 mg/day has not been established.</value>
+<value>Tonic-Clonic Seizures; Primary Generalized. AGE: 6 years to less than 16 years. Initial dose, increase dose by 10 mg/kg/dose twice daily at 2 week intervals to the recommended dose of 30 mg/kg/dose twice daily.</value>
+<value>Tonic-Clonic Seizures; Primary Generalized. AGE: 6 years to less than 16 years. Increase dose by 10 mg/kg/dose twice daily at 2 week intervals to the recommended dose of 30 mg/kg/dose twice daily.</value>
+<value>Tonic-Clonic Seizures; Primary Generalized. AGE: 16 years and older. Initial dose, increase dose every 2 weeks by 500 mg/dose twice daily, to a MAXIMUM dose of 1500 mg twice daily. Efficacy of doses greater than 3000 mg/day has not been established.</value>
+<value>Tonic-Clonic Seizures; Primary Generalized. AGE: 16 years and older. Increase dose every 2 weeks by 500 mg/dose twice daily, to a MAXIMUM dose of 1500 mg twice daily. Efficacy of doses greater than 3000 mg/day has not been established.</value>
+<value>Juvenile Myoclonic Epilepsy. AGE: 12 years and older. Initial dose, increase dose every 2 weeks by 500 mg/dose twice daily, to the recommended dose of 1500 mg twice daily.</value>
+<value>Juvenile Myoclonic Epilepsy. AGE: 12 years and older. Increase dose every 2 weeks by 500 mg/dose twice daily, to the recommended dose of 1500 mg twice daily.</value>
+<value>RENAL FAILURE, dose adjustment. AGE: 16 years and older. CrCl less than 30 mL/minute/1.73 m2: 250 to 500 mg Q12H. CrCl 30 to 50 mL/minute/1.73 m2: 250 to 750 mg Q12H. CrCl 50 to 80 mL/minute/1.73 m2: 500 to 1000 mg Q12H. CrCl greater than 80 mL/minute/1.73 m2: 500 to 1500 mg Q12H.</value>
+</additionalnotes><population><value>NEONATE</value>
+<value>INFANT, CHILDREN</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=8541</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions. Health Canada Special Access Programme.</value>
+</ahsformularystatus><ahfsname><value>Anticonvulsants, Anticonvulsants, Miscellaneous</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

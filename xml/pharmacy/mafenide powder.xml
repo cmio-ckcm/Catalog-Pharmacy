@@ -1,0 +1,24 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "mafenide powder>
+<dose><value></value>
+</dose><route><value>TOP</value>
+</route><form><value>powder</value>
+</form><drug><value>mafenide powder</value>
+</drug><strength><value></value>
+</strength><frequency><value>Q6H</value>
+<value>Q8H</value>
+<value>Q4H</value>
+</frequency><instruction><value>Throughly soak burn dressing with mafenide solution and cover graft area. </value>
+<value>Apply to gauze dressing to maintain dressing is wet. </value>
+</instruction><volume><value></value>
+</volume><units><value></value>
+</units><additionalnotes><value>Treatment of burns. The burned are should be covered with cream at all times until healing is progressing or burn site is ready for grafting..</value>
+</additionalnotes><population><value>ADULT / CHILDREN / INFANT</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1295</value>
+</backgroundinformation><prninformation><value></value>
+<value>YES</value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions. Health Canada Special Access Programme.</value>
+</ahsformularystatus><ahfsname><value>Skin and Mucous Membrane Agents, Local Anti-infectives, Miscellaneous</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

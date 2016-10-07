@@ -1,0 +1,37 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "phenyTOIN liq ORAL>
+<dose><value>5</value>
+<value>4 -8</value>
+<value>30</value>
+<value>50</value>
+<value>100</value>
+<value>200</value>
+<value>300</value>
+</dose><route><value>PO</value>
+</route><form><value>liq ORAL</value>
+</form><drug><value>phenyTOIN liq ORAL</value>
+</drug><strength><value>25 mg/mL</value>
+</strength><frequency><value>BID</value>
+<value>TID</value>
+<value>HS</value>
+<value>BID </value>
+<value>TID </value>
+<value>DAILY</value>
+</frequency><instruction><value>Administer daily calculated dose in 2 equally divided doses.</value>
+<value>Administer daily calculated dose in 3 equally divided doses.</value>
+<value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg/kg/day</value>
+<value>mg</value>
+</units><additionalnotes><value>Initial dose, up to 300 mg/day.</value>
+<value>Maintenance dose, up to 300 mg/day</value>
+<value></value>
+</additionalnotes><population><value>CHILDREN. Less than 18 years.</value>
+<value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Anticonvulsants, Hydantoins</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

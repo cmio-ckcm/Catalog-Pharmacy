@@ -1,0 +1,42 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "rifAMPin cap>
+<dose><value>600</value>
+<value>10</value>
+<value>8</value>
+<value>10 - 20</value>
+<value>5</value>
+</dose><route><value>PO</value>
+</route><form><value>cap</value>
+</form><drug><value>rifAMPin cap</value>
+</drug><strength><value>150 mg</value>
+<value>300 mg</value>
+</strength><frequency><value>DAILY</value>
+<value>TWO TIMES WEEKLY</value>
+<value>THREE TIMES WEEKLY</value>
+<value>BID</value>
+<value>Q12H  </value>
+</frequency><instruction><value>Administer 1 hour before breakfast.</value>
+<value></value>
+<value>Administer 1 hour before breakfast and supper for 2 days.</value>
+<value>for 2 days.</value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+<value>mg/kg</value>
+</units><additionalnotes><value></value>
+<value>UP to a dose of 600 mg.</value>
+<value>Up to 600 mg dose.</value>
+<value>MAXIMUM daily dose: 600 mg.</value>
+</additionalnotes><population><value>ADULT. Tuberculosis</value>
+<value>ADULT. Meningococcal infection prophylaxis.</value>
+<value>ADULT. Tuberculosis in patient with impaired liver function.</value>
+<value>INFANT. Up to 1 month of age. Tuberculosis.</value>
+<value>INFANT. Up to 1 month of age. Meningococcal infection prophylaxis.</value>
+<value>CHILDREN. 1 month of age and older. Tuberculosis.</value>
+<value>CHILDREN. 1 month of age and older. Meningococcal infection prophylaxis</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Antimycobacterials, Antituberculosis Agents</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

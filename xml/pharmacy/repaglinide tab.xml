@@ -1,0 +1,25 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "repaglinide tab>
+<dose><value>0.5</value>
+<value>1</value>
+<value>2</value>
+<value>4</value>
+</dose><route><value>PO</value>
+</route><form><value>tab</value>
+</form><drug><value>repaglinide tab</value>
+</drug><strength><value>0.5 mg</value>
+<value>1 mg</value>
+<value>2 mg</value>
+</strength><frequency><value>TID</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Antidiabetic Agents, Meglitinides</value>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose><value>YES</value>
+</maximumprndose></drug>

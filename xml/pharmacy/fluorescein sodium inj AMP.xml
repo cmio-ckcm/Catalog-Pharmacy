@@ -1,0 +1,30 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "fluorescein sodium inj AMP>
+<dose><value>500</value>
+<value>15 - 20</value>
+<value>1 - 1.5</value>
+<value>7.7</value>
+</dose><route><value>IV</value>
+</route><form><value>inj AMP</value>
+</form><drug><value>fluorescein sodium inj AMP</value>
+</drug><strength><value>10%</value>
+</strength><frequency><value>ONCE</value>
+</frequency><instruction><value>Inject rapidly into the antecubital vien.</value>
+<value>Administer over 5 minutes, repeat every 2 hours as required.</value>
+</instruction><volume><value>5 mL</value>
+</volume><units><value>mg</value>
+<value>mg/kg</value>
+</units><additionalnotes><value>Ophthalmic Fluorescence Imaging. 500 mg = 5 mL of 10% injection solution. NOT FOR INTRATHECAL USE.</value>
+<value>Scanning or Imaging with vascular flow in detached digits/flaps.NOT FOR INTRATHECAL USE.</value>
+<value>Monitor arterial insufficiency in revascularized digits. NOT FOR INTRATHECAL USE.</value>
+<value>MAXIMUM dose: 500 mg.</value>
+</additionalnotes><population><value>ADULT</value>
+<value>CHILDREN.</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+<value>YES</value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Ocular Disorders</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

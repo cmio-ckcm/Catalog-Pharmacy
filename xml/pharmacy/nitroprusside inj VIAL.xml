@@ -1,0 +1,31 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "nitroprusside inj VIAL>
+<dose><value>0.25 - 6</value>
+<value>0.3 - 10</value>
+<value>0.5 - 8</value>
+<value>0.1 - 6</value>
+</dose><route><value>IV</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>nitroprusside inj VIAL</value>
+</drug><strength><value>25 mg/mL</value>
+</strength><frequency><value>CONTINUOUS</value>
+</frequency><instruction><value>Administer by continuous infusion. INITIATE DOSE at 0.25 to 0.5 mcg/kg/minute, titrate dose until desired response is attained.</value>
+<value>Administer by continuous infusion. INITIATE DOSE at 0.3 to 0.5 mcg/kg/minute, titrate dose until desired response attained.</value>
+<value>Administer by continuous infusion. INITIATE DOSE at 0.5 mcg/kg/minute, adjust dose in increments of 0.2 to 1 mcg/kg/minute, every 5 minutes, until desired blood pressure reduction is obtained.</value>
+<value>Administer by continuous infusion. INITIATE DOSE at 0.1 mcg/kg/minute, adjust dose in increments of 0.2 to 0.5 mcg/kg/minute.</value>
+</instruction><volume><value>2 mL</value>
+</volume><units><value>mcg/kg/minute</value>
+</units><additionalnotes><value>If used beyond 24 hours, Suggested MAXIMUM dose is 4 mcg/kg/minute. Discontinue infusion gradually, sudden cessation may cause rapid and severe symptomatic increases in blood pressure.</value>
+<value>Recommend discontinuing infusion if desired blood pressure reduction not obtained within 10 minutes following maximum rate, due to thiocyanate toxicity. Discontinue infusion gradually as sudden cessation may cause rapid and severe symptomatic increases in blood pressure.</value>
+<value>Discontinue infusion gradually as sudden cessation may cause rapid and severe symptomatic increases in blood pressure.</value>
+</additionalnotes><population><value>NEONATE</value>
+<value>INFANT / CHILDREN</value>
+<value>ADULT: Hypertensive Dosing</value>
+<value>ADULT: Non-Hypertensive Dosing</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Hypotensive Agents, Direct Vasodilators</value>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose><value>YES</value>
+</maximumprndose></drug>

@@ -1,0 +1,26 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "nadolol tab>
+<dose><value>40</value>
+<value>80</value>
+<value>160</value>
+<value>240</value>
+<value>320</value>
+</dose><route><value>PO</value>
+</route><form><value>tab</value>
+</form><drug><value>nadolol tab</value>
+</drug><strength><value>40 mg</value>
+<value>80 mg</value>
+</strength><frequency><value>DAILY</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value></value>
+<value>The value and safety of doses over 240 mg for angina pectoris and above 320 mg for hypertension have not been established.</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>beta-Adrenergic Blocking Agents</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

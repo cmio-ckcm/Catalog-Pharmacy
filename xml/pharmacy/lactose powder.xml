@@ -1,0 +1,20 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "lactose powder>
+<dose><value>50</value>
+</dose><route><value>PO</value>
+</route><form><value>powder</value>
+</form><drug><value>lactose powder</value>
+</drug><strength><value>1 g</value>
+</strength><frequency><value>ONCE</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>g</value>
+</units><additionalnotes><value>Lactose Tolerance Test. Powder mixed in 200 mL of fluid (final product prepared by pharmacy).</value>
+</additionalnotes><population><value>ADULT</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>Test may produce diarrhea and cramps.</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Intestinal Absorption</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

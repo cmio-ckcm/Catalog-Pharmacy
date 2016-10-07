@@ -1,0 +1,27 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "carboprost inj AMP>
+<dose><value>250</value>
+</dose><route><value>IM</value>
+<value>INTRAMYOMETRIALLY</value>
+<value>INTRAUTERINE</value>
+</route><form><value>inj AMP</value>
+</form><drug><value>carboprost inj AMP</value>
+</drug><strength><value>250 mcg/mL</value>
+</strength><frequency><value>ONCE</value>
+</frequency><instruction><value>Administered by deep Intramuscular injection. </value>
+<value>Administered by deep intramuscular injection every 15 to 90 minutes, based upon patient response.</value>
+<value>Physician to administer dose. </value>
+</instruction><volume><value>1 mL</value>
+</volume><units><value>mcg</value>
+</units><additionalnotes><value></value>
+<value>Total dose = 2 mg (8 doses)</value>
+<value>Further dilute dose in 5 mL normal saline prior to administration.</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+<value>YES</value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</ahsformularystatus><ahfsname><value>Oxytocics</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

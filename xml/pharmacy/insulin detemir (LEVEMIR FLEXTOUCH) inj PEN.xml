@@ -1,0 +1,23 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "insulin detemir (LEVEMIR FLEXTOUCH) inj PEN>
+<dose><value></value>
+</dose><route><value>SC</value>
+</route><form><value>inj PEN</value>
+</form><drug><value>insulin detemir (LEVEMIR FLEXTOUCH) inj PEN</value>
+</drug><strength><value>100 unit/mL</value>
+</strength><frequency><value>DAILY</value>
+<value>BID</value>
+<value>ONCE</value>
+</frequency><instruction><value></value>
+<value>As per insulin detemir dose titration / supplementation guideline</value>
+</instruction><volume><value>3 mL</value>
+</volume><units><value>unit</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Antidiabetic Agents, Insulins</value>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose><value>YES</value>
+</maximumprndose></drug>

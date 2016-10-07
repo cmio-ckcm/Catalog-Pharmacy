@@ -1,0 +1,22 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "vitamin E liq ORAL>
+<dose><value>25 - 50</value>
+<value>1</value>
+</dose><route><value>PO</value>
+</route><form><value>liq ORAL</value>
+</form><drug><value>vitamin E liq ORAL</value>
+</drug><strength><value>50 unit/mL</value>
+</strength><frequency><value>DAILY</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>unit/kg/day</value>
+</units><additionalnotes><value>CHILDREN: Cystic Fibrosis. MAXIMUM DOSE: 1 to 3 years of age: 300 unit/day, 4 to 8 years: 450 unit/day, 9 to 13 years: 900 unit/day, 14 to 18 years: 1200 unit/day.</value>
+<value>CHILDREN: Malabsorptive conditions.</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Vitamin E</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

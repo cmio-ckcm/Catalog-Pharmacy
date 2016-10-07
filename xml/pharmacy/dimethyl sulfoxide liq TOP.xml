@@ -1,0 +1,20 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "dimethyl sulfoxide liq TOP>
+<dose><value></value>
+</dose><route><value>TOP </value>
+</route><form><value>liq TOP</value>
+</form><drug><value>dimethyl sulfoxide liq TOP</value>
+</drug><strength><value>99%</value>
+</strength><frequency><value>TID</value>
+</frequency><instruction><value>Apply to affected area.</value>
+</instruction><volume><value></value>
+</volume><units><value></value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value>ADULT</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Other Miscellaneous Therapeutic Agents</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

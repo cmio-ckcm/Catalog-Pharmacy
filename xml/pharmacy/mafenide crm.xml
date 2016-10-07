@@ -1,0 +1,20 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "mafenide crm>
+<dose><value></value>
+</dose><route><value>TOP</value>
+</route><form><value>crm</value>
+</form><drug><value>mafenide crm</value>
+</drug><strength><value>8.5%</value>
+</strength><frequency><value>DAILY</value>
+</frequency><instruction><value>Apply a thin film (approximately 2 mm thick) to burn area.</value>
+</instruction><volume><value></value>
+</volume><units><value></value>
+</units><additionalnotes><value>Treatment of burns. The burned are should be covered with cream at all times until healing is progressing or burn site is ready for grafting..</value>
+</additionalnotes><population><value>ADULT / CHILDREN / INFANT</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1296</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions. Health Canada Special Access Programme.</value>
+</ahsformularystatus><ahfsname><value>Skin and Mucous Membrane Agents, Local Anti-infectives, Miscellaneous</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

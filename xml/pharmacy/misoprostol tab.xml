@@ -1,0 +1,31 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "misoprostol tab>
+<dose><value>50</value>
+<value>100</value>
+<value>400</value>
+<value>600</value>
+<value>800</value>
+</dose><route><value>PO</value>
+<value>PR </value>
+</route><form><value>tab</value>
+</form><drug><value>misoprostol tab</value>
+</drug><strength><value>100 mcg</value>
+<value>200 mcg</value>
+</strength><frequency><value>Q4H</value>
+<value>QID</value>
+<value>NOW</value>
+</frequency><instruction><value>Q4H up to 6 doses for induction of labour (at term).</value>
+<value>Administer with meals and at bedtime.</value>
+<value></value>
+</instruction><volume><value></value>
+</volume><units><value>mcg</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value>YES</value>
+<value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Antiulcer Agents and Acid Suppressants, Prostaglandins</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

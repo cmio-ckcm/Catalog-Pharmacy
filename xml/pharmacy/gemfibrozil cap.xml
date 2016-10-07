@@ -1,0 +1,24 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "gemfibrozil cap>
+<dose><value>600</value>
+<value>300</value>
+</dose><route><value>PO</value>
+</route><form><value>cap</value>
+</form><drug><value>gemfibrozil cap</value>
+</drug><strength><value>300 mg</value>
+</strength><frequency><value>BID</value>
+<value>TID</value>
+</frequency><instruction><value>Administer 1 hour before breakfast and supper.</value>
+<value>Administer 1 hour before meals.</value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value>2 X 300 mg capsules</value>
+<value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Antilipemic Agents, Fibric Acid Derivatives</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

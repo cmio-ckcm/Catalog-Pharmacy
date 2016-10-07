@@ -1,0 +1,27 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "fenofibrate, micronized cap>
+<dose><value>200</value>
+<value>67</value>
+<value>134</value>
+</dose><route><value>PO</value>
+</route><form><value>cap</value>
+</form><drug><value>fenofibrate, micronized cap</value>
+</drug><strength><value>200 mg</value>
+<value>67 mg</value>
+</strength><frequency><value>DAILY</value>
+<value>SUPPER</value>
+<value>HS</value>
+<value>TID</value>
+</frequency><instruction><value></value>
+<value>2 capsules with breakfast and 1 capsule with the evening meal.</value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Antilipemic Agents, Fibric Acid Derivatives</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

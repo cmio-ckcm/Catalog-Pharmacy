@@ -1,0 +1,50 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "tobramycin inj VIAL>
+<dose><value>5</value>
+<value>6</value>
+<value>7</value>
+<value>1</value>
+<value>1.5</value>
+<value>2</value>
+<value>4.5</value>
+<value>4</value>
+</dose><route><value>IV</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>tobramycin inj VIAL</value>
+</drug><strength><value>1.2 g</value>
+<value>10 mg/mL</value>
+<value>40 mg/mL</value>
+</strength><frequency><value>Q24H</value>
+<value>Q36H</value>
+<value>Q48H</value>
+<value>Q8H</value>
+<value>Q12H</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+<value>2 mL</value>
+<value>30 mL</value>
+</volume><units><value>mg/kg</value>
+<value>mg/kg/dose</value>
+</units><additionalnotes><value>use Ideal Body weight for dosing, Ajusted Body Weight for dosing obese patients.</value>
+<value></value>
+<value>use Ideal Body weight for dosing, Ajusted Body Weight for dosing obese patients. Phenol-free product.</value>
+</additionalnotes><population><value></value>
+<value>NEONATE, less than 7 days old, OR if 7 days or older AND less than 30 weeks post-conceptional age (PCA) OR any gestational age with significant PDA, asphyxia, renal impairment or ECMO.</value>
+<value>NEONATE, less than 7 days old, OR if 7 days or older AND 30 to 33 weeks post-conceptional age (PCA).</value>
+<value>NEONATE, less than 7 days old, OR if 7 days or older AND 34 to 44 weeks post-conceptional age (PCA).</value>
+<value>NEONATE, 7 days old or greater.</value>
+<value>NEONATE, less than 7 days old, OR if 7 days or older AND 30 to 35 weeks post-conceptional age (PCA) with no renal impairment.</value>
+<value>NEONATE, less than 7 days old, OR if 7 days or older AND 36 weeks or greater post-conceptional age (PCA) with no renal impairment.</value>
+<value>NEONATE, 7 days old or greater, OR if 7 days or older AND 36 weeks or greater post-conceptional age (PCA) with no renal impairment.</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2543</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2539</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2540</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2541</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2542</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Usage guidelines_pending DTC decision.</value>
+<value>Formulary with Restrictions.</value>
+</ahsformularystatus><ahfsname><value>Antibacterials, Aminoglycosides</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

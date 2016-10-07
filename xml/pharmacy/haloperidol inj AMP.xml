@@ -1,0 +1,32 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "haloperidol inj AMP>
+<dose><value>1</value>
+<value>2</value>
+<value>2.5</value>
+<value>5</value>
+<value>10</value>
+</dose><route><value>IM</value>
+<value>IV</value>
+<value>SC</value>
+</route><form><value>inj AMP</value>
+</form><drug><value>haloperidol inj AMP</value>
+</drug><strength><value>5 mg/mL</value>
+</strength><frequency><value>Q1H</value>
+<value>Q2H</value>
+<value>Q4H</value>
+<value>Q6H</value>
+<value>Q8H</value>
+<value>ONCE</value>
+</frequency><instruction><value></value>
+<value>May repeat dose every 30 minutes until clinical effect achieved.</value>
+</instruction><volume><value>1 mL</value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value>YES</value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Psychotherapeutic Agents, Antipsychotics</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

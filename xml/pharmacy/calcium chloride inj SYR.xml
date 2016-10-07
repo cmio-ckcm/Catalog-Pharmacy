@@ -1,0 +1,31 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "calcium chloride inj SYR>
+<dose><value>10</value>
+<value>1000</value>
+<value>5</value>
+<value>500</value>
+<value>2000</value>
+</dose><route><value>IV</value>
+<value>IV </value>
+</route><form><value>inj SYR</value>
+</form><drug><value>calcium chloride inj SYR</value>
+</drug><strength><value>100 mg/mL</value>
+</strength><frequency><value>ONCE</value>
+</frequency><instruction><value>May repeat as needed.</value>
+<value></value>
+<value>May repeat every 3 - 5 minutes up to 3 - 4 doses.</value>
+</instruction><volume><value>10 mL</value>
+</volume><units><value>mL</value>
+<value>mg</value>
+</units><additionalnotes><value>Administer over 2 - 5 minutes</value>
+<value>Administer over 10 minutes</value>
+<value>Administer over 5 minutes</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3072</value>
+</backgroundinformation><prninformation><value>YES</value>
+<value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</ahsformularystatus><ahfsname><value>Replacement Preparations</value>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose><value>YES</value>
+</maximumprndose></drug>

@@ -1,0 +1,44 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "sodium bicarbonate tab>
+<dose><value>325</value>
+<value>650</value>
+<value>975</value>
+<value>4000</value>
+<value>1000</value>
+<value>2000</value>
+<value>1 - 10</value>
+<value>500</value>
+<value>1500</value>
+</dose><route><value>PO</value>
+<value>PEG TUBE</value>
+</route><form><value>tab</value>
+</form><drug><value>sodium bicarbonate tab</value>
+</drug><strength><value>325 mg</value>
+<value>500 mg</value>
+</strength><frequency><value>DAILY</value>
+<value>BID</value>
+<value>TID</value>
+<value>QID</value>
+<value>ONCE</value>
+<value>Q4H </value>
+<value>NOW</value>
+</frequency><instruction><value></value>
+<value>until desired urinary pH reached.</value>
+<value>Administer daily calculated dose in 6 equally divided doses until desired urinary pH is attained.</value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+<value>mmol/kg/day</value>
+</units><additionalnotes><value></value>
+<value>MAXIMUM of 16 g daily.</value>
+</additionalnotes><population><value></value>
+<value>ADULT</value>
+<value>CHILDREN</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+<value>84 mg = 1 mmol = 1 mEq</value>
+</backgroundinformation><prninformation><value></value>
+<value>YES</value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Alkalinizing Agents</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

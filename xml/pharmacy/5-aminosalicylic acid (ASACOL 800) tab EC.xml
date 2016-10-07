@@ -1,0 +1,47 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "5-aminosalicylic acid (ASACOL 800) tab EC>
+<dose><value></value>
+<value>Dose</value>
+<value>1600</value>
+</dose><route><value></value>
+<value>Route</value>
+<value>PO</value>
+</route><form><value></value>
+<value>Dosage Form</value>
+<value>tab EC</value>
+</form><drug><value></value>
+<value>Drug-Form concatenation</value>
+<value>5-aminosalicylic acid (ASACOL 800) tab EC</value>
+</drug><strength><value></value>
+<value>Strength</value>
+<value>800 mg</value>
+</strength><frequency><value></value>
+<value>Frequency</value>
+<value>TID</value>
+</frequency><instruction><value></value>
+<value>Instructions</value>
+</instruction><volume><value></value>
+<value>Volume</value>
+</volume><units><value></value>
+<value>Units</value>
+<value>mg</value>
+</units><additionalnotes><value></value>
+<value>Additional  notes</value>
+</additionalnotes><population><value></value>
+<value>Population</value>
+</population><indicationprn><value></value>
+<value>PRN Indication</value>
+</indicationprn><backgroundinformation><value></value>
+<value>Background Information</value>
+</backgroundinformation><prninformation><value></value>
+<value>PRN</value>
+</prninformation><ahsformularystatus><value></value>
+<value>AHS-Formulary Status</value>
+<value>Formulary.</value>
+</ahsformularystatus><ahfsname><value></value>
+<value>AHFS Name (order view)</value>
+<value>Gastrointestinal Drugs, Anti-inflammatory Agents</value>
+</ahfsname><highalert><value></value>
+<value>High Alert Medication</value>
+</highalert><maximumprndose><value></value>
+<value>High Alert Medication</value>
+</maximumprndose></drug>

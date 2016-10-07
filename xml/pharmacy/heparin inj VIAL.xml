@@ -1,0 +1,63 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "heparin inj VIAL>
+<dose><value></value>
+<value>5000</value>
+<value>10 000</value>
+<value>60</value>
+<value>80</value>
+<value>8000</value>
+<value>12</value>
+<value>18</value>
+<value>3</value>
+<value>2</value>
+<value>5</value>
+</dose><route><value>CATHETER</value>
+<value>IV</value>
+<value>SC</value>
+<value>IV </value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>heparin inj VIAL</value>
+</drug><strength><value>1000 unit/mL</value>
+<value>10 000 unit/mL</value>
+<value>10 unit/mL</value>
+<value>25 000 unit/mL</value>
+<value>5000 unit/0.5 mL</value>
+</strength><frequency><value>ONCE</value>
+<value>Q8H</value>
+<value>Q12H</value>
+<value>CONTINUOUS</value>
+</frequency><instruction><value>Administer as per Intradialytic Heparin protocol</value>
+<value></value>
+<value>Administer by continuous infusion.</value>
+<value>Administer into PICC line (non-groshong) following saline flush for maintenance of line patency</value>
+<value>Administer into peripheral catheter line following saline flush for maintenance of line patency.</value>
+<value>Administer into central catheter line following saline flush for maintenance of line patency.</value>
+</instruction><volume><value>10 mL</value>
+<value>1mL</value>
+<value>30 mL</value>
+<value>1 mL</value>
+<value>5 mL</value>
+<value>2 mL</value>
+<value></value>
+</volume><units><value>mL</value>
+<value>unit</value>
+<value>unit/kg/hour</value>
+</units><additionalnotes><value></value>
+<value>5,000 unit = 0.5 mL</value>
+<value>Bolus dose</value>
+<value>Cardiac weight-adjusted protocol bolus dose. Maximum dose: 4,000 unit.</value>
+<value>DVT/PE weight-adjusted protocol bolus dose. Maximum dose 10,000 unit.</value>
+<value>8,000 unit = 0.8 mL</value>
+<value>Cardiac weight-adjusted protocol maintenance infusion. Maximum rate: 1,000 unit/hour.</value>
+<value>DVT/PE weight-adjusted protocol maintenance infusion. Maximum rate: 1,600 unit/hour.</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1555</value>
+</backgroundinformation><prninformation><value></value>
+<value>YES</value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+<value>Formulary with Restrictions.</value>
+</ahsformularystatus><ahfsname><value>Antithrombotic Agents, Anticoagulants</value>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose><value>YES</value>
+</maximumprndose></drug>

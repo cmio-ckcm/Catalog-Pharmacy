@@ -1,0 +1,35 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "homatropine drop EYE>
+<dose><value>1</value>
+</dose><route><value>OPHTH</value>
+</route><form><value>drop EYE</value>
+</form><drug><value>homatropine drop EYE</value>
+</drug><strength><value>2%</value>
+<value>5%</value>
+</strength><frequency><value>ONCE</value>
+<value>BID</value>
+<value>TID</value>
+</frequency><instruction><value>Instill into conjuctiva of LEFT eye immediately prior to procedure. May repeat at 5 to 10 minute intervals as needed.</value>
+<value>Instill into conjuctiva of RIGHT eye immediately prior to procedure. May repeat at 5 to 10 minute intervals as needed.</value>
+<value>Instill into conjuctiva of affected eye(s) immediately prior to procedure. May repeat at 5 to 10 minute intervals as needed.</value>
+<value>Instill into conjuctiva of LEFT eye immediately prior to procedure. May repeat at 10 minute intervals as needed.</value>
+<value>Instill into conjuctiva of RIGHT eye immediately prior to procedure. May repeat at 10 minute intervals as needed.</value>
+<value>Instill into conjuctiva of affected eye(s) immediately prior to procedure. May repeat at 10 minute intervals as needed.</value>
+<value>Instill into conjuctiva of LEFT eye. </value>
+<value>Instill into conjuctiva of RIGHT eye.</value>
+<value>Instill into conjuctiva of affected eye(s).</value>
+<value>Instill into conjuctiva of affected eye(s). </value>
+</instruction><volume><value>15 mL</value>
+</volume><units><value>gtt</value>
+</units><additionalnotes><value>ADULT</value>
+<value>CHILDREN</value>
+<value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value>YES</value>
+<value></value>
+</prninformation><ahsformularystatus><value>Discontinued.</value>
+</ahsformularystatus><ahfsname><value>EENT Drugs, Mydriatics, </value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

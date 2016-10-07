@@ -1,0 +1,72 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "remifentanil inj VIAL>
+<dose><value>0.025 - 0.2</value>
+<value>0.05 - 1</value>
+<value>0.01 - 0.25</value>
+<value>0.6 - 15</value>
+<value>20 - 40</value>
+<value>0 - 3</value>
+<value>0.4 - 1</value>
+<value>0 - 1</value>
+<value>1 - 3</value>
+<value>0.09 - 0.9</value>
+<value>0.05 - 1.3</value>
+<value>1</value>
+<value>0.1 - 1</value>
+<value>0.025 - 2</value>
+<value>0.5 - 1</value>
+<value>0.1 - 2</value>
+<value>0.05 - 2</value>
+</dose><route><value>IV</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>remifentanil inj VIAL</value>
+</drug><strength><value>1 mg</value>
+</strength><frequency><value>CONTINUOUS</value>
+<value>ONCE</value>
+</frequency><instruction><value>Administer by continuous infusion.</value>
+<value>PCA. Bolus dose with 2 minute lockout.</value>
+<value>IV-PCA. Basal infusion.</value>
+<value>Administer by direct injection.</value>
+<value>Administer supplemental dose by direct injection every 2 to 5 minutes.</value>
+<value>Administer by direct injection over 60 seconds.</value>
+<value></value>
+</instruction><volume><value></value>
+</volume><units><value>mcg/kg/minute</value>
+<value>mcg/kg/hour</value>
+<value>mcg </value>
+<value>mcg/kg/dose</value>
+<value>mcg/kg</value>
+</units><additionalnotes><value></value>
+<value>MAXIMUM total dose: 3000 mg/4 hours.</value>
+</additionalnotes><population><value>ADULT. Continued Post-op analgesia.</value>
+<value>ADULT. Post-CABG analgesia in Critical Care setting.</value>
+<value>ADULT. Sedation in Critical Care setting.</value>
+<value>ADULT. IV-PCA for Labour</value>
+<value>NEONATE. Anesthesia with Nitrous Oxide 70%.</value>
+<value>NEONATE. Anesthesia with Nitrous Oxide 70%. Supplemental dose.</value>
+<value>NEONATE. Endotracheal Intubation.</value>
+<value>NEONATE. Sedation in Critical Care setting.</value>
+<value>INFANT, 1 to 2 months of age. Anesthesia with Nitrous Oxide 70%.</value>
+<value>INFANT, 1 to 2 months of age. Anesthesia with Nitrous Oxide 70%. Supplemental dose.</value>
+<value>CHILDREN, 1 to 2 years of age. Anesthesia with Sevoflurane, Isoflurane or Halothane.</value>
+<value>CHILDREN, 1 to 2 years of age. Anesthesia with Sevoflurane, Isoflurane or Halothane. Supplemental dose.</value>
+<value>CHILDREN, 1 to 2 years of age. Sedation in Critical Care setting.</value>
+<value>CHILDREN, older than 2 years. Monitored Anesthesia Care.</value>
+<value>CHILDREN, older than 2 years. Monitored Anesthesia Care. Supplemental dose.</value>
+<value>CHILDREN, older than 2 years. Continued Analgesia in Post-op Period.</value>
+<value>ADULT. Induction of anesthesia in non-intubated patients.</value>
+<value>ADULT. Induction of anesthesia.</value>
+<value>ADULT. Maintenance of Anesthesia with nitrous oxide (66%).</value>
+<value>ADULT. Maintenance of Anesthesia with nitrous oxide (66%). Supplemental dose.</value>
+<value>ADULT. Maintenance of Anesthesia with isoflurane.</value>
+<value>ADULT. Maintenance of Anesthesia with isoflurane. Supplemental dose.</value>
+<value>ADULT. Maintenance of Anesthesia with propofol.</value>
+<value>ADULT. Maintenance of Anesthesia with propofol. Supplemental dose.</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1009</value>
+</backgroundinformation><prninformation><value></value>
+<value>YES</value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</ahsformularystatus><ahfsname><value>Analgesics and Antipyretics, Opiate Agonists</value>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose><value>YES</value>
+</maximumprndose></drug>

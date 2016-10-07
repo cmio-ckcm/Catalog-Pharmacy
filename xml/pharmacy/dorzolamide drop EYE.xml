@@ -1,0 +1,24 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "dorzolamide drop EYE>
+<dose><value>1</value>
+</dose><route><value>TOP</value>
+</route><form><value>drop EYE</value>
+</form><drug><value>dorzolamide drop EYE</value>
+</drug><strength><value>2%</value>
+</strength><frequency><value>TID</value>
+<value>BID</value>
+</frequency><instruction><value>Instill in LEFT eye.</value>
+<value>Instill in RIGHT eye.</value>
+<value>Instill in BOTH eyes.</value>
+</instruction><volume><value>5 mL</value>
+</volume><units><value>gtt</value>
+</units><additionalnotes><value></value>
+<value>When co-administered with ophthalmic beta-blocker</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>EENT Drugs, Antiglaucoma Agents, Carbonic Anhydrase Inhibitors</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

@@ -1,0 +1,22 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "dabigatran tab>
+<dose><value>110</value>
+<value>150</value>
+</dose><route><value>PO</value>
+</route><form><value>tab</value>
+</form><drug><value>dabigatran tab</value>
+</drug><strength><value>110 mg</value>
+<value>150 mg</value>
+</strength><frequency><value>BID</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value>Direct oral anticoagulants NOT indicated for treatment of cancer-associated thrombosis. Evidence supports LMWH agents.</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions, Usage guidelines.</value>
+</ahsformularystatus><ahfsname><value>Antithrombotic Agents, Anticoagulants</value>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose><value>YES</value>
+</maximumprndose></drug>

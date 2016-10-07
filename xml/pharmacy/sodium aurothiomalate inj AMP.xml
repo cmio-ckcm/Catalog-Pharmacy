@@ -1,0 +1,31 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "sodium aurothiomalate inj AMP>
+<dose><value>10</value>
+<value>25</value>
+<value>25 - 50</value>
+<value>1</value>
+</dose><route><value>IM</value>
+</route><form><value>inj AMP</value>
+</form><drug><value>sodium aurothiomalate inj AMP</value>
+</drug><strength><value>50 mg/mL</value>
+</strength><frequency><value>ONCE</value>
+<value>WEEKLY</value>
+</frequency><instruction><value>Week 1.</value>
+<value>Week 2.</value>
+<value></value>
+<value>Initial dose.</value>
+</instruction><volume><value>1 mL</value>
+</volume><units><value>mg</value>
+<value>mg/kg</value>
+</units><additionalnotes><value>Renal Impairment: Reduce dose 50% for CrCl 50 to 80 mL/minute. Avoid use if CrCl less than 50 mL/minute</value>
+<value></value>
+<value>MAX. single dose = 50 mg</value>
+</additionalnotes><population><value>ADULT</value>
+<value>PEDIATRIC</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Gold Compounds</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

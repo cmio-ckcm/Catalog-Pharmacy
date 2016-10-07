@@ -1,0 +1,39 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "hydrALAzine tab>
+<dose><value>10</value>
+<value>20</value>
+<value>0.75 - 1</value>
+<value>1 - 7.5</value>
+<value>25</value>
+<value>50</value>
+</dose><route><value>PO</value>
+</route><form><value>tab</value>
+</form><drug><value>hydrALAzine tab</value>
+</drug><strength><value>10 mg</value>
+<value>25 mg</value>
+<value>50 mg</value>
+</strength><frequency><value>QID</value>
+<value>BID</value>
+<value>TID</value>
+<value>DAILY</value>
+</frequency><instruction><value></value>
+<value>Administer daily calculated dose in 2 equally divided doses.</value>
+<value>Administer daily calculated dose in 3 equally divided doses.</value>
+<value>Administer daily calculated dose in 4 equally divided doses.</value>
+<value>Administer daily calculated dose in 2 equally divided doses, titrating upward to desired effect over 3 to 4 weeks. Maximum daily dose: 200mg.</value>
+<value>Administer daily calculated dose in 3 equally divided doses, titrating upward to desired effect over 3 to 4 weeks. Maximum daily dose: 200mg.</value>
+<value>Administer daily calculated dose in 4 equally divided doses, titrating upward to desired effect over 3 to 4 weeks. Maximum daily dose: 200mg.</value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+<value>mg/kg/day</value>
+</units><additionalnotes><value></value>
+<value>CHILDREN: Hypertension initial dosing</value>
+<value>CHILDREN: Hypertension maintenance dosing</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Hypotensive Agents, Direct Vasodilators</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

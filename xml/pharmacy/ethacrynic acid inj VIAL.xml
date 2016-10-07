@@ -1,0 +1,26 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "ethacrynic acid inj VIAL>
+<dose><value>50</value>
+<value>1</value>
+<value>0.5 - 1</value>
+</dose><route><value>IV</value>
+<value>IV </value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>ethacrynic acid inj VIAL</value>
+</drug><strength><value>50 mg</value>
+</strength><frequency><value>ONCE</value>
+</frequency><instruction><value>May repeat dose once if necessary at a new IV site.</value>
+<value>Reassess patient requirement every 12 to 24 hours.</value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+<value>mg/kg</value>
+</units><additionalnotes><value>Max single dose: 100mg</value>
+<value>NEONATE</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Diuretics, Loop Diuretics</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

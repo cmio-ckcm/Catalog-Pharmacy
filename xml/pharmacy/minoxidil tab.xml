@@ -1,0 +1,28 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "minoxidil tab>
+<dose><value>10</value>
+<value>20</value>
+<value>0.2 - 1</value>
+<value>2.5</value>
+<value>5</value>
+</dose><route><value>PO</value>
+</route><form><value>tab</value>
+</form><drug><value>minoxidil tab</value>
+</drug><strength><value>10 mg</value>
+<value>2.5 mg</value>
+</strength><frequency><value>BID</value>
+</frequency><instruction><value></value>
+<value>Administer daily calculated dose in 2 equally divided doses.</value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+<value>mg/kg/day</value>
+</units><additionalnotes><value></value>
+<value>CHILDREN: Under 12 years of age. Maximum recommended dose = 50- mg/day.</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Hypotensive Agents, Direct Vasodilators</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

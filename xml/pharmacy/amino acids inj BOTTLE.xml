@@ -1,0 +1,20 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "amino acids inj BOTTLE>
+<dose><value></value>
+</dose><route><value>IV</value>
+</route><form><value>inj BOTTLE</value>
+</form><drug><value>amino acids inj BOTTLE</value>
+</drug><strength><value>10%</value>
+</strength><frequency><value>ONCE</value>
+</frequency><instruction><value>For pharmacy compounding of TPN solutions.</value>
+</instruction><volume><value></value>
+</volume><units><value></value>
+</units><additionalnotes><value>Contact local Pharmacy for available products.</value>
+</additionalnotes><population><value>NEONATE / INFANT</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=5801</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Non-Formulary, Health Canada Special Access Programme.</value>
+</ahsformularystatus><ahfsname><value>Caloric Agents</value>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose><value>YES</value>
+</maximumprndose></drug>

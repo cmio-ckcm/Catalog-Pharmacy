@@ -1,0 +1,34 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "furosemide liq ORAL>
+<dose><value>10</value>
+<value>20</value>
+<value>40</value>
+<value>60</value>
+<value>80</value>
+</dose><route><value>PO</value>
+</route><form><value>liq ORAL</value>
+</form><drug><value>furosemide liq ORAL</value>
+</drug><strength><value>10 mg/mL</value>
+</strength><frequency><value>DAILY</value>
+<value>BID</value>
+<value>NOW</value>
+<value>TID</value>
+</frequency><instruction><value></value>
+<value>Administer with lunch.</value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value></value>
+<value>Diuretic admin times (ie. 0800-1200)</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>10 mg = 1 mL</value>
+<value>20 mg = 2 mL</value>
+<value>40 mg = 4 mL</value>
+<value>60 mg = 6 mL</value>
+<value>80 mg = 8 mL</value>
+</backgroundinformation><prninformation><value></value>
+<value>YES</value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Diuretics, Loop Diuretics</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

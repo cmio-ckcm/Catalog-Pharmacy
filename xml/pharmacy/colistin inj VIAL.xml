@@ -1,0 +1,36 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "colistin inj VIAL>
+<dose><value>60</value>
+<value>70</value>
+<value>75</value>
+<value>85</value>
+<value>95</value>
+<value>100</value>
+<value>110</value>
+<value>125</value>
+<value>30</value>
+<value>90</value>
+<value>120</value>
+<value>150</value>
+</dose><route><value>IV</value>
+<value>NEBULE</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>colistin inj VIAL</value>
+</drug><strength><value>150 mg</value>
+</strength><frequency><value>Q8H</value>
+<value>Q6H</value>
+<value>BID</value>
+</frequency><instruction><value></value>
+<value>Administer dose over 60 minutes.</value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value></value>
+<value>VAP</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Antibacterials, Miscellaneous</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

@@ -1,0 +1,26 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "clindamycin inj VIAL>
+<dose><value>600</value>
+<value>900</value>
+</dose><route><value>IV</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>clindamycin inj VIAL</value>
+</drug><strength><value>150 mg/mL</value>
+</strength><frequency><value>Q8H</value>
+<value>Q6H</value>
+</frequency><instruction><value></value>
+</instruction><volume><value>2 mL</value>
+<value>4 mL</value>
+<value>6 mL</value>
+<value>60 mL</value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Usage guidelines, therapeutic interchange.</value>
+<value>Formulary with Restrictions.</value>
+</ahsformularystatus><ahfsname><value>Antibacterials, Miscellaneous</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

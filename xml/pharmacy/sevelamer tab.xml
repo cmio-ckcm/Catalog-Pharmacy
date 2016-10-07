@@ -1,0 +1,24 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "sevelamer tab>
+<dose><value>800</value>
+<value>1600</value>
+<value>2400</value>
+</dose><route><value>PO</value>
+</route><form><value>tab</value>
+</form><drug><value>sevelamer tab</value>
+</drug><strength><value>800 mg</value>
+</strength><frequency><value>TID</value>
+</frequency><instruction><value>Administer with meals.</value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value></value>
+<value>1600 mg = 2 tablets</value>
+<value>2400 mg = 3 tablets</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1502</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</ahsformularystatus><ahfsname><value>Ion-removing Agents, Phosphate-removing Agents</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

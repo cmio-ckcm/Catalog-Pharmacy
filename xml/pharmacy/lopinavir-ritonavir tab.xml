@@ -1,0 +1,29 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "lopinavir-ritonavir tab>
+<dose><value>2</value>
+<value>3</value>
+<value>4</value>
+<value>1</value>
+</dose><route><value>PO</value>
+</route><form><value>tab</value>
+</form><drug><value>lopinavir-ritonavir tab</value>
+</drug><strength><value>100 mg-25 mg</value>
+<value>200 mg-50 mg</value>
+</strength><frequency><value>BID</value>
+<value>DAILY</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>tab</value>
+</units><additionalnotes><value>Patients weighing 15 to 25 kg.</value>
+<value>Patients weighing &amp;gt;25 to 35 kg.</value>
+<value>Patients weighing more than 35 kg.</value>
+<value></value>
+<value>Consideration for once daily administration in adult patients with less than three protease-inhibitor associated mutations.</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</ahsformularystatus><ahfsname><value>Antivirals, Antiretrovirals</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

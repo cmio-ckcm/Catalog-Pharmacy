@@ -1,0 +1,21 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "bismuth subgallate powder>
+<dose><value>200</value>
+<value>400</value>
+</dose><route><value>PO</value>
+</route><form><value>powder</value>
+</form><drug><value>bismuth subgallate powder</value>
+</drug><strength><value>1 g</value>
+</strength><frequency><value>QID  </value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value>ADULT, CHILDREN aged 12 and older.</value>
+</population><indicationprn><value>Flatulence</value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value>YES</value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Antidiarrhea Agents</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

@@ -1,0 +1,30 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "nicotine patch>
+<dose><value>1</value>
+<value></value>
+</dose><route><value>TOP</value>
+<value></value>
+</route><form><value>patch</value>
+</form><drug><value>nicotine patch</value>
+</drug><strength><value>14 mg/24 hour</value>
+<value>21 mg/24 hour</value>
+<value>7 mg/24 hour</value>
+</strength><frequency><value>DAILY</value>
+</frequency><instruction><value>Apply patch</value>
+<value>REMOVE nicotine 14 mg patch.</value>
+<value>Apply patch.</value>
+<value>REMOVE NICOTINE 21 mg PATCH</value>
+<value>REMOVE NICOTINE 7 mg PATCH</value>
+</instruction><volume><value></value>
+</volume><units><value>patch</value>
+<value></value>
+</units><additionalnotes><value>Apply patch to non-hairy, clean, dry skin on upper body or outer upper arm, rotating sites.</value>
+<value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Autonomic Drugs, Miscellaneous</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

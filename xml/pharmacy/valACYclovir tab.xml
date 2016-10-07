@@ -1,0 +1,27 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "valACYclovir tab>
+<dose><value>1000</value>
+<value>2000</value>
+<value>500</value>
+</dose><route><value>PO</value>
+</route><form><value>tab</value>
+</form><drug><value>valACYclovir tab</value>
+</drug><strength><value>1000 mg</value>
+<value>500 mg</value>
+</strength><frequency><value>BID</value>
+<value>TID</value>
+<value>DAILY</value>
+</frequency><instruction><value></value>
+<value>for 1 day.</value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value></value>
+<value>Mucocutaneous Herpes simplex: Immunocompetent - Symptomatic/episotic treatment of recurrences.</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Antivirals, Nucleosides and Nucleotides</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

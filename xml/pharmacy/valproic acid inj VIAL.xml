@@ -1,0 +1,30 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "valproic acid inj VIAL>
+<dose><value>1 - 4</value>
+<value>10 - 15</value>
+</dose><route><value>IV</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>valproic acid inj VIAL</value>
+</drug><strength><value>100 mg/mL</value>
+</strength><frequency><value>CONTINUOUS</value>
+<value>Q12H</value>
+<value>Q8H</value>
+<value>Q6H</value>
+</frequency><instruction><value>Administer by continuous infusion.</value>
+<value>Administer daily calculated dose in 2 equally divided doses.</value>
+<value>Administer daily calculated dose in 3 equally divided doses.</value>
+<value>Administer daily calculated dose in 4 equally divided doses.</value>
+</instruction><volume><value>5 mL</value>
+</volume><units><value>mg/kg/hour</value>
+<value>mg/kg/day</value>
+</units><additionalnotes><value></value>
+<value>Initial dose, administered in divided doses. Recommend Q6H dosing inverval when dose exceeds 250 mg.</value>
+</additionalnotes><population><value>ADULT</value>
+<value>ADULT/ CHILDREN / INFANT</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=516</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary, Health Canada Special Access Programme.</value>
+</ahsformularystatus><ahfsname><value>Anticonvulsants, Anticonvulsants, Miscellaneous</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

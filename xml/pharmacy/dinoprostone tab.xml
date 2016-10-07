@@ -1,0 +1,23 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "dinoprostone tab>
+<dose><value>0.5</value>
+</dose><route><value>PO</value>
+</route><form><value>tab</value>
+</form><drug><value>dinoprostone tab</value>
+</drug><strength><value>0.5 mg</value>
+</strength><frequency><value>ONCE</value>
+<value>Q1H</value>
+</frequency><instruction><value>initial dose; repeat dose in 60 minutes.</value>
+<value>As required for satisfactory uterine response.</value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+<value>YES</value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Oxytocics</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

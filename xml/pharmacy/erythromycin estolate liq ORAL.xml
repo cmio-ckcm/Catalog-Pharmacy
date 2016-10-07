@@ -1,0 +1,33 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "erythromycin estolate liq ORAL>
+<dose><value>250</value>
+<value>500</value>
+<value>1000</value>
+<value>20 - 50</value>
+<value>60 - 100</value>
+</dose><route><value>PO</value>
+</route><form><value>liq ORAL</value>
+</form><drug><value>erythromycin estolate liq ORAL</value>
+</drug><strength><value>50 mg/mL</value>
+</strength><frequency><value>Q6H</value>
+<value>Q12H</value>
+<value>BID</value>
+</frequency><instruction><value></value>
+<value>Administer daily calculated dose in 4 equally divided doses.</value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+<value>mg/kg/day</value>
+</units><additionalnotes><value></value>
+<value>Strep prophylaxis in patients with a history of rheumatic heart disease.</value>
+<value>Severe infections</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>250 mg = 5 mL</value>
+<value>500 mg = 10 mL</value>
+<value>1000 mg = 20 mL</value>
+<value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Usage guidelines.</value>
+</ahsformularystatus><ahfsname><value>Antibacterials, Macrolides</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

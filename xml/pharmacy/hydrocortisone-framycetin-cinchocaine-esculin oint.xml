@@ -1,0 +1,25 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "hydrocortisone-framycetin-cinchocaine-esculin oint>
+<dose><value></value>
+</dose><route><value>PR</value>
+</route><form><value>oint</value>
+</form><drug><value>hydrocortisone-framycetin-cinchocaine-esculin oint</value>
+</drug><strength><value>0.5%-1%-0.5%-1%</value>
+</strength><frequency><value>BID</value>
+<value>ONCE</value>
+</frequency><instruction><value>Apply a small amount to the affected area in the morning and at bedtime.</value>
+<value>Apply a small amount to the affected area after bowel movement PRN.</value>
+<value>Attach rectal cannula to tube, insert rectally to full extent and squeeze tube gently from lower end while withdrawing; in the morning and at bedtime.</value>
+<value>Attach rectal cannula to tube, insert rectally to full extent and squeeze tube gently from lower end while withdrawing; after bowel movement PRN.</value>
+</instruction><volume><value></value>
+</volume><units><value></value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+<value>YES</value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Skin and Mucous Membrane Agents, Anti-inflammatory Agents</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

@@ -1,0 +1,28 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "pseudoephedrine tab>
+<dose><value>60</value>
+<value>30</value>
+<value>15</value>
+</dose><route><value>PO</value>
+</route><form><value>tab</value>
+</form><drug><value>pseudoephedrine tab</value>
+</drug><strength><value>60 mg</value>
+</strength><frequency><value>Q4H</value>
+<value>Q6H</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value>Adults: Maximum  240 mg/24 hours.</value>
+<value></value>
+<value>Children 6 to 12 years: Maximum 120 mg/24 hours.</value>
+<value>Children 4 to 5 years: Maximum 60mg/24 hours.</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value>Congestion</value>
+<value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value>YES</value>
+<value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Sympathomimetic (Adrenergic) Agents, alpha- and beta-Adrenergic Agonists</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

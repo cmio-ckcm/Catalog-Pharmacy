@@ -1,0 +1,23 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "hydrocortisone acetate-zinc sulfate supp>
+<dose><value>1</value>
+</dose><route><value>PR</value>
+</route><form><value>supp</value>
+</form><drug><value>hydrocortisone acetate-zinc sulfate supp</value>
+</drug><strength><value>10 mg-10 mg</value>
+</strength><frequency><value>BID</value>
+<value>ONCE</value>
+</frequency><instruction><value>Insert rectally in the morning and at bedtime.</value>
+<value>Insert rectally after bowel movement PRN.</value>
+</instruction><volume><value></value>
+</volume><units><value>supp</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+<value>YES</value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Skin and Mucous Membrane Agents, Anti-inflammatory Agents</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

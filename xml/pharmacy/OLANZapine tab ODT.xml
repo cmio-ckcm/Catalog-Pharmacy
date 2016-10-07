@@ -1,0 +1,39 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "OLANZapine tab ODT>
+<dose><value>10</value>
+<value>7.5</value>
+<value>15</value>
+<value>20</value>
+<value>2.5</value>
+<value>5</value>
+</dose><route><value>PO</value>
+</route><form><value>tab ODT</value>
+</form><drug><value>OLANZapine tab ODT</value>
+</drug><strength><value>10 mg</value>
+<value>15 mg</value>
+<value>20 mg</value>
+<value>5 mg</value>
+</strength><frequency><value>DAILY</value>
+<value>BID</value>
+<value>HS</value>
+<value>Q4H</value>
+<value>Q6H</value>
+<value>TID</value>
+<value>Q2H</value>
+<value>Q8H</value>
+<value>NOW</value>
+</frequency><instruction><value></value>
+<value>Administer with lunch.</value>
+<value>Administer with supper.</value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+<value>YES</value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Psychotherapeutic Agents, Antipsychotics</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

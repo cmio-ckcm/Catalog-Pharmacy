@@ -1,0 +1,24 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "enalaprilat inj VIAL>
+<dose><value>0.625</value>
+<value>1.25</value>
+</dose><route><value>IV</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>enalaprilat inj VIAL</value>
+</drug><strength><value>1.25 mg/mL</value>
+</strength><frequency><value>Q6H  </value>
+<value>ONCE</value>
+<value>Q6H</value>
+</frequency><instruction><value></value>
+</instruction><volume><value>2 mL</value>
+</volume><units><value>mg</value>
+<value>mg </value>
+</units><additionalnotes><value>Administer dose over 5 minutes</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Renin-Angiotensin-Aldosterone System Inhibitors, Angiotensin-Converting Enzyme Inhibitors</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

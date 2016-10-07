@@ -1,0 +1,21 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "desloratidine tab>
+<dose><value>2.5</value>
+<value>5</value>
+</dose><route><value>PO</value>
+</route><form><value>tab</value>
+</form><drug><value>desloratidine tab</value>
+</drug><strength><value>5 mg</value>
+</strength><frequency><value>DAILY</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=128</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Non-Formulary with Therapeutic Interchange.</value>
+</ahsformularystatus><ahfsname><value>Second Generation Antihistamines</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

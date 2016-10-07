@@ -1,0 +1,25 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "benzydamine mouthwash>
+<dose><value>15</value>
+</dose><route><value>GARGLE</value>
+</route><form><value>mouthwash</value>
+</form><drug><value>benzydamine mouthwash</value>
+</drug><strength><value>0.15%</value>
+</strength><frequency><value>TID</value>
+<value>QID</value>
+<value>Q3H</value>
+<value>ONCE</value>
+</frequency><instruction><value>Hold for 30 seconds, then expel.</value>
+<value>Administer Pre-op. Hold for 30 seconds, then expel.</value>
+</instruction><volume><value></value>
+</volume><units><value>mL</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+<value>YES</value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>EENT Drugs, Mouthwashes and Gargles, </value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

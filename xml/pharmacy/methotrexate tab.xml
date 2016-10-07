@@ -1,0 +1,34 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "methotrexate tab>
+<dose><value>7.5 - 30</value>
+<value>2.5 - 5</value>
+<value>30</value>
+<value>15</value>
+<value>20</value>
+</dose><route><value>PO</value>
+</route><form><value>tab</value>
+</form><drug><value>methotrexate tab</value>
+</drug><strength><value>2.5 mg</value>
+</strength><frequency><value>WEEKLY</value>
+<value>Q12H</value>
+</frequency><instruction><value></value>
+<value>for 3 doses per week.</value>
+<value>for 3 weeks.</value>
+<value>for 4 weeks.</value>
+<value>for 6 weeks.</value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+<value>mg/m2</value>
+</units><additionalnotes><value>Rheumatoid Arthritis.</value>
+<value>Psoriasis</value>
+<value>A.L.L.   . Round dose to nearest 2.5 mg.</value>
+<value>Leukemia (APL)</value>
+<value>Acute Lymphoblastic Lymphoma or Leukemia. Round dose to nearest 2.5 mg.</value>
+</additionalnotes><population><value>ADULT</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3417</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Antineoplastic Agents</value>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose><value>YES</value>
+</maximumprndose></drug>

@@ -1,0 +1,28 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "terazosin tab>
+<dose><value>1</value>
+<value>3</value>
+<value>2</value>
+<value>4</value>
+<value>5</value>
+<value>10</value>
+<value>15</value>
+</dose><route><value>PO</value>
+</route><form><value>tab</value>
+</form><drug><value>terazosin tab</value>
+</drug><strength><value>1 mg</value>
+<value>2 mg</value>
+<value>5 mg</value>
+</strength><frequency><value>HS</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>alpha-Adrenergic Blocking Agents</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

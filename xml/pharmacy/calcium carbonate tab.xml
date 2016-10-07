@@ -1,0 +1,25 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "calcium carbonate tab>
+<dose><value>1250</value>
+<value>625</value>
+</dose><route><value>PO</value>
+</route><form><value>tab</value>
+</form><drug><value>calcium carbonate tab</value>
+</drug><strength><value>1250 mg</value>
+<value>625 mg</value>
+</strength><frequency><value>DAILY</value>
+<value>TID</value>
+</frequency><instruction><value></value>
+<value>Administer with meals.</value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value>1250 mg = 500 mg elemental Calcium</value>
+<value>625 mg = 250 mg elemental calcium</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Replacement Preparations</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

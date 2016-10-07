@@ -1,0 +1,31 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "clindamycin liq ORAL>
+<dose><value>37.5</value>
+<value>75</value>
+<value>150</value>
+<value>300</value>
+<value>450</value>
+</dose><route><value>PO</value>
+</route><form><value>liq ORAL</value>
+</form><drug><value>clindamycin liq ORAL</value>
+</drug><strength><value>15 mg/mL</value>
+</strength><frequency><value>Q6H</value>
+<value>Q8H</value>
+<value>ONCE</value>
+</frequency><instruction><value></value>
+<value>Administer 1 hour pre-operatively.</value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value>37.5 mg = 2.5 mL</value>
+<value>75 mg = 5 mL</value>
+<value>150 mg = 10 mL</value>
+<value>300 mg = 20 mL</value>
+<value>450 mg = 30 mL</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Usage guidelines, therapeutic interchange.</value>
+</ahsformularystatus><ahfsname><value>Antibacterials, Miscellaneous</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

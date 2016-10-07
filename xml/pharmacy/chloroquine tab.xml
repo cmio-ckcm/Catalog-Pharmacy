@@ -1,0 +1,26 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "chloroquine tab>
+<dose><value>1000</value>
+<value>500</value>
+<value>250</value>
+</dose><route><value>PO</value>
+</route><form><value>tab</value>
+</form><drug><value>chloroquine tab</value>
+</drug><strength><value>250 mg</value>
+</strength><frequency><value>ONCE</value>
+<value>WEEKLY</value>
+<value>DAILY</value>
+</frequency><instruction><value></value>
+<value>Administer for 3 doses.</value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value></value>
+<value>Subsequent to initial 1000 MG dose.</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Antiprotozoals, Antimalarials</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

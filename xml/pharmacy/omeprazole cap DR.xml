@@ -1,0 +1,28 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "omeprazole cap DR>
+<dose><value>20</value>
+<value>40</value>
+<value>60</value>
+</dose><route><value>PO</value>
+</route><form><value>cap DR</value>
+</form><drug><value>omeprazole cap DR</value>
+</drug><strength><value>20 mg</value>
+</strength><frequency><value>DAILY</value>
+<value>BID</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value>Pediatric GERD</value>
+<value>Duodenal ulcers with H. pylori</value>
+<value>Reflux Esophagitis, Duodenal Ulcer, Stress Ulcer prophylaxis</value>
+<value>Hypersecretory conditions</value>
+</additionalnotes><population><value>CHILDREN, aged 1 to 16 years and weighing greater than 20 kg.</value>
+<value>CHILDREN, weighing greater than 30 kg.</value>
+<value>CHILDREN, aged 16 to 18 years.</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1143</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions, Usage guidelines, Therapeutic Interchange.</value>
+</ahsformularystatus><ahfsname><value>Antiulcer Agents and Acid Suppressants, Proton-pump Inhibitors</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

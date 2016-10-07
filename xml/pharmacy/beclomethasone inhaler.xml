@@ -1,0 +1,31 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "beclomethasone inhaler>
+<dose><value>1</value>
+<value>2</value>
+<value>3</value>
+<value>4</value>
+</dose><route><value>INH</value>
+</route><form><value>inhaler</value>
+</form><drug><value>beclomethasone inhaler</value>
+</drug><strength><value>100 mcg</value>
+<value>50 mcg</value>
+</strength><frequency><value>BID</value>
+</frequency><instruction><value></value>
+</instruction><volume><value>200 dose</value>
+</volume><units><value>puff</value>
+</units><additionalnotes><value>1 puff = 100 mcg/dose</value>
+<value>2 puffs = 200 mcg/dose</value>
+<value>3 puffs = 300 mcg/dose</value>
+<value>4 puffs = 400 mcg/dose</value>
+<value>1 puff = 50 mcg/dose</value>
+<value>2 puffs = 100 mcg/dose</value>
+<value>3 puffs = 150 mcg/dose</value>
+<value>4 puffs = 200 mcg/dose</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Adrenals</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

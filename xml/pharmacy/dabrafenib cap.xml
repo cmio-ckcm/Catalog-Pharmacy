@@ -1,0 +1,25 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "dabrafenib cap>
+<dose><value>150</value>
+<value>100</value>
+<value>50</value>
+<value>75</value>
+</dose><route><value>PO</value>
+</route><form><value>cap</value>
+</form><drug><value>dabrafenib cap</value>
+</drug><strength><value>50 mg</value>
+<value>75 mg</value>
+</strength><frequency><value>BID</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value>Dose level reductions: First reduction: 100 mg PO BID. Second reduction: 75 mg PO BID. Third reduction: 50 mg PO BID. If unable to tolerate 50 mg BID, recommend discontinuing dabrafenib. In clinical studies, patients 65 years of age and older experienced more serious adverse effects when taking dabrafenib.</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=7302</value>
+<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=7303</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</ahsformularystatus><ahfsname><value>Antineoplastic Agents</value>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose><value>YES</value>
+</maximumprndose></drug>

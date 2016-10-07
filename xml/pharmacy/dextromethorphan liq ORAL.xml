@@ -1,0 +1,25 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "dextromethorphan liq ORAL>
+<dose><value>7.5</value>
+<value>15</value>
+<value>30</value>
+</dose><route><value>PO</value>
+</route><form><value>liq ORAL</value>
+</form><drug><value>dextromethorphan liq ORAL</value>
+</drug><strength><value>3 mg/mL</value>
+</strength><frequency><value>Q6H</value>
+<value>Q8H</value>
+</frequency><instruction><value></value>
+</instruction><volume><value>100 mL</value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value>7.5 mg = 2.5 mL</value>
+<value>15 mg = 5 mL</value>
+<value>30 mg = 10 mL</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value>YES</value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Antitussives</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

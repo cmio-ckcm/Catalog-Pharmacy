@@ -1,0 +1,35 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "lidocaine-prilocaine crm>
+<dose><value>1</value>
+<value>1.5</value>
+<value>2</value>
+<value>0.5 - 1</value>
+<value>0 - 2</value>
+<value>0 - 10</value>
+<value>0 - 20</value>
+</dose><route><value>TOP </value>
+</route><form><value>crm</value>
+</form><drug><value>lidocaine-prilocaine crm</value>
+</drug><strength><value>2.5%-2.5%</value>
+</strength><frequency><value>ONCE</value>
+</frequency><instruction><value>Apply topically per 10 cm2 area affected 30 to 60 minutes prior to procedure.</value>
+<value>Apply topically up to 10 cm2 area affected 60 minutes prior to procedure. </value>
+<value>Apply topically up to 20 cm2 area affected 60 minutes prior to procedure. </value>
+<value>Apply topically up to 100 cm2 area affected 60 minutes prior to procedure. </value>
+<value>Apply topically up to 200 cm2 area affected 60 minutes prior to procedure. </value>
+</instruction><volume><value></value>
+</volume><units><value>g</value>
+</units><additionalnotes><value>ADULT: up to 10 g for leg ulcer mechanical cleansing/debridement, gential mucosa surgical procedures. </value>
+<value>ADULT: up to 10 g for leg ulcer mechanical cleansing/debridement, gential mucosa surgical procedures. Up to a total of 60 g for dermal procedures on intact skin performed on larger areas (in a hospital setting).</value>
+<value>NEONATES / INFANTS: up to 3 months of age or less than 5 kg body weight. Minimal gestational age is 37 weeks.</value>
+<value>INFANTS: 3 to 12 months of age and greater than 5 kg body weight.</value>
+<value>CHILDREN: 1 to 6 years of age and greater than 10 kg body weight.</value>
+<value>CHILDREN: 7 to 12 years of age and greater than 20 kg body weight.</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Skin and Mucous Membrane Agents, Antipruritics and Local Anesthetics</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

@@ -1,0 +1,24 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "amphotericin B, lipid complex inj VIAL>
+<dose><value>5</value>
+<value>3</value>
+<value>4</value>
+<value>2.5</value>
+</dose><route><value>IV</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>amphotericin B, lipid complex inj VIAL</value>
+</drug><strength><value>100 mg</value>
+</strength><frequency><value>DAILY</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg/kg/dose</value>
+</units><additionalnotes><value>Administer at a rate of 2.5 mg/kg/hour. Shake the infusion bag every 2 hours when infusion time exceeds 2 hours.</value>
+<value></value>
+</additionalnotes><population><value>Adult. Neonates: 3-5mg/kg. Infant/Child: 2.5-5 mg/kg.</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2544</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions, Usage guidelines.</value>
+</ahsformularystatus><ahfsname><value>Antifungals, Polyenes</value>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose><value>YES</value>
+</maximumprndose></drug>

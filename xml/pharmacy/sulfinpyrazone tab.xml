@@ -1,0 +1,25 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "sulfinpyrazone tab>
+<dose><value>100</value>
+<value>200</value>
+<value>400</value>
+</dose><route><value>PO</value>
+</route><form><value>tab</value>
+</form><drug><value>sulfinpyrazone tab</value>
+</drug><strength><value>200 mg </value>
+</strength><frequency><value>BID</value>
+<value>TID</value>
+<value>QID</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value>Hyperuricemia</value>
+<value>Platelet Aggregation Inhibition.</value>
+</additionalnotes><population><value>ADULT</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Uricosuric Agents</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

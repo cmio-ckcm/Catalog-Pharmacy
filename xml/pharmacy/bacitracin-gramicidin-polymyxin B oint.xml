@@ -1,0 +1,23 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "bacitracin-gramicidin-polymyxin B oint>
+<dose><value>1</value>
+<value></value>
+</dose><route><value>TOP</value>
+</route><form><value>oint</value>
+</form><drug><value>bacitracin-gramicidin-polymyxin B oint</value>
+</drug><strength><value>500 unit-0.25 mg-10 000 unit/g</value>
+</strength><frequency><value>ONCE</value>
+</frequency><instruction><value>Apply 1 cm to catheter insertion site and apply a 2 x 2 inch dry gauze dressing at the end of each dialysis session.</value>
+<value>Apply 1 cm to catheter insertion site at dressing changes.</value>
+</instruction><volume><value>15 g</value>
+</volume><units><value>cm</value>
+<value></value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Usage guidelines.</value>
+</ahsformularystatus><ahfsname><value>Skin and Mucous Membrane Agents, Antibacterials</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

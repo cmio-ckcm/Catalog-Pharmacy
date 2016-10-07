@@ -1,0 +1,26 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "anagrelide cap>
+<dose><value>0.5</value>
+<value>1</value>
+<value>1.5</value>
+<value>2</value>
+<value>2.5</value>
+</dose><route><value>PO</value>
+</route><form><value>cap</value>
+</form><drug><value>anagrelide cap</value>
+</drug><strength><value>0.5 mg </value>
+</strength><frequency><value>QID</value>
+<value>BID</value>
+<value>DAILY</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value>Dosage should be adjusted to lowest effective dose required to reduce and maintain platelet count below 600 000/microllitre and ideally to the normal range.</value>
+</additionalnotes><population><value>ADULT</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</ahsformularystatus><ahfsname><value>Antithrombotic Agents, Platelet-reducing Agents</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

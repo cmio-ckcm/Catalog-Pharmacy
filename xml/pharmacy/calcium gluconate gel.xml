@@ -1,0 +1,20 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "calcium gluconate gel>
+<dose><value></value>
+</dose><route><value>TOP </value>
+</route><form><value>gel</value>
+</form><drug><value>calcium gluconate gel</value>
+</drug><strength><value>2.5%</value>
+</strength><frequency><value>Apply generously to affected area and massage into skin.</value>
+</frequency><instruction><value>Apply generously to affected area and massage into skin.</value>
+</instruction><volume><value>25 g</value>
+</volume><units><value></value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value>YES</value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Skin and Mucous Membrane Agents, Miscellaneous</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

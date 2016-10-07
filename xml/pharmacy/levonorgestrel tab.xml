@@ -1,0 +1,20 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "levonorgestrel tab>
+<dose><value>1.5</value>
+</dose><route><value>PO</value>
+</route><form><value>tab</value>
+</form><drug><value>levonorgestrel tab</value>
+</drug><strength><value>0.75 mg</value>
+</strength><frequency><value>ONCE</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value>Should be taken within 72 hours of unprotected intercourse. If vomiting occurs within first 2 hours after taking dose, an additional dose should be considered.</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Estrogens and Estrogen Agonists-Antagonists</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

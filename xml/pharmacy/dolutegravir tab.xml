@@ -1,0 +1,24 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "dolutegravir tab>
+<dose><value>50</value>
+</dose><route><value>PO</value>
+</route><form><value>tab</value>
+</form><drug><value>dolutegravir tab</value>
+</drug><strength><value>50 mg</value>
+</strength><frequency><value>DAILY</value>
+<value>BID</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value>Recommended for treatment naïve and treatment-experienced, INI-naïve patients.</value>
+<value>Recommended for treatment naïve patients when co-administered with potent UGT1A/CYP3A inducers, including efavirenz, tipranavir/ritonavir, fosamprenavir/ritonaviror rifampin.</value>
+<value>Treatment-experienced, INI-resistant patients.</value>
+</additionalnotes><population><value>ADULT, CHILDREN, aged 12 to 18 AND weighing at least 40 kg.</value>
+<value>ADULT</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=8101</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</ahsformularystatus><ahfsname><value>Antivirals, Antiretrovirals</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

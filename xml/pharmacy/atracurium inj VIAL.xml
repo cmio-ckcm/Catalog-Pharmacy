@@ -1,0 +1,58 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "atracurium inj VIAL>
+<dose><value>0.4</value>
+<value>0.45</value>
+<value>0.5</value>
+<value>0.25</value>
+<value>0.3</value>
+<value>0.35</value>
+<value>0.08</value>
+<value>0.09</value>
+<value>0.1</value>
+<value>1</value>
+<value>2</value>
+<value>3</value>
+<value>4</value>
+<value>5</value>
+<value>6</value>
+<value>7</value>
+<value>8</value>
+<value>9</value>
+<value>10</value>
+<value>11</value>
+<value>12</value>
+<value>13</value>
+<value>14</value>
+<value>15</value>
+<value>0.03</value>
+<value>0.15</value>
+<value>0.2</value>
+</dose><route><value>IV</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>atracurium inj VIAL</value>
+</drug><strength><value>10 mg/mL</value>
+</strength><frequency><value>ONCE</value>
+<value>CONTINUOUS</value>
+</frequency><instruction><value>Bolus dose.</value>
+<value>Bolus dose, when administered under steady state of enflurane or isoflurane.</value>
+<value>Administer 20 to 45 minutes post-bolus dose. May repeat dose at 15 to 25 minute intervals. Titrate according to patient response up to 0.2 mg/kg</value>
+<value>Administer by continuous infusion.</value>
+<value>Maintenance dose PRN to maintain neuromuscular blockade.</value>
+<value>Administer 40 to 65 minutes following initial dose PRN to maintain neuromuscular blockade.</value>
+</instruction><volume><value>10 mL</value>
+</volume><units><value>mg/kg</value>
+<value>mcg/kg/minute</value>
+</units><additionalnotes><value></value>
+<value>ADULT</value>
+<value>5 to 9 mcg/kg/minute usually adequate to maintain continuous neoromuscular blockade.</value>
+</additionalnotes><population><value></value>
+<value>AGE: 2 to 12 years</value>
+<value>AGE: 12 years and older</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+<value>YES</value>
+</prninformation><ahsformularystatus><value>Discontinued.</value>
+</ahsformularystatus><ahfsname><value>Skeletal Muscle Relaxants, Neuromuscular Blocking Agents</value>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose><value>YES</value>
+</maximumprndose></drug>

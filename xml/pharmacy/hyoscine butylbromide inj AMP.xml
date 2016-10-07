@@ -1,0 +1,44 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "hyoscine butylbromide inj AMP>
+<dose><value>5</value>
+<value>10</value>
+<value>20</value>
+<value>30</value>
+<value>40</value>
+</dose><route><value>IM</value>
+<value>IV</value>
+<value>SC</value>
+</route><form><value>inj AMP</value>
+</form><drug><value>hyoscine butylbromide inj AMP</value>
+</drug><strength><value>20 mg/mL</value>
+</strength><frequency><value>ONCE</value>
+<value>DAILY</value>
+<value>BID</value>
+<value>TID</value>
+<value>QID</value>
+<value>CONTINUOUS</value>
+</frequency><instruction><value></value>
+<value>Administer 10 minutes prior to examination.</value>
+<value>Administer 15 minutes prior to examination.</value>
+<value>May repeat 3 times daily.</value>
+<value>May repeat 4 times daily.</value>
+<value>Review response to reduction of respiratory secretions after 30 minutes.</value>
+<value>Administer as continuous subcutaneous infusion.</value>
+</instruction><volume><value>1 mL</value>
+</volume><units><value>mg</value>
+<value>mg/hour</value>
+</units><additionalnotes><value></value>
+<value>Radiographic Examinations: Adult</value>
+<value>Anticholinergic/Antispasmodic</value>
+<value>Bowel Obstruction</value>
+</additionalnotes><population><value>INFANT/CHILDREN</value>
+<value></value>
+<value>ADULT</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+<value>YES</value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Anticholinergic Agents, Antimuscarinics/Antispasmodics</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

@@ -1,0 +1,25 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "tenofovir disoproxil fumarate tab>
+<dose><value>300</value>
+</dose><route><value>PO</value>
+</route><form><value>tab</value>
+</form><drug><value>tenofovir disoproxil fumarate tab</value>
+</drug><strength><value>300 mg</value>
+</strength><frequency><value>DAILY</value>
+<value>Q48H</value>
+<value>Q72H</value>
+<value>Q96H</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value>CrCl 50 mL/minute or greater. HIV, Chronic Hepatitis B</value>
+<value>CrCl 30 to 49 mL/minute. HIV, Chronic Hepatitis B</value>
+<value>CrCl 10 to 29 mL/minute. HIV, Chronic Hepatitis B</value>
+</additionalnotes><population><value>ADULT, aged 12 years and older.</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3303</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</ahsformularystatus><ahfsname><value>Antivirals, Antiretrovirals</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

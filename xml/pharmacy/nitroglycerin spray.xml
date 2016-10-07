@@ -1,0 +1,20 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "nitroglycerin spray>
+<dose><value>1 - 2</value>
+</dose><route><value>PO</value>
+</route><form><value>spray</value>
+</form><drug><value>nitroglycerin spray</value>
+</drug><strength><value>0.4 mg</value>
+</strength><frequency><value>EVERY 5 MINUTES</value>
+</frequency><instruction><value>Spray onto or under the tongue for relief of angina symptoms. May repeat dose twice at 5 (up to 10) minute intervals.</value>
+</instruction><volume><value></value>
+</volume><units><value>spray</value>
+</units><additionalnotes><value>DO NOT inhale the spray.</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value>Angina symptoms</value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value>YES</value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Vasodilating Agents, Nitrates and Nitrites</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

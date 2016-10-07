@@ -1,0 +1,39 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "cycloSPORINE inj AMP>
+<dose><value>3</value>
+<value>4</value>
+<value>5</value>
+<value>6</value>
+<value>2.5</value>
+<value>2</value>
+<value>7</value>
+<value>8</value>
+<value>9</value>
+<value>10</value>
+</dose><route><value>IV</value>
+</route><form><value>inj AMP</value>
+</form><drug><value>cycloSPORINE inj AMP</value>
+</drug><strength><value>50 mg/mL</value>
+</strength><frequency><value>Q12H</value>
+<value>Q8H</value>
+<value>CONTINUOUS  </value>
+</frequency><instruction><value>Administer daily calculated dose in 2 equally divided doses</value>
+<value></value>
+<value>Administer daily calculated dose in 3 equally divided doses</value>
+<value>Administer as continuous infusion.</value>
+</instruction><volume><value>1 mL</value>
+<value>5 mL</value>
+</volume><units><value>mg/kg/day</value>
+<value>mg/kg/dose</value>
+</units><additionalnotes><value>Adjust towards targeted cyclosporing level.</value>
+<value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>Solid organ transplant (prevention &amp; treatment</value>
+<value>Bone marrow transplant/GVHD (treatment &amp; prevention)</value>
+<value>Children dosing</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</ahsformularystatus><ahfsname><value>Immunosuppressive Agents</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

@@ -1,0 +1,31 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "chromium chloride inj VIAL>
+<dose><value>0.05 - 0.2</value>
+<value>0.2</value>
+<value>0.14 - 0.2</value>
+<value>5 - 15</value>
+<value>10 - 15</value>
+</dose><route><value>IV</value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>chromium chloride inj VIAL</value>
+</drug><strength><value>4 mcg/mL</value>
+</strength><frequency><value>DAILY</value>
+</frequency><instruction><value></value>
+</instruction><volume><value>10 mL</value>
+</volume><units><value>mcg/kg</value>
+<value>mcg </value>
+<value>mcg</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value>NEONATE, Pre-term less than 3 kg.</value>
+<value>NEONATE, Term 3 to 10 kg</value>
+<value>INFANT, 3 to 10 kg</value>
+<value>INFANT/CHILDREN, 11 to 40 kg</value>
+<value>ADOLESCENTS, weighing more than 40 kg. </value>
+<value>ADULT</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Replacement Preparations</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

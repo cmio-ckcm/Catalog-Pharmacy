@@ -1,0 +1,27 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "etoposide cap>
+<dose><value>200</value>
+<value>150</value>
+</dose><route><value>PO</value>
+</route><form><value>cap</value>
+</form><drug><value>etoposide cap</value>
+</drug><strength><value>50 mg</value>
+</strength><frequency><value>DAILY</value>
+</frequency><instruction><value>DAY 2 &amp; 3 of 21. DAILY for 2 days.</value>
+<value>DAYS 2 &amp; 3 of 21. DAILY for 2 days.</value>
+<value>DAYS 1 - 5 of 21. DAILY for 5 days.</value>
+</instruction><volume><value></value>
+</volume><units><value>mg/m2/day</value>
+<value>mg</value>
+</units><additionalnotes><value>Dose rounded off to nearest 50 mg.</value>
+<value></value>
+</additionalnotes><population><value>CISplatin/etoposide (po). Small Cell Lung Cancer</value>
+<value>CARBOplatin/Etoposide (IV/po). Small Cell Lung Cancer</value>
+<value>Etoposide (po) SCLC-Prov. Small Cell Lung Cancer</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3390</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Antineoplastic Agents</value>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose><value>YES</value>
+</maximumprndose></drug>

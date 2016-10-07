@@ -1,0 +1,55 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "glucagon inj SYR>
+<dose><value>20 - 200</value>
+<value>1</value>
+<value>20 - 30</value>
+<value>2</value>
+<value>0.5 - 1</value>
+<value>5 - 20</value>
+<value>0.25 - 2</value>
+<value>50 - 150</value>
+<value>1 - 16</value>
+<value>5</value>
+</dose><route><value>IM</value>
+<value>IV</value>
+<value>SC</value>
+</route><form><value>inj SYR</value>
+</form><drug><value>glucagon inj SYR</value>
+</drug><strength><value>1 mg</value>
+</strength><frequency><value>ONCE</value>
+<value>CONTINUOUS</value>
+</frequency><instruction><value>May repeat dose if necessary.</value>
+<value>May repeat in 20 minutes if necessary.</value>
+<value>May administer 1 or 2 additional doses at 20 minute intervals if necessary.</value>
+<value>Administer 10 minutes prior to procedure.</value>
+<value>Administer by continuous infusion.</value>
+<value>Administer by direct injection, followed by continuous infusion.</value>
+<value>Administer by direct injection, repeat every 5 to 10 minutes for up to 3 doses if necessary.</value>
+<value></value>
+</instruction><volume><value></value>
+</volume><units><value>mcg/kg/dose</value>
+<value>mg/dose</value>
+<value>mg</value>
+<value>mg/day</value>
+<value>mcg/kg/hour</value>
+<value>mcg/kg</value>
+<value>mg/hour</value>
+</units><additionalnotes><value>Hypoglycemia. MAXIMUM dose: 1 mg (1000 mcg)</value>
+<value>Hypoglycemia</value>
+<value>Diagnostic Aid</value>
+<value>Hypoglycemia. </value>
+<value>Congential Hyperinsulinism / Hyperinsulinemic Hypoglycemia.</value>
+<value>Cardiogenic shick due to Beta-Blocker or Calcium Channel Blocker Overdose</value>
+<value>Foreign body in esophagus (obstruction or impaction of food). If food does not pass in 20 minutes, suggest administering an additional 2 mg dose.</value>
+</additionalnotes><population><value>NEONATE</value>
+<value>INFANT / CHILDREN, weighing more than 20 kg.</value>
+<value>INFANT / CHILDREN, weighing 20 kg or less.</value>
+<value>ADULT</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1163</value>
+</backgroundinformation><prninformation><value>YES</value>
+<value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Antihypoglycemic Agents, Glycogenolytic Agents</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

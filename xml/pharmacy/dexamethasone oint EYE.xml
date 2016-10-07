@@ -1,0 +1,29 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "dexamethasone oint EYE>
+<dose><value>1.5</value>
+<value></value>
+</dose><route><value>OPHTH</value>
+</route><form><value>oint EYE</value>
+</form><drug><value>dexamethasone oint EYE</value>
+</drug><strength><value>0.1%</value>
+</strength><frequency><value>Q4H</value>
+<value>TID</value>
+<value>QID</value>
+<value>DAILY</value>
+</frequency><instruction><value>Apply to the conjunctival sac of each eye during night.</value>
+<value>Apply a small ribbon of ointment to the LEFT eye conjuctival sac.</value>
+<value>Apply a small ribbon of ointment to the RIGHT eye conjuctival sac.</value>
+<value>Apply a small ribbon of ointment to the affected eye(s) conjuctival sac.</value>
+<value>Apply a small ribbon of ointment to conjuctival sac of BOTH eyes.</value>
+</instruction><volume><value>3.5g</value>
+</volume><units><value>cm</value>
+<value></value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>EENT Drugs, Anti-inflammatory Agents, Corticosteroids</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

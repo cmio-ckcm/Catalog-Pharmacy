@@ -1,0 +1,32 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "phenyTOIN tab CHEW>
+<dose><value>50</value>
+<value>5</value>
+<value>4 -8</value>
+</dose><route><value>PO</value>
+</route><form><value>tab CHEW</value>
+</form><drug><value>phenyTOIN tab CHEW</value>
+</drug><strength><value>50 mg</value>
+</strength><frequency><value>HS</value>
+<value>BID </value>
+<value>TID </value>
+<value>BID</value>
+<value>TID</value>
+</frequency><instruction><value></value>
+<value>Administer daily calculated dose in 2 equally divided doses.</value>
+<value>Administer daily calculated dose in 3 equally divided doses.</value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+<value>mg/kg/day</value>
+</units><additionalnotes><value></value>
+<value>Initial dose, up to 300 mg/day.</value>
+<value>Maintenance dose, up to 300 mg/day</value>
+</additionalnotes><population><value></value>
+<value>CHILDREN. Less than 18 years.</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Anticonvulsants, Hydantoins</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

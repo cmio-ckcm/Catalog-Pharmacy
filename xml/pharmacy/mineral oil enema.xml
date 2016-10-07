@@ -1,0 +1,24 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "mineral oil enema>
+<dose><value>1</value>
+<value>118</value>
+<value>60</value>
+</dose><route><value>PR</value>
+</route><form><value>enema</value>
+</form><drug><value>mineral oil enema</value>
+</drug><strength><value>100%</value>
+</strength><frequency><value>DAILY</value>
+</frequency><instruction><value></value>
+</instruction><volume><value>118 mL</value>
+</volume><units><value>enema</value>
+<value>mL</value>
+</units><additionalnotes><value>ADULT &amp; Children 12 years and older.</value>
+<value>CHILDREN: aged 2 to 11 years.</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value>Constipation</value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value>YES</value>
+</prninformation><ahsformularystatus><value>Not a pharmacy product_pending DTC decision.</value>
+</ahsformularystatus><ahfsname><value>Cathartics and Laxatives</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

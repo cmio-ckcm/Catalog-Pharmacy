@@ -1,0 +1,41 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "salbutamol inj AMP>
+<dose><value>0.1 - 0.4</value>
+<value>4</value>
+<value>0.2 - 10</value>
+<value>250</value>
+<value>5 - 20</value>
+<value>10</value>
+</dose><route><value>IV</value>
+<value>IV </value>
+</route><form><value>inj AMP</value>
+</form><drug><value>salbutamol inj AMP</value>
+</drug><strength><value>1 mg/mL</value>
+</strength><frequency><value>CONTINUOUS</value>
+<value>Q4H</value>
+<value>ONCE</value>
+</frequency><instruction><value>Administer by continuous infusion.</value>
+<value></value>
+<value>Administer by continuous infusion, titrate to desired response.</value>
+<value>Administer by direct injection. </value>
+</instruction><volume><value>5 mL</value>
+</volume><units><value>mcg/kg/minute</value>
+<value>mcg/kg/dose</value>
+<value>mcg</value>
+<value>mcg/minute</value>
+</units><additionalnotes><value>Consider inhalation therapy first for bronchospasm.</value>
+<value></value>
+<value>MAXIMUM dose: 10 mcg/kg/minute.</value>
+</additionalnotes><population><value>NEONATE. Bronchospasm / Hyperkalemia.</value>
+<value>NEONATE. Bronchospasm.</value>
+<value>NEONATE. Hyperkalemia.</value>
+<value>INFANT / CHILDREN. Acute Severe Asthma.</value>
+<value>INFANT / CHILDREN. Hyperkalemia</value>
+<value>ADULT. Severe Bronchospasm, Status Asthmaticus.</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Sympathomimetic (Adrenergic) Agents, beta-Adrenergic Agonists</value>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose><value>YES</value>
+</maximumprndose></drug>

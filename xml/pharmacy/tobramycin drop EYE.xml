@@ -1,0 +1,23 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "tobramycin drop EYE>
+<dose><value>1</value>
+<value>2</value>
+</dose><route><value>OPHTH</value>
+</route><form><value>drop EYE</value>
+</form><drug><value>tobramycin drop EYE</value>
+</drug><strength><value>0.3%</value>
+</strength><frequency><value>Q4H</value>
+</frequency><instruction><value>Instill into LEFT eye, while awake.</value>
+<value>Instill into RIGHT eye, while awake.</value>
+<value>Instill into affected eye(s), while awake.</value>
+</instruction><volume><value>5 mL</value>
+</volume><units><value>gtt</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>EENT Drugs, Anti-infectives, Antibacterials</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

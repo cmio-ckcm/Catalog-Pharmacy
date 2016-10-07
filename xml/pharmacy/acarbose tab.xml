@@ -1,0 +1,24 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "acarbose tab>
+<dose><value>100</value>
+<value>50</value>
+</dose><route><value>PO</value>
+</route><form><value>tab</value>
+</form><drug><value>acarbose tab</value>
+</drug><strength><value>100 mg</value>
+<value>50 mg</value>
+</strength><frequency><value>TID</value>
+<value>DAILY</value>
+<value>BID</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Antidiabetic Agents, alpha-Glucosidase Inhibitors</value>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose><value>YES</value>
+</maximumprndose></drug>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "valGANciclovir tab>
+<dose><value>450</value>
+<value>900</value>
+</dose><route><value>PO</value>
+</route><form><value>tab</value>
+</form><drug><value>valGANciclovir tab</value>
+</drug><strength><value>450 mg</value>
+</strength><frequency><value>DAILY</value>
+<value>BID</value>
+<value>EVERY OTHER DAY</value>
+</frequency><instruction><value></value>
+</instruction><volume><value></value>
+</volume><units><value>mg</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3242</value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary with Usage guidelines.</value>
+</ahsformularystatus><ahfsname><value>Antivirals, Nucleosides and Nucleotides</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "LORazepam inj VIAL>
+<dose><value>0.5</value>
+<value>1</value>
+<value>2</value>
+<value>2.5</value>
+<value>3</value>
+<value>4</value>
+<value>0.044</value>
+<value>0.05</value>
+</dose><route><value>IV</value>
+<value>IV </value>
+</route><form><value>inj VIAL</value>
+</form><drug><value>LORazepam inj VIAL</value>
+</drug><strength><value>4 mg/mL</value>
+</strength><frequency><value>ONCE</value>
+<value>Q1H</value>
+<value>Q2H</value>
+</frequency><instruction><value></value>
+<value>Administer 15 minutes prior to procedure.</value>
+<value>Administer 20 minutes prior to procedure.</value>
+<value>until symptoms controlled.</value>
+</instruction><volume><value>1 mL</value>
+</volume><units><value>mg</value>
+<value>mg/kg</value>
+</units><additionalnotes><value></value>
+<value>PRE-OPERATIVE SEDATION: up to a maximum of 2 mg. Administer 15 - 20 minutes prior to procedure.</value>
+<value>PROCEDURAL SEDATION: up to a maximum of 4 mg per dose. Usually 2 mg maximum recommended in patients over 50 years of age.</value>
+<value>Alcohol Withdrawal Sedation</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+<value>YES</value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Anxiolytics, Sedatives, and Hypnotics, Benzodiazepines</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

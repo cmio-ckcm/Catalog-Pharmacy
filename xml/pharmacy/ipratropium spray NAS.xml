@@ -1,0 +1,25 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "ipratropium spray NAS>
+<dose><value>2</value>
+<value>4</value>
+</dose><route><value>INTRANASAL</value>
+</route><form><value>spray NAS</value>
+</form><drug><value>ipratropium spray NAS</value>
+</drug><strength><value>21 mcg</value>
+</strength><frequency><value>BID</value>
+<value>TID</value>
+<value>QID</value>
+</frequency><instruction><value>Instill in each nostril.</value>
+<value>Instill in each nostril for symtomatic relief of rhinorrhea.</value>
+</instruction><volume><value></value>
+</volume><units><value>spray</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+<value>YES</value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Anticholinergic Agents, Antimuscarinics/Antispasmodics</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

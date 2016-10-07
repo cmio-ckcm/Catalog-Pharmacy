@@ -1,0 +1,28 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "nystatin liq ORAL>
+<dose><value>100 000</value>
+<value>200 000</value>
+<value>300 000</value>
+<value>400 000</value>
+<value>500 000</value>
+</dose><route><value>PO</value>
+</route><form><value>liq ORAL</value>
+</form><drug><value>nystatin liq ORAL</value>
+</drug><strength><value>100 000 unit/mL</value>
+</strength><frequency><value>TID</value>
+<value>QID</value>
+</frequency><instruction><value></value>
+</instruction><volume><value>100 mL</value>
+<value>24 mL</value>
+<value>48 mL</value>
+<value>500 mL</value>
+</volume><units><value>unit</value>
+</units><additionalnotes><value>Swish and gargle in mouth prior to swallowing suspension</value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Antifungals, Polyenes</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>

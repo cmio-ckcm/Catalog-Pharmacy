@@ -1,0 +1,29 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "methacholine kit>
+<dose><value>3</value>
+</dose><route><value>NEB</value>
+</route><form><value>kit</value>
+</form><drug><value>methacholine kit</value>
+</drug><strength><value>680 mg</value>
+</strength><frequency><value>ONCE</value>
+</frequency><instruction><value>utilizing 0.03 mg/mL concentration.</value>
+<value>utilizing 0.0625 mg/mL concentration.</value>
+<value>utilizing 0.125 mg/mL concentration.</value>
+<value>utilizing 0.25 mg/mL concentration.</value>
+<value>utilizing 0.5 mg/mL concentration.</value>
+<value>utilizing 1 mg/mL concentration.</value>
+<value>utilizing 2 mg/mL concentration.</value>
+<value>utilizing 4 mg/mL concentration.</value>
+<value>utilizing 8 mg/mL concentration.</value>
+<value>utilizing 16 mg/mL concentration.</value>
+</instruction><volume><value></value>
+</volume><units><value>mL</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Other Diagnostic Agents</value>
+</ahfsname><highalert><value></value>
+</highalert><maximumprndose><value></value>
+</maximumprndose></drug>
