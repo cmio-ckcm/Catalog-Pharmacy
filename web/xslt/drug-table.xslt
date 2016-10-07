@@ -236,18 +236,18 @@ table tr:hover td{
       </td>
 
       <td>
-        <xsl:for-each select="/drug/Population/*">
+        <xsl:for-each select="/drug/population/*">
             <p><xsl:value-of select ="."/></p>
          </xsl:for-each>
       </td>
       <td>
-        <xsl:for-each select="/drug/PRNInformation/*">
+        <xsl:for-each select="/drug/prninformation/*">
             <p><xsl:value-of select ="."/></p>
          </xsl:for-each>
       </td>
 
       <td>
-        <xsl:for-each select="/drug/IndicationPRN/*">
+        <xsl:for-each select="/drug/indicationprn/*">
             <p><xsl:value-of select ="."/></p>
          </xsl:for-each>
       </td>
@@ -258,11 +258,11 @@ table tr:hover td{
 
   <table border = "1">
 
-   <xsl:if test="/drug/HighAlert/value">
+   <xsl:if test="/drug/highalert/value">
     <th>High Alert</th>
     <tr>
       <td>
-        <xsl:for-each select="/drug/HighAlert/*">
+        <xsl:for-each select="/drug/highalert/*">
             <p class="important"><xsl:value-of select ="."/></p>
          </xsl:for-each>
       </td>
@@ -274,7 +274,7 @@ table tr:hover td{
     <th>AHS Formulary Status</th>
     <tr>
       <td>
-        <xsl:for-each select="/drug/AHSFormularyStatus/*">
+        <xsl:for-each select="/drug/ahsformularystatus/*">
             <p class="info"><xsl:value-of select ="."/></p>
          </xsl:for-each>
       </td>
@@ -287,7 +287,7 @@ table tr:hover td{
     </tr>
     <tr>
       <td >
-        <xsl:for-each select="/drug/AHFSName/*">
+        <xsl:for-each select="/drug/ahfsname/*">
            <p class="info"><xsl:value-of select ="."/></p>
          </xsl:for-each>
       </td>
