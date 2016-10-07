@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "rocuronium inj VIAL>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "rocuronium inj VIAL">
 <dose><value>0.6 - 1.2</value>
 <value>0.6</value>
 <value>0.1 - 0.2</value>

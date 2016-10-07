@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "isoproterenol inj VIAL>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "isoproterenol inj VIAL">
 <dose><value>20</value>
 <value>2 - 10</value>
 <value>0.05 - 0.2</value>

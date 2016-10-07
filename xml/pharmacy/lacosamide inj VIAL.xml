@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "lacosamide inj VIAL>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "lacosamide inj VIAL">
 <dose><value>2 - 2.5</value>
 <value>50 - 100</value>
 <value>100 - 200</value>

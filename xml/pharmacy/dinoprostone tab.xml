@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "dinoprostone tab>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "dinoprostone tab">
 <dose><value>0.5</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>

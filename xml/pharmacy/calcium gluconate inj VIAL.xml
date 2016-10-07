@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "calcium gluconate inj VIAL>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "calcium gluconate inj VIAL">
 <dose><value>50 - 200</value>
 <value>60 - 100</value>
 <value>100 - 200</value>

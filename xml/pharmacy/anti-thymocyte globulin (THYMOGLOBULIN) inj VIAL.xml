@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "anti-thymocyte globulin (THYMOGLOBULIN) inj VIAL>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "anti-thymocyte globulin (THYMOGLOBULIN) inj VIAL">
 <dose><value>1 - 1.5</value>
 <value>1.5 - 3</value>
 <value>1.5</value>

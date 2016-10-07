@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "thiotepa inj VIAL>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "thiotepa inj VIAL">
 <dose><value>60</value>
 </dose><route><value>INTRAVESICALLY</value>
 </route><form><value>inj VIAL</value>

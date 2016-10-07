@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "tetanus - diptheria - acellular pertussis (Tdap) inj VIAL>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "tetanus - diptheria - acellular pertussis (Tdap) inj VIAL">
 <dose><value>0.5</value>
 </dose><route><value>IM</value>
 </route><form><value>inj VIAL</value>

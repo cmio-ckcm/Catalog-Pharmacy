@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "octreotide inj AMP>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "octreotide inj AMP">
 <dose><value>1 - 10</value>
 <value>10 - 40</value>
 <value>1 - 2</value>

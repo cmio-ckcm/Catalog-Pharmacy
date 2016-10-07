@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "antivenin, black widow spider (latrodectus mactans) inj VIAL>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "antivenin, black widow spider (latrodectus mactans) inj VIAL">
 <dose><value>6000</value>
 </dose><route><value>IM</value>
 <value>IV</value>

@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "diltiazem (long acting) cap ER>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "diltiazem (long acting) cap ER">
 <dose><value>120</value>
 <value>180</value>
 <value>360</value>

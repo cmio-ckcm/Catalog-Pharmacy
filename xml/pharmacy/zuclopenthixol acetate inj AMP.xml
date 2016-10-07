@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "zuclopenthixol acetate inj AMP>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "zuclopenthixol acetate inj AMP">
 <dose><value>50 - 150</value>
 </dose><route><value>IM</value>
 </route><form><value>inj AMP</value>

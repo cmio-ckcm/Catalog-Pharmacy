@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "talc, sterile powder>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "talc, sterile powder">
 <dose><value>4 - 8</value>
 <value>2.5 - 10</value>
 </dose><route><value>INTRAPLEURAL</value>

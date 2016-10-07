@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "tinzaparin inj SYR>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "tinzaparin inj SYR">
 <dose><value>10 000</value>
 <value>12 000</value>
 <value>14 000</value>

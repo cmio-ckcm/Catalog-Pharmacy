@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "testosterone enanthate inj VIAL>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "testosterone enanthate inj VIAL">
 <dose><value>50 - 400</value>
 <value>50 - 100</value>
 </dose><route><value>IM</value>

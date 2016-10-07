@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "quiNINE sulfate cap>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "quiNINE sulfate cap">
 <dose><value>300</value>
 <value>200</value>
 </dose><route><value>PO</value>

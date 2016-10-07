@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "fluticasone furoate-vilanterol inhaler>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "fluticasone furoate-vilanterol inhaler">
 <dose><value>1</value>
 </dose><route><value>INH</value>
 </route><form><value>inhaler</value>

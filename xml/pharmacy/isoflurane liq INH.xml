@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "isoflurane liq INH>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "isoflurane liq INH">
 <dose><value>2.5 - 4.5</value>
 <value>1.5 - 3</value>
 <value>1.5 - 3.5</value>

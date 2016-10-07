@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "rasburicase inj VIAL>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "rasburicase inj VIAL">
 <dose><value>0.1 - 0.2</value>
 <value>0.15 - 0.2</value>
 <value>0.2</value>

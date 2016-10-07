@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "acetylsalicylic acid tab EC>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "acetylsalicylic acid tab EC">
 <dose><value>325</value>
 <value>650</value>
 <value>81</value>

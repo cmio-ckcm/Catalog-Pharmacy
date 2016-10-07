@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "fluticasone propionate disk>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "fluticasone propionate disk">
 <dose><value>250</value>
 </dose><route><value>INH</value>
 </route><form><value>disk</value>

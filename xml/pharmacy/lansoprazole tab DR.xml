@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "lansoprazole tab DR>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "lansoprazole tab DR">
 <dose><value>15</value>
 <value>30</value>
 </dose><route><value>NG TUBE</value>

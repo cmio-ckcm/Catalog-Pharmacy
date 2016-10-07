@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "alprostadil inj AMP>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "alprostadil inj AMP">
 <dose><value>0.005</value>
 <value>0.01</value>
 <value>0.025</value>

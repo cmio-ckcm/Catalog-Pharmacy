@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "5-aminosalicylic acid (MEZAVANT) tab DR>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "5-aminosalicylic acid (MEZAVANT) tab DR">
 <dose><value>2.4</value>
 <value>4.8</value>
 </dose><route><value>PO</value>

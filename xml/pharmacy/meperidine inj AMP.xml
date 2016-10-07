@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "meperidine inj AMP>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "meperidine inj AMP">
 <dose><value>25 - 100</value>
 <value>25 - 50</value>
 <value>4 - 20</value>

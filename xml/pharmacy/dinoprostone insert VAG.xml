@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "dinoprostone insert VAG>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "dinoprostone insert VAG">
 <dose><value>10</value>
 </dose><route><value>VAGINAL</value>
 </route><form><value>insert VAG</value>

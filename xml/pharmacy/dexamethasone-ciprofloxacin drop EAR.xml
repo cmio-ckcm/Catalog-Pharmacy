@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "dexamethasone-ciprofloxacin drop EAR>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "dexamethasone-ciprofloxacin drop EAR">
 <dose><value>4</value>
 </dose><route><value>OTIC</value>
 </route><form><value>drop EAR</value>

@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "sodium citrate-citric acid liq ORAL>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "sodium citrate-citric acid liq ORAL">
 <dose><value>10</value>
 <value>15</value>
 <value>30</value>

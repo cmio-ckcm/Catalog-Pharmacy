@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "dextrose 3.3%-sodium chloride 0.3% inj BAG>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "dextrose 3.3%-sodium chloride 0.3% inj BAG">
 <dose><value></value>
 </dose><route><value>IV</value>
 </route><form><value>inj BAG</value>

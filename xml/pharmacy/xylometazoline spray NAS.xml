@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "xylometazoline spray NAS>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "xylometazoline spray NAS">
 <dose><value>1 - 2</value>
 </dose><route><value>NASAL</value>
 </route><form><value>spray NAS</value>

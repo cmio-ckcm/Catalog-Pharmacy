@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "fluorescein sodium inj AMP>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "fluorescein sodium inj AMP">
 <dose><value>500</value>
 <value>15 - 20</value>
 <value>1 - 1.5</value>

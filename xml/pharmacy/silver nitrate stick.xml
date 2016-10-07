@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "silver nitrate stick>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "silver nitrate stick">
 <dose><value></value>
 </dose><route><value>TOP</value>
 </route><form><value>stick</value>

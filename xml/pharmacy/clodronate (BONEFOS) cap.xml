@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "clodronate (BONEFOS) cap>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "clodronate (BONEFOS) cap">
 <dose><value>800</value>
 <value>1600</value>
 <value>1200</value>

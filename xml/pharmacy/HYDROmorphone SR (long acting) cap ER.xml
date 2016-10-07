@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "HYDROmorphone SR (long acting) cap ER>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "HYDROmorphone SR (long acting) cap ER">
 <dose><value>12</value>
 <value>18</value>
 <value>24</value>

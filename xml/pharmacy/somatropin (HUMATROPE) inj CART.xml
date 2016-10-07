@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "somatropin (HUMATROPE) inj CART>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "somatropin (HUMATROPE) inj CART">
 <dose><value>0.026 - 0.043</value>
 <value>0.06 - 0.1</value>
 <value>0 - 0.054</value>

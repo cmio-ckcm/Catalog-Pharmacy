@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "5-aminosalicylic acid (SALOFALK) enema>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "5-aminosalicylic acid (SALOFALK) enema">
 <dose><value>4</value>
 </dose><route><value>PR </value>
 </route><form><value>enema</value>

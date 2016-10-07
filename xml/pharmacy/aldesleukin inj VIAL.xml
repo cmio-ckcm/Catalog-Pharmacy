@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "aldesleukin inj VIAL>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "aldesleukin inj VIAL">
 <dose><value>600 000</value>
 <value>600 000 - 720 000</value>
 <value>18 000 000</value>

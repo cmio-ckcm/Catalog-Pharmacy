@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "verapamil (long acting) tab ER>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "verapamil (long acting) tab ER">
 <dose><value>120</value>
 <value>180</value>
 <value>240</value>

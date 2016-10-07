@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "bacitracin liq TOP>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "bacitracin liq TOP">
 <dose><value></value>
 </dose><route><value>IRRIGATION</value>
 </route><form><value>liq TOP</value>

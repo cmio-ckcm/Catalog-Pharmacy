@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "hyaluronidase inj VIAL>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "hyaluronidase inj VIAL">
 <dose><value>30 - 300</value>
 <value>150</value>
 </dose><route><value>SC</value>

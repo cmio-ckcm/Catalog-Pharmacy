@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "potassium iodide-iodine liq ORAL>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "potassium iodide-iodine liq ORAL">
 <dose><value>0.3</value>
 </dose><route><value>PO</value>
 </route><form><value>liq ORAL</value>

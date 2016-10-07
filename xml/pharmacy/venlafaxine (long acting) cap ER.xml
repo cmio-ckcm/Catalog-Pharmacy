@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "venlafaxine (long acting) cap ER>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "venlafaxine (long acting) cap ER">
 <dose><value>150</value>
 <value>37.5</value>
 <value>112.5</value>

@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "pancuronium inj AMP>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "pancuronium inj AMP">
 <dose><value>0.04 - 0.1</value>
 <value>0.01 - 0.04</value>
 <value>0.06 - 0.16</value>

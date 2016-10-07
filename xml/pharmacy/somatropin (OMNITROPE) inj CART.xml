@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "somatropin (OMNITROPE) inj CART>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "somatropin (OMNITROPE) inj CART">
 <dose><value>0.023 - 0.034</value>
 <value>0.047</value>
 <value>0 - 0.067</value>

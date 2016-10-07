@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "sodium phosphate enema>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "sodium phosphate enema">
 <dose><value>1</value>
 </dose><route><value>PR</value>
 </route><form><value>enema</value>

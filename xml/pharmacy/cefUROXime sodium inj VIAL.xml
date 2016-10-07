@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "cefUROXime sodium inj VIAL>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "cefUROXime sodium inj VIAL">
 <dose><value>750</value>
 <value>1500</value>
 </dose><route><value>IM</value>

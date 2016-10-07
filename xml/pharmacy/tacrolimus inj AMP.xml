@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "tacrolimus inj AMP>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "tacrolimus inj AMP">
 <dose><value>0.03 - 0.1</value>
 <value>0.05 - 0.15</value>
 </dose><route><value>IV</value>

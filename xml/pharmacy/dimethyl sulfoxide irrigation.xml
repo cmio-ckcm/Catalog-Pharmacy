@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "dimethyl sulfoxide irrigation>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "dimethyl sulfoxide irrigation">
 <dose><value>50</value>
 </dose><route><value>BLADDER INSTILLATION</value>
 </route><form><value>irrigation</value>

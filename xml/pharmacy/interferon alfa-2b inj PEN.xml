@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "interferon alfa-2b inj PEN>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "interferon alfa-2b inj PEN">
 <dose><value>3</value>
 <value>9</value>
 <value>36</value>

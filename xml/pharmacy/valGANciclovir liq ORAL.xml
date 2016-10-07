@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "valGANciclovir liq ORAL>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "valGANciclovir liq ORAL">
 <dose><value>450</value>
 <value>900</value>
 </dose><route><value>PO</value>

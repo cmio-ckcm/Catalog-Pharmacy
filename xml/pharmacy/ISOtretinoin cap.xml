@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "ISOtretinoin cap>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "ISOtretinoin cap">
 <dose><value>0.5</value>
 <value>0.1 - 1</value>
 </dose><route><value>PO</value>

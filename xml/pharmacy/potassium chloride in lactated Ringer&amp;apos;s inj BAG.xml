@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "potassium chloride in lactated Ringer&amp;apos;s inj BAG>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "potassium chloride in lactated Ringer&amp;apos;s inj BAG">
 <dose><value></value>
 </dose><route><value>IV</value>
 </route><form><value>inj BAG</value>

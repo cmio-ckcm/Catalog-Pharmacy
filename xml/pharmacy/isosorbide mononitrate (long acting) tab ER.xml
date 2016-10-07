@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "isosorbide mononitrate (long acting) tab ER>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "isosorbide mononitrate (long acting) tab ER">
 <dose><value>30</value>
 <value>60</value>
 <value>120</value>

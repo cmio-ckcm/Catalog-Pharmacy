@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "sodium phenylbutyrate granules>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "sodium phenylbutyrate granules">
 <dose><value>450 - 600</value>
 <value>9.9 - 13</value>
 </dose><route><value>PO</value>

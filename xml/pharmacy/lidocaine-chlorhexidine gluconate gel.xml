@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "lidocaine-chlorhexidine gluconate gel>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "lidocaine-chlorhexidine gluconate gel">
 <dose><value>6</value>
 <value>11</value>
 </dose><route><value>INTRA-URETHRAL</value>

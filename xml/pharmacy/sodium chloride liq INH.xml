@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "sodium chloride liq INH>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "sodium chloride liq INH">
 <dose><value>4</value>
 </dose><route><value>INH</value>
 </route><form><value>liq INH</value>

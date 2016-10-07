@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "epiNEPHrine inj PEN>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "epiNEPHrine inj PEN">
 <dose><value>0.15</value>
 <value>0.3</value>
 </dose><route><value>IM</value>

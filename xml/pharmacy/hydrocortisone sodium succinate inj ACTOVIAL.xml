@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "hydrocortisone sodium succinate inj ACTOVIAL>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "hydrocortisone sodium succinate inj ACTOVIAL">
 <dose><value>750</value>
 <value>1000</value>
 <value>50</value>

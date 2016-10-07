@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "levocarnitine inj VIAL>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "levocarnitine inj VIAL">
 <dose><value>8-20</value>
 <value>1 - 50</value>
 <value>50 - 300</value>

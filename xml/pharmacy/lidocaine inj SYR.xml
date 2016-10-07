@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "lidocaine inj SYR>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "lidocaine inj SYR">
 <dose><value>1 - 1.5</value>
 <value>0.5 - 0.75</value>
 <value>0.5 - 1</value>

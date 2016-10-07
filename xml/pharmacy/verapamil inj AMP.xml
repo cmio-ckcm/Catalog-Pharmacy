@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "verapamil inj AMP>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "verapamil inj AMP">
 <dose><value>0.1 - 0.2</value>
 <value>0.1 - 0.3</value>
 <value>2.5 - 5</value>

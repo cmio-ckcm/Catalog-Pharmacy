@@ -1,4 +1,4 @@
-<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "bacillus calmette-guerin inj VIAL>
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "bacillus calmette-guerin inj VIAL">
 <dose><value>50</value>
 </dose><route><value>INTRAVESICALLY</value>
 </route><form><value>inj VIAL</value>
