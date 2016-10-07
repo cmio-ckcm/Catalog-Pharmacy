@@ -1,6 +1,5 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "sodium hyaluronidate inj SYR">
-<dose><value></value>
-</dose><route><value>INTRA-OCULAR</value>
+<dose></dose><route><value>INTRA-OCULAR</value>
 </route><form><value>inj SYR</value>
 </form><drugname><value>sodium hyaluronidate inj SYR</value>
 </drugname><strength><value>10 mg/mL</value>
@@ -13,13 +12,9 @@
 <value>0.85 mL</value>
 <value>0.6 mL</value>
 </volume><units><value>mL</value>
-</units><additionalnotes><value></value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary_pending DTC decision.</value>
+</units><additionalnotes></additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary_pending DTC decision.</value>
 </ahsformularystatus><ahfsname><value>EENT Drugs, Miscellaneous</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>1026</value>
+<value>978</value>
+<value>8791</value>
+</din></drug>

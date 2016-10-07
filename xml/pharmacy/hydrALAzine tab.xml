@@ -15,25 +15,19 @@
 <value>BID</value>
 <value>TID</value>
 <value>DAILY</value>
-</frequency><instruction><value></value>
-<value>Administer daily calculated dose in 2 equally divided doses.</value>
+</frequency><instruction><value>Administer daily calculated dose in 2 equally divided doses.</value>
 <value>Administer daily calculated dose in 3 equally divided doses.</value>
 <value>Administer daily calculated dose in 4 equally divided doses.</value>
 <value>Administer daily calculated dose in 2 equally divided doses, titrating upward to desired effect over 3 to 4 weeks. Maximum daily dose: 200mg.</value>
 <value>Administer daily calculated dose in 3 equally divided doses, titrating upward to desired effect over 3 to 4 weeks. Maximum daily dose: 200mg.</value>
 <value>Administer daily calculated dose in 4 equally divided doses, titrating upward to desired effect over 3 to 4 weeks. Maximum daily dose: 200mg.</value>
-</instruction><volume><value></value>
-</volume><units><value>mg</value>
+</instruction><volume></volume><units><value>mg</value>
 <value>mg/kg/day</value>
-</units><additionalnotes><value></value>
-<value>CHILDREN: Hypertension initial dosing</value>
+</units><additionalnotes><value>CHILDREN: Hypertension initial dosing</value>
 <value>CHILDREN: Hypertension maintenance dosing</value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Hypotensive Agents, Direct Vasodilators</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>00441619</value>
+<value>00441627</value>
+<value>00441635</value>
+</din></drug>

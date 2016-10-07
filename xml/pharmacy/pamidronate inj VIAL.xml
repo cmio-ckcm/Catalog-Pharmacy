@@ -2,7 +2,6 @@
 <dose><value>90</value>
 <value>30</value>
 <value>60</value>
-<value></value>
 <value>0.5 - 1.5</value>
 <value>0.5 - 1</value>
 </dose><route><value>IV</value>
@@ -17,8 +16,7 @@
 <value>ONCE</value>
 <value>EVERY 2 WEEKS</value>
 <value>DAILY</value>
-</frequency><instruction><value></value>
-<value>for 6 doses.</value>
+</frequency><instruction><value>for 6 doses.</value>
 <value>Administer as initial dose on week one.</value>
 <value>for 3 doses.</value>
 <value>for 3 days.</value>
@@ -26,8 +24,7 @@
 </volume><units><value>mg</value>
 <value>mg/kg/dose</value>
 <value>mg/kg/day</value>
-</units><additionalnotes><value></value>
-<value>Regimen 1: Total dose = 180 mg.</value>
+</units><additionalnotes><value>Regimen 1: Total dose = 180 mg.</value>
 <value>Regimen 2: Total dose = 210 mg. (30 mg on week one, followed by 60 mg every 2 weeks for 3 doses.)</value>
 <value>Retreatment regimen: Total dose = 180 mg. May be repeated every 6 months until; remission or relapse.</value>
 <value>Maximum dose: 90 mg</value>
@@ -39,13 +36,9 @@
 <value>ADULT. Tumor-Induced Hypercalcemia (TIH)</value>
 <value>INFANTS / CHILDREN. Hypercalcemia</value>
 <value>INFANTS / CHILDREN. Osteogenesis Imperfecta</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-<value>May repeat dose every 2 to 3 weeks as needed.</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>May repeat dose every 2 to 3 weeks as needed.</value>
 <value>May repeat dose in 4 to 6 month intervals.</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Bone Resorption Inhibitors</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02244550</value>
+</din></drug>

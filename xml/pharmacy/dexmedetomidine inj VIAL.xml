@@ -20,14 +20,11 @@
 <value>Sedation in Critical Care. Rates more than 1.5 mcg/kg/hour do not add to clinical efficacy. Reduce infusion rate by 50% if required post-extubation.</value>
 <value>Procedural Sedation.</value>
 <value>Procedural Sedation. Recommend a maintenance dose of 0.7 mcg/kg/hour for intubation, until endotracheal tube is secured.</value>
-<value></value>
 </additionalnotes><population><value>ADULT</value>
 <value>INFANT / CHILDREN</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3619</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3619</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
 </ahsformularystatus><ahfsname><value>Anxiolytics, Sedatives, and Hypnotics; Miscellaneous</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>02339366</value>
+</din></drug>

@@ -16,7 +16,6 @@
 <value>1400</value>
 <value>2800</value>
 <value>1500</value>
-<value></value>
 </dose><route><value>IV</value>
 </route><form><value>inj AMP</value>
 </form><drugname><value>mesna inj AMP</value>
@@ -92,11 +91,9 @@
 <value>BMT. Mesna treatment with cyclophosphamide.</value>
 <value>Osteosarcoma. </value>
 </additionalnotes><population><value>ADULT</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>Uroprotextant for toxicity caused by cyclophosphamide, ifosfamide therapy.</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>Uroprotextant for toxicity caused by cyclophosphamide, ifosfamide therapy.</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Protective Agents</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02244931</value>
+<value>02241411</value>
+</din></drug>

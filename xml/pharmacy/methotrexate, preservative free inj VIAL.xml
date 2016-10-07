@@ -1,7 +1,6 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "methotrexate, preservative free inj VIAL">
 <dose><value>12</value>
 <value>15</value>
-<value></value>
 <value>40</value>
 <value>50</value>
 <value>12 000</value>
@@ -23,8 +22,7 @@
 <value>25 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>WEEKLY</value>
-</frequency><instruction><value></value>
-<value>Administer by direct injection.</value>
+</frequency><instruction><value>Administer by direct injection.</value>
 <value>Administer with 50 mmol sodium bicarbonate inD5W (total volume 1000 mL) over 4 hours.</value>
 <value>Administer dose diluted in 250 mL 0.9% sodium chloride injection over 1 hour.</value>
 <value>Administer dose diluted in 100 mL D5W injection over 2 hours.</value>
@@ -63,12 +61,12 @@
 <value>Dermatomyositis</value>
 </additionalnotes><population><value>ADULT</value>
 <value>INFANT / CHILDREN</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3308</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3308</value>
 <value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3420</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Antineoplastic Agents</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>02182947</value>
+<value>02182971</value>
+<value>02182955</value>
+</din></drug>

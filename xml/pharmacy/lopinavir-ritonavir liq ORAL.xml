@@ -12,25 +12,18 @@
 </drugname><strength><value>80 mg-20 mg/mL</value>
 </strength><frequency><value>BID</value>
 <value>DAILY</value>
-</frequency><instruction><value></value>
-</instruction><volume><value>160 mL</value>
+</frequency><instruction></instruction><volume><value>160 mL</value>
 </volume><units><value>mL</value>
 <value>mg/kg</value>
 <value>mg/m2</value>
-</units><additionalnotes><value></value>
-<value>Patients weighing from 7 to less than 15 kg, without concomitant efavirenz, nevirapine, nelfinavir or amprenavir.</value>
+</units><additionalnotes><value>Patients weighing from 7 to less than 15 kg, without concomitant efavirenz, nevirapine, nelfinavir or amprenavir.</value>
 <value>Patients weighing from 15 kg to 40 kg, without concomitant efavirenz, nevirapine, nelfinavir or amprenavir.</value>
 <value>Patients not receiving concomitant efavirenz, nevirapine, nelfinavir or amprenavir.</value>
 <value>Patients weighing from 7 to less than 15 kg, with concomitant efavirenz, nevirapine, nelfinavir or amprenavir.</value>
 <value>Patients weighing from 15 kg to 45 kg, with concomitant efavirenz, nevirapine, nelfinavir or amprenavir.</value>
 <value>Patients receiving concomitant efavirenz, nevirapine, nelfinavir or amprenavir.</value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-<value>Dosing based upon lopinavir component</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation><value>Dosing based upon lopinavir component</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
 </ahsformularystatus><ahfsname><value>Antivirals, Antiretrovirals</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02243644</value>
+</din></drug>

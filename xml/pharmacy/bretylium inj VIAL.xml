@@ -15,7 +15,6 @@
 </frequency><instruction><value>Administer by direct injection.</value>
 <value>Administer at 15 to 30 minute intervals as required for persistent ventricular fibrillation. Up to a maximum total dose of 30 mg/kg.</value>
 <value>May repeat dose in 1 to 2 hours if arrhythmia persists.</value>
-<value></value>
 <value>Administer by continuous infusion.</value>
 <value>May repeat dose every 10 to 20 minutes as required, up to a total dose of 30 mg/kg.</value>
 </instruction><volume><value>10 mL</value>
@@ -30,12 +29,9 @@
 <value>Arrhythmias. Maintenance dose. MAXIMUM dose: 40 mg/kg/day.</value>
 </additionalnotes><population><value>ADULT</value>
 <value>CHILDREN</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-<value>YES</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Cardiac Drugs, Antiarrhythmic Agents</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>02185377</value>
+</din></drug>

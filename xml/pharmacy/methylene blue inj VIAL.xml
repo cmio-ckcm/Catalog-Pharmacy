@@ -12,8 +12,7 @@
 <value>Q4H</value>
 <value>Q6H</value>
 <value>Q8H</value>
-</frequency><instruction><value></value>
-</instruction><volume><value>1 mL</value>
+</frequency><instruction></instruction><volume><value>1 mL</value>
 <value>5 mL</value>
 </volume><units><value>mg</value>
 <value>mg/kg</value>
@@ -22,11 +21,7 @@
 <value>Ifosfamide-Induced Encephalopathy. Treat until symptoms resolve.</value>
 </additionalnotes><population><value>ADULT</value>
 <value>INFANT / CHILDREN</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Antidotes</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02230770</value>
+</din></drug>

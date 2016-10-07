@@ -12,19 +12,14 @@
 </drugname><strength><value>10 mg/mL</value>
 <value>40 mg/mL</value>
 </strength><frequency><value>ONCE</value>
-</frequency><instruction><value></value>
-<value>Administer dose per injection site.</value>
+</frequency><instruction><value>Administer dose per injection site.</value>
 </instruction><volume><value>5 mL</value>
 <value>1 mL</value>
 </volume><units><value>mg</value>
-</units><additionalnotes><value></value>
-<value>MAXIMUM dose injected at one time should not exceed 30 mg.</value>
+</units><additionalnotes><value>MAXIMUM dose injected at one time should not exceed 30 mg.</value>
 </additionalnotes><population><value>ADULT</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Adrenals</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02229540</value>
+<value>01977563</value>
+</din></drug>

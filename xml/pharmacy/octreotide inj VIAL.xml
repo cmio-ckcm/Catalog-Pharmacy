@@ -26,8 +26,7 @@
 <value>Q12H</value>
 <value>Q8H</value>
 <value>Q24H</value>
-</frequency><instruction><value></value>
-<value>Administer by continuous infusion. Titrate to desired effect.</value>
+</frequency><instruction><value>Administer by continuous infusion. Titrate to desired effect.</value>
 <value>Administer daily calculated dose in 3 equally divided doses.</value>
 <value>Administer by continuous infusion. Titrate dose to response.</value>
 <value>Administer daily calculated dose in 2 equally divided doses.</value>
@@ -53,7 +52,6 @@
 <value>Initial dose, follow with continuous IV infusion.</value>
 <value>Reduce dose by 50% every 12 hours when no active bleeds occur for 24 hours. May stop infusion when dose is 25% of initial dose.</value>
 <value>Initiate dose at low range and titrate to repsonse.</value>
-<value></value>
 <value>Dosage adjustments are made monthly on growth hormone levels, symptoms and patient tolerability. MAXIMUM: 1500 mcg/day.</value>
 <value>Suggested dosing during the first 2 weeks.</value>
 <value>Experience with daily doses above 750 mcg is limited.</value>
@@ -73,12 +71,10 @@
 <value>NEONATE: high output secretory diarrhea</value>
 <value>INFANT / CHILDREN: Treatment of Oral Hypoglycemic Overdose. </value>
 <value>ADULT: Prevention of complications following pancreatic surgery.</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>AHS Drug Formulary Restrictions:Acute Care: Restricted to the treatment of: 1) suspected or confirmed bleeding of esophageal varices, 2) prevention of post-operative complications following pancreatic surgery, 3) acromegaly, 4) control of symptoms in patient s with vasoactive intestinal peptide secreting tumors (VIPoma) or metastatic carcinoid syndrome.</value>
-</backgroundinformation><prninformation><value></value>
-<value>YES</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>AHS Drug Formulary Restrictions:Acute Care: Restricted to the treatment of: 1) suspected or confirmed bleeding of esophageal varices, 2) prevention of post-operative complications following pancreatic surgery, 3) acromegaly, 4) control of symptoms in patient s with vasoactive intestinal peptide secreting tumors (VIPoma) or metastatic carcinoid syndrome.</value>
+</backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary with Restrictions, Usage guidelines.</value>
 </ahsformularystatus><ahfsname><value>Other Miscellaneous Therapeutic Agents</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02248642</value>
+<value>02248641</value>
+</din></drug>

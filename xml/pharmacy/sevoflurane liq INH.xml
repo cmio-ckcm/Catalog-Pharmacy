@@ -8,17 +8,13 @@
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value>Administered with oxygen</value>
 <value>Administered with Nitrous Oxide and oxygen</value>
-</instruction><volume><value></value>
-</volume><units><value>%</value>
+</instruction><volume></volume><units><value>%</value>
 </units><additionalnotes><value>Suggest reduced dosage in elderly up to 50% by age 80.</value>
-<value></value>
 </additionalnotes><population><value>ADULT</value>
 <value>NEONATE</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=276</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=276</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>General Anesthetics, Inhalation Anesthetics</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>02172763</value>
+</din></drug>

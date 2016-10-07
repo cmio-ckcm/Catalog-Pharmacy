@@ -16,15 +16,11 @@
 </instruction><volume><value>5 mL</value>
 </volume><units><value>mg/kg/hour</value>
 <value>mg/kg/day</value>
-</units><additionalnotes><value></value>
-<value>Initial dose, administered in divided doses. Recommend Q6H dosing inverval when dose exceeds 250 mg.</value>
+</units><additionalnotes><value>Initial dose, administered in divided doses. Recommend Q6H dosing inverval when dose exceeds 250 mg.</value>
 </additionalnotes><population><value>ADULT</value>
 <value>ADULT/ CHILDREN / INFANT</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=516</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary, Health Canada Special Access Programme.</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=516</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary, Health Canada Special Access Programme.</value>
 </ahsformularystatus><ahfsname><value>Anticonvulsants, Anticonvulsants, Miscellaneous</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>0074-1564-10</value>
+</din></drug>

@@ -4,7 +4,6 @@
 <value>150</value>
 <value>300</value>
 <value>10 - 20</value>
-<value></value>
 </dose><route><value>PO</value>
 </route><form><value>liq ORAL</value>
 </form><drugname><value>theophylline liq ORAL</value>
@@ -15,26 +14,19 @@
 <value>Q6H</value>
 <value>Q4H</value>
 <value>Q8H</value>
-</frequency><instruction><value></value>
-<value>Administer daily calculated dose in 4 equally divided doses.</value>
+</frequency><instruction><value>Administer daily calculated dose in 4 equally divided doses.</value>
 <value>Administer daily calculated dose in 6 equally divided doses.</value>
 <value>Administer daily calculated dose in 3 equally divided doses.</value>
-</instruction><volume><value></value>
-</volume><units><value>mg</value>
+</instruction><volume></volume><units><value>mg</value>
 <value>mg/kg/day</value>
 <value>mg/day</value>
-</units><additionalnotes><value></value>
-<value>Recommended limit of 400 mg/day for adults over 60 years of age.</value>
+</units><additionalnotes><value>Recommended limit of 400 mg/day for adults over 60 years of age.</value>
 <value>MAXIMUM: 600 mg/day.</value>
 </additionalnotes><population><value>ADULT</value>
 <value>CHILDREN, 1 year and older AND less than 45 kg in weight.</value>
 <value>INFANT, Full-term AND less than 26 weeks of age.</value>
 <value>INFANT, Full-term AND greater than 26 weeks, but less than 52 weeks of age.</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Respiratory Smooth Muscle Relaxants</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>01966219</value>
+</din></drug>

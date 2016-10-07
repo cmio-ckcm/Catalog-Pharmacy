@@ -11,15 +11,8 @@
 <value>Instill in RIGHT eye prior to evaluation.</value>
 <value>Instill in LEFT eye every 5 minutes for 3 doses Pre-Operatively.</value>
 <value>Instill in RIGHT eye every 5 minutes for 3 doses Pre-Operatively.</value>
-</instruction><volume><value></value>
-</volume><units><value>gtt</value>
-</units><additionalnotes><value></value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</instruction><volume></volume><units><value>gtt</value>
+</units><additionalnotes></additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>EENT Drugs, Local Anesthetics, </value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02148528</value>
+</din></drug>

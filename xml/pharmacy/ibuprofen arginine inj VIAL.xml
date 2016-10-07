@@ -25,14 +25,10 @@
 <value>MAXIMUM DOSE: 3200 mg/day</value>
 </additionalnotes><population><value>NEONATE</value>
 <value>ADULT </value>
-</population><indicationprn><value></value>
-<value>Pain</value>
+</population><indicationprn><value>Pain</value>
 <value>Temperature greater than 37.5°C. </value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-<value>YES</value>
+</indicationprn><backgroundinformation></backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Analgesics and Antipyretics, Nonsteroidal Anti-inflammatory Agents</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02376857</value>
+</din></drug>

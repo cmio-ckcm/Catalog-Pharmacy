@@ -13,8 +13,7 @@
 </strength><frequency><value>Q8H</value>
 <value>Q12H</value>
 <value>Q24H</value>
-</frequency><instruction><value></value>
-</instruction><volume><value>20 mL</value>
+</frequency><instruction></instruction><volume><value>20 mL</value>
 <value>10 mL</value>
 </volume><units><value>mg/kg</value>
 </units><additionalnotes><value>Adult dose should be based on ideal body weight or actual body weight, which ever is less. Adjust dose based upon creatinine clearance: If CrCl is greater than 50 mL/minute: usual dose every 8 hours. If CrCl is 25 to 50 mL/minute: usual dose every 12 hours. If CrCl is 10 to 25 mL/minute: usual dose once daily. If CrCl is less than 10 mL/minute: 50% of dose once daily.</value>
@@ -22,12 +21,9 @@
 </additionalnotes><population><value>ADULT, CHILDREN</value>
 <value>ADULT </value>
 <value>NEONATE</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Non-Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Non-Formulary.</value>
 <value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Antivirals, Nucleosides and Nucleotides</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02236916</value>
+<value>02236926</value>
+</din></drug>

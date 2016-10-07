@@ -8,15 +8,10 @@
 <value>40 mg</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value>Administer with a meal.</value>
-</instruction><volume><value></value>
-</volume><units><value>mg/kg</value>
+</instruction><volume></volume><units><value>mg/kg</value>
 </units><additionalnotes><value>Complete treatment course is 12 to 16 weeks.</value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
 </ahsformularystatus><ahfsname><value>Skin and Mucous Membrane Agents, Miscellaneous</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02257955</value>
+<value>02257963</value>
+</din></drug>

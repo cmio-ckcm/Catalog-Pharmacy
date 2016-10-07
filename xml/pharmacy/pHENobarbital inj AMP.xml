@@ -35,8 +35,7 @@
 <value>CONTINUOUS</value>
 <value>Q12H</value>
 <value>TID</value>
-</frequency><instruction><value></value>
-<value>Administer by direct injection. Repeat at 20 minute intervals until seizure is controlled OR a total cumulative dose of 1 to 2 grams is administered.</value>
+</frequency><instruction><value>Administer by direct injection. Repeat at 20 minute intervals until seizure is controlled OR a total cumulative dose of 1 to 2 grams is administered.</value>
 <value>Administer by continuous infusion.</value>
 <value>Repeat dose every 15 to 30 minutes until seizure is controlled OR a total dose of 30 mg/kg is administered.</value>
 <value>Administer daily calculated dose in 2 equally divided doses.</value>
@@ -49,7 +48,6 @@
 <value>mg/hour</value>
 <value>mg/day</value>
 </units><additionalnotes><value>Maintenance dose. Initiate 12 to 24 hours after loading dose is administered. </value>
-<value></value>
 <value>Maximum dose: 600 mg/day</value>
 <value>Loading dose.</value>
 <value>Loading dose. </value>
@@ -69,13 +67,10 @@
 <value>CHILDREN; Aged 5 to 12 years. Antiepileptic Maintenance dose.</value>
 <value>CHILDREN; Aged greater than 12 years. Antiepileptic Maintenance dose.</value>
 <value>ADULT. Chronic Seizures in Palliative Patients.</value>
-</population><indicationprn><value></value>
-<value>Seizures</value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-<value>YES</value>
+</population><indicationprn><value>Seizures</value>
+</indicationprn><backgroundinformation></backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Anticonvulsants, Barbiturates</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02304090</value>
+<value>02304082</value>
+</din></drug>

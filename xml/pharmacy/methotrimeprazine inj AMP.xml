@@ -23,8 +23,7 @@
 <value>BID</value>
 <value>TID</value>
 <value>CONTINUOUS</value>
-</frequency><instruction><value></value>
-<value>Administer 45 minutes pre-operatively</value>
+</frequency><instruction><value>Administer 45 minutes pre-operatively</value>
 <value>Administer 60 minutes pre-operatively</value>
 <value>Administer 90 minutes pre-operatively</value>
 <value>Administer 2 hours pre-operatively</value>
@@ -46,15 +45,10 @@
 <value>Adjust dose and repeat as required.</value>
 <value>CHILDREN. 12 years and older. May be given in single dose or divided doses.</value>
 <value>CHILDREN. 12 years and older.</value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-<value>for Post-Operative Pain.</value>
-</indicationprn><backgroundinformation><value></value>
-<value>Dose administered 45 minutes to 3 hours pre-op.</value>
-</backgroundinformation><prninformation><value></value>
-<value>YES</value>
+</additionalnotes><population></population><indicationprn><value>for Post-Operative Pain.</value>
+</indicationprn><backgroundinformation><value>Dose administered 45 minutes to 3 hours pre-op.</value>
+</backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Psychotherapeutic Agents, Antipsychotics</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>01927698</value>
+</din></drug>

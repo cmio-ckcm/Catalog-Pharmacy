@@ -12,11 +12,9 @@
 </volume><units><value>mL</value>
 </units><additionalnotes><value>Effectiveness is increased when administered in combination with a soother.</value>
 </additionalnotes><population><value>NEONATE</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value>YES</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Non-Formulary_pending DTC decision.</value>
 </ahsformularystatus><ahfsname><value>Caloric Agents</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose><value>5 doses per day</value>
+</maximumprndose><din><value>N/A</value>
+</din></drug>

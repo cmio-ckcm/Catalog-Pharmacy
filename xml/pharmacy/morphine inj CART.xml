@@ -1,6 +1,5 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "morphine inj CART">
-<dose><value></value>
-<value>0.125</value>
+<dose><value>0.125</value>
 <value>0.25</value>
 <value>0.375</value>
 <value>0.5</value>
@@ -24,16 +23,11 @@
 </instruction><volume><value>30 mL</value>
 </volume><units><value>mg/hour</value>
 <value>mg</value>
-</units><additionalnotes><value></value>
-<value>Require Lock-out time.</value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-<value>Average lock-out time is 8 minutes. Range = 5 - 90 minutes.</value>
-</backgroundinformation><prninformation><value></value>
-<value>YES</value>
+</units><additionalnotes><value>Require Lock-out time.</value>
+</additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation><value>Average lock-out time is 8 minutes. Range = 5 - 90 minutes.</value>
+</backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Analgesics and Antipyretics, Opiate Agonists</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>00649619</value>
+</din></drug>

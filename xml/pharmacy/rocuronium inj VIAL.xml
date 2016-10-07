@@ -24,8 +24,7 @@
 <value>mcg/kg/minute</value>
 <value>mg/kg/dose</value>
 <value>mcg/kg/dose</value>
-</units><additionalnotes><value></value>
-<value>Usual MAXIMUM dose: 16 mcg/kg/minute</value>
+</units><additionalnotes><value>Usual MAXIMUM dose: 16 mcg/kg/minute</value>
 </additionalnotes><population><value>ADULT. Rapid Intubation</value>
 <value>ADULT. Routine Endotracheal Intubation, regardless of anesthetic agent.</value>
 <value>ADULT. Administered at 25% recovery of control T1.</value>
@@ -35,12 +34,9 @@
 <value>CHILDREN.  </value>
 <value>INFANT / CHILDREN. Tracheal Intubation.</value>
 <value>CHILDREN.</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-<value>YES</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Skeletal Muscle Relaxants, Neuromuscular Blocking Agents</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>02108208</value>
+</din></drug>

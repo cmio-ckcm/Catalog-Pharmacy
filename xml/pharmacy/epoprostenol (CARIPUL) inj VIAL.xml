@@ -25,16 +25,12 @@
 <value>1.5 mg</value>
 </strength><frequency><value>CONTINUOUS</value>
 </frequency><instruction><value>Administer as continuous infusion.  Adjust infusion by 1 to 2 ng/kg/minute every 15 minutes to allow assessment of clinical response/tolerability/adverse effects. (1 mcg = 1000 ng)</value>
-</instruction><volume><value></value>
-</volume><units><value>ng/kg/minute</value>
-</units><additionalnotes><value></value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=6861</value>
+</instruction><volume></volume><units><value>ng/kg/minute</value>
+</units><additionalnotes></additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=6861</value>
 <value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=6862</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
 </ahsformularystatus><ahfsname><value>Vasodilating Agents</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>02397447</value>
+<value>02397455</value>
+</din></drug>

@@ -5,16 +5,10 @@
 </form><drugname><value>fosfomycin packet</value>
 </drugname><strength><value>3 g</value>
 </strength><frequency><value>DAILY</value>
-</frequency><instruction><value></value>
-</instruction><volume><value></value>
-</volume><units><value>g</value>
-</units><additionalnotes><value></value>
-</additionalnotes><population><value>ADULT</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2593</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary with Usage guidelines. Health Canada Special Access Programme.</value>
+</frequency><instruction></instruction><volume></volume><units><value>g</value>
+</units><additionalnotes></additionalnotes><population><value>ADULT</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2593</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary with Usage guidelines. Health Canada Special Access Programme.</value>
 </ahsformularystatus><ahfsname><value>Urinary Anti-infectives</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02240335</value>
+</din></drug>

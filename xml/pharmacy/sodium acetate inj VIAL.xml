@@ -1,15 +1,13 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "sodium acetate inj VIAL">
 <dose><value>3 - 6</value>
 <value>3 - 4</value>
-<value></value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
 </form><drugname><value>sodium acetate inj VIAL</value>
 </drugname><strength><value>4 mmol/mL</value>
 </strength><frequency><value>DAILY</value>
 <value>ONCE</value>
-</frequency><instruction><value></value>
-</instruction><volume><value>50 mL</value>
+</frequency><instruction></instruction><volume><value>50 mL</value>
 </volume><units><value>mmol/kg/day</value>
 <value>mmol</value>
 </units><additionalnotes><value>Maintenance sodium requirements. Maximum infusion rate: 1 mmol/kg/hour (based on sodium component).</value>
@@ -18,11 +16,9 @@
 </additionalnotes><population><value>NEONATE</value>
 <value>INFANT / CHILDREN</value>
 <value>PEDIATRIC</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3056</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3056</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
 </ahsformularystatus><ahfsname><value>Replacement Preparations</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>02181746</value>
+</din></drug>

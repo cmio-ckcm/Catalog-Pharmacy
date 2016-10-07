@@ -7,19 +7,13 @@
 </form><drugname><value>melphalan tab</value>
 </drugname><strength><value>2 mg</value>
 </strength><frequency><value>DAILY</value>
-</frequency><instruction><value></value>
-<value>for 4 days.</value>
-</instruction><volume><value></value>
-</volume><units><value>mg</value>
+</frequency><instruction><value>for 4 days.</value>
+</instruction><volume></volume><units><value>mg</value>
 <value>mg/m2</value>
 <value>mg/m2/day</value>
-</units><additionalnotes><value></value>
-</additionalnotes><population><value>ADULT</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</units><additionalnotes></additionalnotes><population><value>ADULT</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Antineoplastic Agents</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>00004715</value>
+</din></drug>

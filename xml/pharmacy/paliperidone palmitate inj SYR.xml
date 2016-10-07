@@ -12,22 +12,19 @@
 <value>75 mg</value>
 </strength><frequency><value>MONTHLY</value>
 <value>ONCE</value>
-</frequency><instruction><value></value>
-</instruction><volume><value>1 mL</value>
+</frequency><instruction></instruction><volume><value>1 mL</value>
 <value>1.5 mL</value>
 <value>0.5 mL</value>
 <value>0.75 mL</value>
 </volume><units><value>mg</value>
-</units><additionalnotes><value></value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=4142</value>
+</units><additionalnotes></additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=4142</value>
 <value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=4143</value>
 <value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=4140</value>
 <value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=4141</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
 </ahsformularystatus><ahfsname><value>Psychotherapeutic Agents, Antipsychotics</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02354233</value>
+<value>02354241</value>
+<value>02354217</value>
+<value>02354225</value>
+</din></drug>

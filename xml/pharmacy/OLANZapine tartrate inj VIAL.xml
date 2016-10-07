@@ -10,19 +10,13 @@
 </drugname><strength><value>10 mg</value>
 </strength><frequency><value>ONCE</value>
 <value>Q8H</value>
-</frequency><instruction><value></value>
-</instruction><volume><value></value>
-</volume><units><value>mg</value>
+</frequency><instruction></instruction><volume></volume><units><value>mg</value>
 </units><additionalnotes><value>Agitation. Additional doses should be given at least 2 hours after previous dose with no more than 3 injections in a 24 hour period. MAXIMUM daily dose: 20 mg (all routes).</value>
 <value>Mixed Delerium</value>
 </additionalnotes><population><value>ADULT, Elderly/Debilitated patients</value>
 <value>ADULT</value>
 <value>ADULT, Cancer/Palliative patients</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Psychotherapeutic Agents, Antipsychotics</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02247099</value>
+</din></drug>

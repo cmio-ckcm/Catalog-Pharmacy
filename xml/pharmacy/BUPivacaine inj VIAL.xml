@@ -17,8 +17,7 @@
 </strength><frequency><value>ONCE</value>
 <value>Q3H</value>
 <value>CONTINUOUS</value>
-</frequency><instruction><value></value>
-<value>Administer by Epidural continuous infusion.</value>
+</frequency><instruction><value>Administer by Epidural continuous infusion.</value>
 </instruction><volume><value>20 mL</value>
 </volume><units><value>mg/dose</value>
 <value>mg/hour</value>
@@ -31,14 +30,11 @@
 <value>Peripheral Nerve. MAXIMUM dose: 400 mg/ 24 hours.</value>
 <value>Retrobulbar.</value>
 </additionalnotes><population><value>ADULT</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-<value>YES</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Local Anesthetics</value>
 </ahfsname><highalert><value>YES</value>
-<value></value>
-</highalert><maximumprndose><value>YES</value>
-<value></value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>01976141</value>
+<value>01976168</value>
+<value>02241917</value>
+</din></drug>

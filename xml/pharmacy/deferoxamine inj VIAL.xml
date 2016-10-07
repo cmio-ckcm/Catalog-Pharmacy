@@ -22,13 +22,11 @@
 <value>WEEKLY</value>
 <value>CONTINUOUS</value>
 <value>DAILY</value>
-</frequency><instruction><value></value>
-<value>Administer by continuous infusion at a rate not exceeding 15 mg/kg/hour.</value>
+</frequency><instruction><value>Administer by continuous infusion at a rate not exceeding 15 mg/kg/hour.</value>
 <value>Administer by infusion over 8 to 12 hours.</value>
 <value>Administer over 8 to 24 hours</value>
 <value>Administer over 60 minutes during the last hour of the hemodialysis session.</value>
-</instruction><volume><value></value>
-</volume><units><value>mg/kg/dose</value>
+</instruction><volume></volume><units><value>mg/kg/dose</value>
 <value>mg/kg</value>
 <value>mg/kg/hour</value>
 <value>mg/kg/day</value>
@@ -46,11 +44,9 @@
 </additionalnotes><population><value>CHILDREN</value>
 <value>ADULT</value>
 <value>ADOLESCENT</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=772</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=772</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Heavy Metal Antagonists</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>01981250</value>
+<value>01981242</value>
+</din></drug>

@@ -23,8 +23,7 @@
 </strength><frequency><value>ONCE</value>
 <value>Q12H</value>
 <value>Q24H</value>
-</frequency><instruction><value></value>
-<value>Administer daily calculated dose in 2 equally divided doses. Administer over 15 minutes.</value>
+</frequency><instruction><value>Administer daily calculated dose in 2 equally divided doses. Administer over 15 minutes.</value>
 <value>Administer over 15 minutes.</value>
 <value>Administer as loading dose.</value>
 <value>Administer daily calculated dose in 2 equally divided doses.</value>
@@ -55,11 +54,8 @@
 <value>RENAL FAILURE, dose adjustment. AGE: 16 years and older. CrCl less than 30 mL/minute/1.73 m2: 250 to 500 mg Q12H. CrCl 30 to 50 mL/minute/1.73 m2: 250 to 750 mg Q12H. CrCl 50 to 80 mL/minute/1.73 m2: 500 to 1000 mg Q12H. CrCl greater than 80 mL/minute/1.73 m2: 500 to 1500 mg Q12H.</value>
 </additionalnotes><population><value>NEONATE</value>
 <value>INFANT, CHILDREN</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=8541</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary with Restrictions. Health Canada Special Access Programme.</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=8541</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary with Restrictions. Health Canada Special Access Programme.</value>
 </ahsformularystatus><ahfsname><value>Anticonvulsants, Anticonvulsants, Miscellaneous</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>0409-1886-02</value>
+</din></drug>

@@ -7,16 +7,10 @@
 </drugname><strength><value>150 mg</value>
 <value>300 mg</value>
 </strength><frequency><value>DAILY</value>
-</frequency><instruction><value></value>
-</instruction><volume><value></value>
-</volume><units><value>mg</value>
+</frequency><instruction></instruction><volume></volume><units><value>mg</value>
 </units><additionalnotes><value>Bupropion is associated with dose-related risk of seizures. The recommended maximum dose: 300 mg/day, no single dose should exceed 150 mg.  </value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Psychotherapeutic Agents, Antidepressants</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02275090</value>
+<value>02275104</value>
+</din></drug>

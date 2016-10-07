@@ -27,9 +27,7 @@
 <value>Administer over 30 minutes (Loading dose). Follow with maintenance infusion.</value>
 <value>Administer by continuous infusion. (Maintenance dose)</value>
 <value>ONCE.</value>
-<value></value>
-</instruction><volume><value></value>
-</volume><units><value>mg/kg/dose</value>
+</instruction><volume></volume><units><value>mg/kg/dose</value>
 <value>mg</value>
 <value>mg/kg/hour</value>
 <value>mg/kg</value>
@@ -41,7 +39,6 @@
 <value>Maintenance dose infusion.</value>
 <value>MAXIMUM Loading dose: 2 g. Administer over 15 to 30 minutes.</value>
 <value>MAXIMUM: 1000 mg/hour. May continue IV infusion until muscle weakness and/or fasciculations have been relieved.</value>
-<value></value>
 <value>Initial dose.</value>
 <value>Subsequent dose.</value>
 <value>Subcutaneous route may be used when IV or IM administration is not possible. May administer subsequent doses in rapid succession if severe symptoms develop. If symptoms persist, repeating the series of 3 doses (45 mg/kg in 3 divided doses) beginning ~ 1 hour after administration of the last injection may be required.</value>
@@ -49,12 +46,9 @@
 </additionalnotes><population><value>INFANT / CHILDREN. Organophosphate poinsoning</value>
 <value>ADULT. Organophosphate Poisoning</value>
 <value>ADULT. Anticholinesterase Overdose.</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3527</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3527</value>
 </backgroundinformation><prninformation><value>YES</value>
-<value></value>
 </prninformation><ahsformularystatus><value>Formulary, Health Canada Special Access Programme.</value>
 </ahsformularystatus><ahfsname><value>Antidotes</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>60977-141-01</value>
+</din></drug>

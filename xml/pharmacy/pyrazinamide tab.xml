@@ -15,9 +15,7 @@
 </strength><frequency><value>DAILY</value>
 <value>TWO TIMES WEEKLY</value>
 <value>THREE TIMES WEEKLY</value>
-</frequency><instruction><value></value>
-</instruction><volume><value></value>
-</volume><units><value>mg</value>
+</frequency><instruction></instruction><volume></volume><units><value>mg</value>
 <value>mg/kg/day</value>
 <value>mg/kg/dose</value>
 </units><additionalnotes><value>Suggested adult dosing for 40 - 55 kg based on lean body weight.</value>
@@ -26,12 +24,7 @@
 <value>Suggested adult dosing for 76 - 90 kg based on lean body weight; maximum dose regardless of weight.</value>
 <value>HIV negative. Pediatrics: Maximum dose: 2000 mg/day.</value>
 <value>HIV exposed / infected. Pediatrics: Maximum dose: 2000 mg/day.</value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Antimycobacterials, Antituberculosis Agents</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>00618810</value>
+</din></drug>

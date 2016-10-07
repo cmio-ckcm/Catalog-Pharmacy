@@ -1,0 +1,21 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "Drug-Form concatenation">
+<dose><value>Dose</value>
+</dose><route><value>Route</value>
+</route><form><value>Dosage Form</value>
+</form><drugname><value>Drug-Form concatenation</value>
+</drugname><strength><value>Strength</value>
+</strength><frequency><value>Frequency</value>
+</frequency><instruction><value>Instructions</value>
+</instruction><volume><value>Volume</value>
+</volume><units><value>Units</value>
+</units><additionalnotes><value>Additional  notes</value>
+</additionalnotes><population><value>Population</value>
+</population><indicationprn><value>PRN Indication</value>
+</indicationprn><backgroundinformation><value>Background Information</value>
+</backgroundinformation><prninformation><value>PRN</value>
+</prninformation><ahsformularystatus><value>AHS-Formulary Status</value>
+</ahsformularystatus><ahfsname><value>AHFS Name (order view)</value>
+</ahfsname><highalert><value>High Alert Medication</value>
+</highalert><maximumprndose><value>Maximum PRN Dose</value>
+</maximumprndose><din><value>DIN</value>
+</din></drug>

@@ -16,8 +16,7 @@
 <value>CONTINUOUS</value>
 <value>EVERY 5 MINUTES</value>
 <value>EVERY 10 MINUTES</value>
-</frequency><instruction><value></value>
-<value>Administer as test dose to determine patient sensitivity/recovery.</value>
+</frequency><instruction><value>Administer as test dose to determine patient sensitivity/recovery.</value>
 <value>Administer by direct injection.</value>
 <value>Administer by direct injection for maintenance of relaxation over longer time periods as required.</value>
 <value>Administer by continuous infusion, titrate dose according to patient response.</value>
@@ -27,7 +26,6 @@
 <value>mg</value>
 <value>mg/minute</value>
 </units><additionalnotes><value>Suggested maximum dose: 150 mg</value>
-<value></value>
 </additionalnotes><population><value>ADULT</value>
 <value>INFANT / CHILDREN</value>
 <value>ADULT, short surgical procedures</value>
@@ -35,12 +33,10 @@
 <value>INFANT, maintenance dose: rapid sequence intubation.</value>
 <value>CHILDREN, Initial dose: rapid sequence intubation.</value>
 <value>CHILDREN, maintenance dose: rapid sequence intubation.</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1612</value>
-</backgroundinformation><prninformation><value></value>
-<value>YES</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1612</value>
+</backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Skeletal Muscle Relaxants, Neuromuscular Blocking Agents</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>02300419</value>
+</din></drug>

@@ -43,7 +43,6 @@
 <value>g/hour</value>
 <value>g/hr</value>
 </units><additionalnotes><value>Requirement  determined by physician.</value>
-<value></value>
 <value>To control persisten ventricular fibrillation/Pulseless ventricular tachycardia associated with hypomagnesemia.</value>
 <value>AMI/Torsades de Pointes. Loading dose.</value>
 <value>AMI. Follow-up dose.</value>
@@ -59,7 +58,6 @@
 <value>Etoposide (Days 1-5)/CISplatin (Days 1 &amp; 8) with concurrent RT. Pancoast Tumor</value>
 <value>DOXOrubicin/CISplatin/cyclophosphamide (PAC). Thymic Malignancy</value>
 <value>CISplatin/DOXOrubicin/vinCRIStine/cyclophosphamide. Thymoma</value>
-<value></value>
 <value>Adjuvant Vinorelbine/CISplatin (every 28 days). Non-Small Cell Lung Cancer</value>
 <value>Adjuvant Vinorelbine/CISplatin (every 21 days). Non-Small Cell Lung Cancer</value>
 <value>Pemetrexed/CISplatin. Non-Small Cell Lung Cancer</value>
@@ -67,15 +65,14 @@
 <value>CISplatin &amp; Vinorelbine with CONCURRENT RT. Non-Small Cell Lung Cancer</value>
 <value>Gemcitabine / CISplatin. Non-Small Cell Lung Cancer</value>
 <value>CISplatin/etoposide (po). Small Cell Lung Cancer</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3090</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3090</value>
 <value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3006</value>
 <value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3089</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 <value>Formulary with Restrictions.</value>
 </ahsformularystatus><ahfsname><value>Anticonvulsants, Anticonvulsants, Miscellaneous</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>00392618</value>
+<value>02139499</value>
+<value>00602264</value>
+</din></drug>

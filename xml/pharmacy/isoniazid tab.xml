@@ -12,9 +12,7 @@
 <value>300 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>THREE TIMES WEEKLY</value>
-</frequency><instruction><value></value>
-</instruction><volume><value></value>
-</volume><units><value>mg/kg</value>
+</frequency><instruction></instruction><volume></volume><units><value>mg/kg</value>
 <value>mg</value>
 </units><additionalnotes><value>Active Tuberculosis. Up to 300 mg/dose.</value>
 <value>Active Tuberculosis</value>
@@ -22,11 +20,8 @@
 <value>Latent Tuberculosis. Up to 300 mg/dose.</value>
 </additionalnotes><population><value>ADULT</value>
 <value>CHILD</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Antimycobacterials, Antituberculosis Agents</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>00577790</value>
+<value>00577804</value>
+</din></drug>

@@ -1,6 +1,5 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "morphine, preservative free inj AMP">
-<dose><value></value>
-<value>30</value>
+<dose><value>30</value>
 <value>35</value>
 <value>40</value>
 <value>45</value>
@@ -28,8 +27,7 @@
 <value>1 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>CONTINUOUS</value>
-</frequency><instruction><value></value>
-<value>Continuous Infusion: 50 mcg/mL 10 mL EPIDURAL syringe, Titrate to desired effect.</value>
+</frequency><instruction><value>Continuous Infusion: 50 mcg/mL 10 mL EPIDURAL syringe, Titrate to desired effect.</value>
 <value>EPIDURAL PCA: 50 mcg/mL 10 mL syringe, Basal rate.</value>
 <value>EPIDURAL PCA: 50 mcg/mL 10 mL syringe, Demand dose with lockout interval of 10 minutes.</value>
 <value>EPIDURAL PCA: 50 mcg/mL 10 mL syringe, Demand dose with lockout interval of 11 minutes.</value>
@@ -112,16 +110,13 @@
 <value>mg</value>
 <value>mg/hour</value>
 </units><additionalnotes><value>MAXIMUM DOSE: 100 mcg/kg or 5 mg/day.</value>
-<value></value>
 <value>Lockout period: 10 - 20 minutes</value>
 </additionalnotes><population><value>Infant/Child</value>
 <value>Adult</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-<value>YES</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Analgesics and Antipyretics, Opiate Agonists</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>02021056</value>
+<value>02021048</value>
+</din></drug>

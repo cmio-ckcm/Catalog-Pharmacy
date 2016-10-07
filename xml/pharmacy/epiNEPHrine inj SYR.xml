@@ -29,12 +29,10 @@
 <value>Symptomatic Bradycardia. Usual range is 2 to 10 mcg/minute.</value>
 <value>Symptomatic Bradycardia. Usual range is 0.02 to 0.15 mcg/kg/minute.</value>
 </additionalnotes><population><value>ADULT</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=239</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=239</value>
 </backgroundinformation><prninformation><value>YES</value>
-<value></value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Sympathomimetic (Adrenergic) Agents</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>00710814</value>
+</din></drug>

@@ -13,11 +13,7 @@
 </units><additionalnotes><value>Volume expansion / shock. MAXIMUM: 20 mL/kg/day for first 24 hours, then 10 mL/kg/day thereafter.</value>
 </additionalnotes><population><value>ADULT</value>
 <value>CHILDREN</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Replacement Preparations</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>01924206</value>
+</din></drug>

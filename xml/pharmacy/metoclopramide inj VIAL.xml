@@ -13,8 +13,7 @@
 <value>Q6H</value>
 <value>Q8H</value>
 <value>Q12H</value>
-</frequency><instruction><value></value>
-<value>Administer 30 minutes pre-chemotherapy.</value>
+</frequency><instruction><value>Administer 30 minutes pre-chemotherapy.</value>
 <value>Administer post-chemotherapy.</value>
 <value>DAY -1. Administer pre-chemotherapy. May be administered by PO route.</value>
 </instruction><volume><value>10 mL</value>
@@ -22,15 +21,9 @@
 <value>30 mL</value>
 </volume><units><value>mg</value>
 <value>mg/kg</value>
-</units><additionalnotes><value></value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-<value>YES</value>
+</units><additionalnotes></additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Discontinued.</value>
 <value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Gastrointestinal Drugs, Prokinetic Agents</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02185431</value>
+</din></drug>

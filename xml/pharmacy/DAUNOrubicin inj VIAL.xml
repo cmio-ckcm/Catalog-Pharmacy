@@ -11,18 +11,13 @@
 </strength><frequency><value>DAILY</value>
 <value>ONCE</value>
 </frequency><instruction><value>for 3 days.</value>
-<value></value>
-</instruction><volume><value></value>
-</volume><units><value>mg/m2</value>
+</instruction><volume></volume><units><value>mg/m2</value>
 </units><additionalnotes><value>In patients with CrCl less than 10 mL/minute, adjust to 75% of normal dose. In patients with Bilirubin levels 26 to 51 umol/L administer 75% of dose, if Bilirubin level is 52 to 85 umol/L, administer 50% of dose and if Bilirubin level is greater than 80 umol/L, omit dose. MAXIMUM LIFETIME DOSES: Adult = 550 mg/m2 (normal cardiac function), 400 to 450 mg/m2 (in combination with thoracic radiation or prior anthracycline therapy). Children greater than 2 years old: 300 mg/m2 and children less than 2 years: 10 mg/m2.</value>
-<value></value>
 </additionalnotes><population><value>ADULT</value>
 <value>CHILDREN, over 2 years of age.</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3375</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3375</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Antineoplastic Agents</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>01926683</value>
+</din></drug>

@@ -20,11 +20,7 @@
 </additionalnotes><population><value>ADULT / CHILDREN, weight more than 25 kg.</value>
 <value>ADULT</value>
 <value>INFANT / CHILDREN, weighing 25 kg or less</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Antidotes</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02137186</value>
+</din></drug>

@@ -24,8 +24,7 @@
 <value>Q2H</value>
 <value>Q12H</value>
 <value>DAILY</value>
-</frequency><instruction><value></value>
-<value>DAY 0. Administer immediately prior to transplant if necessary.</value>
+</frequency><instruction><value>DAY 0. Administer immediately prior to transplant if necessary.</value>
 <value>DAY 1.  Administer pre-chemotherapy as required. May be administered by the sublingual route.</value>
 <value>DAY 8.  Administer pre-chemotherapy as required. May be administered by the sublingual route.</value>
 <value>DAY 15.  Administer pre-chemotherapy as required. May be administered by the sublingual route.</value>
@@ -52,11 +51,8 @@
 <value>DAY 1 of 21.</value>
 <value>DAY 1 of 21.  Administer as required. May be administered by the PO route.</value>
 <value>DAY 1 of 21.  Administer pre-chemotherapy, as required. </value>
-</instruction><volume><value></value>
-</volume><units><value>mg</value>
-</units><additionalnotes><value></value>
-</additionalnotes><population><value></value>
-<value>Adjuvant Vinorelbine/CISplatin (every 28 days). Non-Small Cell Lung Cancer</value>
+</instruction><volume></volume><units><value>mg</value>
+</units><additionalnotes></additionalnotes><population><value>Adjuvant Vinorelbine/CISplatin (every 28 days). Non-Small Cell Lung Cancer</value>
 <value>Adjuvant Vinorelbine/CISplatin (every 21 days). Non-Small Cell Lung Cancer</value>
 <value>Vinorelbine / CISplatin. Advanced NSCLC</value>
 <value>Vinorelbine / CARBOplatin. Non-Small Cell Lung Cancer (Advanced Stage)</value>
@@ -72,12 +68,10 @@
 <value>Vinorelbine and CARBOplatin with CONCURRENT RT. Non-Small Cell Lung Cancer.</value>
 <value>DOXOrubicin/CISplatin/cyclophosphamide (PAC). Thymic Malignancy</value>
 <value>CISplatin/DOXOrubicin/vinCRIStine/cyclophosphamide. Thymoma</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-<value>YES</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Anxiolytics, Sedatives, and Hypnotics, Benzodiazepines</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02041456</value>
+<value>02041464</value>
+<value>02041472</value>
+</din></drug>

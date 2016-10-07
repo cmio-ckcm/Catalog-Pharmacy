@@ -17,8 +17,7 @@
 </drugname><strength><value>600 mg</value>
 </strength><frequency><value>Q4H</value>
 </frequency><instruction><value>for 3 doses.</value>
-</instruction><volume><value></value>
-</volume><units><value>mg</value>
+</instruction><volume></volume><units><value>mg</value>
 <value>mg/kg</value>
 </units><additionalnotes><value>Recommended dosing for schistosomiasis in patients weighting 20 to 25 kg.</value>
 <value>Recommended dosing for schistosomiasis in patients weighting 26 to 33 kg.</value>
@@ -40,10 +39,7 @@
 <value>Recommended dosing for clonorchiasis and opisthorchiasis in patients weighting 63 to 68 kg.</value>
 <value>Recommended dosing for clonorchiasis and opisthorchiasis in patients weighting 69 to 75 kg.</value>
 <value>Recommended dosing for clonorchiasis and opisthorchiasis.</value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>450 mg = 3/4 of one 600 mg tablet</value>
-<value></value>
+</additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation><value>450 mg = 3/4 of one 600 mg tablet</value>
 <value>750 mg = 1 &amp; 1/4 tablets of 600 mg.</value>
 <value>900 mg = 1 &amp; 1/2 tablets of 600 mg.</value>
 <value>1050 mg = 1 &amp; 3/4 tablets of 600 mg.</value>
@@ -52,9 +48,7 @@
 <value>1500 mg = 2 &amp; 1/2 tablets of 600 mg.</value>
 <value>1650 mg = 2 &amp; 3/4 tablets of 600 mg.</value>
 <value>1800 mg = 3 tablets of 600 mg.</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Anthelmintics</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02230897</value>
+</din></drug>

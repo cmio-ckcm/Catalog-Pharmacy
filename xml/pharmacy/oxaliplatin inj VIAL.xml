@@ -12,8 +12,7 @@
 </frequency><instruction><value>Administer dose over 2 hours.</value>
 <value>Administer dose over 6 hours.</value>
 <value>Administer dose over 2 to 4 hours.</value>
-</instruction><volume><value></value>
-<value>10 mL</value>
+</instruction><volume><value>10 mL</value>
 <value>20 mL</value>
 </volume><units><value>mg/m2</value>
 </units><additionalnotes><value>Colorectal cancer. Doses less than 60 mg provided in 100 mL D5W, doses 60 to 120 mg provided in 250 mL D5W and doses greater than 120 mg provided in D5W 500 mL.</value>
@@ -34,13 +33,13 @@
 <value>Metastatic Coloractal cancer. Doses up to 120 mg provided in 250 mL D5W and doses greater than 120 mg provided in D5W 500 mL.</value>
 <value>Metastatic Colorectal cancer. Dose administered over 6 hours if patient has experienced pharyngo-laryngeal dysesthesia in prior infusions. Doses up to 120 mg provided in 250 mL D5W and doses greater than 120 mg provided in D5W 500 mL.</value>
 </additionalnotes><population><value>ADULT</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3429</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3429</value>
 <value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3426</value>
 <value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3428</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary with Usage guidelines.</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary with Usage guidelines.</value>
 </ahsformularystatus><ahfsname><value>Antineoplastic Agents</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>02296276</value>
+<value>02296284</value>
+<value>02296268</value>
+</din></drug>

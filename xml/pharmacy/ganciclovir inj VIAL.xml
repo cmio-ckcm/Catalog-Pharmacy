@@ -13,10 +13,8 @@
 <value>DAILY</value>
 <value>THREE TIMES WEEKLY </value>
 <value>FIVE TIMES WEEKLY</value>
-</frequency><instruction><value></value>
-<value>Administer post hemodialysis.</value>
-</instruction><volume><value></value>
-</volume><units><value>mg/kg</value>
+</frequency><instruction><value>Administer post hemodialysis.</value>
+</instruction><volume></volume><units><value>mg/kg</value>
 </units><additionalnotes><value>CMV Infection: Induction Dose- continued for 14-21 days.</value>
 <value>CMV Infection: Maintenance Dose following iduction dosage regimen OR prevention.</value>
 <value>CrCl = 50 - 69 mL/min.</value>
@@ -25,14 +23,9 @@
 <value>CrCl &amp;lt; 10 mL/min or hemodialysis.</value>
 <value>CVVHD</value>
 <value>CMV Infection: Maintenance Dose following iduction dosage regimen.</value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-<value>Treatment/Induction Dose</value>
+</additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation><value>Treatment/Induction Dose</value>
 <value>Prevention/Maintenance Dose</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary with Usage guidelines.</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary with Usage guidelines.</value>
 </ahsformularystatus><ahfsname><value>Antivirals, Nucleosides and Nucleotides</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02404761</value>
+</din></drug>

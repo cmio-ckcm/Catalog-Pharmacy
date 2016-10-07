@@ -28,8 +28,7 @@
 <value>50 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>CONTINUOUS</value>
-</frequency><instruction><value></value>
-<value>Administer by continuous infusion.</value>
+</frequency><instruction><value>Administer by continuous infusion.</value>
 <value>Administer by direct injection.</value>
 </instruction><volume><value>2 mL</value>
 <value>20 mL</value>
@@ -46,18 +45,16 @@
 <value>Low-dose adjunct analgesia.</value>
 <value>Adjunct to opioid analgesia and for refractory cancer pain.</value>
 <value>Refractory Depression.</value>
-<value></value>
 <value>Analgesia in NON-critical care areas. (LOW DOSE).</value>
 <value>Sedation and Analgesia with mechanical ventilation in critical care areas.</value>
 </additionalnotes><population><value>ADULT</value>
 <value>INFANT / CHILDREN</value>
 <value>NEONATE</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-<value>YES</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>General Anesthetics, Miscellaneous</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>02246795</value>
+<value>02246796</value>
+<value>02387336</value>
+</din></drug>

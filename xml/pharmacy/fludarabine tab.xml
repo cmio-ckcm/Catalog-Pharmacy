@@ -8,17 +8,12 @@
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value>for 5 days, every 28 days cyclically.</value>
 <value>for 3 days.</value>
-</instruction><volume><value></value>
-</volume><units><value>mg/m2</value>
-</units><additionalnotes><value></value>
-<value>Suggested dosage for patients with CrCl 30 to 70 mL/minute.</value>
-</additionalnotes><population><value></value>
-<value>ADULT</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3392</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</instruction><volume></volume><units><value>mg/m2</value>
+</units><additionalnotes><value>Suggested dosage for patients with CrCl 30 to 70 mL/minute.</value>
+</additionalnotes><population><value>ADULT</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3392</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Antineoplastic Agents</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>02246226</value>
+</din></drug>

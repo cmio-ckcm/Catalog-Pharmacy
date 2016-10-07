@@ -11,8 +11,7 @@
 </drugname><strength><value>2 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>CONTINUOUS</value>
-</frequency><instruction><value></value>
-<value>Administer by continuous infusion.</value>
+</frequency><instruction><value>Administer by continuous infusion.</value>
 <value>Initial dose. Administer by direct injection.</value>
 <value>May administer additional doses at an interval of 3 to 5 minutes as required, following initial dose.</value>
 </instruction><volume><value>10 mL</value>
@@ -27,12 +26,10 @@
 </additionalnotes><population><value>ADULT</value>
 <value>ADULT.</value>
 <value>CHILDREN, aged 10 years and older.</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=281</value>
-</backgroundinformation><prninformation><value></value>
-<value>YES</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=281</value>
+</backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary, Health Canada Special Access Programme.</value>
 </ahsformularystatus><ahfsname><value>General Anesthetics, Miscellaneous</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>0409-6695-01</value>
+</din></drug>

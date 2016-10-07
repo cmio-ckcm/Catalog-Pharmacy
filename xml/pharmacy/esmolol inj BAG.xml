@@ -37,19 +37,14 @@
 <value>INFANT/CHILD: Supraventricular Tachycardia</value>
 <value>INFANT/CHILD: Post-operative Hypertension</value>
 <value>MAX dose: 100 mg</value>
-<value></value>
 <value>MAXIMUM DOSE: 200 mcg/kg/minute</value>
-</additionalnotes><population><value></value>
-<value>ADULT: Post-intubation Tachycardia and Hypertension. </value>
+</additionalnotes><population><value>ADULT: Post-intubation Tachycardia and Hypertension. </value>
 <value>ADULT: Intra-operative and post-operative Tachycardia and Hypertension. </value>
 <value>ADULT: Supraventricular Tachycardia, gradual control of post-operative Tachycardia and Hypertension. </value>
 <value>ADULT</value>
 <value>ADULT: Tilt Table test</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>beta-Adrenergic Blocking Agents</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>02309238</value>
+</din></drug>

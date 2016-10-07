@@ -1,20 +1,15 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "sodium chloride inj BOTTLE">
-<dose><value></value>
-</dose><route><value>IV</value>
+<dose></dose><route><value>IV</value>
 </route><form><value>inj BOTTLE</value>
 </form><drugname><value>sodium chloride inj BOTTLE</value>
 </drugname><strength><value>4 mmol/mL</value>
 </strength><frequency><value>ONCE</value>
-</frequency><instruction><value></value>
-</instruction><volume><value>200 mL</value>
+</frequency><instruction></instruction><volume><value>200 mL</value>
 </volume><units><value>mmol</value>
 </units><additionalnotes><value>To be added to daily Parenteral Nutrition order by pharmacy</value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3027</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3027</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
 </ahsformularystatus><ahfsname><value>Replacement Preparations</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>02139510</value>
+</din></drug>

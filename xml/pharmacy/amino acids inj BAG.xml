@@ -1,6 +1,5 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "amino acids inj BAG">
-<dose><value></value>
-</dose><route><value>IV</value>
+<dose></dose><route><value>IV</value>
 </route><form><value>inj BAG</value>
 </form><drugname><value>amino acids inj BAG</value>
 </drugname><strength><value>10%</value>
@@ -9,15 +8,12 @@
 </instruction><volume><value>1000 mL</value>
 <value>250 mL</value>
 <value>3000 mL</value>
-</volume><units><value></value>
-</units><additionalnotes><value>Contact local Pharmacy for available products.</value>
+</volume><units></units><additionalnotes><value>Contact local Pharmacy for available products.</value>
 </additionalnotes><population><value>ADULT</value>
 <value>NEONATE / INFANT</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Caloric Agents</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>00872296</value>
+<value>02236875</value>
+</din></drug>

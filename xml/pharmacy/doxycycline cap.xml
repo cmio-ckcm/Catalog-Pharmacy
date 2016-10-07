@@ -6,19 +6,11 @@
 </drugname><strength><value>100 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>
-</frequency><instruction><value></value>
-<value>for 7 days.</value>
-</instruction><volume><value></value>
-</volume><units><value>mg</value>
-</units><additionalnotes><value></value>
-<value>Alternate Chlamydia treatment in non-pregnant/non-lactating adults. </value>
-</additionalnotes><population><value></value>
-<value>ADULT</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary with Usage guidelines.</value>
+</frequency><instruction><value>for 7 days.</value>
+</instruction><volume></volume><units><value>mg</value>
+</units><additionalnotes><value>Alternate Chlamydia treatment in non-pregnant/non-lactating adults. </value>
+</additionalnotes><population><value>ADULT</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary with Usage guidelines.</value>
 </ahsformularystatus><ahfsname><value>Antibacterials, Tetracyclines</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>00740713</value>
+</din></drug>

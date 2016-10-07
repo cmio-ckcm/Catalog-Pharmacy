@@ -15,14 +15,11 @@
 </volume><units><value>mg/m2</value>
 </units><additionalnotes><value>Metastatic Breast Cancer. Recommend 50% dose reduction in patients with Bilirubin levels greater than 50 umol/L. MAXIMUM cumulative dose: 140 mg/m2 for patients with no prior RT or anthracyclines or normal cardiac function; 120 mg/m2 in patients with previous anthracycline, RT or cyclophosphamide use; 100 mg/m2 in patients with previous maximum dose anthracyclines, if cardiac assessment is acceptable.</value>
 <value>Metastatic Breast Cancer, Relapsed Lymphoma. Recommend 50% dose reduction in patients with Bilirubin levels greater than 50 umol/L. MAXIMUM cumulative dose: 140 mg/m2 for patients with no prior RT or anthracyclines or normal cardiac function; 120 mg/m2 in patients with previous anthracycline, RT or cyclophosphamide use; 100 mg/m2 in patients with previous maximum dose anthracyclines, if cardiac assessment is acceptable.</value>
-<value></value>
 </additionalnotes><population><value>ADULT</value>
 <value>PEDIATRICS</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3424</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3424</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Antineoplastic Agents</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>02286300</value>
+</din></drug>

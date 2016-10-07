@@ -4,7 +4,6 @@
 <value>20 - 30</value>
 <value>200 - 300</value>
 <value>4</value>
-<value></value>
 <value>1 - 40</value>
 <value>1 - 400</value>
 <value>1 - 5</value>
@@ -36,8 +35,7 @@
 </drugname><strength><value>1%</value>
 <value>2%</value>
 </strength><frequency><value>ONCE</value>
-</frequency><instruction><value></value>
-</instruction><volume><value>10 mL</value>
+</frequency><instruction></instruction><volume><value>10 mL</value>
 <value>2 mL</value>
 <value>5 mL</value>
 </volume><units><value>mL</value>
@@ -45,7 +43,6 @@
 <value>mg/kg</value>
 </units><additionalnotes><value>ADULT. EPIDURAL. Dose includes &amp;quot;test&amp;quot; dose.</value>
 <value>ADULT. Caudal EPIDURAL. Dose includes &amp;quot;test&amp;quot; dose.</value>
-<value></value>
 <value>Administer total dose slowly or in incremental doses.</value>
 <value>ADULT. Local infiltration. Administer total dose slowly or in incremental doses.</value>
 <value>ADULT. Digital block.</value>
@@ -64,14 +61,9 @@
 <value>ADULT. Retrobulbar block.</value>
 </additionalnotes><population><value>ADULT</value>
 <value>INFANTS / CHILDREN</value>
-<value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Local Anesthetics</value>
 </ahfsname><highalert><value>YES</value>
-<value></value>
-</highalert><maximumprndose><value>YES</value>
-<value></value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>00001732</value>
+<value>00036641</value>
+</din></drug>

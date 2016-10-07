@@ -5,19 +5,13 @@
 </route><form><value>tab</value>
 </form><drugname><value>alginic acid-magnesium carbonate tab</value>
 </drugname><strength><value>200 mg-40 mg</value>
-</strength><frequency><value></value>
-<value>TID</value>
+</strength><frequency><value>TID</value>
 <value>QID</value>
-</frequency><instruction><value></value>
-</instruction><volume><value></value>
-</volume><units><value>tab</value>
-</units><additionalnotes><value></value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value>acid reflux</value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value>YES</value>
+</frequency><instruction></instruction><volume></volume><units><value>tab</value>
+</units><additionalnotes></additionalnotes><population></population><indicationprn><value>acid reflux</value>
+</indicationprn><backgroundinformation></backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Antacids and Adsorbents</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose><value>Adults: 10 tablets. Children: 4 tablets.</value>
+</maximumprndose><din><value>02159791</value>
+</din></drug>

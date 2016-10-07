@@ -20,7 +20,6 @@
 <value>TID</value>
 <value>CONTINUOUS</value>
 </frequency><instruction><value>May repeat if needed for abdominal distention.</value>
-<value></value>
 <value>Administer by continuous infusion. Titrate dose according to patient response.</value>
 <value>Administer by direct injection.</value>
 <value>Administer by continuous infusion. Adjust rate as required to achieve desired outcome.</value>
@@ -36,10 +35,8 @@
 <value>unit/minute</value>
 <value>unit/kg/minute</value>
 <value>unit/kg/hour</value>
-</units><additionalnotes><value></value>
-<value>Once bleeding stops for 12 hours, taper off infusions 24 to 48 hours.</value>
-</additionalnotes><population><value></value>
-<value>ADULT: Diabetes Insipidus</value>
+</units><additionalnotes><value>Once bleeding stops for 12 hours, taper off infusions 24 to 48 hours.</value>
+</additionalnotes><population><value>ADULT: Diabetes Insipidus</value>
 <value>ADULT: GI hemorrhage</value>
 <value>ADULT: Cardiac Arrest.</value>
 <value>ADULT: Shock.</value>
@@ -48,14 +45,13 @@
 <value>NEONATE / INFANT: Diabetes Insipidus. MAX rate: 0.01 unit.kg/hour.</value>
 <value>CHILDREN: Diabetes Insipidus. Maximum Rate: 0.01 unit/kg/hour.</value>
 <value>CHILDREN: GI Hemorrhage.</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1943</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1943</value>
 <value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1944</value>
 <value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1945</value>
 </backgroundinformation><prninformation><value>YES</value>
-<value></value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Pituitary</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>02139502</value>
+<value>02247938</value>
+</din></drug>

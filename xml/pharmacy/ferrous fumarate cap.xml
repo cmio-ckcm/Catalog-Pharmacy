@@ -9,16 +9,9 @@
 <value>SUPPER</value>
 <value>BID</value>
 <value>TID</value>
-</frequency><instruction><value></value>
-</instruction><volume><value></value>
-</volume><units><value>mg</value>
+</frequency><instruction></instruction><volume></volume><units><value>mg</value>
 </units><additionalnotes><value>Ferrous fumarate 300mg provides 100 mg elemental iron. Treatment of adult iron deficiency anemia requires approximately 180mg elemental iron daily. Recommend 4 to 6 months treatment after hemoglobin levels normalize. </value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Antianemia Drugs, Iron Preparations</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>01923420</value>
+</din></drug>

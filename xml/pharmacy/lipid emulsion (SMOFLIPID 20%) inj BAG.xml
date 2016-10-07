@@ -10,17 +10,13 @@
 </frequency><instruction><value>Administer as continuous infusion as part of parenteral nutrition.</value>
 <value>Administer over 12 hours</value>
 <value>Administer over 24 hours</value>
-</instruction><volume><value></value>
-</volume><units><value>g (lipid)/kg/day</value>
+</instruction><volume></volume><units><value>g (lipid)/kg/day</value>
 </units><additionalnotes><value>SMOF lipid emulsion provides 2 kcal/mL.</value>
 </additionalnotes><population><value>NEONATE</value>
 <value>INFANT / CHILDREN, weighing 25 kg or less</value>
 <value>ADULT</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=6901</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=6901</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Caloric Agents</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02396963</value>
+</din></drug>

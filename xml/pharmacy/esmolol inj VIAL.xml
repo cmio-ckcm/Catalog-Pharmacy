@@ -32,8 +32,7 @@
 </instruction><volume><value>10 mL</value>
 </volume><units><value>mcg/kg/minute</value>
 <value>mcg/kg</value>
-</units><additionalnotes><value></value>
-<value>MAX dose: 100 mg</value>
+</units><additionalnotes><value>MAX dose: 100 mg</value>
 <value>MAXIMUM DOSE: 200 mcg/kg/minute</value>
 </additionalnotes><population><value>Post-natal age: 0 to 7 days (term)</value>
 <value>Post-natal age: 8 to 28 days (term)</value>
@@ -44,12 +43,8 @@
 <value>ADULT: Supraventricular Tachycardia, gradual control of post-operative Tachycardia and Hypertension. </value>
 <value>ADULT</value>
 <value>ADULT: Tilt Table test</value>
-<value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>beta-Adrenergic Blocking Agents</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>02188880</value>
+</din></drug>

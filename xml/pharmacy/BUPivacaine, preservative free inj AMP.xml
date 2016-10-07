@@ -5,16 +5,11 @@
 </form><drugname><value>BUPivacaine, preservative free inj AMP</value>
 </drugname><strength><value>0.75%</value>
 </strength><frequency><value>ONCE</value>
-</frequency><instruction><value></value>
-</instruction><volume><value>2 mL</value>
+</frequency><instruction></instruction><volume><value>2 mL</value>
 </volume><units><value>mg/dose</value>
 </units><additionalnotes><value>Spinal anesthesia.</value>
 </additionalnotes><population><value>ADULT</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Local Anesthetics</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02241914</value>
+</din></drug>

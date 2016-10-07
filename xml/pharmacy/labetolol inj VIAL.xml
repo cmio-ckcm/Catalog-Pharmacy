@@ -5,7 +5,6 @@
 <value>40</value>
 <value>80</value>
 <value>0.5 - 2</value>
-<value></value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
 </form><drugname><value>labetolol inj VIAL</value>
@@ -24,19 +23,15 @@
 <value>mg/kg/hour</value>
 <value>mg</value>
 <value>mg/minute</value>
-<value></value>
 </units><additionalnotes><value>MAXIMUM single dose: 20 mg.</value>
 <value>Infusion Standard Concentration: 5 mg/mL.</value>
 <value>Hypertensive Urgency/Emergency</value>
 <value>Preclampsia</value>
 </additionalnotes><population><value>INFANT/CHILD</value>
 <value>ADULT</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-<value>YES</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>beta-Adrenergic Blocking Agents</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>02231389</value>
+</din></drug>

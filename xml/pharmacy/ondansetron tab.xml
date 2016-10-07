@@ -13,8 +13,7 @@
 <value>Q8H</value>
 <value>ONCE</value>
 <value>DAILY</value>
-</frequency><instruction><value></value>
-<value>DAY -1. Administer pre-chemotherapy. May be administered by IV route.</value>
+</frequency><instruction><value>DAY -1. Administer pre-chemotherapy. May be administered by IV route.</value>
 <value>DAY -1. For 3 days, starting the evening of chemotherapy. May be administered by IV route.</value>
 <value>DAY 2. May be administered by IV route.</value>
 <value>DAY 0. Administer 30 minutes pre-transplant. May be administered by IV route.</value>
@@ -45,12 +44,9 @@
 <value>DAY 8 of 28. May be administered by IV route.</value>
 <value>DAY 1 of 21. If aprepitant was prescribed and not taken by patient as instructed, administer PRN nausea. May be administered by IV route.</value>
 <value>DAY 1 of 21. for nausea. May be administered by IV route.</value>
-</instruction><volume><value></value>
-</volume><units><value>mg</value>
-</units><additionalnotes><value></value>
-<value>Initiate order following completion of ondansetron 8 mg PO/IV Q8h x 3 days.</value>
-</additionalnotes><population><value></value>
-<value>Adjuvant Vinorelbine/CISplatin (every 28 days). Non-Small Cell Lung Cancer</value>
+</instruction><volume></volume><units><value>mg</value>
+</units><additionalnotes><value>Initiate order following completion of ondansetron 8 mg PO/IV Q8h x 3 days.</value>
+</additionalnotes><population><value>Adjuvant Vinorelbine/CISplatin (every 28 days). Non-Small Cell Lung Cancer</value>
 <value>Adjuvant Vinorelbine/CISplatin (every 21 days). Non-Small Cell Lung Cancer</value>
 <value>Adjuvant PACLitaxel/CARBOplatin. Non-Small Cell Lung Cancer</value>
 <value>Pemetrexed/CISplatin. Non-Small Cell Lung Cancer</value>
@@ -77,13 +73,10 @@
 <value>DOXOrubicin, Cyclophosphamide (AC) followed by DOCEtaxel. Breast Cancer (NEOADJUVANT Treatment).</value>
 <value>DOXOrubicin, Cyclophosphamide (AC) followed by DOCEtaxel and Trastuzumab. Breast Cancer (NEOADJUVANT Treatment).</value>
 <value>DOXOrubicin, Cyclophosphamide (AC) followed by PACLitaxel (weekly) and Trastuzumab. Breast Cancer (NEOADJUVANT Treatment).</value>
-</population><indicationprn><value></value>
-<value>Nausea</value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-<value>YES</value>
+</population><indicationprn><value>Nausea</value>
+</indicationprn><backgroundinformation></backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary with Usage guidelines.</value>
 </ahsformularystatus><ahfsname><value>Antiemetics, 5-HT3 Receptor Antagonists</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02258188</value>
+<value>02258196</value>
+</din></drug>

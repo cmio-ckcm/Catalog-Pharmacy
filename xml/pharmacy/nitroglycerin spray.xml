@@ -6,15 +6,11 @@
 </drugname><strength><value>0.4 mg</value>
 </strength><frequency><value>EVERY 5 MINUTES</value>
 </frequency><instruction><value>Spray onto or under the tongue for relief of angina symptoms. May repeat dose twice at 5 (up to 10) minute intervals.</value>
-</instruction><volume><value></value>
-</volume><units><value>spray</value>
+</instruction><volume></volume><units><value>spray</value>
 </units><additionalnotes><value>DO NOT inhale the spray.</value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value>Angina symptoms</value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value>YES</value>
+</additionalnotes><population></population><indicationprn><value>Angina symptoms</value>
+</indicationprn><backgroundinformation></backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Vasodilating Agents, Nitrates and Nitrites</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02231441</value>
+</din></drug>

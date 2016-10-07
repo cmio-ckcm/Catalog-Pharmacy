@@ -18,12 +18,10 @@
 </additionalnotes><population><value>Adjuvant PACLitaxel/CARBOplatin. Non-Small Cell Lung Cancer</value>
 <value>PACLitaxel / CARBOplatin. Advanced / Metastatic Non-Small Cell Lung Cancer</value>
 <value>PACLitaxel/CARBOplatin (Weekly) and concurrent RT. Non-Small Cell Lung Cancer.</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>Invert bag gently approximately 6 times prior to administration. Use a non-DEHP line with a 0.2 to 0.22 micron in-line filter for administration.</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>Invert bag gently approximately 6 times prior to administration. Use a non-DEHP line with a 0.2 to 0.22 micron in-line filter for administration.</value>
 <value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3432</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Antineoplastic Agents</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>02296624</value>
+</din></drug>

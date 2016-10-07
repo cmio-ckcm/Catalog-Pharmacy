@@ -9,19 +9,12 @@
 </strength><frequency><value>DAILY</value>
 <value>HS</value>
 <value>BID</value>
-</frequency><instruction><value></value>
-</instruction><volume><value></value>
-</volume><units><value>mL</value>
+</frequency><instruction></instruction><volume></volume><units><value>mL</value>
 </units><additionalnotes><value>Suggested dose for pregnant patients 5 to 10 mL once or twice daily.</value>
-<value></value>
 </additionalnotes><population><value>ADULT</value>
 <value>CHILDREN; aged 6 to 12 years.</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-<value>YES</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Cathartics and Laxatives</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>00367729</value>
+</din></drug>

@@ -1,7 +1,6 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "erlotinib tab">
 <dose><value>100</value>
 <value>150</value>
-<value></value>
 <value>75</value>
 </dose><route><value>PO</value>
 </route><form><value>tab</value>
@@ -10,21 +9,16 @@
 <value>150 mg</value>
 <value>25 mg</value>
 </strength><frequency><value>DAILY</value>
-</frequency><instruction><value></value>
-</instruction><volume><value></value>
-</volume><units><value>mg</value>
-</units><additionalnotes><value></value>
-<value>Dosage adjustments of 50mg due to drug interactions.</value>
+</frequency><instruction></instruction><volume></volume><units><value>mg</value>
+</units><additionalnotes><value>Dosage adjustments of 50mg due to drug interactions.</value>
 <value>A reduced starting dose (75 mg po once daily) has been recommended in patients with (baseline) hepatic dysfunction (transaminases greater than or equal to 3 times ULN AND/OR total bilirubin greater than 3 times ULN).  For patients with normal baseline hepatic function: Treatment should be interrupted or discontinued if total bilirubin is greater than 3 time ULN AND/OR transaminases are greater than 5 times ULN occurs while on treatment.</value>
-</additionalnotes><population><value></value>
-<value>Erlotinib. Metastatic or Advanced NSCLC.</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3387</value>
+</additionalnotes><population><value>Erlotinib. Metastatic or Advanced NSCLC.</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3387</value>
 <value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3385</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
 </ahsformularystatus><ahfsname><value>Antineoplastic Agents</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>02269015</value>
+<value>02269023</value>
+<value>02269007</value>
+</din></drug>

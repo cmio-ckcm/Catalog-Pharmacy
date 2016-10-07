@@ -17,9 +17,7 @@
 </strength><frequency><value>Q4H</value>
 <value>Q6H</value>
 </frequency><instruction><value>May give up to 5 doses per 24 hours.</value>
-<value></value>
-</instruction><volume><value></value>
-</volume><units><value>mg</value>
+</instruction><volume></volume><units><value>mg</value>
 <value>mg/kg</value>
 </units><additionalnotes><value>Acetaminophen dosing from all sources not to exceed: CHILDREN =  65 mg/kg/24 hours. ADULTS: 4000 mg/24 hours.</value>
 <value>Suggested dosing for children 6 and up to 12 months of age. Acetaminophen dosing from all sources not to exceed: CHILDREN =  65 mg/kg/24 hours. Dosing should not exceed 5 doses per 24 hours. ADULTS: 4000 mg/24 hours.</value>
@@ -30,12 +28,10 @@
 <value>Suggested dosing for children 9 to under 11 years of age. Acetaminophen dosing from all sources not to exceed: CHILDREN =  65 mg/kg/24 hours. Dosing should not exceed 5 doses per 24 hours. ADULTS: 4000 mg/24 hours.</value>
 <value>Suggested dosing for children 11 to under 12 years of age. Acetaminophen dosing from all sources not to exceed: CHILDREN =  65 mg/kg/24 hours. Dosing should not exceed 5 doses per 24 hours. ADULTS: 4000 mg/24 hours.</value>
 <value>Acetaminophen dosing from all sources not to exceed: CHILDREN =  65 mg/kg/24 hours. Dosing should not exceed 5 doses per 24 hours. ADULTS: 4000 mg/24 hours.</value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value>YES</value>
+</additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Analgesics and Antipyretics, Miscellaneous</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose><value>Acetaminophen dosing from all sources not to exceed: CHILDREN =  65 mg/kg/24 hours. ADULTS: 4000 mg/24 hours.</value>
+</maximumprndose><din><value>00875996</value>
+<value>02027801</value>
+</din></drug>

@@ -8,16 +8,9 @@
 <value>Q1H</value>
 </frequency><instruction><value>initial dose; repeat dose in 60 minutes.</value>
 <value>As required for satisfactory uterine response.</value>
-</instruction><volume><value></value>
-</volume><units><value>mg</value>
-</units><additionalnotes><value></value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-<value>YES</value>
+</instruction><volume></volume><units><value>mg</value>
+</units><additionalnotes></additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Oxytocics</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>00400688</value>
+</din></drug>

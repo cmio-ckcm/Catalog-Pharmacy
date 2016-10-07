@@ -16,7 +16,6 @@
 <value>EVERY 20 MINUTES</value>
 </frequency><instruction><value>Administer every 5 to 15 minutes as needed for anaphylaxis.</value>
 <value>Administer by continuous infusion, titrate to desired response.</value>
-<value></value>
 <value>Administer every 20 minutes to a MAXIMUM of 3 doses.</value>
 </instruction><volume><value>1 mL</value>
 <value>30 mL</value>
@@ -30,14 +29,11 @@
 <value>Bronchospasm</value>
 <value>Bronchospasm, severe asthma attacks.</value>
 </additionalnotes><population><value>ADULT</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=239</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=239</value>
 </backgroundinformation><prninformation><value>YES</value>
-<value></value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Sympathomimetic (Adrenergic) Agents</value>
-</ahfsname><highalert><value></value>
-<value>YES</value>
-</highalert><maximumprndose><value></value>
-<value>YES</value>
-</maximumprndose></drug>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose></maximumprndose><din><value>00721891</value>
+<value>00155357</value>
+</din></drug>

@@ -23,11 +23,8 @@
 </additionalnotes><population><value>ADULT / INFANT / CHILDREN</value>
 <value>ADULT  </value>
 <value>INFANT / CHILDREN</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2588</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary with Usage guidelines. Health Canada Special Access Programme.</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2588</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary with Usage guidelines. Health Canada Special Access Programme.</value>
 </ahsformularystatus><ahfsname><value>Antiprotozoals, Antimalarials</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>N/A</value>
+</din></drug>

@@ -25,8 +25,7 @@
 <value>Q8H</value>
 <value>Q24H</value>
 <value>Q4H</value>
-</frequency><instruction><value></value>
-<value>Loading dose. Administer by direct injection.</value>
+</frequency><instruction><value>Loading dose. Administer by direct injection.</value>
 <value>Administer daily calculated dose in 2 equally divided doses.</value>
 <value>Administer daily calculated dose in 3 equally divided doses.</value>
 <value>Infuse dose over at least 30 minutes.</value>
@@ -36,8 +35,7 @@
 </volume><units><value>mg</value>
 <value>mg/kg</value>
 <value>mg/kg/day</value>
-</units><additionalnotes><value></value>
-<value>Loading dose, initial dose.</value>
+</units><additionalnotes><value>Loading dose, initial dose.</value>
 <value>Maintenance dose.</value>
 <value>Loading dose.</value>
 <value>Maintenance Dose</value>
@@ -51,13 +49,9 @@
 <value>INFANT / CHILDREN: aged 4 to 6 years. Status Epilepticus.</value>
 <value>INFANT / CHILDREN: aged 7 to 9 years. Status Epilepticus.</value>
 <value>INFANT / CHILDREN: aged 10 to 16 years. Status Epilepticus.</value>
-</population><indicationprn><value></value>
-<value>Seizures</value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-<value>YES</value>
+</population><indicationprn><value>Seizures</value>
+</indicationprn><backgroundinformation></backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Anticonvulsants, Hydantoins</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>00780626</value>
+</din></drug>

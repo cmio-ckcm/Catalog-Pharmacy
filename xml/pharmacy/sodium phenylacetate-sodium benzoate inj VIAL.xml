@@ -16,11 +16,8 @@
 <value>CHILDREN &amp;gt; 20 kg, refer to ADULT dosing. Administered as 2 doses, loading dose over 90 to 120 minutes, followed by equivalent dose administered over 24 hours.</value>
 </additionalnotes><population><value>ADULT</value>
 <value>NEONATE, INFANT, CHILDREN</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=4658</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary with Restrictions. Health Canada Special Access Programme.</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=4658</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary with Restrictions. Health Canada Special Access Programme.</value>
 </ahsformularystatus><ahfsname><value>Ammonia Detoxicants</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>62592-720</value>
+</din></drug>

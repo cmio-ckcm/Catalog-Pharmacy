@@ -19,18 +19,14 @@
 </instruction><volume><value>5 mL</value>
 </volume><units><value>mg/kg</value>
 <value>mg/kg/dose</value>
-</units><additionalnotes><value></value>
-<value>Maximum total dose: 3 mg/kg.</value>
+</units><additionalnotes><value>Maximum total dose: 3 mg/kg.</value>
 </additionalnotes><population><value>ADULT: Cardiac arrest (from ventricular fibrillation or tachycardia).</value>
 <value>ADULT.</value>
 <value>NEONATE. MAXIMUM total dose: 5 mg/kg. </value>
 <value>INFANT / CHILDREN. Maximum total dose: The lessor of 5 mg/kg or 100 mg/dose.</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-<value>YES</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Cardiac Drugs, Antiarrhythmic Agents</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>00436208</value>
+</din></drug>

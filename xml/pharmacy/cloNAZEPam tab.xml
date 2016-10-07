@@ -16,20 +16,15 @@
 <value>TID</value>
 <value>QID</value>
 <value>HS</value>
-</frequency><instruction><value></value>
-<value>Administer twice daily and at bedtime.</value>
+</frequency><instruction><value>Administer twice daily and at bedtime.</value>
 <value>Administer with lunch.</value>
 <value>Administer with supper.</value>
-</instruction><volume><value></value>
-</volume><units><value>mg</value>
-</units><additionalnotes><value></value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-<value>YES</value>
+</instruction><volume></volume><units><value>mg</value>
+</units><additionalnotes></additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Anticonvulsants, Benzodiazepines</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02179660</value>
+<value>02048701</value>
+<value>02048728</value>
+<value>02048736</value>
+</din></drug>

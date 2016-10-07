@@ -1,6 +1,5 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "trace elements (MICRO PLUS 6 PEDIATRIC) inj VIAL">
-<dose><value></value>
-</dose><route><value>IV</value>
+<dose></dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
 </form><drugname><value>trace elements (MICRO PLUS 6 PEDIATRIC) inj VIAL</value>
 </drugname><strength><value>1 mL</value>
@@ -8,13 +7,8 @@
 </frequency><instruction><value>Ordered as part of Parenteral Nutrition order.</value>
 </instruction><volume><value>10 mL</value>
 </volume><units><value>mL</value>
-</units><additionalnotes><value></value>
-</additionalnotes><population><value>NEONATE / INFANT</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</units><additionalnotes></additionalnotes><population><value>NEONATE / INFANT</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Replacement Preparations</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02091100</value>
+</din></drug>

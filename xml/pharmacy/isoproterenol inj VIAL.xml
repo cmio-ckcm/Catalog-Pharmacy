@@ -11,25 +11,20 @@
 </drugname><strength><value>0.2 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>CONTINUOUS</value>
-</frequency><instruction><value></value>
-<value>Administer by continuous infusion. Titrate to desired response.</value>
+</frequency><instruction><value>Administer by continuous infusion. Titrate to desired response.</value>
 <value>Administer by direct injection.</value>
 </instruction><volume><value>1 mL</value>
 </volume><units><value>mcg</value>
 <value>mcg/minute</value>
 <value>mcg/kg/minute</value>
 <value>mg</value>
-</units><additionalnotes><value></value>
-<value>Laryngobronchospasm.</value>
+</units><additionalnotes><value>Laryngobronchospasm.</value>
 <value>MAXIMUM dose: 2 mcg/kg/minute.</value>
 </additionalnotes><population><value>ADULT</value>
 <value>NEONATE</value>
 <value>INFANT / CHILDREN</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Sympathomimetic (Adrenergic) Agents, beta-Adrenergic Agonists</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>00897639</value>
+</din></drug>

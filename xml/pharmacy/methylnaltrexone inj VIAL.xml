@@ -8,8 +8,7 @@
 </form><drugname><value>methylnaltrexone inj VIAL</value>
 </drugname><strength><value>20 mg/mL</value>
 </strength><frequency><value>EVERY OTHER DAY</value>
-</frequency><instruction><value></value>
-</instruction><volume><value>0.6 mL</value>
+</frequency><instruction></instruction><volume><value>0.6 mL</value>
 </volume><units><value>mg</value>
 </units><additionalnotes><value>Reduce dose by 50% in patients with CrCl less than 30 mL/minute.</value>
 </additionalnotes><population><value>Patients weighing 33 to less than 38 kg.</value>
@@ -21,6 +20,5 @@
 </backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary with Restrictions, Usage guidelines.</value>
 </ahsformularystatus><ahfsname><value>GI Drugs, Miscellaneous</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02308215</value>
+</din></drug>

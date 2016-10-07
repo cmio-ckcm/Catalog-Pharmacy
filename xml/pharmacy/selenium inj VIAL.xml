@@ -10,14 +10,9 @@
 </instruction><volume><value>10 mL</value>
 </volume><units><value>mcg/day</value>
 <value>mcg/kg/day</value>
-</units><additionalnotes><value></value>
-</additionalnotes><population><value>ADULT</value>
+</units><additionalnotes></additionalnotes><population><value>ADULT</value>
 <value>PEDIATRIC</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Replacement Preparations</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>01986007</value>
+</din></drug>

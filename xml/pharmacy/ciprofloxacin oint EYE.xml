@@ -1,6 +1,5 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "ciprofloxacin oint EYE">
-<dose><value></value>
-</dose><route><value>OPHTH</value>
+<dose></dose><route><value>OPHTH</value>
 </route><form><value>oint EYE</value>
 </form><drugname><value>ciprofloxacin oint EYE</value>
 </drugname><strength><value>0.3%</value>
@@ -15,14 +14,7 @@
 <value>Apply 1/2 inch ribbon of ointment into the conjuctival sac of BOTH eyes for 2 days.</value>
 <value>Apply 1/2 inch ribbon of ointment into the conjuctival sac of BOTH eyes for next 5 days.</value>
 </instruction><volume><value>3.5 g</value>
-</volume><units><value></value>
-</units><additionalnotes><value></value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</volume><units></units><additionalnotes></additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>EENT Drugs, Anti-infectives, Antibacterials</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02200864</value>
+</din></drug>

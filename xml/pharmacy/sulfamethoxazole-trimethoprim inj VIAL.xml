@@ -15,7 +15,6 @@
 </frequency><instruction><value>Administer daily calculated dose in 2 equally divided doses.</value>
 <value>Administer daily calculated dose in 3 equally divided doses.</value>
 <value>Administer daily calculated dose in 4 equally divided doses.</value>
-<value></value>
 <value>Administer daily calculated dose in 2 equally divided doses, on alternate days; three times a week.</value>
 <value>Administer daily calculated dose in 2 equally divided doses, for 3 days/week on consecutive days.</value>
 </instruction><volume><value>5 mL</value>
@@ -31,11 +30,7 @@
 <value>Pneumocystitis jiroveci pneumonia (PJP), prophylaxis. Maximum daily dose: trimethoprim 320 mg / sulfamethoxazole 1600mg.</value>
 </additionalnotes><population><value>ADULT</value>
 <value>INFANT / CHILDREN, aged 2 months and older</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Antibacterials, Sulfonamides</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>00550086</value>
+</din></drug>

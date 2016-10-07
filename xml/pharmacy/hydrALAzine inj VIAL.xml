@@ -19,8 +19,7 @@
 <value>Q4H</value>
 <value>ONCE</value>
 <value>CONTINUOUS</value>
-</frequency><instruction><value></value>
-<value>up to a MAXIMUM of 20 mg/dose.</value>
+</frequency><instruction><value>up to a MAXIMUM of 20 mg/dose.</value>
 <value>for Acute Hypertension/Hypertensive emergencies.</value>
 <value>Administer by continuous infusion.</value>
 <value>Administer at intervals of 20 to 30 minutes as required.</value>
@@ -28,8 +27,7 @@
 <value>Administer by Continuous Infusion. Increase dose every 15 minutes until desired blood pressure achieved.</value>
 <value>Administer by Continuous Infusion. Titrate dose to achieve desired blood pressure.</value>
 <value>Initial dose of 200 to 300 mcg/minute, titrating dose to achieve desired blood pressure. Usual maintenance dose is 50 to 150 mcg/minute.</value>
-</instruction><volume><value></value>
-</volume><units><value>mg/kg/dose</value>
+</instruction><volume></volume><units><value>mg/kg/dose</value>
 <value>mg</value>
 <value>mcg/kg/minute</value>
 <value>mcg/minute</value>
@@ -37,21 +35,15 @@
 </units><additionalnotes><value>Dose may be gradually increased to a MAXIMUM of 2 mg/kg/dose Q6H. Titrate dose according to blood pressure response.</value>
 <value>Titrate dose according to patient&amp;apos;s blood pressure response.</value>
 <value>Dose may be gradually increased to 1.7 to 3.5 mg/kg/day divided in 4 to 6 doses.</value>
-<value></value>
 </additionalnotes><population><value>NEONATE</value>
 <value>INFANT/CHILDREN</value>
 <value>ADULT</value>
-<value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>NEONATE: Hypertension</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>NEONATE: Hypertension</value>
 <value>NEONATE: Heart Failure</value>
-<value></value>
 <value>ADULT: Acute Hypertension/Hypertensive Emergencies</value>
 <value>Hypertensive Emergencies during Pregnancy.</value>
-</backgroundinformation><prninformation><value></value>
-<value>YES</value>
+</backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Hypotensive Agents, Direct Vasodilators</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>00723754</value>
+</din></drug>

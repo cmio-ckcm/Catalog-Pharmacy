@@ -15,18 +15,10 @@
 <value>ONCE</value>
 </frequency><instruction><value>Administer 30 minutes before a meal.</value>
 <value>Administer 30 minutes before meals and at bedtime.</value>
-<value></value>
 <value>Administer pre-operatively.</value>
-</instruction><volume><value></value>
-</volume><units><value>mg</value>
-</units><additionalnotes><value></value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-<value>YES</value>
+</instruction><volume></volume><units><value>mg</value>
+</units><additionalnotes></additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Gastrointestinal Drugs, Prokinetic Agents</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02230433</value>
+</din></drug>

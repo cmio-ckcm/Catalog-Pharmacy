@@ -16,8 +16,7 @@
 <value>WEEKLY</value>
 <value>Q3H</value>
 <value>Q4H</value>
-</frequency><instruction><value></value>
-</instruction><volume><value>5 mL</value>
+</frequency><instruction></instruction><volume><value>5 mL</value>
 <value>50 mL</value>
 </volume><units><value>mg</value>
 <value>mg/m2</value>
@@ -29,12 +28,10 @@
 <value>Methotrexate overdose. Treatment for several days until desired methotrexate level reached.</value>
 </additionalnotes><population><value>INFANT / CHILDREN</value>
 <value>ADULT</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3525</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3525</value>
 <value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3526</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Antidotes</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02183005</value>
+<value>02182998</value>
+</din></drug>

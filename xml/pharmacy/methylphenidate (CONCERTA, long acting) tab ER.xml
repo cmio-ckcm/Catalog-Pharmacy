@@ -12,16 +12,12 @@
 <value>36 mg</value>
 <value>54 mg</value>
 </strength><frequency><value>DAILY</value>
-</frequency><instruction><value></value>
-</instruction><volume><value></value>
-</volume><units><value>mg</value>
-</units><additionalnotes><value></value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>Concerta brand not interchangeable with Teva product (Teva-Methylphenidate ER-C).</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</frequency><instruction></instruction><volume></volume><units><value>mg</value>
+</units><additionalnotes></additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation><value>Concerta brand not interchangeable with Teva product (Teva-Methylphenidate ER-C).</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Anorexigenic Agents and Respiratory and Cerebral Stimulants, Miscellaneous</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02247732</value>
+<value>02250241</value>
+<value>02247733</value>
+<value>02247734</value>
+</din></drug>

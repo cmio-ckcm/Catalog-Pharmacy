@@ -9,16 +9,11 @@
 <value>ONCE</value>
 </frequency><instruction><value>for first 3 doses of 4. Administer STAT and at 12, 24 and 48 hours (4 dose total treatment).</value>
 <value>fourth dose of 4. Administered at 48 hours after initiating treatment. (STAT and at 12, 24 and 48 hours. 4 dose total treatment).</value>
-</instruction><volume><value></value>
-</volume><units><value>mg/kg</value>
+</instruction><volume></volume><units><value>mg/kg</value>
 </units><additionalnotes><value>May administer IM if IV route not available.</value>
-<value></value>
 </additionalnotes><population><value>ADULT</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2579</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary with Usage guidelines. Health Canada Special Access Programme.</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2579</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary with Usage guidelines. Health Canada Special Access Programme.</value>
 </ahsformularystatus><ahfsname><value>Antiprotozoals, Antimalarials</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>N/A</value>
+</din></drug>

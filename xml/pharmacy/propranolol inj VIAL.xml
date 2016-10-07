@@ -15,17 +15,14 @@
 <value>Q8H</value>
 </frequency><instruction><value>May repeat dose after 2 minutes if required.</value>
 <value>Administer by continuous infusion. Titrate to HR and BP.</value>
-<value></value>
 <value>May repeat dose every 10 minutes until arrhythmia is controlled.</value>
 <value>May repeat dose every 10 minutes until hypertension is controlled.</value>
 <value>May repeat dose once in 15 minutes if required.</value>
 <value>Infuse dose over 10 minutes.</value>
-</instruction><volume><value></value>
-</volume><units><value>mg</value>
+</instruction><volume></volume><units><value>mg</value>
 <value>mg/hour</value>
 <value>mg/kg/dose</value>
 </units><additionalnotes><value>Up to a total dose of 0.1 mg/kg.</value>
-<value></value>
 <value>Increase dose as required to a maximum of 0.15 mg/kg/dose Q6H.</value>
 <value>MAXIMUM dose: 1 mg</value>
 <value>MAXIMUM dose: 1mg</value>
@@ -42,14 +39,11 @@
 <value>CHILDREN. Antiarrhythmic, Hypertension.</value>
 <value>CHILDREN. Acute Tetralogy Spells.</value>
 <value>INFANT / CHILDREN. Tetralogy Spells.</value>
-</population><indicationprn><value></value>
-<value>Arrhythmia</value>
+</population><indicationprn><value>Arrhythmia</value>
 <value>Hypertension</value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value>YES</value>
-<value></value>
+</indicationprn><backgroundinformation></backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>beta-Adrenergic Blocking Agents</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>02225883</value>
+</din></drug>

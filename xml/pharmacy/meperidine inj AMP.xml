@@ -40,7 +40,6 @@
 <value>Administer by continous EPIDURAL infusion. </value>
 <value>for Post-Operative shivering.</value>
 <value>for acute pain.</value>
-<value></value>
 <value>Administer 30 minutes prior to anesthesia.</value>
 <value>Administer 60 minutes prior to anesthesia.</value>
 <value>Administer 90 minutes prior to anesthesia.</value>
@@ -67,8 +66,7 @@
 <value>mg/kg</value>
 <value>mg/kg/dose</value>
 <value>mg </value>
-</units><additionalnotes><value></value>
-<value>Total daily doses of 60 to 240 mg generally adequate.</value>
+</units><additionalnotes><value>Total daily doses of 60 to 240 mg generally adequate.</value>
 <value>Infants / Children</value>
 <value>Infants less than 6 months.</value>
 <value>Infants more than 6 months of age and children weighing less than 50 kg. Maximum dose: 75mg.</value>
@@ -79,14 +77,10 @@
 <value>Adults. For prevention, administer 20 minutes before chills expected to begin.</value>
 <value>Adults. Frequency determined by patient&amp;apos;s clinical condition and response, interval of 6 to 10 minutes. Maximum dose: 100 mg/hour.</value>
 <value>Adults. Dose dependant on previous narcotic use and titrating to patient response.</value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-<value>for Acute Pain.</value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-<value>YES</value>
+</additionalnotes><population></population><indicationprn><value>for Acute Pain.</value>
+</indicationprn><backgroundinformation></backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
 </ahsformularystatus><ahfsname><value>Analgesics and Antipyretics, Opiate Agonists</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>00725765</value>
+</din></drug>

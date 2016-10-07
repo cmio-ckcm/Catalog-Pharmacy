@@ -17,13 +17,7 @@
 <value>Instill into conjuctiva of AFFECTED eye(s) for remainder of treatment.</value>
 </instruction><volume><value>5 mL</value>
 </volume><units><value>gtt</value>
-</units><additionalnotes><value></value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary with Restrictions, Usage guidelines.</value>
+</units><additionalnotes></additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary with Restrictions, Usage guidelines.</value>
 </ahsformularystatus><ahfsname><value>EENT Drugs, Anti-infectives, Antibacterials</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02248398</value>
+</din></drug>

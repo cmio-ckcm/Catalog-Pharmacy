@@ -14,24 +14,17 @@
 </frequency><instruction><value>Bolus dose.</value>
 <value>Intermittent injection (top-up) dose.</value>
 <value>Administer by continous epidural infusion.</value>
-<value></value>
 <value>Administer by continuous infusion.</value>
 </instruction><volume><value>100 mL</value>
 </volume><units><value>mg</value>
 <value>mg/hour</value>
-</units><additionalnotes><value></value>
-<value>Minimal interval: 30 minutes.</value>
+</units><additionalnotes><value>Minimal interval: 30 minutes.</value>
 </additionalnotes><population><value>ADULT. Acute Pain Management, Lumbar epidural</value>
 <value>ADULT. Acute Pain Management, Thoracic epidural</value>
 <value>ADULT. Acute Pain Management, Field Block.</value>
 <value>ADULT. Acute Pain Management, Major Nerve Block (femoral, brachial)</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Local Anesthetics</value>
 </ahfsname><highalert><value>YES</value>
-<value></value>
-</highalert><maximumprndose><value>YES</value>
-<value></value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>02229411</value>
+</din></drug>

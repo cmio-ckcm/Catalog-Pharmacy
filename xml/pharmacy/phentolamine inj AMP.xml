@@ -23,8 +23,7 @@
 <value>Q3H</value>
 <value>Q4H</value>
 <value>CONTINUOUS</value>
-</frequency><instruction><value></value>
-<value>Administer 1 hour pre-operatively.</value>
+</frequency><instruction><value>Administer 1 hour pre-operatively.</value>
 <value>Administer 90 minutes pre-operatively.</value>
 <value>Administer 2 hours pre-operatively.</value>
 <value>Infiltrate area using a 1 mg/mL solution (in preservative-free Normal Saline).</value>
@@ -53,7 +52,6 @@
 <value>ADULT. Pheochromocytoma Surgical Excision.</value>
 <value>ADULT. Hypetension secondary to pheochromocytoma</value>
 <value>ADULT. Cocaine-induced Acute Coronary Syndrome.</value>
-<value></value>
 <value>Maximum dose: 0.2 mg/kg or 5 mg.</value>
 </additionalnotes><population><value>ADULT</value>
 <value>INFANT / CHILDREN. Pheochromocytoma diagnosis.</value>
@@ -63,13 +61,10 @@
 <value>INFANT / CHILDREN. Extravasation treatment.</value>
 <value>NEONATE. Hypertensive emergency (prior to surgery for pheochromocytoma.)</value>
 <value>ADULT. Extravasation treatment</value>
-</population><indicationprn><value></value>
-<value>Hypertension</value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-<value>YES</value>
+</population><indicationprn><value>Hypertension</value>
+</indicationprn><backgroundinformation></backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Sympatholytic (Adrenergic Blocking) Agents, alpha-Adrenergic Blocking Agents</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02242979</value>
+<value>02243737</value>
+</din></drug>

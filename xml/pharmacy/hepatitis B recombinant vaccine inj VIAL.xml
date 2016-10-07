@@ -6,8 +6,7 @@
 </dose><route><value>IM</value>
 </route><form><value>inj VIAL</value>
 </form><drugname><value>hepatitis B recombinant vaccine inj VIAL</value>
-</drugname><strength><value></value>
-</strength><frequency><value>MONTHLY</value>
+</drugname><strength></strength><frequency><value>MONTHLY</value>
 <value>ONCE</value>
 </frequency><instruction><value>Administer three doses with 1 month intervals between each dose.</value>
 <value>Administer 3 doses at 0, 1 and 6 months.</value>
@@ -23,11 +22,8 @@
 <value>CHILDREN, aged 11 to 19 years.</value>
 <value>ADULT</value>
 <value>NEONATE / INFANT / CHILDREN, up to including 19 years of age.</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2261</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2261</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
 </ahsformularystatus><ahfsname><value>Vaccines</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02243676</value>
+</din></drug>

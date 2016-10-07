@@ -4,19 +4,9 @@
 </dose><route><value>PO</value>
 </route><form><value>cap</value>
 </form><drugname><value>lactobacillus acidophilus cap</value>
-</drugname><strength><value></value>
-</strength><frequency><value>BID</value>
+</drugname><strength></strength><frequency><value>BID</value>
 <value>TID</value>
-</frequency><instruction><value></value>
-</instruction><volume><value></value>
-</volume><units><value>cap</value>
-</units><additionalnotes><value></value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Non-Formulary.</value>
+</frequency><instruction></instruction><volume></volume><units><value>cap</value>
+</units><additionalnotes></additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Non-Formulary.</value>
 </ahsformularystatus><ahfsname><value>Antidiarrhea Agents</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din></din></drug>

@@ -7,17 +7,10 @@
 </drugname><strength><value>2 mg</value>
 </strength><frequency><value>TID</value>
 <value>QID</value>
-</frequency><instruction><value></value>
-</instruction><volume><value></value>
-</volume><units><value>mg</value>
-</units><additionalnotes><value></value>
-</additionalnotes><population><value>CHILDREN. 6 to 12 years old.</value>
+</frequency><instruction></instruction><volume></volume><units><value>mg</value>
+</units><additionalnotes></additionalnotes><population><value>CHILDREN. 6 to 12 years old.</value>
 <value>ADULT / CHILDREN. Over 12 years old.</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Sympathomimetic (Adrenergic) Agents, beta-Adrenergic Agonists</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02146843</value>
+</din></drug>

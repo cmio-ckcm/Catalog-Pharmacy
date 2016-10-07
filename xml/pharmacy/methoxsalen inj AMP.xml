@@ -1,7 +1,5 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "methoxsalen inj AMP">
-<dose><value></value>
-</dose><route><value></value>
-</route><form><value>inj AMP</value>
+<dose></dose><route></route><form><value>inj AMP</value>
 </form><drugname><value>methoxsalen inj AMP</value>
 </drugname><strength><value>20 mcg/mL</value>
 </strength><frequency><value>ONCE</value>
@@ -10,11 +8,8 @@
 </volume><units><value>mL</value>
 </units><additionalnotes><value>Dose (mL of methoxsalen) = &amp;quot;Treatment Volume&amp;quot; X 0.017</value>
 </additionalnotes><population><value>ADULT</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=6501</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=6501</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
 </ahsformularystatus><ahfsname><value>Skin and Mucous Membrane Agents, Pigmenting Agents</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02406233</value>
+</din></drug>

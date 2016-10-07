@@ -12,16 +12,10 @@
 <value>Instill onto cornea of LEFT eye, while awake. Maximum of 5 drops per day.</value>
 <value>Instill onto cornea of RIGHT eye, while awake. Maximum of 5 drops per day.</value>
 <value>Instill onto cornea of affected eye(s), while awake. Maximum of 5 drops per day.</value>
-</instruction><volume><value></value>
-</volume><units><value>gtt</value>
+</instruction><volume></volume><units><value>gtt</value>
 </units><additionalnotes><value>Continue until lesion has completely re-epithelialized, then reduce dosage.</value>
 <value>Continue treatment for 7 days post-re-epithelialization.</value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>EENT Drugs, Anti-infectives, Antivirals</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>00687456</value>
+</din></drug>

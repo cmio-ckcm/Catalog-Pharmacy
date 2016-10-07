@@ -7,18 +7,11 @@
 </form><drugname><value>fluticasone inhaler</value>
 </drugname><strength><value>50 mcg</value>
 </strength><frequency><value>BID</value>
-</frequency><instruction><value></value>
-</instruction><volume><value></value>
-</volume><units><value>mcg</value>
+</frequency><instruction></instruction><volume></volume><units><value>mcg</value>
 </units><additionalnotes><value>100 mcg = 2 puffs using 50 mcg/dose inhaler</value>
 <value>150 mcg = 3 puffs using 50 mcg/dose inhaler</value>
 <value>200 mcg = 4 puffs using 50 mcg/dose inhaler</value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Adrenals</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02244291</value>
+</din></drug>

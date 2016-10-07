@@ -1,20 +1,14 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "amino acid-dextrose-lipid inj BAG">
-<dose><value></value>
-</dose><route><value>IV</value>
+<dose></dose><route><value>IV</value>
 </route><form><value>inj BAG</value>
 </form><drugname><value>amino acid-dextrose-lipid inj BAG</value>
-</drugname><strength><value></value>
-</strength><frequency><value>CONTINUOUS</value>
+</drugname><strength></strength><frequency><value>CONTINUOUS</value>
 </frequency><instruction><value>Administer by continuous infusion.</value>
-</instruction><volume><value></value>
-</volume><units><value>mL/hour</value>
+</instruction><volume></volume><units><value>mL/hour</value>
 </units><additionalnotes><value>Contact local Pharmacy for available products.</value>
 </additionalnotes><population><value>ADULT</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Caloric Agents</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>02352524</value>
+</din></drug>

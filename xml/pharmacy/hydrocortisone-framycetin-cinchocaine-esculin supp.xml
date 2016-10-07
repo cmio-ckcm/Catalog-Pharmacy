@@ -8,16 +8,9 @@
 <value>ONCE</value>
 </frequency><instruction><value>Insert rectally, in the morning and at bedtime.</value>
 <value>Insert rectally after bowel movement PRN.</value>
-</instruction><volume><value></value>
-</volume><units><value>supp</value>
-</units><additionalnotes><value></value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-<value>YES</value>
+</instruction><volume></volume><units><value>supp</value>
+</units><additionalnotes></additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Skin and Mucous Membrane Agents, Anti-inflammatory Agents</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02242528</value>
+</din></drug>

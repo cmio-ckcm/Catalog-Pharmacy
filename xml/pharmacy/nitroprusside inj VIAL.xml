@@ -21,11 +21,8 @@
 <value>INFANT / CHILDREN</value>
 <value>ADULT: Hypertensive Dosing</value>
 <value>ADULT: Non-Hypertensive Dosing</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Hypotensive Agents, Direct Vasodilators</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>02361736</value>
+</din></drug>

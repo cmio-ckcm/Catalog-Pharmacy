@@ -12,8 +12,7 @@
 <value>Q8H  </value>
 <value>DAILY</value>
 <value>Q8H</value>
-</frequency><instruction><value></value>
-<value>for 7 days.</value>
+</frequency><instruction><value>for 7 days.</value>
 </instruction><volume><value>250 mL</value>
 <value>500 mL</value>
 </volume><units><value>mg/kg</value>
@@ -25,12 +24,10 @@
 <value>Acyclovir-resistant HSV infection. Treatment for 2 to 3 weeks or until lesions heal. Alternate treatment regimen.</value>
 </additionalnotes><population><value>ADULT</value>
 <value>INFANT / CHILDREN</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3225</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3225</value>
 <value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3224</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary with Usage guidelines. Health Canada Special Access Programme.</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary with Usage guidelines. Health Canada Special Access Programme.</value>
 </ahsformularystatus><ahfsname><value>Antivirals, Miscellaneous</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>76310-024-01</value>
+<value>0409-3863-05</value>
+</din></drug>

@@ -1,6 +1,5 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "nitroglycerin inj BOTTLE">
 <dose><value>0.25 - 5</value>
-<value></value>
 </dose><route><value>IV</value>
 </route><form><value>inj BOTTLE</value>
 </form><drugname><value>nitroglycerin inj BOTTLE</value>
@@ -21,11 +20,7 @@
 </additionalnotes><population><value>NEONATE</value>
 <value>INFANT / CHILDREN</value>
 <value>ADULT</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Anticonvulsants, Benzodiazepines</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02145308</value>
+</din></drug>

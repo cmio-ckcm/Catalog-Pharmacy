@@ -11,20 +11,13 @@
 <value>QID</value>
 <value>TID  </value>
 <value>TID</value>
-</frequency><instruction><value></value>
-</instruction><volume><value></value>
-</volume><units><value>mg</value>
-</units><additionalnotes><value></value>
-<value>Maintenance of remission.</value>
+</frequency><instruction></instruction><volume></volume><units><value>mg</value>
+</units><additionalnotes><value>Maintenance of remission.</value>
 <value>Acute attacks.</value>
 </additionalnotes><population><value>ADULT</value>
 <value>CHILDREN, 25 to less than 35 kg.</value>
 <value>CHILDREN, 35 to less than 50 kg.</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Antibacterials, Sulfonamides</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>00598461</value>
+</din></drug>

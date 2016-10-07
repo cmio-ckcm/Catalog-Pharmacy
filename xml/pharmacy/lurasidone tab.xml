@@ -14,15 +14,13 @@
 <value>80 mg </value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value>Administer with a meal.</value>
-</instruction><volume><value></value>
-</volume><units><value>mg</value>
-</units><additionalnotes><value></value>
-</additionalnotes><population><value>ADULT</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</instruction><volume></volume><units><value>mg</value>
+</units><additionalnotes></additionalnotes><population><value>ADULT</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Psychotherapeutic Agents, Antipsychotics</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02387786</value>
+<value>02422050</value>
+<value>02387751</value>
+<value>02413361</value>
+<value>02387778</value>
+</din></drug>

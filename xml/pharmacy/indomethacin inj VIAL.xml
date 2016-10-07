@@ -23,16 +23,12 @@
 <value>for 3 doses starting at 6 hours of age for Patent Ductus Arteriosus Prophylaxis.</value>
 <value>for 3 doses starting at 9 hours of age for Patent Ductus Arteriosus Prophylaxis.</value>
 <value>for 3 doses starting at 12 hours of age for Patent Ductus Arteriosus Prophylaxis.</value>
-</instruction><volume><value></value>
-</volume><units><value>mg/kg</value>
+</instruction><volume></volume><units><value>mg/kg</value>
 </units><additionalnotes><value>Adjust dosing interval in patients with renal dusfunction</value>
 <value>Neonates less than 27 weeks gestational age or less than 1 kg body weight recommended to receive prophylaxis.</value>
 </additionalnotes><population><value>NEONATE</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=308</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary, Health Canada Special Access Programme.</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=308</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary, Health Canada Special Access Programme.</value>
 </ahsformularystatus><ahfsname><value>Analgesics and Antipyretics, Nonsteroidal Anti-inflammatory Agents</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>67386-511-51</value>
+</din></drug>

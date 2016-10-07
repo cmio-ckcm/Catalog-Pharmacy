@@ -1,21 +1,14 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "insulin regular (HumuLIN R) inj CART">
-<dose><value></value>
-</dose><route><value>SC</value>
+<dose></dose><route><value>SC</value>
 </route><form><value>inj CART</value>
 </form><drugname><value>insulin regular (HumuLIN R) inj CART</value>
 </drugname><strength><value>100 unit/mL</value>
 </strength><frequency><value>DAILY</value>
 <value>ONCE</value>
-</frequency><instruction><value></value>
-</instruction><volume><value>3 mL</value>
+</frequency><instruction></instruction><volume><value>3 mL</value>
 </volume><units><value>unit</value>
-</units><additionalnotes><value></value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</units><additionalnotes></additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Antidiabetic Agents, Insulins</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>01959220</value>
+</din></drug>

@@ -2,7 +2,6 @@
 <dose><value>5</value>
 <value>30</value>
 <value>20 - 40</value>
-<value></value>
 <value>500</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
@@ -22,11 +21,7 @@
 <value>Metabolic Acidosis. Arginine dose (g) = weight (kg) X 0.1 X [HCO3 minus 24], where HCO3 is the serum bicarbonate concentration in mEq/L. Administer 1/2 to 2/3 of calculated dose and re-evaluate.</value>
 </additionalnotes><population><value>ADULT</value>
 <value>CHILDREN</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Pituitary Function</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>00399736</value>
+</din></drug>

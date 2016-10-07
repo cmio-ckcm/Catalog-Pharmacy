@@ -17,22 +17,19 @@
 <value>Administer with food. Dose given with ritinovir 50mg. </value>
 <value>Administer with food. Dose given with ritinovir 60 mg.</value>
 <value>Administer with food. Dose given with ritinovir 100mg.</value>
-</instruction><volume><value></value>
-</volume><units><value>mg</value>
-</units><additionalnotes><value></value>
-<value>Children: 15 - &amp;lt;30 kg body weight</value>
+</instruction><volume></volume><units><value>mg</value>
+</units><additionalnotes><value>Children: 15 - &amp;lt;30 kg body weight</value>
 <value>Children: &amp;gt;=30 to &amp;lt;40 kg body weight</value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=5661</value>
-<value></value>
+</additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=5661</value>
 <value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3255</value>
 <value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=5662</value>
 <value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=5663</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
 <value>Discontinued.</value>
 </ahsformularystatus><ahfsname><value>Antivirals, Antiretrovirals</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02369753</value>
+<value>02324016</value>
+<value>02324024</value>
+<value>02338432</value>
+<value>02393050</value>
+</din></drug>

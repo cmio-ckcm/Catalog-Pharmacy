@@ -8,16 +8,10 @@
 </strength><frequency><value>ONCE</value>
 <value>DAILY</value>
 </frequency><instruction><value>LOADING DOSE.</value>
-<value></value>
-</instruction><volume><value></value>
-</volume><units><value>mg/kg</value>
+</instruction><volume></volume><units><value>mg/kg</value>
 </units><additionalnotes><value>Apnea of Prematurity. DOSING BASED UP CAFFEINE BASE. Caffeine CITRATE 20 mg = Caffeine BASE 10 mg. </value>
 </additionalnotes><population><value>NEONATE</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary, Health Canada Special Access Programme.</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary, Health Canada Special Access Programme.</value>
 </ahsformularystatus><ahfsname><value>Anorexigenic Agents and Respiratory and Cerebral Stimulants, Miscellaneous</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>N/A</value>
+</din></drug>

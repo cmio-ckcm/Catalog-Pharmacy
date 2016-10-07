@@ -20,7 +20,6 @@
 <value>Administer by continuous infusion. (Maintenance dose)</value>
 <value>Administer by direct injection, as  required to maintain neuromuscular block. (Maintenance dose)</value>
 <value>Administer by direct injection, 40 to 65 minutes after initial dose or as  required to maintain neuromuscular block. (Maintenance dose)</value>
-<value></value>
 </instruction><volume><value>10 mL</value>
 </volume><units><value>mg/kg</value>
 <value>mcg/kg/minute</value>
@@ -28,18 +27,14 @@
 </units><additionalnotes><value>Initial dose, as a component of a propofol/nitrous oxide/oxygen anesthetic induction. </value>
 <value>Maintenance dose; 40 to 50 minutes after the 0.15 mg/kg initial dose, or 50 to 60 minutes after the 0.2 mg/kg initial dose.</value>
 <value>Maintenance dose; following initial dose.</value>
-<value></value>
 </additionalnotes><population><value>ADULT</value>
 <value>CHILDREN; aged 2 to 12 years.</value>
 <value>CHILDREN; aged 12 years and older.</value>
 <value>CHILDREN; aged 2 years and older.</value>
 <value>INFANT/CHILDREN; aged 1 to 23 months.</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-<value>YES</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Skeletal Muscle Relaxants, Neuromuscular Blocking Agents</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>02425718</value>
+</din></drug>

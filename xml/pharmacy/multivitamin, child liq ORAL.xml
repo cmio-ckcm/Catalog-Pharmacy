@@ -3,18 +3,9 @@
 </dose><route><value>PO</value>
 </route><form><value>liq ORAL</value>
 </form><drugname><value>multivitamin, child liq ORAL</value>
-</drugname><strength><value></value>
-</strength><frequency><value>DAILY</value>
-</frequency><instruction><value></value>
-</instruction><volume><value></value>
-</volume><units><value>mL</value>
-</units><additionalnotes><value></value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</drugname><strength></strength><frequency><value>DAILY</value>
+</frequency><instruction></instruction><volume></volume><units><value>mL</value>
+</units><additionalnotes></additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Multivitamin Preparations</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>00558060</value>
+</din></drug>

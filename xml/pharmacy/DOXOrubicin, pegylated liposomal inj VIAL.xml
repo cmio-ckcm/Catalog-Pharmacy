@@ -18,11 +18,9 @@
 <value>Ovarian, Primary Peritoneal or Fallopian Tube Carcinoma. MAX Lifetime IV DOXOrubicin, liposomal Dose not established, but is suggested to follow recommendations for regular DOXOrubicin formulation: a) No risk factors: 550 mg/m2. b) Concurrent radiation therapy; previous or concurrent use of cyclophosphamide, anthracyclines or other cardiotoxic drugs: 450 mg/m2.</value>
 <value>Ovarian cancer. MAX Lifetime IV DOXOrubicin, liposomal Dose not established, but is suggested to follow recommendations for regular DOXOrubicin formulation: a) No risk factors: 550 mg/m2. b) Concurrent radiation therapy; previous or concurrent use of cyclophosphamide, anthracyclines or other cardiotoxic drugs: 450 mg/m2.</value>
 </additionalnotes><population><value>ADULT</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3381</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3381</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Antineoplastic Agents</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>02238389</value>
+</din></drug>

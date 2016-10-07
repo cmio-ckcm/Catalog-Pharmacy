@@ -6,15 +6,11 @@
 </drugname><strength><value>400 mcg</value>
 </strength><frequency><value>BID</value>
 </frequency><instruction><value>Administer in the morning and evening.</value>
-</instruction><volume><value></value>
-</volume><units><value>mcg </value>
+</instruction><volume></volume><units><value>mcg </value>
 </units><additionalnotes><value>Product can be used at recommended doses in elderly patients 70 years of age and older.</value>
 </additionalnotes><population><value>ADULT</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>Each dose contains lactose monohydrate (which contains milk protein).</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>Each dose contains lactose monohydrate (which contains milk protein).</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Anticholinergic Agents</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>R03BB05</value>
+</din></drug>

@@ -10,19 +10,15 @@
 </drugname><strength><value>100 unit</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value>Administer partial doses into appropriate multiple injection sites.</value>
-</instruction><volume><value></value>
-</volume><units><value>unit</value>
+</instruction><volume></volume><units><value>unit</value>
 </units><additionalnotes><value>Post-stroke spasticity of upper limb: flexed wrist.</value>
 <value>Post-stroke spasticity of upper limb: clenched fist.</value>
 <value>Post-stroke spasticity of upper limb: flexed elbow.</value>
 <value>Post-stroke spasticity of upper limb: pronated forearm.</value>
 <value>Post-stroke spasticity of upper limb: thunb-in-pam.</value>
 </additionalnotes><population><value>ADULT</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=4821</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=4821</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
 </ahsformularystatus><ahfsname><value>Other Miscellaneous Therapeutic Agents</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02324032</value>
+</din></drug>

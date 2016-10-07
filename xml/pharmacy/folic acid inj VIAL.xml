@@ -19,13 +19,11 @@
 </strength><frequency><value>DAILY</value>
 <value>Q4H</value>
 <value>Q6H  </value>
-</frequency><instruction><value></value>
-</instruction><volume><value>10 mL</value>
+</frequency><instruction></instruction><volume><value>10 mL</value>
 </volume><units><value>mg</value>
 <value>mcg</value>
 <value>mcg/kg</value>
-</units><additionalnotes><value></value>
-<value>Prophylaxis of Neural Tube Defects. Initiate 3 months prior to pregnancy and during first 3 months of pregnancy.</value>
+</units><additionalnotes><value>Prophylaxis of Neural Tube Defects. Initiate 3 months prior to pregnancy and during first 3 months of pregnancy.</value>
 <value>Nutritional Maintenance</value>
 <value>Folic Acid Deficiency</value>
 <value>Folic Acid Deficiency. Initial dose.</value>
@@ -40,11 +38,8 @@
 <value>CHILDREN, aged 4 to 6 years.</value>
 <value>CHILDREN, aged 7 to 10 years.</value>
 <value>CHILDREN, aged 11 to 14 years.</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2760</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2760</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Vitamin B Complex</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02139480</value>
+</din></drug>

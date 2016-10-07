@@ -48,7 +48,6 @@
 <value>Step 3: Ventricular and Atrial Tachycardia protocol. Not recommended for use in patients receiving Sovaldi or Harvoni in combination with another direct acting antiviral. Risk of serious symptomatic bradycardia. Health Canada: April 2, 2015. </value>
 <value>Not recommended for use in patients receiving Sovaldi or Harvoni in combination with another direct acting antiviral. Risk of serious symptomatic bradycardia. Health Canada: April 2, 2015. </value>
 <value>PALS: Treatment of Pulseless V-Tach or V-Fib. Not recommended for use in patients receiving Sovaldi or Harvoni in combination with another direct acting antiviral. Risk of serious symptomatic bradycardia. Health Canada: April 2, 2015. </value>
-<value></value>
 <value>Neonate: Refractory Perfusing Tachyarrhythmias</value>
 <value>ACLS - Cardiac Arrest due to pulseless V-Tav or V-Fib.</value>
 <value>Step 1: Ventricular and Atrial Tachycardia protocol</value>
@@ -57,16 +56,13 @@
 <value>PALS: Treatment of Pulseless V-Tach or V-Fib.</value>
 <value>Infant/Child dosing</value>
 </additionalnotes><population><value>ADULT</value>
-<value></value>
 <value>INFANT/CHILDREN</value>
 <value>NEONATE</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-<value>YES</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 <value>Discontinued.</value>
 </ahsformularystatus><ahfsname><value>Cardiac Drugs, Antiarrhythmic Agents</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>02245248</value>
+<value>02242325</value>
+</din></drug>

@@ -19,16 +19,15 @@
 <value>6 mg</value>
 </strength><frequency><value>BID</value>
 <value>Q12H</value>
-</frequency><instruction><value></value>
-</instruction><volume><value></value>
-</volume><units><value>mg</value>
-</units><additionalnotes><value></value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</frequency><instruction></instruction><volume></volume><units><value>mg</value>
+</units><additionalnotes></additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Analgesics and Antipyretics, Opiate Agonists</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>02125366</value>
+<value>02243562</value>
+<value>02125382</value>
+<value>02125323</value>
+<value>02125390</value>
+<value>02359502</value>
+<value>02125331</value>
+</din></drug>

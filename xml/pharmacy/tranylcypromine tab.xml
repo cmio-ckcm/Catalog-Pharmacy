@@ -7,20 +7,13 @@
 </drugname><strength><value>10 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>
-</frequency><instruction><value></value>
-<value>Administer in the morning and afternoon.</value>
+</frequency><instruction><value>Administer in the morning and afternoon.</value>
 <value>Administer in the afternoon.</value>
 <value>Administer in the morning.</value>
-</instruction><volume><value></value>
-</volume><units><value>mg</value>
-</units><additionalnotes><value></value>
-<value>20 mg in the morning and 10 mg in the afternoon.</value>
+</instruction><volume></volume><units><value>mg</value>
+</units><additionalnotes><value>20 mg in the morning and 10 mg in the afternoon.</value>
 </additionalnotes><population><value>ADULT</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Psychotherapeutic Agents, Antidepressants</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>01919598</value>
+</din></drug>

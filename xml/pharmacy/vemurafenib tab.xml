@@ -8,15 +8,12 @@
 </drugname><strength><value>240 mg</value>
 </strength><frequency><value>BID</value>
 </frequency><instruction><value>for 28 days. Administer in the morning and evening.</value>
-</instruction><volume><value></value>
-</volume><units><value>mg</value>
+</instruction><volume></volume><units><value>mg</value>
 </units><additionalnotes><value>Metastatic melanoma (BRAF mutation-positive). Dosage adjustment recommended for toxicities. No dose adjustment necessary for mild to moderate renal or hepatic impairment. Evaluate QT prolongation status. Patients 65 years and older experience more adverse efects from vemurafenib.</value>
 </additionalnotes><population><value>ADULT</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=7304</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=7304</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
 </ahsformularystatus><ahfsname><value>Antineoplastic Agents</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>02380242</value>
+</din></drug>

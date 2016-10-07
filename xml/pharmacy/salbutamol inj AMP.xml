@@ -14,7 +14,6 @@
 <value>Q4H</value>
 <value>ONCE</value>
 </frequency><instruction><value>Administer by continuous infusion.</value>
-<value></value>
 <value>Administer by continuous infusion, titrate to desired response.</value>
 <value>Administer by direct injection. </value>
 </instruction><volume><value>5 mL</value>
@@ -23,7 +22,6 @@
 <value>mcg</value>
 <value>mcg/minute</value>
 </units><additionalnotes><value>Consider inhalation therapy first for bronchospasm.</value>
-<value></value>
 <value>MAXIMUM dose: 10 mcg/kg/minute.</value>
 </additionalnotes><population><value>NEONATE. Bronchospasm / Hyperkalemia.</value>
 <value>NEONATE. Bronchospasm.</value>
@@ -31,11 +29,8 @@
 <value>INFANT / CHILDREN. Acute Severe Asthma.</value>
 <value>INFANT / CHILDREN. Hyperkalemia</value>
 <value>ADULT. Severe Bronchospasm, Status Asthmaticus.</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Sympathomimetic (Adrenergic) Agents, beta-Adrenergic Agonists</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>02213451</value>
+</din></drug>

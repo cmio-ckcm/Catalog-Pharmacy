@@ -24,9 +24,7 @@
 <value>Administer by continuous infusion.</value>
 <value>Administer by direct injection, followed by continuous infusion.</value>
 <value>Administer by direct injection, repeat every 5 to 10 minutes for up to 3 doses if necessary.</value>
-<value></value>
-</instruction><volume><value></value>
-</volume><units><value>mcg/kg/dose</value>
+</instruction><volume></volume><units><value>mcg/kg/dose</value>
 <value>mg/dose</value>
 <value>mg</value>
 <value>mg/day</value>
@@ -44,12 +42,9 @@
 <value>INFANT / CHILDREN, weighing more than 20 kg.</value>
 <value>INFANT / CHILDREN, weighing 20 kg or less.</value>
 <value>ADULT</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1163</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1163</value>
 </backgroundinformation><prninformation><value>YES</value>
-<value></value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Antihypoglycemic Agents, Glycogenolytic Agents</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02243297</value>
+</din></drug>

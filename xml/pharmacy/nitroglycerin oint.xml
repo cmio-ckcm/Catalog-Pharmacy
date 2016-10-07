@@ -8,7 +8,6 @@
 <value>10</value>
 <value>11.25</value>
 <value>12.5</value>
-<value></value>
 </dose><route><value>TOP</value>
 </route><form><value>oint</value>
 </form><drugname><value>nitroglycerin oint</value>
@@ -18,9 +17,7 @@
 <value>Q4H</value>
 <value>Q6H</value>
 <value>Q8H</value>
-</frequency><instruction><value></value>
-</instruction><volume><value></value>
-</volume><units><value>cm</value>
+</frequency><instruction></instruction><volume></volume><units><value>cm</value>
 </units><additionalnotes><value>2.5 cm = 1 inch</value>
 <value>3.75 cm = 1.5 inches</value>
 <value>5 cm = 2 inches</value>
@@ -30,13 +27,7 @@
 <value>10 cm = 4 inches</value>
 <value>11.25 cm = 4.5 inches</value>
 <value>12.5 cm = 5 inches</value>
-<value></value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Vasodilating Agents, Nitrates and Nitrites</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>01926454</value>
+</din></drug>

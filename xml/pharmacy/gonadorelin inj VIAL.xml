@@ -6,16 +6,11 @@
 </form><drugname><value>gonadorelin inj VIAL</value>
 </drugname><strength><value>0.8 mg</value>
 </strength><frequency><value>ONCE</value>
-</frequency><instruction><value></value>
-</instruction><volume><value></value>
-</volume><units><value>mcg </value>
+</frequency><instruction></instruction><volume></volume><units><value>mcg </value>
 </units><additionalnotes><value>Pituitary function test.</value>
 </additionalnotes><population><value>ADULT</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1997</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary with Usage guidelines.</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1997</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary with Usage guidelines.</value>
 </ahsformularystatus><ahfsname><value>Gonadotropins</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02046210</value>
+</din></drug>

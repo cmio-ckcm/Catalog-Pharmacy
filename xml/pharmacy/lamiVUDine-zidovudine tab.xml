@@ -5,16 +5,10 @@
 </form><drugname><value>lamiVUDine-zidovudine tab</value>
 </drugname><strength><value>150 mg-300 mg</value>
 </strength><frequency><value>BID</value>
-</frequency><instruction><value></value>
-</instruction><volume><value></value>
-</volume><units><value>tab</value>
+</frequency><instruction></instruction><volume></volume><units><value>tab</value>
 </units><additionalnotes><value>Patients weighing at least 30kg. Recommended patients less than 30 kg body weight and/or CrCl less than 50 mL/minute received individualized dosing for each of lamiVUDine and zidovudine. </value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3282</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3282</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
 </ahsformularystatus><ahfsname><value>Antivirals, Antiretrovirals</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02387247</value>
+</din></drug>

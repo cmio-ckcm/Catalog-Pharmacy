@@ -11,19 +11,15 @@
 </strength><frequency><value>Q4H</value>
 <value>Q6H</value>
 </frequency><instruction><value>May give up to 5 doses per 24 hours.</value>
-<value></value>
-</instruction><volume><value></value>
-</volume><units><value>mg</value>
+</instruction><volume></volume><units><value>mg</value>
 </units><additionalnotes><value>Recommended dosing for children 3 and up to 6 years of age: Maximum daily dose of 600 mg (5 doses of 120 mg). Acetaminophen dosing from all sources not to exceed: CHILDREN =  65 mg/kg/24 hours. ADULTS: 4000 mg/24 hours.</value>
 <value>Recommended dosing for children 6 and up to 12 years of age: Maximum daily dose of 1625 mg (5 doses of 325 mg). Acetaminophen dosing from all sources not to exceed: CHILDREN =  65 mg/kg/24 hours. ADULTS: 4000 mg/24 hours.</value>
 <value>Recommended dosing for children 12 years and older and adults: Maximum daily dose of 3900 mg (6 doses of 650 mg). Acetaminophen dosing from all sources not to exceed: CHILDREN =  65 mg/kg/24 hours. ADULTS: 4000 mg/24 hours.</value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value>YES</value>
-<value></value>
+</additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Analgesics and Antipyretics, Miscellaneous</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose><value>Acetaminophen dosing from all sources not to exceed: CHILDREN =  65 mg/kg/24 hours. ADULTS: 4000 mg/24 hours.</value>
+</maximumprndose><din><value>01919385</value>
+<value>01919393</value>
+<value>01919407</value>
+</din></drug>

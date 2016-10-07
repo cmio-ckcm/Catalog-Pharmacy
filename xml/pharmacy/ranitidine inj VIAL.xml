@@ -20,8 +20,7 @@
 <value>Q8H</value>
 <value>CONTINUOUS</value>
 <value>ONCE</value>
-</frequency><instruction><value></value>
-<value>Administer by continuous infusion for stress ulcer prophylaxis</value>
+</frequency><instruction><value>Administer by continuous infusion for stress ulcer prophylaxis</value>
 <value>Administer by continuous infusion for hypersecretory conditions.</value>
 <value>Administer 1 hour pre-operatively.</value>
 <value>DAY 1 of 21. If oral ranitidine has not been taken by patient as instructed, administer 30 minutes pre-PACLitaxel. May be administered by PO route.</value>
@@ -32,19 +31,14 @@
 <value>40 mL</value>
 </volume><units><value>mg</value>
 <value>mg/kg/hour</value>
-</units><additionalnotes><value></value>
-<value>stress ulcer prophylaxis</value>
-</additionalnotes><population><value></value>
-<value>Adjuvant PACLitaxel/CARBOplatin. Non-Small Cell Lung Cancer</value>
+</units><additionalnotes><value>stress ulcer prophylaxis</value>
+</additionalnotes><population><value>Adjuvant PACLitaxel/CARBOplatin. Non-Small Cell Lung Cancer</value>
 <value>PACLitaxel / CARBOplatin. Advanced / Metastatic Non-Small Cell Lung Cancer</value>
 <value>PACLitaxel/CARBOplatin (Weekly) and concurrent RT. Non-Small Cell Lung Cancer.</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1685</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1685</value>
 <value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1686</value>
-</backgroundinformation><prninformation><value></value>
-<value>YES</value>
+</backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary with Therapeutic Interchange.</value>
 </ahsformularystatus><ahfsname><value>Antiulcer Agents and Acid Suppressants, Histamine H2-Antagonists</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02212366</value>
+</din></drug>

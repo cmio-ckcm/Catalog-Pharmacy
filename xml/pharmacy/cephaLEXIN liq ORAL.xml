@@ -7,16 +7,9 @@
 </form><drugname><value>cephaLEXIN liq ORAL</value>
 </drugname><strength><value>50 mg/mL</value>
 </strength><frequency><value>QID</value>
-</frequency><instruction><value></value>
-</instruction><volume><value>100 mL</value>
+</frequency><instruction></instruction><volume><value>100 mL</value>
 </volume><units><value>mg</value>
-</units><additionalnotes><value></value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary with Usage guidelines.</value>
+</units><additionalnotes></additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary with Usage guidelines.</value>
 </ahsformularystatus><ahfsname><value>Antibacterials, Cephalosporins</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>00342092</value>
+</din></drug>

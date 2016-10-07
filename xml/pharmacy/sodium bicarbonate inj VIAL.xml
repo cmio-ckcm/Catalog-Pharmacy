@@ -1,7 +1,6 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "sodium bicarbonate inj VIAL">
 <dose><value>1</value>
 <value>0.5</value>
-<value></value>
 <value>2</value>
 <value>3</value>
 <value>4</value>
@@ -14,8 +13,7 @@
 </drugname><strength><value>8.4%</value>
 </strength><frequency><value>ONCE</value>
 <value>CONTINUOUS</value>
-</frequency><instruction><value></value>
-<value>Administer by direct injection.</value>
+</frequency><instruction><value>Administer by direct injection.</value>
 <value>May administer 10 minutes after initial dose as indicated by arterial blood gases.</value>
 <value>Administer over 4 hours.</value>
 <value>Administer over 6 hours.</value>
@@ -27,11 +25,9 @@
 </volume><units><value>mmol/kg</value>
 <value>mmol</value>
 <value>mL/kg/hour</value>
-<value></value>
 </units><additionalnotes><value>If unable to establish adequate IV access during cardiac arrest.</value>
 <value>Cardiac Arrest / Resuscitation.</value>
 <value>Cardiac Arrest.</value>
-<value></value>
 <value>Metabolic Acidosis</value>
 <value>Hyperkalemia</value>
 <value>Urinary alkalinization</value>
@@ -39,12 +35,9 @@
 </additionalnotes><population><value>ADULT</value>
 <value>CHILDREN</value>
 <value>ADULT / CHILDREN</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1484</value>
-</backgroundinformation><prninformation><value></value>
-<value>YES</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1484</value>
+</backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Alkalinizing Agents</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>00261998</value>
+</din></drug>

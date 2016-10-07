@@ -1,6 +1,5 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "morphine inj VIAL">
-<dose><value></value>
-<value>0.8</value>
+<dose><value>0.8</value>
 <value>1</value>
 <value>2</value>
 <value>3</value>
@@ -27,14 +26,12 @@
 <value>30</value>
 <value>40</value>
 </dose><route><value>IV</value>
-<value></value>
 <value>SC</value>
 </route><form><value>inj VIAL</value>
 </form><drugname><value>morphine inj VIAL</value>
 </drugname><strength><value>50 mg/mL</value>
 </strength><frequency><value>CONTINUOUS</value>
 <value>ONCE</value>
-<value></value>
 </frequency><instruction><value>Continuous infusion: 1 mg/mL 100 mL IV bag</value>
 <value>PCA: 1mg/mL 100 mL IV bag, IV basal rate</value>
 <value>PCA: 1 mg/mL 100 mL IV bag, IV bolus dose</value>
@@ -42,7 +39,6 @@
 <value>Continuous infusion: 2 mg/mL 100 mL IV bag</value>
 <value>PCA: 5 mg/mL 50 mL IV bag, IV basal rate</value>
 <value>PCA: 5 mg/mL 50 mL IV bag - IV bolus dose</value>
-<value></value>
 <value>Continuous infusion: 1mg/mL 100 mL IV bag</value>
 <value>PCA: 1 mg/mL 100 mL IV bag - IV bolus dose</value>
 <value>PCA: 5 mg/mL 50 mL IV bag, IV bolus dose</value>
@@ -87,22 +83,16 @@
 <value>50 mL</value>
 </volume><units><value>mg/hour</value>
 <value>mg</value>
-<value></value>
 <value>mcg/kg/hour</value>
 <value>mcg/kg/dose</value>
-</units><additionalnotes><value></value>
-<value>Require Lock-out time.</value>
+</units><additionalnotes><value>Require Lock-out time.</value>
 <value>Usual lock-out time is 5 to 10 minutes.</value>
-</additionalnotes><population><value></value>
-<value>Neonate</value>
+</additionalnotes><population><value>Neonate</value>
 <value>Infant/Child</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-<value>Average lock-out time is 8 minutes. Range = 5 - 90 minutes.</value>
-</backgroundinformation><prninformation><value></value>
-<value>YES</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>Average lock-out time is 8 minutes. Range = 5 - 90 minutes.</value>
+</backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Analgesics and Antipyretics, Opiate Agonists</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>00617288</value>
+</din></drug>

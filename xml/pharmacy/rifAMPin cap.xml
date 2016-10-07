@@ -15,14 +15,11 @@
 <value>BID</value>
 <value>Q12H  </value>
 </frequency><instruction><value>Administer 1 hour before breakfast.</value>
-<value></value>
 <value>Administer 1 hour before breakfast and supper for 2 days.</value>
 <value>for 2 days.</value>
-</instruction><volume><value></value>
-</volume><units><value>mg</value>
+</instruction><volume></volume><units><value>mg</value>
 <value>mg/kg</value>
-</units><additionalnotes><value></value>
-<value>UP to a dose of 600 mg.</value>
+</units><additionalnotes><value>UP to a dose of 600 mg.</value>
 <value>Up to 600 mg dose.</value>
 <value>MAXIMUM daily dose: 600 mg.</value>
 </additionalnotes><population><value>ADULT. Tuberculosis</value>
@@ -32,11 +29,8 @@
 <value>INFANT. Up to 1 month of age. Meningococcal infection prophylaxis.</value>
 <value>CHILDREN. 1 month of age and older. Tuberculosis.</value>
 <value>CHILDREN. 1 month of age and older. Meningococcal infection prophylaxis</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Antimycobacterials, Antituberculosis Agents</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>00393444</value>
+<value>00343617</value>
+</din></drug>

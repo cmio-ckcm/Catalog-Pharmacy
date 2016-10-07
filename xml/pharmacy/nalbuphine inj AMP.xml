@@ -15,8 +15,7 @@
 <value>Q4H</value>
 <value>Q6H</value>
 <value>ONCE</value>
-</frequency><instruction><value></value>
-<value>Administer pre-operatively.</value>
+</frequency><instruction><value>Administer pre-operatively.</value>
 <value>May repeat dose.</value>
 </instruction><volume><value>1 mL</value>
 </volume><units><value>mg</value>
@@ -24,18 +23,13 @@
 </units><additionalnotes><value>Maximum recommended single dose is 20 mg and maximum daily dose is 160 mg.</value>
 <value>Up to a Maximum recommended single dose of 20 mg.</value>
 <value>Opioid-induced pruritis.</value>
-<value></value>
 </additionalnotes><population><value>ADULT</value>
 <value>INFANT / CHILDREN</value>
-<value></value>
 </population><indicationprn><value>Pain</value>
-<value></value>
 <value>opioid induced pruritis.</value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value>YES</value>
-<value></value>
+</indicationprn><backgroundinformation></backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Analgesics and Antipyretics, Opiate Partial Agonists</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>01913980</value>
+</din></drug>

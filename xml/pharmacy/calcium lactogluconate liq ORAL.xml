@@ -5,16 +5,11 @@
 </form><drugname><value>calcium lactogluconate liq ORAL</value>
 </drugname><strength><value>153.8 mg/mL</value>
 </strength><frequency><value>TID</value>
-</frequency><instruction><value></value>
-</instruction><volume><value>150 mL</value>
+</frequency><instruction></instruction><volume><value>150 mL</value>
 </volume><units><value>mL</value>
 </units><additionalnotes><value>20 mg/mL of elemental calcium</value>
 </additionalnotes><population><value>INFANT/CHILDREN</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Replacement Preparations</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>80034595</value>
+</din></drug>

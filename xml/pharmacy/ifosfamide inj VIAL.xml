@@ -20,8 +20,7 @@
 <value>for 3 days. Administer dose diluted in 500 mL 09% sodium chloride over 30 minutes.</value>
 <value>for 3 days. Administer dose diluted in 1000 mL 09% sodium chloride over 4 hours.</value>
 <value>Administer dose diluted in 1000 mL 2/3-1/3 over 4 hours.</value>
-</instruction><volume><value></value>
-</volume><units><value>mg/m2</value>
+</instruction><volume></volume><units><value>mg/m2</value>
 </units><additionalnotes><value>Metastatic sarcoma, Osteosarcoma. Administer dose combined with Mesna concurrently.</value>
 <value>Soft Tissue Sarcoma, Osteogenic Sarcoma. </value>
 <value>Metastatic sarcoma.  </value>
@@ -33,12 +32,11 @@
 <value>Germ Cell ancer. Administer dose combined with Mesna concurrently.</value>
 <value>Gynecology Sarcoma. Administer dose combined with Mesna concurrently.</value>
 </additionalnotes><population><value>ADULT</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3400</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3400</value>
 <value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3401</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Antineoplastic Agents</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>02241357</value>
+<value>02241356</value>
+</din></drug>

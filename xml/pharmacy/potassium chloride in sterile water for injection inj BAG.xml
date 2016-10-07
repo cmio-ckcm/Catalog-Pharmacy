@@ -20,20 +20,17 @@
 </volume><units><value>mmol</value>
 <value>mL/hour</value>
 </units><additionalnotes><value>Requirement  determined by physician.</value>
-<value></value>
 <value>Central line administration only. </value>
 </additionalnotes><population><value>CISplatin/etoposide (IV). Small Cell Lung Cancer.</value>
-<value></value>
 <value>ADULT</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3008</value>
-<value></value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3008</value>
 <value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3055</value>
 <value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3035</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 <value>Non-Formulary.</value>
 </ahsformularystatus><ahfsname><value>Replacement Preparations</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>02241676</value>
+<value>02241677</value>
+<value>02241679</value>
+</din></drug>

@@ -1,6 +1,5 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "potassium chloride in dextrose 5%-sodium chloride 0.9% inj BAG">
-<dose><value></value>
-</dose><route><value>IV</value>
+<dose></dose><route><value>IV</value>
 </route><form><value>inj BAG</value>
 </form><drugname><value>potassium chloride in dextrose 5%-sodium chloride 0.9% inj BAG</value>
 </drugname><strength><value>20 mmol</value>
@@ -9,13 +8,8 @@
 </frequency><instruction><value>Administer by continuous infusion.</value>
 </instruction><volume><value>1000 mL</value>
 </volume><units><value>mL/hour</value>
-</units><additionalnotes><value></value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Not a pharmacy product.</value>
+</units><additionalnotes></additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Not a pharmacy product.</value>
 </ahsformularystatus><ahfsname><value>Replacement Preparations</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>00786292</value>
+<value>00786306</value>
+</din></drug>

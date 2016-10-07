@@ -1,20 +1,14 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "fluorouracil crm">
-<dose><value></value>
-</dose><route><value>TOP</value>
+<dose></dose><route><value>TOP</value>
 </route><form><value>crm</value>
 </form><drugname><value>fluorouracil crm</value>
 </drugname><strength><value>5%</value>
 </strength><frequency><value>BID</value>
 </frequency><instruction><value>Apply a thin layer of cream locally to lesion.</value>
-</instruction><volume><value></value>
-</volume><units><value></value>
-</units><additionalnotes><value>Recommend treatment continue until the inflammatory reaction reaches the erosion, ulceration and necrosis stage; then discontinue.</value>
+</instruction><volume></volume><units></units><additionalnotes><value>Recommend treatment continue until the inflammatory reaction reaches the erosion, ulceration and necrosis stage; then discontinue.</value>
 </additionalnotes><population><value>ADULT</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>Increased sensitivity to sunlight, use a sun block with a minimum 15 SPF. </value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>Increased sensitivity to sunlight, use a sun block with a minimum 15 SPF. </value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Skin and Mucous Membrane Agents, Miscellaneous</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>00330582</value>
+</din></drug>

@@ -10,17 +10,11 @@
 <value>TID</value>
 </frequency><instruction><value>Administer with meals and bedtime snack.</value>
 <value>Administer with meals.</value>
-</instruction><volume><value></value>
-</volume><units><value>mL</value>
+</instruction><volume></volume><units><value>mL</value>
 </units><additionalnotes><value>5 mL provides 10 mmol of potassium.</value>
 <value>7.5 mL provides 15 mmol of potassium.</value>
 <value>10 mL provides 20 mmol of potassium.</value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Replacement Preparations</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02243768</value>
+</din></drug>

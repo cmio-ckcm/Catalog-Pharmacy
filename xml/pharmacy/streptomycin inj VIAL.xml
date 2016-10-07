@@ -25,18 +25,15 @@
 <value>Q72H</value>
 <value>Q96H</value>
 <value>THREE TIMES WEEKLY</value>
-</frequency><instruction><value></value>
-<value>Administer daily calculated dose in 2 equally divided doses.</value>
+</frequency><instruction><value>Administer daily calculated dose in 2 equally divided doses.</value>
 <value>Administer daily calculated dose in 3 equally divided doses.</value>
 <value>Administer daily calculated dose in 4 equally divided doses.</value>
-</instruction><volume><value></value>
-</volume><units><value>mg/kg</value>
+</instruction><volume></volume><units><value>mg/kg</value>
 <value>mg/kg/day</value>
 <value>mg/kg/dose</value>
 <value>g</value>
 <value>g </value>
-</units><additionalnotes><value></value>
-<value>Tuberculosis</value>
+</units><additionalnotes><value>Tuberculosis</value>
 <value>Tuberculosis. Up to a MAXIMUM of 1.5 g/dose</value>
 <value>Plague</value>
 <value>Enterococcal Endocarditis</value>
@@ -55,11 +52,7 @@
 <value>CHILD</value>
 <value>ADULT</value>
 <value>ADULT, Geriatric</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Antibacterials, Aminoglycosides</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02243660</value>
+</din></drug>

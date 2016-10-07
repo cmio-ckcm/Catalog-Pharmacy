@@ -14,18 +14,18 @@
 <value>360 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>
-</frequency><instruction><value></value>
-</instruction><volume><value></value>
-</volume><units><value>mg</value>
-</units><additionalnotes><value></value>
-<value>All diltiazem exteneded release products (Cardizem CD, Tiazac, Tiazac XC, Diltiazem T) are considered interchangeable by AHS Drugs &amp; Therapeutics Committee. Only the brand with the lowest contract price will be stocked.</value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Non-Formulary.</value>
+</frequency><instruction></instruction><volume></volume><units><value>mg</value>
+</units><additionalnotes><value>All diltiazem exteneded release products (Cardizem CD, Tiazac, Tiazac XC, Diltiazem T) are considered interchangeable by AHS Drugs &amp; Therapeutics Committee. Only the brand with the lowest contract price will be stocked.</value>
+</additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Non-Formulary.</value>
 <value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Calcium-Channel Blocking Agents, Miscellaneous</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02370611</value>
+<value>02370441</value>
+<value>02370638</value>
+<value>02370492</value>
+<value>02370646</value>
+<value>02370506</value>
+<value>02370654</value>
+<value>02370514</value>
+<value>02370522</value>
+</din></drug>

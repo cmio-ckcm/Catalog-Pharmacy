@@ -12,18 +12,11 @@
 </drugname><strength><value>0.1 mg/mL</value>
 </strength><frequency><value>HS</value>
 <value>BID</value>
-</frequency><instruction><value></value>
-</instruction><volume><value></value>
-</volume><units><value>mcg</value>
-</units><additionalnotes><value></value>
-</additionalnotes><population><value>ADULT, CHILDREN</value>
+</frequency><instruction></instruction><volume></volume><units><value>mcg</value>
+</units><additionalnotes></additionalnotes><population><value>ADULT, CHILDREN</value>
 <value>ADULT</value>
 <value>CHILDREN</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Pituitary</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>00402516</value>
+</din></drug>

@@ -17,7 +17,6 @@
 </frequency><instruction><value>Administer dose over 4 to 6 hours.</value>
 <value>Administer dose diluted in D5W 50 mL over 4 hours.</value>
 <value>Administer dose diluted in D5W 100 mL over 4 hours.</value>
-<value></value>
 <value>Administer dose over 4 hours. May be extended up to 6 hours.</value>
 </instruction><volume><value>10 mL</value>
 </volume><units><value>mmol/kg</value>
@@ -36,11 +35,9 @@
 </additionalnotes><population><value>ADULT</value>
 <value>NEONATE</value>
 <value>INFANT, CHILDREN</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3029</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3029</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
 </ahsformularystatus><ahfsname><value>Replacement Preparations</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>00896187</value>
+</din></drug>

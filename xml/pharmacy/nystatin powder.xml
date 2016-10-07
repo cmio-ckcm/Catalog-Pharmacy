@@ -1,6 +1,5 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "nystatin powder">
-<dose><value></value>
-</dose><route><value>TOP</value>
+<dose></dose><route><value>TOP</value>
 <value>TOP </value>
 </route><form><value>powder</value>
 </form><drugname><value>nystatin powder</value>
@@ -8,15 +7,7 @@
 </strength><frequency><value>BID</value>
 <value>TID</value>
 </frequency><instruction><value>Apply to affected area.</value>
-</instruction><volume><value></value>
-</volume><units><value></value>
-</units><additionalnotes><value></value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</instruction><volume></volume><units></units><additionalnotes></additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Skin and Mucous Membrane Agents, Antifungals</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>N/A</value>
+</din></drug>

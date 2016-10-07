@@ -9,23 +9,17 @@
 </form><drugname><value>glucose tab</value>
 </drugname><strength><value>4 g</value>
 </strength><frequency><value>ONCE</value>
-</frequency><instruction><value></value>
-</instruction><volume><value></value>
-</volume><units><value>g</value>
+</frequency><instruction></instruction><volume></volume><units><value>g</value>
 </units><additionalnotes><value>Mild - moderate hypoglycemia.</value>
 <value>Severe hypoglycemia in a concscious person.</value>
-<value></value>
 </additionalnotes><population><value>ADULT</value>
 <value>CHILDREN, less than 15 kg in weight.</value>
 <value>CHILDREN, weighing 15 to 30 kg.</value>
 <value>CHILDREN, weighing more than 30 kg.</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>CDA guidelines: 2015. [Grade B, level 2]</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>CDA guidelines: 2015. [Grade B, level 2]</value>
 <value>CDA guidelines: 2015[ Grade D, consensus]</value>
 <value>CDA guidelines: 2015</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Caloric Agents</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>N/A</value>
+</din></drug>

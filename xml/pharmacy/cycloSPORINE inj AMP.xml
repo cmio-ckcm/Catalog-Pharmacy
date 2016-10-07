@@ -17,7 +17,6 @@
 <value>Q8H</value>
 <value>CONTINUOUS  </value>
 </frequency><instruction><value>Administer daily calculated dose in 2 equally divided doses</value>
-<value></value>
 <value>Administer daily calculated dose in 3 equally divided doses</value>
 <value>Administer as continuous infusion.</value>
 </instruction><volume><value>1 mL</value>
@@ -25,15 +24,10 @@
 </volume><units><value>mg/kg/day</value>
 <value>mg/kg/dose</value>
 </units><additionalnotes><value>Adjust towards targeted cyclosporing level.</value>
-<value></value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>Solid organ transplant (prevention &amp; treatment</value>
+</additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation><value>Solid organ transplant (prevention &amp; treatment</value>
 <value>Bone marrow transplant/GVHD (treatment &amp; prevention)</value>
 <value>Children dosing</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
 </ahsformularystatus><ahfsname><value>Immunosuppressive Agents</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>00593257</value>
+</din></drug>

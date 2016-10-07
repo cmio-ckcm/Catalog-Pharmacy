@@ -21,24 +21,17 @@
 <value>ONCE</value>
 <value>Q4H </value>
 <value>NOW</value>
-</frequency><instruction><value></value>
-<value>until desired urinary pH reached.</value>
+</frequency><instruction><value>until desired urinary pH reached.</value>
 <value>Administer daily calculated dose in 6 equally divided doses until desired urinary pH is attained.</value>
-</instruction><volume><value></value>
-</volume><units><value>mg</value>
+</instruction><volume></volume><units><value>mg</value>
 <value>mmol/kg/day</value>
-</units><additionalnotes><value></value>
-<value>MAXIMUM of 16 g daily.</value>
-</additionalnotes><population><value></value>
-<value>ADULT</value>
+</units><additionalnotes><value>MAXIMUM of 16 g daily.</value>
+</additionalnotes><population><value>ADULT</value>
 <value>CHILDREN</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-<value>84 mg = 1 mmol = 1 mEq</value>
-</backgroundinformation><prninformation><value></value>
-<value>YES</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>84 mg = 1 mmol = 1 mEq</value>
+</backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Alkalinizing Agents</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>00481912</value>
+<value>80030520</value>
+</din></drug>

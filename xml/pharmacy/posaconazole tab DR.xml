@@ -9,17 +9,11 @@
 <value>DAILY</value>
 </frequency><instruction><value>for DAY 1 of treatment.</value>
 <value>Maintenance dose.</value>
-<value></value>
-</instruction><volume><value></value>
-</volume><units><value>mg</value>
+</instruction><volume></volume><units><value>mg</value>
 </units><additionalnotes><value>New dosage form achieves better serum levels than oral suspension with a lower dose and has fewer drug interactions than the oral suspension format.</value>
 </additionalnotes><population><value>ADULT</value>
-<value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=7162</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary with Restrictions, Usage guidelines.</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=7162</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary with Restrictions, Usage guidelines.</value>
 </ahsformularystatus><ahfsname><value>Antifungals, Azoles</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02424622</value>
+</din></drug>

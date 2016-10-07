@@ -20,17 +20,13 @@
 </volume><units><value>mg/minute</value>
 <value>mcg/kg/minute</value>
 <value>mg/kg</value>
-</units><additionalnotes><value></value>
-<value>Maximum dose: 4 mg/minute.</value>
+</units><additionalnotes><value>Maximum dose: 4 mg/minute.</value>
 </additionalnotes><population><value>ADULT: Antiarrhythmic</value>
 <value>ADULT: Pain Management</value>
 <value>NEONATE. Maintenance dose. Suggested premature neonates receive the lowest dosage.</value>
 <value>INFANT / CHILDREN: Initiate infusionimmediately after initial dose. Decrease dose in patients with shock, congestive heart failure, liver failure or decreased liver blood flow.</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Cardiac Drugs, Antiarrhythmic Agents</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>00828602</value>
+</din></drug>

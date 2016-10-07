@@ -1,6 +1,5 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "tromethamine inj BOTTLE">
-<dose><value></value>
-<value>24 - 40</value>
+<dose><value>24 - 40</value>
 <value>1 - 4.2</value>
 <value>3.3 - 6.6</value>
 </dose><route><value>IV</value>
@@ -21,11 +20,7 @@
 </additionalnotes><population><value>NEONATE: Calculated as: 1 mL/kg for each pH unit below 7.2; additional doses to be determined by changes in PaO2, pH and PCO2.</value>
 <value>NEONATE.</value>
 <value>INFANT / CHILDREN / ADULT</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Alkalinizing Agents</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>00244287</value>
+</din></drug>

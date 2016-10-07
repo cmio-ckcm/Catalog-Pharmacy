@@ -19,8 +19,7 @@
 <value>TWO TIMES WEEKLY</value>
 <value>Q12H</value>
 <value>DAILY</value>
-</frequency><instruction><value></value>
-<value>for 4 doses.</value>
+</frequency><instruction><value>for 4 doses.</value>
 <value>Administer dose diluted in 500 mL 0.9% sodium chloride over 2 hours.</value>
 <value>for 2 doses. Administer dose diluted in 250 mL D5W over 3 hours.</value>
 <value>for 4 doses. Administer dose diluted in 500 mL D5W over 2 hours.</value>
@@ -29,15 +28,13 @@
 <value>for 2 doses. Administer dose diluted in 500 mL 0.9% sodium chloride over 2 hours.</value>
 <value>for 4 doses. Administer dose diluted in 500 mL D5W over 3 hours.</value>
 <value>for 4 days.</value>
-</instruction><volume><value></value>
-<value>1 mL</value>
+</instruction><volume><value>1 mL</value>
 <value>10 mL</value>
 <value>20 mL</value>
 </volume><units><value>mg</value>
 <value>mg/m2</value>
 </units><additionalnotes><value>Acute Lymphocytic Leukemia. </value>
 <value>Acute Lymphocytic Leukemia. Administered in combination with methotrexate and hydrocortisone sodium succinate as a single intrathecal injection.</value>
-<value></value>
 <value>Lymphoma. Consideration towards prophylaxis of occular toxicity with dexamethasone eye drops/ointment.</value>
 <value>Acute Lymphoblastic Lymphoma or Leukemia. Consideration towards prophylaxis of occular toxicity with dexamethasone eye drops/ointment.</value>
 <value>Primary CNS Lymphoma (Transplant Eligible). Consideration towards prophylaxis of occular toxicity with dexamethasone eye drops/ointment.</value>
@@ -46,13 +43,13 @@
 <value>Acute Myeloid Leukemia and High-Risk Myelodysplastic Syndrome. Treatment for 10 days.</value>
 <value>Leukemia; CALGB Late Intensification</value>
 </additionalnotes><population><value>ADULT</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3368</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3368</value>
 <value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3365</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Discontinued.</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Discontinued.</value>
 <value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Antineoplastic Agents</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>02167867</value>
+<value>02126656</value>
+<value>02406772</value>
+</din></drug>

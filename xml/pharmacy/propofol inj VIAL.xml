@@ -9,7 +9,6 @@
 <value>5 - 50</value>
 <value>250 - 1000</value>
 <value>25 - 100</value>
-<value></value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
 </form><drugname><value>propofol inj VIAL</value>
@@ -24,7 +23,6 @@
 <value>Maintenance Dose: Administer by direct injection. Up to a MAX dose of 20 mg administered every 45 seconds or longer.</value>
 <value>Administer by continuous infusion. Titrate to desired clinical effect and minimal hypotension. A minimum period of 5 minutes between dosage adjustments to be allowed for peak drug effect.</value>
 <value>Initial dose: Administer over 3 to 5 minutes.</value>
-<value></value>
 </instruction><volume><value>100 mL</value>
 <value>20 mL</value>
 <value>50 mL</value>
@@ -33,7 +31,6 @@
 <value>mg/kg</value>
 <value>mcg/kg/minute</value>
 </units><additionalnotes><value>AHS Provincial Adult Standard Concentration: 10 mg/mL</value>
-<value></value>
 </additionalnotes><population><value>ADULT sedation in critical care areas. Maximum rate should not exceed 5 mg/kg/hour, due to potential cardiac toxicity.</value>
 <value>ADULT procedural sedation (55 years or less, ASA Class I or II). Maximum rate should not exceed 5 mg/kg/hour, due to potential cardiac toxicity. Maintenance infusion: 1.5 to 4.5 mg/kg/hour. Reduce dose and rate by 20 to 30% in geriactric, debilitated and/or ASA Class II or IV patients.</value>
 <value>INFANTS / CHILDREN: Critical care sedation; patients older than 3 months. Propofol has been used safely in hemodynamically stable, non-acidotic patients older than 3 months of age, with a MAX mean dose of 4 mg/kg/hour, for a MAX duration of 24 hours, when judged to be the optimal therapy under the circumstances. </value>
@@ -41,14 +38,10 @@
 <value>INFANTS / CHILDREN: Procedural Sedation.</value>
 <value>ADULT sedation in critical care areas.</value>
 <value>ADULT sedation during surgical or diagnostic procedures.</value>
-<value></value>
-</population><indicationprn><value></value>
-<value>Sedation</value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-<value>YES</value>
+</population><indicationprn><value>Sedation</value>
+</indicationprn><backgroundinformation></backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>General Anesthetics</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>02018950</value>
+</din></drug>

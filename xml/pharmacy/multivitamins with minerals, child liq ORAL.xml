@@ -3,21 +3,13 @@
 </dose><route><value>PO</value>
 </route><form><value>liq ORAL</value>
 </form><drugname><value>multivitamins with minerals, child liq ORAL</value>
-</drugname><strength><value></value>
-</strength><frequency><value>DAILY</value>
+</drugname><strength></strength><frequency><value>DAILY</value>
 <value>BID</value>
-</frequency><instruction><value></value>
-<value>Administer with breakfast and supper meals.</value>
-</instruction><volume><value></value>
-</volume><units><value>mL</value>
-</units><additionalnotes><value></value>
-</additionalnotes><population><value>INFANT / CHILDREN: 1 to 8 years</value>
+</frequency><instruction><value>Administer with breakfast and supper meals.</value>
+</instruction><volume></volume><units><value>mL</value>
+</units><additionalnotes></additionalnotes><population><value>INFANT / CHILDREN: 1 to 8 years</value>
 <value>INFANT / CHILDREN: 9 yeas and older.</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Multivitamin Preparations</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>80014115</value>
+</din></drug>

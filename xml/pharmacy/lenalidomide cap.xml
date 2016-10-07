@@ -13,25 +13,22 @@
 </strength><frequency><value>DAILY</value>
 <value>EVERY OTHER DAY</value>
 <value>THREE TIMES WEEKLY</value>
-</frequency><instruction><value></value>
-<value>Administer following each dialysis session.</value>
-</instruction><volume><value></value>
-</volume><units><value>mg</value>
+</frequency><instruction><value>Administer following each dialysis session.</value>
+</instruction><volume></volume><units><value>mg</value>
 </units><additionalnotes><value>Recommended starting dose for patients with Multiple Myeloma with Creatinine Clearance  30 to 60 mL/minute.</value>
-<value></value>
 <value>Recommended starting dose for patients with Multiple Myeloma with Creatinine Clearance  less than 30 mL/minute not requiring dialysis.</value>
 <value>Recommended starting dose for Myelodysplatic Syndrome patients with creatinine clearance 30 to 60 mL/minute.</value>
 <value>Recommended starting dose for Myelodysplastic Syndrome patients with creatinine clearance less than 30 mL/minute not requiring dialysis.</value>
 <value>Recommended starting dose for Myelodysplastic Syndrome patients with creatinine clearance less than 30 mL/minute requiring dialysis.</value>
 </additionalnotes><population><value>ADULT</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3515</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3515</value>
 <value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3516</value>
 <value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3517</value>
 <value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3514</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
 </ahsformularystatus><ahfsname><value>Biologic Response Modifiers</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02304902</value>
+<value>02317699</value>
+<value>02317710</value>
+<value>02304899</value>
+</din></drug>

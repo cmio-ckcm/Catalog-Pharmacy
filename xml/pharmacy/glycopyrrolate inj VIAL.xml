@@ -6,7 +6,6 @@
 <value>3 - 5</value>
 <value>4.4 - 8.8</value>
 <value>4.4 - 10</value>
-<value></value>
 <value>0.2 - 0.6</value>
 <value>0.8 - 2.4</value>
 </dose><route><value>IM</value>
@@ -28,7 +27,6 @@
 <value>for 4 doses.</value>
 <value>30 minutes prior to anesthesia.</value>
 <value>60 minutes prior to anesthesia.</value>
-<value></value>
 <value>Administer by direct injection.</value>
 <value>Administer by direct injection, repeating as required at 2 to 3 minute intervals for intra-operative requirements.</value>
 <value>Administer by continuous subcutaneous infusion.</value>
@@ -46,7 +44,6 @@
 <value>Control of secretions.</value>
 <value>Pre-anesthetic. MAXIMUM dose: 0.1 mg</value>
 <value>Neuromuscular blockade reversal. 0.2 mg for each 1 mg of neostigmine or 5 mg of pyridostigmine.</value>
-<value></value>
 <value>Intra-operative. MAXIMUM dose: 0.1 mg</value>
 <value>Palliative Care</value>
 </additionalnotes><population><value>ADULT</value>
@@ -55,14 +52,11 @@
 <value>CHILDREN, 2 years of age and younger.</value>
 <value>CHILDREN, 2 years of age and older.</value>
 <value>ADULT / CHILDREN</value>
-</population><indicationprn><value></value>
-<value>to reduce upper airway secretions.</value>
-</indicationprn><backgroundinformation><value></value>
-<value>Contains Benzyl Alcohol</value>
-</backgroundinformation><prninformation><value></value>
-<value>YES</value>
+</population><indicationprn><value>to reduce upper airway secretions.</value>
+</indicationprn><backgroundinformation><value>Contains Benzyl Alcohol</value>
+</backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Anticholinergic Agents</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02382857</value>
+<value>02382849</value>
+</din></drug>

@@ -16,13 +16,10 @@
 <value>MONTHLY</value>
 <value>WEEKLY</value>
 <value>TWO TIMES WEEKLY</value>
-</frequency><instruction><value></value>
-<value>Administer by Respirgard II nebulizer.</value>
-</instruction><volume><value></value>
-</volume><units><value>mg/kg</value>
+</frequency><instruction><value>Administer by Respirgard II nebulizer.</value>
+</instruction><volume></volume><units><value>mg/kg</value>
 <value>mg</value>
 </units><additionalnotes><value>Recommended treamtment is 14 days. Benefits and risks of treament for longer than 14 days are not well defined.</value>
-<value></value>
 <value>Recommend treatment until lesions heal.</value>
 </additionalnotes><population><value>CHILDREN. Treatment of Pneumocystis jiroveci.</value>
 <value>CHILDREN. Prophylaxis of Pneumocystis jiroveci.</value>
@@ -30,11 +27,7 @@
 <value>ADULT. Leishmaniasis, visceral</value>
 <value>ADULT. Leishmaniasis, cutaneous</value>
 <value>ADULT. Treatment of Pneumocystis jiroveci.</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Antiprotozoals, Miscellaneous</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02183080</value>
+</din></drug>

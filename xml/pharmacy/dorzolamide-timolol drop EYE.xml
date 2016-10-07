@@ -12,13 +12,8 @@
 <value>10 mL</value>
 </volume><units><value>gtt</value>
 </units><additionalnotes><value>Preservative free formulation.</value>
-<value></value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>EENT Drugs, Antiglaucoma Agents, Carbonic Anhydrase Inhibitors</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02258692</value>
+<value>02299615</value>
+</din></drug>

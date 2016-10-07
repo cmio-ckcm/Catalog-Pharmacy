@@ -20,19 +20,15 @@
 <value>TID</value>
 <value>Q4H</value>
 <value>Q6H</value>
-</frequency><instruction><value></value>
-<value>Administer with lunch.</value>
+</frequency><instruction><value>Administer with lunch.</value>
 <value>Administer with supper.</value>
-</instruction><volume><value></value>
-</volume><units><value>mg</value>
-</units><additionalnotes><value></value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-<value>YES</value>
+</instruction><volume></volume><units><value>mg</value>
+</units><additionalnotes></additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Psychotherapeutic Agents, Antipsychotics</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02337908</value>
+<value>02337916</value>
+<value>02337878</value>
+<value>02337886</value>
+<value>02337894</value>
+</din></drug>

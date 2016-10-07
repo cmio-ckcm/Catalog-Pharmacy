@@ -10,15 +10,9 @@
 </instruction><volume><value>5 mL</value>
 </volume><units><value>mg</value>
 <value>mg/kg</value>
-</units><additionalnotes><value></value>
-<value>MAXIMUM dose: 125 mg.</value>
-</additionalnotes><population><value></value>
-<value>INFANT / CHILDREN</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</units><additionalnotes><value>MAXIMUM dose: 125 mg.</value>
+</additionalnotes><population><value>INFANT / CHILDREN</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Antianemia Drugs, Iron Preparations</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02243333</value>
+</din></drug>

@@ -6,16 +6,12 @@
 </form><drugname><value>brentuximab inj VIAL</value>
 </drugname><strength><value>50 mg</value>
 </strength><frequency><value>ONCE</value>
-</frequency><instruction><value></value>
-</instruction><volume><value></value>
-</volume><units><value>mg/kg</value>
+</frequency><instruction></instruction><volume></volume><units><value>mg/kg</value>
 </units><additionalnotes><value>Maximum dosing weight is 100 kg with a maximum dose of 180 mg. Recommend dosage reduction to 1.2 mg/kg in patients with mild hepatic impairment (Child-Pugh Class A) or patients with periperal neuropathy (new or worsening) Grade 2 or 3. </value>
 </additionalnotes><population><value>ADULT</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=6601</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=6601</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
 </ahsformularystatus><ahfsname><value>Antineoplastic Agents</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>02401347</value>
+</din></drug>

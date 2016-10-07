@@ -11,21 +11,15 @@
 <value>WEEKLY</value>
 </frequency><instruction><value>Week 1.</value>
 <value>Week 2.</value>
-<value></value>
 <value>Initial dose.</value>
 </instruction><volume><value>1 mL</value>
 </volume><units><value>mg</value>
 <value>mg/kg</value>
 </units><additionalnotes><value>Renal Impairment: Reduce dose 50% for CrCl 50 to 80 mL/minute. Avoid use if CrCl less than 50 mL/minute</value>
-<value></value>
 <value>MAX. single dose = 50 mg</value>
 </additionalnotes><population><value>ADULT</value>
 <value>PEDIATRIC</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Gold Compounds</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>01927604</value>
+</din></drug>

@@ -1,6 +1,5 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "dexamethasone oint EYE">
 <dose><value>1.5</value>
-<value></value>
 </dose><route><value>OPHTH</value>
 </route><form><value>oint EYE</value>
 </form><drugname><value>dexamethasone oint EYE</value>
@@ -16,14 +15,7 @@
 <value>Apply a small ribbon of ointment to conjuctival sac of BOTH eyes.</value>
 </instruction><volume><value>3.5g</value>
 </volume><units><value>cm</value>
-<value></value>
-</units><additionalnotes><value></value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</units><additionalnotes></additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>EENT Drugs, Anti-inflammatory Agents, Corticosteroids</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>00042579</value>
+</din></drug>

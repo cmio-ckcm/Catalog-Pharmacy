@@ -13,22 +13,15 @@
 <value>Q2H</value>
 <value>Q4H</value>
 </frequency><instruction><value>Administer immediately post-partum.</value>
-<value></value>
 <value>post-partum hemorrhage</value>
 <value>May administer up to 5 doses.</value>
 </instruction><volume><value>1 mL</value>
 </volume><units><value>mg</value>
-</units><additionalnotes><value></value>
-<value>Dilute dose in 5 mL normal saline and administer over at least one minute into Y-site of running IV.</value>
+</units><additionalnotes><value>Dilute dose in 5 mL normal saline and administer over at least one minute into Y-site of running IV.</value>
 <value>Diagnosis of Coronary Artery Spasm.</value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-<value>Post-Partum hemorrhage</value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-<value>YES</value>
+</additionalnotes><population></population><indicationprn><value>Post-Partum hemorrhage</value>
+</indicationprn><backgroundinformation></backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Oxytocics</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02296144</value>
+</din></drug>

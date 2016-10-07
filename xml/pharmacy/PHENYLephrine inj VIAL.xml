@@ -32,8 +32,7 @@
 <value>CONTINUOUS</value>
 <value>EVERY 10 MINUTES  </value>
 <value>EVERY 15 MINUTES</value>
-</frequency><instruction><value></value>
-<value>Continuous infusion. Titrate to desired response.</value>
+</frequency><instruction><value>Continuous infusion. Titrate to desired response.</value>
 <value>Administer dose by direct injection over 20 seconds.</value>
 <value>Administer dose by direct injection over 30 seconds.</value>
 <value>Administer by direct injection every 10 to 15 minutes as necessary for hypotension.</value>
@@ -54,7 +53,6 @@
 <value>AHS Provincial NEONATAL Standardized Concentration = 200 mcg/mL.</value>
 <value>Initial dose. Maximum initial dose: 500 mcg.</value>
 <value>MAXIMUM supplemental dose: 1000 mcg (1 mg).</value>
-<value></value>
 <value>AHS Provincial ADULT / Standardized Concentration = 200 mcg/mL (Standard) &amp; 400 mcg/mL (HIGH).</value>
 <value>Total dose should not exceed 200 mcg.</value>
 <value>AHS Provincial ADULT / Standardized Concentration = 200 mcg/mL (Standard) &amp; 400 mcg/mL (HIGH). Dose should not exceed 200 mcg/minute.</value>
@@ -69,12 +67,9 @@
 <value>ADULT. Hypotension during anesthesia.</value>
 <value>ADULT. Organ Donor Management - Hemodynamic Support.</value>
 </population><indicationprn><value>Hypotension</value>
-<value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value>YES</value>
-<value></value>
+</indicationprn><backgroundinformation></backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Sympathomimetic (Adrenergic) Agents, alpha-Adrenergic Agonists</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>02238400</value>
+</din></drug>

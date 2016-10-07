@@ -1,6 +1,5 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "heparin inj VIAL">
-<dose><value></value>
-<value>5000</value>
+<dose><value>5000</value>
 <value>10 000</value>
 <value>60</value>
 <value>80</value>
@@ -26,7 +25,6 @@
 <value>Q12H</value>
 <value>CONTINUOUS</value>
 </frequency><instruction><value>Administer as per Intradialytic Heparin protocol</value>
-<value></value>
 <value>Administer by continuous infusion.</value>
 <value>Administer into PICC line (non-groshong) following saline flush for maintenance of line patency</value>
 <value>Administer into peripheral catheter line following saline flush for maintenance of line patency.</value>
@@ -37,27 +35,25 @@
 <value>1 mL</value>
 <value>5 mL</value>
 <value>2 mL</value>
-<value></value>
 </volume><units><value>mL</value>
 <value>unit</value>
 <value>unit/kg/hour</value>
-</units><additionalnotes><value></value>
-<value>5,000 unit = 0.5 mL</value>
+</units><additionalnotes><value>5,000 unit = 0.5 mL</value>
 <value>Bolus dose</value>
 <value>Cardiac weight-adjusted protocol bolus dose. Maximum dose: 4,000 unit.</value>
 <value>DVT/PE weight-adjusted protocol bolus dose. Maximum dose 10,000 unit.</value>
 <value>8,000 unit = 0.8 mL</value>
 <value>Cardiac weight-adjusted protocol maintenance infusion. Maximum rate: 1,000 unit/hour.</value>
 <value>DVT/PE weight-adjusted protocol maintenance infusion. Maximum rate: 1,600 unit/hour.</value>
-</additionalnotes><population><value></value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-<value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1555</value>
-</backgroundinformation><prninformation><value></value>
-<value>YES</value>
+</additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1555</value>
+</backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 <value>Formulary with Restrictions.</value>
 </ahsformularystatus><ahfsname><value>Antithrombotic Agents, Anticoagulants</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>02264315</value>
+<value>02264307</value>
+<value>00725323</value>
+<value>00453781</value>
+<value>02392453</value>
+</din></drug>

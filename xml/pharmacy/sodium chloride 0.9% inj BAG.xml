@@ -1,13 +1,11 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "sodium chloride 0.9% inj BAG">
-<dose><value></value>
-<value>500</value>
+<dose><value>500</value>
 <value>250</value>
 <value>250 - 500</value>
 </dose><route><value>IV</value>
 </route><form><value>inj BAG</value>
 </form><drugname><value>sodium chloride 0.9% inj BAG</value>
-</drugname><strength><value></value>
-</strength><frequency><value>CONTINUOUS</value>
+</drugname><strength></strength><frequency><value>CONTINUOUS</value>
 <value>ONCE</value>
 <value>DAILY</value>
 </frequency><instruction><value>Administer by continuous infusion.</value>
@@ -47,12 +45,10 @@
 <value>500 mL</value>
 </volume><units><value>mL/hour</value>
 <value>mL</value>
-</units><additionalnotes><value></value>
-<value>Alternatives may include magnesium sulfat 4000 mg additive or potassium chloride 20 mmol.</value>
+</units><additionalnotes><value>Alternatives may include magnesium sulfat 4000 mg additive or potassium chloride 20 mmol.</value>
 <value>Alternatives may include magnesium sulfate 4000 mg additive and/or potassium chloride 20 mmol.</value>
 <value>Actual rate and volume will be variable and based upon nursing assessment of discomfort at injection site.</value>
-</additionalnotes><population><value></value>
-<value>Adjuvant Vinorelbine/CISplatin (every 28 days). Non-Small Cell Lung Cancer</value>
+</additionalnotes><population><value>Adjuvant Vinorelbine/CISplatin (every 28 days). Non-Small Cell Lung Cancer</value>
 <value>Adjuvant Vinorelbine/CISplatin (every 21 days). Non-Small Cell Lung Cancer</value>
 <value>Pemetrexed/CISplatin. Non-Small Cell Lung Cancer</value>
 <value>Vinorelbine / CISplatin. Advanced NSCLC</value>
@@ -70,12 +66,8 @@
 <value>DOXOrubicin/CISplatin/cyclophosphamide (PAC). Thymic Malignancy</value>
 <value>Vinorelbine and CARBOplatin with CONCURRENT RT. Non-Small Cell Lung Cancer.</value>
 <value>CISplatin/DOXOrubicin/vinCRIStine/cyclophosphamide. Thymoma</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-<value>400 mL over 30 minutes = 800 mL/hour</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Not a pharmacy product.</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>400 mL over 30 minutes = 800 mL/hour</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Not a pharmacy product.</value>
 </ahsformularystatus><ahfsname><value>Replacement Preparations</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>00060208</value>
+</din></drug>

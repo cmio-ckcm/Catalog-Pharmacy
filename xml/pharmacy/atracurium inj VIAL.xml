@@ -41,18 +41,13 @@
 </instruction><volume><value>10 mL</value>
 </volume><units><value>mg/kg</value>
 <value>mcg/kg/minute</value>
-</units><additionalnotes><value></value>
-<value>ADULT</value>
+</units><additionalnotes><value>ADULT</value>
 <value>5 to 9 mcg/kg/minute usually adequate to maintain continuous neoromuscular blockade.</value>
-</additionalnotes><population><value></value>
-<value>AGE: 2 to 12 years</value>
+</additionalnotes><population><value>AGE: 2 to 12 years</value>
 <value>AGE: 12 years and older</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-<value>YES</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Discontinued.</value>
 </ahsformularystatus><ahfsname><value>Skeletal Muscle Relaxants, Neuromuscular Blocking Agents</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>02236759</value>
+</din></drug>

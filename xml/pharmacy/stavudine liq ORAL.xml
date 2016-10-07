@@ -10,9 +10,7 @@
 </drugname><strength><value>1 mg/mL</value>
 </strength><frequency><value>Q12H</value>
 <value>Q24H</value>
-</frequency><instruction><value></value>
-</instruction><volume><value></value>
-</volume><units><value>mg/kg</value>
+</frequency><instruction></instruction><volume></volume><units><value>mg/kg</value>
 <value>mg</value>
 </units><additionalnotes><value>Supported by suggested dosing of 2 mg/kg/day.</value>
 <value>Suggested dosing for patients weighing less than 60 kg AND CrCl of 25 to 50 mL/minute.</value>
@@ -23,11 +21,8 @@
 <value>Suggested dosing for patients weighing 60 kg or greater AND CrCl greater than 50 mL/minute.</value>
 </additionalnotes><population><value>INFANT / CHILDREN </value>
 <value>ADULT</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3298</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary with Restrictions. Health Canada Special Access Programme.</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3298</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary with Restrictions. Health Canada Special Access Programme.</value>
 </ahsformularystatus><ahfsname><value>Antivirals, Antiretrovirals</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>0003-1968-01</value>
+</din></drug>

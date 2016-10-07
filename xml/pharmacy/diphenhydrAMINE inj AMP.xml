@@ -14,8 +14,7 @@
 <value>Q4H</value>
 <value>Q6H</value>
 <value>ONCE</value>
-</frequency><instruction><value></value>
-<value>DAY 0. Administer 30 to 60 minutes pre-transplant. May be administered by PO route.</value>
+</frequency><instruction><value>DAY 0. Administer 30 to 60 minutes pre-transplant. May be administered by PO route.</value>
 <value>DAY 1 of 21. If oral diphenhydrAMINE has not been taken by patient as instructed, administer 30 minutes pre-PACLitaxel. May be administered by PO route.</value>
 <value>DAY 1 of 21. PRN. May be administered by PO route.</value>
 <value>DAY 1 of 21. PRN sensitivity reaction. (and refer to Cancer Care Nursing Management of Infusion-Related Hypersensitivity Reactions Policy and Procedures.</value>
@@ -30,9 +29,7 @@
 <value>DAY 1 of 21. for hypersensitivity reaction. (and refer to CancerControl Nursing Management of Infusion-Related and Hypersensitivity Reactions Policy and Procedures).</value>
 </instruction><volume><value>1 mL</value>
 </volume><units><value>mg</value>
-</units><additionalnotes><value></value>
-</additionalnotes><population><value></value>
-<value>Adjuvant PACLitaxel/CARBOplatin. Non-Small Cell Lung Cancer</value>
+</units><additionalnotes></additionalnotes><population><value>Adjuvant PACLitaxel/CARBOplatin. Non-Small Cell Lung Cancer</value>
 <value>Pemetrexed / CARBOplatin. Non-Small Cell Lung Cancer</value>
 <value>Vinorelbine / CARBOplatin. Non-Small Cell Lung Cancer (Advanced Stage)</value>
 <value>PACLitaxel / CARBOplatin. Advanced / Metastatic Non-Small Cell Lung Cancer</value>
@@ -46,12 +43,8 @@
 <value>Fluorouracil, Epirubicin, Cyclophosphamide (FEC) followed by DOCEtaxel and Trastuzumab. Breast Cancer (NEOADJUVANT Treatment).</value>
 <value>DOXOrubicin, Cyclophosphamide (AC) followed by DOCEtaxel. Breast Cancer (NEOADJUVANT Treatment).</value>
 <value>DOXOrubicin, Cyclophosphamide (AC) followed by DOCEtaxel and Trastuzumab. Breast Cancer (NEOADJUVANT Treatment).</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-<value>YES</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>First Generation Antihistamines</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02369567</value>
+</din></drug>

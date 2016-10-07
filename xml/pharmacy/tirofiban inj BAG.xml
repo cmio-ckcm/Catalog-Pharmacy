@@ -12,15 +12,12 @@
 <value>Administer as continuous infusion.</value>
 </instruction><volume><value>250 mL</value>
 </volume><units><value>mcg/kg/minute</value>
-</units><additionalnotes><value></value>
-<value>Dose decreased by 50%</value>
+</units><additionalnotes><value>Dose decreased by 50%</value>
 </additionalnotes><population><value>ADULT</value>
 <value>ADULT, with CrCl less than 30 mL/minute.</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1578</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary with Restrictions, Usage guidelines.</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1578</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary with Restrictions, Usage guidelines.</value>
 </ahsformularystatus><ahfsname><value>Antithrombotic Agents, Platelet-Aggregation Inhibitors</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>02240706</value>
+</din></drug>

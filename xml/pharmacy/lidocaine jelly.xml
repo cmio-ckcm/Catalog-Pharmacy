@@ -13,8 +13,7 @@
 <value>Slowly instill into urethra. Larger volumes to be instilled in smaller increments.</value>
 <value>Slowly instill into urethra.</value>
 <value>Apply locally.</value>
-</instruction><volume><value></value>
-</volume><units><value>mL</value>
+</instruction><volume></volume><units><value>mL</value>
 <value>mg/kg</value>
 </units><additionalnotes><value>ADULT: MALE. Surface anesthesia of urethra.</value>
 <value>ADULT: MALE. Cystoscopy.</value>
@@ -23,11 +22,7 @@
 <value>CHILDREN under 12 years: Maximum amount per dose of lidocaine jelly should not exceed 6 mg/kg of body weight and no more than four doses during a 24 hour period..</value>
 </additionalnotes><population><value>ADULT</value>
 <value>CHILDREN</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Skin and Mucous Membrane Agents, Antipruritics and Local Anesthetics</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>00385484</value>
+</din></drug>

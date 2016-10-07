@@ -8,17 +8,13 @@
 </drugname><strength><value>262 mg</value>
 </strength><frequency><value>Q1H</value>
 </frequency><instruction><value>Administer up to 48 hr</value>
-</instruction><volume><value></value>
-</volume><units><value>mg</value>
-</units><additionalnotes><value></value>
-</additionalnotes><population><value>ADULT</value>
+</instruction><volume></volume><units><value>mg</value>
+</units><additionalnotes></additionalnotes><population><value>ADULT</value>
 <value>CHILD: 10 - 14 Years</value>
 <value>CHILD:  5 - 9 Years</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value>YES</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Antidiarrhea Agents</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose><value>MAX: 16 TABS/24 hr</value>
+</maximumprndose><din><value>02237315</value>
+</din></drug>

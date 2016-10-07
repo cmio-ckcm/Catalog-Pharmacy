@@ -5,18 +5,11 @@
 </dose><route><value>PO</value>
 </route><form><value>drop ORAL</value>
 </form><drugname><value>multivitamin, child drop ORAL</value>
-</drugname><strength><value></value>
-</strength><frequency><value>DAILY</value>
-</frequency><instruction><value></value>
-</instruction><volume><value></value>
-</volume><units><value>mL</value>
-</units><additionalnotes><value></value>
-</additionalnotes><population><value>INFANT, CHILDREN</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>Vitamin A content now 750 unit/mL (previously 1500 unit/mL).</value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</drugname><strength></strength><frequency><value>DAILY</value>
+</frequency><instruction></instruction><volume></volume><units><value>mL</value>
+</units><additionalnotes></additionalnotes><population><value>INFANT, CHILDREN</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>Vitamin A content now 750 unit/mL (previously 1500 unit/mL).</value>
+</backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Multivitamin Preparations</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>00762946</value>
+</din></drug>

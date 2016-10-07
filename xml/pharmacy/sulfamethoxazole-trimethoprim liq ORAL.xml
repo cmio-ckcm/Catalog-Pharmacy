@@ -12,26 +12,19 @@
 <value>DAILY</value>
 <value>HS</value>
 <value>TID</value>
-</frequency><instruction><value></value>
-<value>Administer daily calculated dose in 3 equally divided doses.</value>
+</frequency><instruction><value>Administer daily calculated dose in 3 equally divided doses.</value>
 <value>Administer daily calculated dose in 2 equally divided doses.</value>
 </instruction><volume><value>100 mL</value>
 <value>400 mL</value>
 </volume><units><value>mL</value>
 <value>mg/kg/day (trimethoprim component)</value>
-</units><additionalnotes><value></value>
-<value>Dosing based upon trimethoprim component.</value>
+</units><additionalnotes><value>Dosing based upon trimethoprim component.</value>
 <value>P. jiroveci pneumonia. Dosing based upon trimethoprim component.</value>
 <value>UTI, prevention. Dosing based upon trimethoprim component.</value>
-</additionalnotes><population><value></value>
-<value>ADULT</value>
+</additionalnotes><population><value>ADULT</value>
 <value>CHILDREN, 2 months of age and older.</value>
 <value>CHILDREN </value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-</prninformation><ahsformularystatus><value>Formulary.</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Antibacterials, Sulfonamides</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>00726540</value>
+</din></drug>

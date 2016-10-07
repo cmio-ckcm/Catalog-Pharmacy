@@ -15,7 +15,6 @@
 </strength><frequency><value>ONCE</value>
 <value>CONTINUOUS</value>
 </frequency><instruction><value>Administer by direct injection.</value>
-<value></value>
 <value>Administer dose by direct injection.</value>
 <value>Remainder of dose administered as a continuous infusion over 8 to 16 hours, following direction injection of 25 mg.</value>
 <value>Remainder of dose administered as a continuous infusion over 8 to 16 hours, following direction injection of 50 mg.</value>
@@ -28,8 +27,7 @@
 <value>mg/1 mg of enoxaparin administered/dose</value>
 <value>mg/100 anti-Xa units of LMWH administered/dose</value>
 <value>mg/100 units of dalteparin administered/dose</value>
-</units><additionalnotes><value></value>
-<value>MAXIMUM dose: 50 mg.</value>
+</units><additionalnotes><value>MAXIMUM dose: 50 mg.</value>
 <value>Even with higher prtoamine sulfate doses, the PTT may be prolonged longer than seen with unfractionated heparin, as anti-Xa activity is never completely neutralized (MAX ~ 60%).</value>
 </additionalnotes><population><value>NEONATE. Heparin dose administered within last 4 hours.</value>
 <value>INFANTS / CHILDREN. Heparin dose administered by direct IV injection and time since last heparin dose is less than 30 minutes.</value>
@@ -54,12 +52,8 @@
 <value>ADULT. Enoxaparin; time since last enoxaparin dose is 8 to 12 hours.</value>
 <value>ADULT. Enoxaparin; additional dose where PTT remains prolonged 2 to 4 hours after first protamine sulfate infusion.</value>
 <value>INFANTS / CHILDREN. Heparin administered by direct IV infusion in the preceding 3 to 4 hours.</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value></value>
-</backgroundinformation><prninformation><value></value>
-<value>YES</value>
+</population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Antihemorrhagic Agents, Antiheparin Agents</value>
-</ahfsname><highalert><value></value>
-</highalert><maximumprndose><value></value>
-</maximumprndose></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02139537</value>
+</din></drug>

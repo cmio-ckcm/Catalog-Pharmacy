@@ -28,15 +28,12 @@
 <value>Administer by direct injection.</value>
 <value>Administer supplemental dose by direct injection every 2 to 5 minutes.</value>
 <value>Administer by direct injection over 60 seconds.</value>
-<value></value>
-</instruction><volume><value></value>
-</volume><units><value>mcg/kg/minute</value>
+</instruction><volume></volume><units><value>mcg/kg/minute</value>
 <value>mcg/kg/hour</value>
 <value>mcg </value>
 <value>mcg/kg/dose</value>
 <value>mcg/kg</value>
-</units><additionalnotes><value></value>
-<value>MAXIMUM total dose: 3000 mg/4 hours.</value>
+</units><additionalnotes><value>MAXIMUM total dose: 3000 mg/4 hours.</value>
 </additionalnotes><population><value>ADULT. Continued Post-op analgesia.</value>
 <value>ADULT. Post-CABG analgesia in Critical Care setting.</value>
 <value>ADULT. Sedation in Critical Care setting.</value>
@@ -61,12 +58,10 @@
 <value>ADULT. Maintenance of Anesthesia with isoflurane. Supplemental dose.</value>
 <value>ADULT. Maintenance of Anesthesia with propofol.</value>
 <value>ADULT. Maintenance of Anesthesia with propofol. Supplemental dose.</value>
-</population><indicationprn><value></value>
-</indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1009</value>
-</backgroundinformation><prninformation><value></value>
-<value>YES</value>
+</population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1009</value>
+</backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
 </ahsformularystatus><ahfsname><value>Analgesics and Antipyretics, Opiate Agonists</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose><value>YES</value>
-</maximumprndose></drug>
+</highalert><maximumprndose></maximumprndose><din><value>02366460</value>
+</din></drug>
