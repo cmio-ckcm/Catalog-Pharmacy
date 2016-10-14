@@ -1,0 +1,56 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "[CKT] morphine infusion inj VIAL">
+<dose><value></value>
+<value>5</value>
+<value>7.5</value>
+<value>10</value>
+<value>12.5</value>
+<value>15</value>
+<value>20</value>
+<value>25</value>
+<value>30</value>
+<value>40</value>
+<value>0.8</value>
+<value>1</value>
+<value>2</value>
+<value>3</value>
+<value>4</value>
+<value>6</value>
+<value>7</value>
+<value>8</value>
+<value>9</value>
+</dose><route><value>IV</value>
+<value>SC</value>
+</route><form><value>inj AMP</value>
+<value>inj VIAL</value>
+</form><drug><value>[CKT] morphine infusion</value>
+</drug><strength><value>10 mg/mL</value>
+<value>2 mg/mL</value>
+<value>50 mg/mL</value>
+</strength><frequency><value>CONTINUOUS</value>
+</frequency><instruction><value>Continuous Infusion: 50 mcg/mL 10 mL Syringe, Titrate to desired effect.</value>
+<value>Continuous Infusion: 100 mcg/mL 20 mL syringe, Titrate to desired effect.</value>
+<value>Continuous Infusion: 200 mcg/mL 10 mL syringe, Titrate to desired effect.</value>
+<value>Continuous Infusion: 500 mcg/mL 10 mL syringe, Titrate to desired effect.</value>
+<value>Continuous Infusion: 50 mcg/mL 10 mL syringe, Titrate to desired effect.</value>
+<value>Continuous infusion: 1 mg/mL 100 mL IV bag</value>
+<value>Continuous infusion: 1 mg/mL 250 mL IV bag</value>
+<value>Continuous infusion: 2 mg/mL 100 mL IV bag</value>
+<value>Continuous infusion: 1mg/mL 100 mL IV bag</value>
+</instruction><volume><value>1 mL</value>
+<value>10 mL </value>
+<value>5 mL</value>
+<value>50 mL</value>
+</volume><units><value>mcg/kg/hour</value>
+<value>mg/hour</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value>Neonate</value>
+<value>Infant/Child</value>
+<value></value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Analgesics and Antipyretics, Opiate Agonists</value>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose><value>YES</value>
+</maximumprndose></drug>

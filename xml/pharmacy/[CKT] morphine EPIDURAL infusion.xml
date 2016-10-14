@@ -1,0 +1,41 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="drug-table.xslt"?><drug name = "[CKT] morphine EPIDURAL infusion inj AMP">
+<dose><value>2</value>
+<value>2.5</value>
+<value>3</value>
+<value>4</value>
+<value>5</value>
+<value></value>
+<value>0.1</value>
+<value>0.2</value>
+<value>0.3</value>
+<value>0.4</value>
+<value>0.5</value>
+<value>0.6</value>
+<value>0.7</value>
+<value>0.8</value>
+</dose><route><value>EPIDURAL</value>
+</route><form><value>inj AMP</value>
+</form><drug><value>[CKT] morphine EPIDURAL infusion</value>
+</drug><strength><value>0.5 mg/mL</value>
+<value>1 mg/mL</value>
+</strength><frequency><value>CONTINUOUS</value>
+</frequency><instruction><value>Continuous Infusion: 50 mcg/mL 10 mL EPIDURAL syringe, Titrate to desired effect.</value>
+<value>Continuous Infusion: 100 mcg/mL 20 mL EPIDURAL syringe, Titrate to desired effect.</value>
+<value>Continuous Infusion: 200 mcg/mL 10 mL EPIDURAL syringe, Titrate to desired effect.</value>
+<value>Continuous Infusion: 500 mcg/mL 10 mL EPIDURAL syringe, Titrate to desired effect.</value>
+<value>Continuous Infusion: 1 mg/mL 10 mL EPIDURAL syringe, Titrate to desired effect.</value>
+</instruction><volume><value>10 mL</value>
+<value>5 mL</value>
+</volume><units><value>mcg/kg/hour</value>
+<value>mg/hour</value>
+</units><additionalnotes><value></value>
+</additionalnotes><population><value>Infant/Child</value>
+<value>Adult</value>
+</population><indicationprn><value></value>
+</indicationprn><backgroundinformation><value></value>
+</backgroundinformation><prninformation><value></value>
+</prninformation><ahsformularystatus><value>Formulary.</value>
+</ahsformularystatus><ahfsname><value>Analgesics and Antipyretics, Opiate Agonists</value>
+</ahfsname><highalert><value>YES</value>
+</highalert><maximumprndose><value>YES</value>
+</maximumprndose></drug>
