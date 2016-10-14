@@ -1,0 +1,42 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/lab-table.xslt"?>
+<request name= "Crystals, Fluid">
+<approval>
+<value>2/4/2016</value>
+</approval>
+<owner>
+<value>Laboratory</value>
+</owner>
+<division>
+<value>Hematology</value>
+</division>
+<ordertype>
+<value>Procedure</value>
+</ordertype>
+<testname>
+<value>Crystals, Fluid</value>
+</testname>
+<synonym>
+</synonym>
+<orderedby>
+</orderedby>
+<frequency>
+</frequency>
+<orderindications>
+<value>Only ordered on synovial fluid unless special arrangements made</value>
+</orderindications>
+<cds>
+</cds>
+<clinicianinstructions>
+</clinicianinstructions>
+<pclocd_loinc>
+<value>6825-4</value>
+</pclocd_loinc>
+<mappingname>
+<value>Crystals [type] in Body fluid by Light microscopy</value>
+</mappingname>
+<orderelement element-field="Priority" element-answer="Routine (Default)StatTimed (enter collection time/date)"/>
+<orderelement element-field="Collection by" element-answer="Unit/Ward"/>
+<orderelement element-field="Specify Fluid type" element-answer="Dialysate, peritonealDialysate, renalPleuralPeritonealSynovialOther"/>
+<orderelement element-field="Specify anatomical site (if applicable)" element-answer="Right/left (checkbox)"/>
+<orderelement element-field="Clinical Impression" element-answer="Free Text"/>
+</request>

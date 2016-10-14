@@ -1,0 +1,41 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/lab-table.xslt"?>
+<request name= "Eosinophils, urine">
+<approval>
+<value>2/4/2016</value>
+</approval>
+<owner>
+<value>Laboratory</value>
+</owner>
+<division>
+<value>Hematology</value>
+</division>
+<ordertype>
+<value>Procedure</value>
+</ordertype>
+<testname>
+<value>Eosinophils, urine</value>
+</testname>
+<synonym>
+<value>UEOS, USOES</value>
+</synonym>
+<orderedby>
+</orderedby>
+<frequency>
+</frequency>
+<orderindications>
+</orderindications>
+<cds>
+</cds>
+<clinicianinstructions>
+<value>Direct patient to collect random urine specimen into sterile urine container.</value>
+</clinicianinstructions>
+<pclocd_loinc>
+<value>49839-4</value>
+</pclocd_loinc>
+<mappingname>
+<value>Eosinophils; Urine</value>
+</mappingname>
+<orderelement element-field="Priority" element-answer="Routine (Default)"/>
+<orderelement element-field="Specimen" element-answer="Urine"/>
+<orderelement element-field="Collection by" element-answer="PatientUnit/WardLaboratory"/>
+</request>

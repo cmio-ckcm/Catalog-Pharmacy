@@ -1,0 +1,61 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/lab-table.xslt"?>
+<request name= "Hemostasis Panel">
+<approval>
+<value>2/4/2016</value>
+</approval>
+<owner>
+<value>Laboratory</value>
+</owner>
+<division>
+<value>Coagulation</value>
+</division>
+<ordertype>
+<value>Procedure</value>
+</ordertype>
+<testname>
+<value>Hemostasis Panel</value>
+</testname>
+<synonym>
+<value>Factor Assays (Coagulant, Factors II, V, VII, VIII, IX, X, XI, XII, XIII screen), Inhibitor Screen/Assay, 50 : 50 Mixing Study, Mixing Study (Inhibitor Screen), Circulating Anticoagulants, Von Willebrand Workup (Von Willebrand Factor Antigen, Von Willebrand Factor Activity)</value>
+</synonym>
+<orderedby>
+<value>CBCDINRPTTFibrinogenvWF:AgvWF:RCoFactor AssaysPlatelet Aggregations</value>
+</orderedby>
+<frequency>
+</frequency>
+<orderindications>
+</orderindications>
+<cds>
+</cds>
+<clinicianinstructions>
+<value>For stat testing on weekends or off hours, clinician MUST contact the Hematopathologist on Call to obtain approval. Samples can be collected but test will not be processed unless approved.</value>
+</clinicianinstructions>
+<pclocd_loinc>
+</pclocd_loinc>
+<mappingname>
+</mappingname>
+<orderelement element-field="Priority" element-answer="Routine (Default) Stat"/>
+<orderelement element-field="Specimen" element-answer="Plasma"/>
+<orderelement element-field="Collection by" element-answer="Unit/WardLaboratory"/>
+<orderelement section="Bleeding History"/>
+<orderelement element-field="Types of Bleeding" element-answer="Check all that apply:BruisingDental ExtractionsHeavy PeriodsNoneNosebleedsSurgicalOther (please specify)"/>
+<orderelement element-field="Family History of Bleeding" element-answer="Yes/No, If yes, relationship, thrombotic event, Clot location, date of event"/>
+<orderelement element-field="Surgical History" element-answer="Surgery 1 (free text)  Excessive Bleeding Yes/NoSurgery 2 (free text)  Excessive Bleeding Yes/NoSurgery 3 (free text)  Excessive Bleeding Yes/No"/>
+<orderelement section="Medication History"/>
+<orderelement element-field="Receiving Anticoagulants/Antiplatelets (Please include all prescription, non-prescription, Over The Counter, and Herbal preparations.)" element-answer="Yes/No/Unknown If Yes, check all that apply and provide date of last dose.CoumadinDabigatranDirect Thrombin InhibitorLMW HeparinUnfractionated HeparinRivaroxabanOther (please specify)"/>
+<orderelement element-field="Is patient on other medications" element-answer="Yes/No if yes, please specify name of medication and date of last dose (free text)"/>
+<orderelement section="Product Replacement History"/>
+<orderelement element-field="Type of Product" element-answer="Factor IXFactor VIIIFresh Plasma/Fresh froze plasmaOther (please specifiy)"/>
+<orderelement element-field="Dose" element-answer="Units/kg"/>
+<orderelement element-field="Date and Time of Last Dose" element-answer="Date/time"/>
+<orderelement element-field="Edmonton - please select tests (Pick all appropriate)" element-answer="(Check box)CBCDINRPTTFibrinogenvWF:AgvWF:RCoFVIIIPlatelet Aggregations"/>
+<orderelement element-field="Calgary - Panel Requested (Pick all appropriate)" element-answer="CBCDINRPTTFibrinogenvWF:AgvWF:RCoFactor AssaysPlatelet Aggregations"/>
+<orderelement element-field="Known Factor Deficiency Hemophilia A (Panel Includes: Factor VIII and Factor VIII Inhibitor)" element-answer="Factor VIIIFactor VIII InhibitorFactor VIII and Factor VIII Inhibitor"/>
+<orderelement element-field="Known Factor Deficiency Hemophilia B (Panel Includes: Factor IX and Factor IX Inhibitor)" element-answer="Factor IXFactor IX InhibitorFactor IX and Factor IX Inhibitor"/>
+<orderelement element-field="Suspected VWD Initial Investigation (Please order a seperate CBC. Panel Includes: Factor VIII, VWF Activity, VWF Antigen, Factor XIII Screen and Thrombin Time)" element-answer="Check boxInclude Closure Time (M-F before 1300) Check box"/>
+<orderelement element-field="Known VWD (Panel Includes : Factor VIII, VWF Activity, and VWF Antigen)" element-answer="Check box"/>
+<orderelement element-field="Elevated PT/INR (Panel Includes: Fibrinogen, Factors II, V, VII, X, and Inhibitor Screen (mixing study)." element-answer="Check box"/>
+<orderelement element-field="Elevated PTT (Panel Includes: Factors VIII, IX, XI, XII, Inhibitor Screen (mixing study), and Lupus Type Inhibitor)" element-answer="Check box"/>
+<orderelement element-field="Platelet Function Studies (This test is only available in consulation with Hematologist. Please call CLS Special Coagulation for booking.)" element-answer="Check box"/>
+<orderelement element-field="Other" element-answer="Please specify (free text)"/>
+</request>

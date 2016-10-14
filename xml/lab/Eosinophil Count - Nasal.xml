@@ -1,0 +1,41 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/lab-table.xslt"?>
+<request name= "Eosinophil Count - Nasal">
+<approval>
+<value>2/4/2016</value>
+</approval>
+<owner>
+<value>Laboratory</value>
+</owner>
+<division>
+<value>Hematology</value>
+</division>
+<ordertype>
+<value>Procedure</value>
+</ordertype>
+<testname>
+<value>Eosinophil Count - Nasal</value>
+</testname>
+<synonym>
+<value>Nasal Eosinophils; SEOS; eosinophils, smear assessment; NAEOS</value>
+</synonym>
+<orderedby>
+</orderedby>
+<frequency>
+</frequency>
+<orderindications>
+</orderindications>
+<cds>
+</cds>
+<clinicianinstructions>
+<value>Secure nasal mucus with dry cotton tipped swab and smear on clean glass slide. Prepare one slide for each nostril. Label slides with patient name and indicate left or right nostril. Air dry.DO NOT fix with alcohol or spray material.</value>
+</clinicianinstructions>
+<pclocd_loinc>
+<value>9727-9</value>
+</pclocd_loinc>
+<mappingname>
+<value>Eosinophils/100 Leukocytes; Nose; Manual</value>
+</mappingname>
+<orderelement element-field="Priority" element-answer="Routine (Default)"/>
+<orderelement element-field="Specimen" element-answer="Nasal SwabSputumNasal mucus on glass slide"/>
+<orderelement element-field="Collection by" element-answer="Unit/WardLaboratory"/>
+</request>

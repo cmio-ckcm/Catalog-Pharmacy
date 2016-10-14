@@ -1,0 +1,43 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/lab-table.xslt"?>
+<request name= "Anticardiolipin antibody">
+<approval>
+<value>2/4/2016</value>
+</approval>
+<owner>
+<value>Laboratory</value>
+</owner>
+<division>
+<value>Coagulation</value>
+</division>
+<ordertype>
+<value>Procedure</value>
+</ordertype>
+<testname>
+<value>Anticardiolipin antibody</value>
+</testname>
+<synonym>
+<value>Antiphospholipid Antibodies, Serum; Cardiolipin Antibodies; Phospholipid Antibody; L-CARDAB</value>
+</synonym>
+<orderedby>
+<value>Calgary: done in Chemistry</value>
+</orderedby>
+<frequency>
+<value>1 month</value>
+</frequency>
+<orderindications>
+<value>Obstetrical testing may require Lupus Anticoagulant testing be performed in conjunction with anticardiolipin.</value>
+</orderindications>
+<cds>
+</cds>
+<clinicianinstructions>
+</clinicianinstructions>
+<pclocd_loinc>
+<value>24385-7</value>
+</pclocd_loinc>
+<mappingname>
+<value>Cardiolipin IgG Ab [Presence] in Serum by Immunoassay</value>
+</mappingname>
+<orderelement element-field="Priority" element-answer="Routine (Default)"/>
+<orderelement element-field="Specimen" element-answer="Serum"/>
+<orderelement element-field="Collection by" element-answer="Unit/WardLaboratory"/>
+</request>

@@ -1,0 +1,53 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/lab-table.xslt"?>
+<request name= "Heparin Induced Thrombocytopenia (HIT)">
+<approval>
+<value>2/4/2016</value>
+</approval>
+<owner>
+<value>Laboratory</value>
+</owner>
+<division>
+<value>Coagulation</value>
+</division>
+<ordertype>
+<value>Procedure</value>
+</ordertype>
+<testname>
+<value>Heparin Induced Thrombocytopenia (HIT)</value>
+</testname>
+<synonym>
+<value>HIT, Lumi-aggregometry, SRA; HITAB</value>
+</synonym>
+<orderedby>
+<value>HITE (IgG HIT by ELISA)HITL (HIT by Lumi-Aggregometry)HITI (Interpretation)HITCH (Clinical History)</value>
+</orderedby>
+<frequency>
+<value>1 day</value>
+</frequency>
+<orderindications>
+</orderindications>
+<cds>
+<value>Platelet Serotonin Release Assay may be performed as follow-up testing.</value>
+</cds>
+<clinicianinstructions>
+</clinicianinstructions>
+<pclocd_loinc>
+<value>40723-9</value>
+</pclocd_loinc>
+<mappingname>
+<value>Heparin Ab [Presence] in Platelet poor plasma by Platelet aggregation</value>
+</mappingname>
+<orderelement element-field="Priority" element-answer="Routine (Default) "/>
+<orderelement element-field="Specimen" element-answer="Serum (EZ)Plasma (CLS)"/>
+<orderelement element-field="Collection by" element-answer="Unit/WardLaboratory"/>
+<orderelement section="Clinical History"/>
+<orderelement element-field="Clinical History" element-answer="Free Text"/>
+<orderelement element-field="Lowest Platelet Count while on Heparin" element-answer="Free Text"/>
+<orderelement section="Heparin Therapy"/>
+<orderelement element-field="Therapy" element-answer="Low Molecular Weight HeparinUnfractionated Heparin"/>
+<orderelement element-field="Continuous Therapy" element-answer="Yes/No If No, then complete start/stop date"/>
+<orderelement element-field="Start Date" element-answer="Free Text"/>
+<orderelement element-field="Stop Date" element-answer="Free Text"/>
+<orderelement element-field="Previous Heparin Exposure" element-answer="Yes/No/Unknown If yes, give reason"/>
+<orderelement element-field="Heparin Therapy Complications" element-answer="Arterial ThrombosisDeep Vein ThrombosisPulmonary EmbolismUnknownOther (Please specify)"/>
+</request>

@@ -1,0 +1,42 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/lab-table.xslt"?>
+<request name= "Differential, CSF">
+<approval>
+<value>2/4/2016</value>
+</approval>
+<owner>
+<value>Laboratory</value>
+</owner>
+<division>
+<value>Hematology</value>
+</division>
+<ordertype>
+<value>Procedure</value>
+</ordertype>
+<testname>
+<value>Differential, CSF</value>
+</testname>
+<synonym>
+<value>CSF Cytospin; CSF Differential</value>
+</synonym>
+<orderedby>
+<value>Morphological evaluation (differential); quantitative and qualitative</value>
+</orderedby>
+<frequency>
+</frequency>
+<orderindications>
+</orderindications>
+<cds>
+</cds>
+<clinicianinstructions>
+<value>If suspect CJD call microbiologist - or refer to provincial guidelines</value>
+</clinicianinstructions>
+<pclocd_loinc>
+<value>29584-0</value>
+</pclocd_loinc>
+<mappingname>
+<value>Differential; CSF</value>
+</mappingname>
+<orderelement element-field="Priority" element-answer="STAT"/>
+<orderelement element-field="Collection by" element-answer="Unit/Ward"/>
+<orderelement element-field="Additional clinical information" element-answer="Free Text"/>
+</request>

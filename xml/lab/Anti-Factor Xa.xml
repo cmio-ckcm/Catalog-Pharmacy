@@ -1,0 +1,50 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/lab-table.xslt"?>
+<request name= "Anti-Factor Xa">
+<approval>
+<value>2/4/2016</value>
+</approval>
+<owner>
+<value>Laboratory</value>
+</owner>
+<division>
+<value>Coagulation</value>
+</division>
+<ordertype>
+<value>Procedure</value>
+</ordertype>
+<testname>
+<value>Anti-Factor Xa</value>
+</testname>
+<synonym>
+<value>Anti 10 A, Factor Xa, Heparin Assay</value>
+</synonym>
+<orderedby>
+</orderedby>
+<frequency>
+</frequency>
+<orderindications>
+</orderindications>
+<cds>
+<value>Recommended collection time is 4  5 hours post heparin dose</value>
+</cds>
+<clinicianinstructions>
+<value>For stat testing on weekends and off hours, clinician MUST contact the Hematopathologist on call to obtain approval. Samples can be collected, but test will not be processed unless approved.For ECMO patients, Hematopathologist approval is not required. Contact the laboratory;</value>
+</clinicianinstructions>
+<pclocd_loinc>
+<value>3274-8</value>
+</pclocd_loinc>
+<mappingname>
+<value>Heparin unfractionated [Units/volume] in Platelet poor plasma by Chromogenic method</value>
+</mappingname>
+<orderelement element-field="PrioritySpecimenCollection by" element-answer="Routine (Default) StatPlasmaUnit/WardLaboratory"/>
+<orderelement section="Patient History"/>
+<orderelement element-field="Diagnosis" element-answer="free text"/>
+<orderelement element-field="Is patient taking heparin" element-answer="Yes/No If yes, complete information below"/>
+<orderelement element-field="Type of Heparin" element-answer="Unfractionated (IV Heparin) Lovenox (Enoxaparin) Innohep (Tinzaparin) Fragimin (Dalteparin)"/>
+<orderelement element-field="Dose of heparin" element-answer="free text"/>
+<orderelement element-field="Date and Time of last dose" element-answer="free text"/>
+<orderelement element-field="Is patient taking a Xa Inhibitor or Indirect Xa Inhibtior" element-answer="Yes/No If yes, complete information below"/>
+<orderelement element-field="Type of Inhibitor" element-answer="Rivaroxaban (Xarelto) Apixaban (Eliquis) Fondaparinux (Arixtra) Danaproid (Orgaran)"/>
+<orderelement element-field="Date and Time of last dose" element-answer="free text"/>
+<orderelement element-field="List any other anticoagulant" element-answer="free text"/>
+</request>
