@@ -8,11 +8,11 @@
 </strength><frequency><value>ONCE</value>
 <value>DAILY</value>
 </frequency><instruction><value>DAY 1 of 21. Administer dose in the following volume and at the corrsponding rate: a) Dilute dose in 500 mL - 0.9% sodium chloride (for doses less than or equal to 200 mg) and administer over 1 hour. b) Dilute dose in 1000 mL - 0.9% sodium chloride (for doses greater than 200 mg) and administer over 1.5 to 2 hours. </value>
-<value>DAYS 1, 2 &amp; 3 of 21. DAILY for 3 days. Administer dose in the following volume and at the corrsponding rate DAILY for 3 days: a) Dilute dose in 500 mL - 0.9% sodium chloride (for doses less than or equal to 200 mg) and administer over 1 hour. b) Dilute dose in 1000 mL - 0.9% sodium chloride (for doses greater than 200 mg) and administer over 1.5 to 2 hours. </value>
-<value>DAYS 1, 2 &amp; 3 of 21. DAILY for 3 days. Administer dose in the following volume and at the corrsponding rate: a) Dilute dose in 500 mL - 0.9% sodium chloride (for doses less than or equal to 200 mg) and administer over 1 hour. b) Dilute dose in 1000 mL - 0.9% sodium chloride (for doses greater than 200 mg) and administer over 1.5 to 2 hours. </value>
+<value>DAYS 1, 2 & 3 of 21. DAILY for 3 days. Administer dose in the following volume and at the corrsponding rate DAILY for 3 days: a) Dilute dose in 500 mL - 0.9% sodium chloride (for doses less than or equal to 200 mg) and administer over 1 hour. b) Dilute dose in 1000 mL - 0.9% sodium chloride (for doses greater than 200 mg) and administer over 1.5 to 2 hours. </value>
+<value>DAYS 1, 2 & 3 of 21. DAILY for 3 days. Administer dose in the following volume and at the corrsponding rate: a) Dilute dose in 500 mL - 0.9% sodium chloride (for doses less than or equal to 200 mg) and administer over 1 hour. b) Dilute dose in 1000 mL - 0.9% sodium chloride (for doses greater than 200 mg) and administer over 1.5 to 2 hours. </value>
 <value>DAY 1 of 28. Administer dose diluted in 500 mL - 0.9% sodium chloride over 1 hour on DAY 1 post-CISplatin. </value>
-<value>DAYS 2, 3, 4 &amp; 5 of 28. DAILY for 4 days. Administer dose diluted in 500 mL - 0.9% sodium chloride over 1 hour on DAYS 2, 3, 4 and 5. </value>
-<value>DAYS 2, 3, 4 &amp; 5 of 28. DAILY  for 4 days. Administer dose diluted in 500 mL - 0.9% sodium chloride over 1 hour on DAYS 2, 3, 4 and 5. </value>
+<value>DAYS 2, 3, 4 & 5 of 28. DAILY for 4 days. Administer dose diluted in 500 mL - 0.9% sodium chloride over 1 hour on DAYS 2, 3, 4 and 5. </value>
+<value>DAYS 2, 3, 4 & 5 of 28. DAILY  for 4 days. Administer dose diluted in 500 mL - 0.9% sodium chloride over 1 hour on DAYS 2, 3, 4 and 5. </value>
 </instruction><volume><value>25 mL</value>
 <value>5 mL</value>
 </volume><units><value>mg/m2</value>
@@ -24,10 +24,11 @@
 <value>CISplatin/etoposide (IV). Small Cell Lung Cancer.</value>
 <value>Carboplatin/Etoposide (IV). Small Cell Lung Cancer.</value>
 <value>CARBOplatin/Etoposide (IV/po). Small Cell Lung Cancer</value>
-<value>Etoposide (Days 1-5)/CISplatin (Days 1 &amp; 8) with concurrent RT. Pancoast Tumor</value>
+<value>Etoposide (Days 1-5)/CISplatin (Days 1 & 8) with concurrent RT. Pancoast Tumor</value>
 </population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3388</value>
 </backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Antineoplastic Agents</value>
 </ahfsname><highalert><value>YES</value>
 </highalert><maximumprndose></maximumprndose><din><value>02080036</value>
-</din></drug>
+</din><type><value>Medication/IV Therapy</value>
+</type></drug>

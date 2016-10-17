@@ -23,4 +23,5 @@
 <value>01964925</value>
 <value>01964909</value>
 <value>02232905</value>
-</din></drug>
+</din><type><value>Medication/IV Therapy</value>
+</type></drug>

@@ -12,4 +12,5 @@
 </indicationprn><backgroundinformation></backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>EENT Drugs, Mouthwashes and Gargles, </value>
-</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din></din></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din></din><type><value>Medication/IV Therapy</value>
+</type></drug>

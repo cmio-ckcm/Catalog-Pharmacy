@@ -18,8 +18,8 @@
 </strength><frequency><value>ONCE</value>
 <value>WEEKLY</value>
 <value>DAILY</value>
-</frequency><instruction><value>Administer &amp;quot;TEST&amp;quot; dose, wait 1 hour. If no adverse reactions, continue to administer remainder of dose. </value>
-<value>Administer &amp;quot;TEST&amp;quot; dose over 15 minutes, wait 1 hour. If no adverse reactions, continue to administer remainder of dose. </value>
+</frequency><instruction><value>Administer "TEST" dose, wait 1 hour. If no adverse reactions, continue to administer remainder of dose. </value>
+<value>Administer "TEST" dose over 15 minutes, wait 1 hour. If no adverse reactions, continue to administer remainder of dose. </value>
 <value>Administer during each dialysis for 10 doses.</value>
 </instruction><volume><value>1 mL</value>
 <value>2 mL</value>
@@ -46,4 +46,5 @@
 </population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Antianemia Drugs, Iron Preparations</value>
 </ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02205963</value>
-</din></drug>
+</din><type><value>Medication/IV Therapy</value>
+</type></drug>

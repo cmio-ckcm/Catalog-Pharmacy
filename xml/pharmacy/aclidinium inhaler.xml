@@ -13,4 +13,5 @@
 </backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Anticholinergic Agents</value>
 </ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>R03BB05</value>
-</din></drug>
+</din><type><value>Medication/IV Therapy</value>
+</type></drug>

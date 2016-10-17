@@ -21,7 +21,7 @@
 <value>for 2 doses. </value>
 </instruction><volume></volume><units><value>mg/m2</value>
 <value>mg/m2/day</value>
-</units><additionalnotes><value>Hodgkin&amp;apos;s Lymphoma. For doses less than or equal to 1500mg, dilute dose in 500 mL 0.9% sodium chloride and administer over 1 hour. For doses greater than 1500 mg, dilute dose in 1000 mL 0.9% sodium chloride and administer over 1.5 to 2 hours.</value>
+</units><additionalnotes><value>Hodgkin's Lymphoma. For doses less than or equal to 1500mg, dilute dose in 500 mL 0.9% sodium chloride and administer over 1 hour. For doses greater than 1500 mg, dilute dose in 1000 mL 0.9% sodium chloride and administer over 1.5 to 2 hours.</value>
 <value>Sarcoma -Osteo. </value>
 <value>Metastatic Melanoma</value>
 <value>Melanoma</value>
@@ -35,4 +35,5 @@
 </ahsformularystatus><ahfsname><value>Antineoplastic Agents</value>
 </ahfsname><highalert><value>YES</value>
 </highalert><maximumprndose></maximumprndose><din><value>02241445</value>
-</din></drug>
+</din><type><value>Medication/IV Therapy</value>
+</type></drug>

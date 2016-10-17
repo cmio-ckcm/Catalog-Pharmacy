@@ -18,4 +18,5 @@
 </ahfsname><highalert><value>High Alert Medication</value>
 </highalert><maximumprndose><value>Maximum PRN Dose</value>
 </maximumprndose><din><value>DIN</value>
-</din></drug>
+</din><type><value>Type</value>
+</type></drug>

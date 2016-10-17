@@ -11,4 +11,5 @@
 </backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary with Restrictions. Health Canada Special Access Programme.</value>
 </ahsformularystatus><ahfsname><value>Skin and Mucous Membrane Agents, Local Anti-infectives, Miscellaneous</value>
 </ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>51079-623-83</value>
-</din></drug>
+</din><type><value>Medication/IV Therapy</value>
+</type></drug>

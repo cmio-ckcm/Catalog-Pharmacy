@@ -38,4 +38,5 @@
 </ahsformularystatus><ahfsname><value>Antiulcer Agents and Acid Suppressants, Histamine H2-Antagonists</value>
 </ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02247735</value>
 <value>02247745</value>
-</din></drug>
+</din><type><value>Medication/IV Therapy</value>
+</type></drug>

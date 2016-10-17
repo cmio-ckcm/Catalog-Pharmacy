@@ -7,7 +7,7 @@
 </form><drugname><value>eribulin inj VIAL</value>
 </drugname><strength><value>0.5 mg/mL</value>
 </strength><frequency><value>WEEKLY</value>
-</frequency><instruction><value>For 2 doses (DAYS 1 &amp; 8 of 21 day cycle). Administer dose by direct injection over 2 to 5 minutes.  </value>
+</frequency><instruction><value>For 2 doses (DAYS 1 & 8 of 21 day cycle). Administer dose by direct injection over 2 to 5 minutes.  </value>
 </instruction><volume><value>2 mL</value>
 </volume><units><value>mg/m2</value>
 </units><additionalnotes><value>If ANC is less than 1 X 109/L or Platelets are less than 75 X 109/L: Delay eribulin and contact prescriber. Dosage reduction recommended for hepatic dysfinction: Mild (Child-Pugh A): reduce dose to 1.1 mg/m2, Moderate (Child-Pugh B): reduce dose to 0.7 mg/m2. Dosage reduction recommended for renal dysfunction: CrCl of 30 to 50 mL/minute: reduce dose to 1.1 mg/m2. No data available for CrCl less than 30 mL/minute.</value>
@@ -17,4 +17,5 @@
 </ahsformularystatus><ahfsname><value>Antineoplastic Agents</value>
 </ahfsname><highalert><value>YES</value>
 </highalert><maximumprndose></maximumprndose><din><value>02377438</value>
-</din></drug>
+</din><type><value>Medication/IV Therapy</value>
+</type></drug>

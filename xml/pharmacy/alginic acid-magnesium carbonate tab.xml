@@ -14,4 +14,5 @@
 </ahsformularystatus><ahfsname><value>Antacids and Adsorbents</value>
 </ahfsname><highalert></highalert><maximumprndose><value>Adults: 10 tablets. Children: 4 tablets.</value>
 </maximumprndose><din><value>02159791</value>
-</din></drug>
+</din><type><value>Medication/IV Therapy</value>
+</type></drug>

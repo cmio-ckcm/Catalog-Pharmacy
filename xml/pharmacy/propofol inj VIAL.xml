@@ -44,4 +44,5 @@
 </ahsformularystatus><ahfsname><value>General Anesthetics</value>
 </ahfsname><highalert><value>YES</value>
 </highalert><maximumprndose></maximumprndose><din><value>02018950</value>
-</din></drug>
+</din><type><value>Medication/IV Therapy</value>
+</type></drug>

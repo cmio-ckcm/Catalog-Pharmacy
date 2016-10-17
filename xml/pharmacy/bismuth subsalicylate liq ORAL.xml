@@ -24,4 +24,5 @@
 <value>MAX: 60 mL/24 hr for children 10 - 14 years.</value>
 <value>MAX: 120 mL/24 hr for adults</value>
 </maximumprndose><din><value>02229668</value>
-</din></drug>
+</din><type><value>Medication/IV Therapy</value>
+</type></drug>

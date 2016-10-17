@@ -25,4 +25,5 @@
 <value>02401819</value>
 <value>02401827</value>
 <value>02401835</value>
-</din></drug>
+</din><type><value>Medication/IV Therapy</value>
+</type></drug>

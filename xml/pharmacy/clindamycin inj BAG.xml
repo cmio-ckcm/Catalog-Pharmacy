@@ -15,4 +15,5 @@
 </ahsformularystatus><ahfsname><value>Antibacterials, Miscellaneous</value>
 </ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02408511</value>
 <value>02408538</value>
-</din></drug>
+</din><type><value>Medication/IV Therapy</value>
+</type></drug>

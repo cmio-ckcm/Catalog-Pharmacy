@@ -13,4 +13,5 @@
 </units><additionalnotes></additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Vitamin B Complex</value>
 </ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>01987003</value>
-</din></drug>
+</din><type><value>Medication/IV Therapy</value>
+</type></drug>

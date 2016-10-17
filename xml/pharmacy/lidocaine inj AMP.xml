@@ -41,8 +41,8 @@
 </volume><units><value>mL</value>
 <value>mg</value>
 <value>mg/kg</value>
-</units><additionalnotes><value>ADULT. EPIDURAL. Dose includes &amp;quot;test&amp;quot; dose.</value>
-<value>ADULT. Caudal EPIDURAL. Dose includes &amp;quot;test&amp;quot; dose.</value>
+</units><additionalnotes><value>ADULT. EPIDURAL. Dose includes "test" dose.</value>
+<value>ADULT. Caudal EPIDURAL. Dose includes "test" dose.</value>
 <value>Administer total dose slowly or in incremental doses.</value>
 <value>ADULT. Local infiltration. Administer total dose slowly or in incremental doses.</value>
 <value>ADULT. Digital block.</value>
@@ -54,9 +54,9 @@
 <value>ADULT. Brachial plexus (Axillary) block.</value>
 <value>ADULT. Brachial plexus (Supraclavicular interscalene and subclavian perivascular) block.</value>
 <value>ADULT. 3-in-1 (Femoral, obturator and lateral cutaneous) block.</value>
-<value>ADULT. EPIDURAL. TEST DOSE. Dose includes &amp;quot;test&amp;quot; dose.</value>
-<value>ADULT. Lumbar EPIDURAL. Dose includes &amp;quot;test&amp;quot; dose.</value>
-<value>ADULT. Thoracic EPIDURAL. Dose includes &amp;quot;test&amp;quot; dose.</value>
+<value>ADULT. EPIDURAL. TEST DOSE. Dose includes "test" dose.</value>
+<value>ADULT. Lumbar EPIDURAL. Dose includes "test" dose.</value>
+<value>ADULT. Thoracic EPIDURAL. Dose includes "test" dose.</value>
 <value>ADULT. Sciatic block.</value>
 <value>ADULT. Retrobulbar block.</value>
 </additionalnotes><population><value>ADULT</value>
@@ -66,4 +66,5 @@
 </ahfsname><highalert><value>YES</value>
 </highalert><maximumprndose></maximumprndose><din><value>00001732</value>
 <value>00036641</value>
-</din></drug>
+</din><type><value>Medication/IV Therapy</value>
+</type></drug>

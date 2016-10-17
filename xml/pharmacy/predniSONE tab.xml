@@ -27,4 +27,5 @@
 </ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>00271373</value>
 <value>00312770</value>
 <value>00550957</value>
-</din></drug>
+</din><type><value>Medication/IV Therapy</value>
+</type></drug>

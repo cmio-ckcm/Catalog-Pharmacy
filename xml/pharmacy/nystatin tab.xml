@@ -9,4 +9,5 @@
 </frequency><instruction></instruction><volume></volume><units><value>unit</value>
 </units><additionalnotes></additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Discontinued.</value>
 </ahsformularystatus><ahfsname><value>Antifungals, Polyenes</value>
-</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din></din></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din></din><type><value>Medication/IV Therapy</value>
+</type></drug>

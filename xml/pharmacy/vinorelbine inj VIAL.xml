@@ -36,13 +36,14 @@
 <value>DAY 1. If ANC greater than or equal to 1.5 AND Plts greater than or equal to 100 x 109/L, Give as ordered. If ANC less than 1.5 OR Plts less than 100 x 109/L: Delay one week. If CrCl is greater than or equal to 50 mL/minute, give chemotherapy as ordered. If CrCl less than 50 mL/minute,hold chemotherapy and contact physician. If AST/ALT greater than 1.5 to 5 x ULN AND Alk Phos 1.5 to 5 x ULN OR bilirubin ULN to 1.5 x ULN: Administer 75% of vinorelbine dose. If AST/ALT greater than 5 x ULN AND Alk Phos greater than 5 x ULN OR bilirubin greater than 1.5 x ULN: HOLD treatment. If vinorelbine held for hepatic toxicity, repeat liver function tests weekly. Once recovered, dose vinorelbine at 75%.</value>
 </additionalnotes><population><value>Adjuvant Vinorelbine/CISplatin (every 28 days). Non-Small Cell Lung Cancer</value>
 <value>Adjuvant Vinorelbine/CISplatin (every 21 days). Non-Small Cell Lung Cancer</value>
-<value>Vinorelbine (Day 1 &amp; 8 every 21 Days). Non-Small Cell Lung Cancer (Advanced Stage)</value>
+<value>Vinorelbine (Day 1 & 8 every 21 Days). Non-Small Cell Lung Cancer (Advanced Stage)</value>
 <value>Vinorelbine / CISplatin. Advanced NSCLC</value>
 <value>Vinorelbine / CARBOplatin. Non-Small Cell Lung Cancer (Advanced Stage)</value>
-<value>CISplatin &amp; Vinorelbine with CONCURRENT RT. Non-Small Cell Lung Cancer</value>
+<value>CISplatin & Vinorelbine with CONCURRENT RT. Non-Small Cell Lung Cancer</value>
 <value>Vinorelbine and CARBOplatin with CONCURRENT RT. Non-Small Cell Lung Cancer.</value>
 </population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Antineoplastic Agents</value>
 </ahfsname><highalert><value>YES</value>
 </highalert><maximumprndose></maximumprndose><din><value>02257777</value>
-</din></drug>
+</din><type><value>Medication/IV Therapy</value>
+</type></drug>

@@ -27,4 +27,5 @@
 </backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary with Usage guidelines. Health Canada Special Access Programme.</value>
 </ahsformularystatus><ahfsname><value>Antiprotozoals, Antimalarials</value>
 </ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>N/A</value>
-</din></drug>
+</din><type><value>Medication/IV Therapy</value>
+</type></drug>

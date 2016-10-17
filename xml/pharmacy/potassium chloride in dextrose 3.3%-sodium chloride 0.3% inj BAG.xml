@@ -12,4 +12,5 @@
 </ahsformularystatus><ahfsname><value>Replacement Preparations</value>
 </ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>00438014</value>
 <value>00438022</value>
-</din></drug>
+</din><type><value>Medication/IV Therapy</value>
+</type></drug>

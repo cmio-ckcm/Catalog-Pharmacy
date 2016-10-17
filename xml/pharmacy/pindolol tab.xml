@@ -16,4 +16,5 @@
 </ahsformularystatus><ahfsname><value>beta-Adrenergic Blocking Agents</value>
 </ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>00443174</value>
 <value>00417270</value>
-</din></drug>
+</din><type><value>Medication/IV Therapy</value>
+</type></drug>

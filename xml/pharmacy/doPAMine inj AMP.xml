@@ -31,4 +31,5 @@
 </additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Non-Formulary.</value>
 </ahsformularystatus><ahfsname><value>Sympathomimetic (Adrenergic) Agents, beta-Adrenergic Agonists</value>
 </ahfsname><highalert><value>YES</value>
-</highalert><maximumprndose></maximumprndose><din></din></drug>
+</highalert><maximumprndose></maximumprndose><din></din><type><value>Medication/IV Therapy</value>
+</type></drug>

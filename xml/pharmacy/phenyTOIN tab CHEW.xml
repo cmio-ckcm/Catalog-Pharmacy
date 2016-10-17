@@ -20,4 +20,5 @@
 </additionalnotes><population><value>CHILDREN. Less than 18 years.</value>
 </population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Anticonvulsants, Hydantoins</value>
-</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din></din></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din></din><type><value>Medication/IV Therapy</value>
+</type></drug>

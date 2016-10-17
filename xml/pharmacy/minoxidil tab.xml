@@ -18,4 +18,5 @@
 </ahsformularystatus><ahfsname><value>Hypotensive Agents, Direct Vasodilators</value>
 </ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>00514500</value>
 <value>00514497</value>
-</din></drug>
+</din><type><value>Medication/IV Therapy</value>
+</type></drug>

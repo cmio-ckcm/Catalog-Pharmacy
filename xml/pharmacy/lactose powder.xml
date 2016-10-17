@@ -12,4 +12,5 @@
 </backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Intestinal Absorption</value>
 </ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>N/A</value>
-</din></drug>
+</din><type><value>Medication/IV Therapy</value>
+</type></drug>

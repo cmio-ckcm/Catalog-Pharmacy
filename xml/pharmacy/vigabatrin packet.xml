@@ -9,9 +9,10 @@
 </frequency><instruction><value>Administer daily calculated dose in 2 equally divided doses.</value>
 </instruction><volume></volume><units><value>mg/kg/day</value>
 </units><additionalnotes><value>Treatment of Infantile Spasms.</value>
-</additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation><value>Maximum recommended dose by weight range: 10 to 15 kg = 1 g/day, 16 to 30 kg = 1.5 g/day, &amp;gt;30 kg = 3 g/day.</value>
+</additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation><value>Maximum recommended dose by weight range: 10 to 15 kg = 1 g/day, 16 to 30 kg = 1.5 g/day, >30 kg = 3 g/day.</value>
 </backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Anticonvulsants, Anticonvulsants, Miscellaneous</value>
 </ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02068036</value>
 <value>20268036</value>
-</din></drug>
+</din><type><value>Medication/IV Therapy</value>
+</type></drug>

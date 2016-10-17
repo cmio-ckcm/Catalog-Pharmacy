@@ -22,4 +22,5 @@
 </ahsformularystatus><ahfsname><value>Anticholinergic Agents, Antiparkinsonian Agents</value>
 </ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>00706531</value>
 <value>00426857</value>
-</din></drug>
+</din><type><value>Medication/IV Therapy</value>
+</type></drug>

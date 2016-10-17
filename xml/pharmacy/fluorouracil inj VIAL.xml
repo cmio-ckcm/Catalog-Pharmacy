@@ -11,10 +11,11 @@
 </volume><units><value>mg/m2</value>
 </units><additionalnotes><value>If ANC is greater than or equal to 1.5 AND Plts are greater than or equal to 100 x 109/L: Give as ordered. If ANC is less than 1.5 OR Plts are less than 100 x 109/L: Delay 1 week.</value>
 </additionalnotes><population><value>Fluorouracil, Epirubicin, Cyclophosphamide (FEC) followed by DOCEtaxel. Breast Cancer (NEOADJUVANT Treatment).</value>
-<value>Fluorouracil, Epirubicin, Cyclophosphamide (FEC) followed by DOCEtaxel &amp; Trastuzumab</value>
+<value>Fluorouracil, Epirubicin, Cyclophosphamide (FEC) followed by DOCEtaxel & Trastuzumab</value>
 </population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3393</value>
 </backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Antineoplastic Agents</value>
 </ahfsname><highalert><value>YES</value>
 </highalert><maximumprndose></maximumprndose><din><value>02182742</value>
-</din></drug>
+</din><type><value>Medication/IV Therapy</value>
+</type></drug>

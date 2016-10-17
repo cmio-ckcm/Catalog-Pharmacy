@@ -13,7 +13,7 @@
 </units><additionalnotes><value>If ANC is greater than or equal to 1.5 AND Plts are greater than or equal to 100 x 109/L: Give as ordered. If ANC is less than 1.5 OR Plts are less than 100 x 109/L: Delay 1 week. If Creatinine Clearance is greater than or equal to 50 mL/minute: Give as ordered. If Creatinine Clearance is less than 50 mL/minute: Contact physician. MAX Lifetime IV DOXOrubicin Dose: a) No risk factors: 550 mg/m2. b) Concurrent radiation therapy; previous or concurrent use of cyclophosphamide, anthracyclines or other cardiotoxic drugs: 450 mg/m2.</value>
 <value>If ANC is greater than or equal to 1.5 AND Plts are greater than or equal to 100 x 109/L: Give as ordered. If ANC is less than 1.5 OR Plts are less than 100 x 109/L: Contact physician. If Creatinine Clearance is greater than or equal to 50 mL/minute: Give as ordered. If Creatinine Clearance is less than 50 mL/minute: Contact physician. MAX Lifetime IV DOXOrubicin Dose: a) No risk factors: 550 mg/m2. b) Concurrent radiation therapy; previous or concurrent use of cyclophosphamide, anthracyclines or other cardiotoxic drugs: 450 mg/m2. </value>
 <value>If ANC is greater than or equal to 1.5 AND Plts are greater than or equal to 100 x 109/L: Give as ordered. If ANC is less than 1.5 OR Plts are less than 100 x 109/L: Delay 1 week. MAX Lifetime IV DOXOrubicin Dose: a) No risk factors: 550 mg/m2. b) Concurrent radiation therapy; previous or concurrent use of cyclophosphamide, anthracyclines or other cardiotoxic drugs: 450 mg/m2. </value>
-<value>If ANC is greater than or equal to 1.5 AND Plts are greater than or equal to 100 x 109/L: Give as ordered. If ANC is less than 1.5 OR Plts are less than 100 x 109/L: Delay 1 week. MAX Lifetime IV DOXOrubicin Dose: a) No risk factors: 550 mg/m2. b) Concurrent radiation therapy; previous or concurrent use of cyclophosphamide, anthracyclines or other cardiotoxic drugs: 450 mg/m2. [Part 1: Cycles 1, 2, 3, &amp; 4] </value>
+<value>If ANC is greater than or equal to 1.5 AND Plts are greater than or equal to 100 x 109/L: Give as ordered. If ANC is less than 1.5 OR Plts are less than 100 x 109/L: Delay 1 week. MAX Lifetime IV DOXOrubicin Dose: a) No risk factors: 550 mg/m2. b) Concurrent radiation therapy; previous or concurrent use of cyclophosphamide, anthracyclines or other cardiotoxic drugs: 450 mg/m2. [Part 1: Cycles 1, 2, 3, & 4] </value>
 </additionalnotes><population><value>cyclophosphamide, DOXOrubicin, vinCRIStine (CAV). Small Cell Lung Cancer.</value>
 <value>DOXOrubicin/CISplatin/cyclophosphamide (PAC). Thymic Malignancy</value>
 <value>CISplatin/DOXOrubicin/vinCRIStine/cyclophosphamide. Thymoma</value>
@@ -27,4 +27,5 @@
 </ahfsname><highalert><value>YES</value>
 </highalert><maximumprndose></maximumprndose><din><value>02194473</value>
 <value>02194465</value>
-</din></drug>
+</din><type><value>Medication/IV Therapy</value>
+</type></drug>

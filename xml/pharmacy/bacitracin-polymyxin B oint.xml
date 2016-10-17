@@ -11,4 +11,5 @@
 </volume><units></units><additionalnotes></additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Skin and Mucous Membrane Agents, Antibacterials</value>
 </ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02181908</value>
-</din></drug>
+</din><type><value>Medication/IV Therapy</value>
+</type></drug>

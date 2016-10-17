@@ -14,4 +14,5 @@
 </population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary, Health Canada Special Access Programme.</value>
 </ahsformularystatus><ahfsname><value>Anorexigenic Agents and Respiratory and Cerebral Stimulants, Miscellaneous</value>
 </ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>N/A</value>
-</din></drug>
+</din><type><value>Medication/IV Therapy</value>
+</type></drug>

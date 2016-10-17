@@ -6,8 +6,8 @@
 </form><drugname><value>etoposide cap</value>
 </drugname><strength><value>50 mg</value>
 </strength><frequency><value>DAILY</value>
-</frequency><instruction><value>DAY 2 &amp; 3 of 21. DAILY for 2 days.</value>
-<value>DAYS 2 &amp; 3 of 21. DAILY for 2 days.</value>
+</frequency><instruction><value>DAY 2 & 3 of 21. DAILY for 2 days.</value>
+<value>DAYS 2 & 3 of 21. DAILY for 2 days.</value>
 <value>DAYS 1 - 5 of 21. DAILY for 5 days.</value>
 </instruction><volume></volume><units><value>mg/m2/day</value>
 <value>mg</value>
@@ -20,4 +20,5 @@
 </ahsformularystatus><ahfsname><value>Antineoplastic Agents</value>
 </ahfsname><highalert><value>YES</value>
 </highalert><maximumprndose></maximumprndose><din><value>00616192</value>
-</din></drug>
+</din><type><value>Medication/IV Therapy</value>
+</type></drug>

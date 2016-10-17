@@ -13,4 +13,5 @@
 </ahsformularystatus><ahfsname><value>Cardiac Drugs, Antiarrhythmic Agents</value>
 </ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>00603716</value>
 <value>00603708</value>
-</din></drug>
+</din><type><value>Medication/IV Therapy</value>
+</type></drug>

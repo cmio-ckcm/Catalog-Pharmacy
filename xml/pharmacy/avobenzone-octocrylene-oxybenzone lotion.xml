@@ -8,4 +8,5 @@
 </instruction><volume></volume><units></units><additionalnotes></additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Not a pharmacy product_pending DTC decision.</value>
 </ahsformularystatus><ahfsname><value>Skin and Mucous Membrane Agents, Sunscreen Agents</value>
-</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din></din></drug>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din></din><type><value>Medication/IV Therapy</value>
+</type></drug>

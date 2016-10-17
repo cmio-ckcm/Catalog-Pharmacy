@@ -25,4 +25,5 @@
 </ahfsname><highalert><value>YES</value>
 </highalert><maximumprndose><value>4 doses</value>
 </maximumprndose><din><value>00821780</value>
-</din></drug>
+</din><type><value>Medication/IV Therapy</value>
+</type></drug>

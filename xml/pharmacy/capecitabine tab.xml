@@ -32,8 +32,8 @@
 <value>Start treatment during the evening of Day 1 and last dose during morning of Day 15. Administer in the morning and evening.</value>
 </instruction><volume></volume><units><value>mg/m2</value>
 <value>mg</value>
-</units><additionalnotes><value>Monotherapy. Treatment cycle of 14 days of treatment followed by 7 day rest period. If ANC is greater than or equal to 1.5 X 109/L AND Platelets are greater than or equal to 75 X 109/L: Give as ordered. If ANC is less than 1.5 X109/L OR Platelets are less than 75 X 109/L: Delay 1 week. Dosage adjust for renal impairment (Cycle #1 ONLY): If CrCl is greater than 50 mL/minute: NO dosage adjustment. If CrCl is 30 to 50 mL/minute: Reduce dose to 75%. If CrCl is less than 30 mL/minute: DO NOT TREAT. Recommend rounding dose to a &amp;quot;dispensable&amp;quot; dose amount.</value>
-<value>Combination therapy. Treatment cycle of 14 days of treatment followed by 7 day rest period. If ANC is greater than or equal to 1.5 X 109/L AND Platelets are greater than or equal to 75 X 109/L: Give as ordered. If ANC is less than 1.5 X109/L OR Platelets are less than 75 X 109/L: Delay 1 week. Dosage adjust for renal impairment (Cycle #1 ONLY): If CrCl is greater than 50 mL/minute: NO dosage adjustment. If CrCl is 30 to 50 mL/minute: Reduce dose to 75%. If CrCl is less than 30 mL/minute: DO NOT TREAT. Recommend rounding dose to a &amp;quot;dispensable&amp;quot; dose amount.</value>
+</units><additionalnotes><value>Monotherapy. Treatment cycle of 14 days of treatment followed by 7 day rest period. If ANC is greater than or equal to 1.5 X 109/L AND Platelets are greater than or equal to 75 X 109/L: Give as ordered. If ANC is less than 1.5 X109/L OR Platelets are less than 75 X 109/L: Delay 1 week. Dosage adjust for renal impairment (Cycle #1 ONLY): If CrCl is greater than 50 mL/minute: NO dosage adjustment. If CrCl is 30 to 50 mL/minute: Reduce dose to 75%. If CrCl is less than 30 mL/minute: DO NOT TREAT. Recommend rounding dose to a "dispensable" dose amount.</value>
+<value>Combination therapy. Treatment cycle of 14 days of treatment followed by 7 day rest period. If ANC is greater than or equal to 1.5 X 109/L AND Platelets are greater than or equal to 75 X 109/L: Give as ordered. If ANC is less than 1.5 X109/L OR Platelets are less than 75 X 109/L: Delay 1 week. Dosage adjust for renal impairment (Cycle #1 ONLY): If CrCl is greater than 50 mL/minute: NO dosage adjustment. If CrCl is 30 to 50 mL/minute: Reduce dose to 75%. If CrCl is less than 30 mL/minute: DO NOT TREAT. Recommend rounding dose to a "dispensable" dose amount.</value>
 <value>Monotherapy. Treatment cycle of 14 days of treatment followed by 7 day rest period.</value>
 </additionalnotes><population><value>ADULT</value>
 </population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3351</value>
@@ -43,4 +43,5 @@
 </ahfsname><highalert><value>YES</value>
 </highalert><maximumprndose></maximumprndose><din><value>02238453</value>
 <value>02238454</value>
-</din></drug>
+</din><type><value>Medication/IV Therapy</value>
+</type></drug>

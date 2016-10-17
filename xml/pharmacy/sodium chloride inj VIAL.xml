@@ -28,4 +28,5 @@
 </highalert><maximumprndose></maximumprndose><din><value>00037796</value>
 <value>02139510</value>
 <value>00392499</value>
-</din></drug>
+</din><type><value>Medication/IV Therapy</value>
+</type></drug>

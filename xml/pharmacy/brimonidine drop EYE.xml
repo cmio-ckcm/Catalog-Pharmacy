@@ -15,4 +15,5 @@
 </units><additionalnotes></additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
 </ahsformularystatus><ahfsname><value>EENT Drugs, Antiglaucoma Agents, alpha-Adrenergic Agonists</value>
 </ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02305429</value>
-</din></drug>
+</din><type><value>Medication/IV Therapy</value>
+</type></drug>

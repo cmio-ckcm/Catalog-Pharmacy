@@ -1,0 +1,14 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "dextrose 5%-lactated Ringer's inj BAG">
+<dose></dose><route><value>IV</value>
+</route><form><value>inj BAG</value>
+</form><drugname><value>dextrose 5%-lactated Ringer's inj BAG</value>
+</drugname><strength></strength><frequency><value>CONTINUOUS</value>
+</frequency><instruction><value>Administered by continuous infusion.</value>
+</instruction><volume><value>1000 mL</value>
+<value>500 mL</value>
+</volume><units><value>mL/Hour</value>
+</units><additionalnotes></additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Not a pharmacy product.</value>
+</ahsformularystatus><ahfsname><value>Replacement Preparations</value>
+</ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>00061131</value>
+</din><type><value>Medication/IV Therapy</value>
+</type></drug>

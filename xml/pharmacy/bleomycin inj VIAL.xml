@@ -11,9 +11,9 @@
 </frequency><instruction><value>DAY 8 of 21. Dilute dose in 100 mL 0.9% sodium chloride and minister over 10 minutes.</value>
 <value>DAY 1 of 28. Dilute dose in 100 mL 0.9% sodium chloride and minister over 10 minutes.</value>
 <value>DAY 15 of 28. Dilute dose in 100 mL 0.9% sodium chloride and minister over 10 minutes.</value>
-<value>DAY 1, 8 &amp; 15 of 21. For 3 doses. Dilute dose in 100 mL 0.9% sodium chloride and administer over 15 minutes.</value>
-<value>DAY 1, 8 &amp; 15 of 21. For 3 doses. Dilute dose in 50 mL 0.9% sodium chloride and administer over 15 minutes.</value>
-<value>DAY 1, 2 &amp; 3 of 21. For 3 days. Dilute dose to 200 mL in 0.9% sodium chloride and administer as continuous infusion over 20 hours (10 mL/hour) via Baxter Infusor.</value>
+<value>DAY 1, 8 & 15 of 21. For 3 doses. Dilute dose in 100 mL 0.9% sodium chloride and administer over 15 minutes.</value>
+<value>DAY 1, 8 & 15 of 21. For 3 doses. Dilute dose in 50 mL 0.9% sodium chloride and administer over 15 minutes.</value>
+<value>DAY 1, 2 & 3 of 21. For 3 days. Dilute dose to 200 mL in 0.9% sodium chloride and administer as continuous infusion over 20 hours (10 mL/hour) via Baxter Infusor.</value>
 </instruction><volume></volume><units><value>unit/m2</value>
 <value>unit</value>
 </units><additionalnotes><value>If CrCl is less than 50 mL/minute, notify prescriber for increased risk of bleomycin lung toxicity. Calculate total cumulative dose of bleomycin including current dose; bleomycin pulmonary toxicity risk factors include a total cumulative dose greater than 400 units, or lower when combined with other antineoplastic drugs. Recommend 75% of calculated dose for CrCl greater than or equal to 10 up to 50 mL/minute. Recommend 50% of calculated dose for CrCl less than 10 mL/minute.</value>
@@ -29,4 +29,5 @@
 </ahsformularystatus><ahfsname><value>Antineoplastic Agents</value>
 </ahfsname><highalert><value>YES</value>
 </highalert><maximumprndose></maximumprndose><din><value>02131692</value>
-</din></drug>
+</din><type><value>Medication/IV Therapy</value>
+</type></drug>

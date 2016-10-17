@@ -43,8 +43,8 @@
 <value>mg</value>
 </units><additionalnotes><value>Administer total dose slowly or in incremental doses.</value>
 <value>ADULT. Administer total dose slowly or in incremental doses.</value>
-<value>ADULT. EPIDURAL. TEST DOSE. Dose includes &amp;quot;test&amp;quot; dose.</value>
-<value>ADULT. Caudal EPIDURAL. Dose includes &amp;quot;test&amp;quot; dose.</value>
+<value>ADULT. EPIDURAL. TEST DOSE. Dose includes "test" dose.</value>
+<value>ADULT. Caudal EPIDURAL. Dose includes "test" dose.</value>
 <value>ADULT. Local infiltration. Administer total dose slowly or in incremental doses.</value>
 <value>ADULT. Digital block.</value>
 <value>ADULT. Intercostal (per nerve) block. Maximum total dose: 480 mg.</value>
@@ -55,8 +55,8 @@
 <value>ADULT. Brachial plexus (Supraclavicular interscalene and subclavian perivascular) block.</value>
 <value>ADULT. 3-in-1 (Femoral, obturator and lateral cutaneous) block.</value>
 <value>ADULT. Peribulbar block.</value>
-<value>ADULT. Lumbar EPIDURAL. Dose includes &amp;quot;test&amp;quot; dose.</value>
-<value>ADULT. Thoracic EPIDURAL. Dose includes &amp;quot;test&amp;quot; dose.</value>
+<value>ADULT. Lumbar EPIDURAL. Dose includes "test" dose.</value>
+<value>ADULT. Thoracic EPIDURAL. Dose includes "test" dose.</value>
 <value>ADULT. Sciatic block.</value>
 <value>ADULT. Retrobulbar block.</value>
 </additionalnotes><population><value>INFANTS / CHILDREN</value>
@@ -67,4 +67,5 @@
 </highalert><maximumprndose></maximumprndose><din><value>02372983</value>
 <value>02302411</value>
 <value>00036641</value>
-</din></drug>
+</din><type><value>Medication/IV Therapy</value>
+</type></drug>

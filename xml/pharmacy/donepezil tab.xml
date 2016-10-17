@@ -13,4 +13,5 @@
 </ahsformularystatus><ahfsname><value>Parasympathomimetic (Cholinergic) Agents</value>
 </ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02400561</value>
 <value>02400588</value>
-</din></drug>
+</din><type><value>Medication/IV Therapy</value>
+</type></drug>

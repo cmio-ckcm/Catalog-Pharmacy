@@ -20,4 +20,5 @@
 </backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary with Restrictions, Usage guidelines, Therapeutic Interchange.</value>
 </ahsformularystatus><ahfsname><value>Antiulcer Agents and Acid Suppressants, Proton-pump Inhibitors</value>
 </ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02245058</value>
-</din></drug>
+</din><type><value>Medication/IV Therapy</value>
+</type></drug>

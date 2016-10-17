@@ -11,4 +11,5 @@
 </population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Skin and Mucous Membrane Agents, Antipruritics and Local Anesthetics</value>
 </ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>02294990</value>
-</din></drug>
+</din><type><value>Medication/IV Therapy</value>
+</type></drug>

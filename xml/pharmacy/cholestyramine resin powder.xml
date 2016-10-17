@@ -16,4 +16,5 @@
 </ahsformularystatus><ahfsname><value>Antilipemic Agents, Bile Acid Sequestrants</value>
 </ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>00890960</value>
 <value>02210320</value>
-</din></drug>
+</din><type><value>Medication/IV Therapy</value>
+</type></drug>

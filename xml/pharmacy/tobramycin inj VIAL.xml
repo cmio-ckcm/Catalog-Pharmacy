@@ -5,8 +5,10 @@
 <value>1</value>
 <value>1.5</value>
 <value>2</value>
+<value>5</value>
 <value>4.5</value>
 <value>4</value>
+<value>6</value>
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
 </form><drugname><value>tobramycin inj VIAL</value>
@@ -43,4 +45,5 @@
 <value>02241209</value>
 <value>02241210</value>
 <value>02230640</value>
-</din></drug>
+</din><type><value>Medication/IV Therapy</value>
+</type></drug>
