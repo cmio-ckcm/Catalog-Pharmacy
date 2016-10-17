@@ -160,14 +160,14 @@ function searchTable() {
 function loadTable(xml){
 
     var i;
-     path = '/../../xml/pharmacy/';
+     path = '../../xml/pharmacy/';
     
     var xmlDoc = xml.responseXML;
     var table="<tr class='header'><th style='width:60%;font-weight:bold;'>title</th></tr>";
     var x = xmlDoc.getElementsByTagName("orderitem");
 
     for (i = 0; i <x.length; i++) { 
-        table += '<tr><td onclick="loadURL('  + "'/../../xml/pharmacy/" +
+        table += '<tr><td onclick="loadURL('  + "'/../xml/pharmacy/" +
             x[i].getElementsByTagName("modelfile")[0].childNodes[0].nodeValue + '\');">' +
             x[i].getElementsByTagName("title")[0].childNodes[0].nodeValue + 
             '<br></td></tr>';
