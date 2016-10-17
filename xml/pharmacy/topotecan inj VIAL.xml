@@ -11,15 +11,15 @@
 </drugname><strength><value>4 mg</value>
 </strength><frequency><value>DAILY</value>
 <value>WEEKLY</value>
-</frequency><instruction><value>for 5 days. Dilute dose in 50 mL 0.9% sodium chloride and administer over 30 minutes.</value>
-<value>for 3 doses. Dilute dose in 50 mL 0.9% sodium chloride and administer over 30 minutes.</value>
+</frequency><instruction><value>for 5 days. Dilute dose in 50 mL 0.9%25 sodium chloride and administer over 30 minutes.</value>
+<value>for 3 doses. Dilute dose in 50 mL 0.9%25 sodium chloride and administer over 30 minutes.</value>
 </instruction><volume></volume><units><value>mg/m2</value>
-</units><additionalnotes><value>Ovarian Cancer, Primary Peritoneal Carcinoma (for Primary Unknown). Dilute dose in 30 to 60 mL 0.9% sodium chloride.For patients with CrCl 20 to 39 mL/minute, reduce dose 50%. Recommend avoiding topotecan in patients with CrCl less than 20 mL/minute.</value>
-<value>Ovarian Carcinoma. Dilute dose in 30 to 60 mL 0.9% sodium chloride.For patients with CrCl 20 to 39 mL/minute, reduce dose 50%. Recommend avoiding topotecan in patients with CrCl less than 20 mL/minute.</value>
-<value>Advanced Ovarian Carcinoma. Dilute dose in 30 to 60 mL 0.9% sodium chloride.For patients with CrCl 20 to 39 mL/minute, reduce dose 50%. Recommend avoiding topotecan in patients with CrCl less than 20 mL/minute.</value>
-<value>Ewings Sarcoma. Dilute dose in 30 to 60 mL 0.9% sodium chloride.For patients with CrCl 20 to 39 mL/minute, reduce dose 50%. Recommend avoiding topotecan in patients with CrCl less than 20 mL/minute.</value>
-<value>Neuroblasoma, combination therapy. Dilute dose in 30 to 60 mL 0.9% sodium chloride.For patients with CrCl 20 to 39 mL/minute, reduce dose 50%. Recommend avoiding topotecan in patients with CrCl less than 20 mL/minute.</value>
-<value>Neuroblasoma, single agent. Dilute dose in 30 to 60 mL 0.9% sodium chloride.For patients with CrCl 20 to 39 mL/minute, reduce dose 50%. Recommend avoiding topotecan in patients with CrCl less than 20 mL/minute.</value>
+</units><additionalnotes><value>Ovarian Cancer, Primary Peritoneal Carcinoma (for Primary Unknown). Dilute dose in 30 to 60 mL 0.9%25 sodium chloride.For patients with CrCl 20 to 39 mL/minute, reduce dose 50%25. Recommend avoiding topotecan in patients with CrCl less than 20 mL/minute.</value>
+<value>Ovarian Carcinoma. Dilute dose in 30 to 60 mL 0.9%25 sodium chloride.For patients with CrCl 20 to 39 mL/minute, reduce dose 50%25. Recommend avoiding topotecan in patients with CrCl less than 20 mL/minute.</value>
+<value>Advanced Ovarian Carcinoma. Dilute dose in 30 to 60 mL 0.9%25 sodium chloride.For patients with CrCl 20 to 39 mL/minute, reduce dose 50%25. Recommend avoiding topotecan in patients with CrCl less than 20 mL/minute.</value>
+<value>Ewings Sarcoma. Dilute dose in 30 to 60 mL 0.9%25 sodium chloride.For patients with CrCl 20 to 39 mL/minute, reduce dose 50%25. Recommend avoiding topotecan in patients with CrCl less than 20 mL/minute.</value>
+<value>Neuroblasoma, combination therapy. Dilute dose in 30 to 60 mL 0.9%25 sodium chloride.For patients with CrCl 20 to 39 mL/minute, reduce dose 50%25. Recommend avoiding topotecan in patients with CrCl less than 20 mL/minute.</value>
+<value>Neuroblasoma, single agent. Dilute dose in 30 to 60 mL 0.9%25 sodium chloride.For patients with CrCl 20 to 39 mL/minute, reduce dose 50%25. Recommend avoiding topotecan in patients with CrCl less than 20 mL/minute.</value>
 </additionalnotes><population><value>ADULT</value>
 <value>PEDIATRIC</value>
 </population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3456</value>

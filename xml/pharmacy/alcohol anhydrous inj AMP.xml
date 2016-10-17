@@ -19,7 +19,7 @@
 </dose><route><value>IV</value>
 </route><form><value>inj AMP</value>
 </form><drugname><value>alcohol anhydrous inj AMP</value>
-</drugname><strength><value>100%</value>
+</drugname><strength><value>100%25</value>
 </strength><frequency><value>ONCE</value>
 <value>CONTINUOUS</value>
 </frequency><instruction><value>Loading dose administered over 30 minutes</value>
@@ -31,7 +31,7 @@
 </units><additionalnotes><value>Average drinker</value>
 <value>Chronic drinker</value>
 <value>Non-drinker</value>
-</additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation><value>10% 500 mL IV bag</value>
+</additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation><value>10%25 500 mL IV bag</value>
 </backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Antidotes</value>
 </ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>00394394</value>

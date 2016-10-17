@@ -22,11 +22,11 @@
 </frequency><instruction></instruction><volume></volume><units><value>mg</value>
 <value>g</value>
 <value>mg/kg/day</value>
-</units><additionalnotes><value>UTI. Total daily dose of 2 to 3 grams. If Creatinine Clearnace is 10 to 30 mL/minute: 50% of usual dose at usual interval. If Creatinine Clearance is less than 10 mL/minute: 25% of usual dose at usual interval.</value>
-<value>Lower Respiratory Tract infection.. Total daily dose of 2 to 6 grams. If Creatinine Clearnace is 10 to 30 mL/minute: 50% of usual dose at usual interval. If Creatinine Clearance is less than 10 mL/minute: 25% of usual dose at usual interval.</value>
-<value>Systemic infection. MAXIMUM dose: 8 g/day. If Creatinine Clearnace is 10 to 30 mL/minute: 50% of usual dose at usual interval. If Creatinine Clearance is less than 10 mL/minute: 25% of usual dose at usual interval.</value>
-<value>MAXIMUM dose: 8 g/day. If Creatinine Clearnace is 10 to 30 mL/minute: 50% of usual dose at usual interval. If Creatinine Clearance is less than 10 mL/minute: 25% of usual dose at usual interval.</value>
-<value>Cystic Fibrosis. MAXIMUM dose: 8 g/day or 200 mg/kg/day, whichever is less. If Creatinine Clearnace is 10 to 30 mL/minute: 50% of usual dose at usual interval. If Creatinine Clearance is less than 10 mL/minute: 25% of usual dose at usual interval.</value>
+</units><additionalnotes><value>UTI. Total daily dose of 2 to 3 grams. If Creatinine Clearnace is 10 to 30 mL/minute: 50%25 of usual dose at usual interval. If Creatinine Clearance is less than 10 mL/minute: 25%25 of usual dose at usual interval.</value>
+<value>Lower Respiratory Tract infection.. Total daily dose of 2 to 6 grams. If Creatinine Clearnace is 10 to 30 mL/minute: 50%25 of usual dose at usual interval. If Creatinine Clearance is less than 10 mL/minute: 25%25 of usual dose at usual interval.</value>
+<value>Systemic infection. MAXIMUM dose: 8 g/day. If Creatinine Clearnace is 10 to 30 mL/minute: 50%25 of usual dose at usual interval. If Creatinine Clearance is less than 10 mL/minute: 25%25 of usual dose at usual interval.</value>
+<value>MAXIMUM dose: 8 g/day. If Creatinine Clearnace is 10 to 30 mL/minute: 50%25 of usual dose at usual interval. If Creatinine Clearance is less than 10 mL/minute: 25%25 of usual dose at usual interval.</value>
+<value>Cystic Fibrosis. MAXIMUM dose: 8 g/day or 200 mg/kg/day, whichever is less. If Creatinine Clearnace is 10 to 30 mL/minute: 50%25 of usual dose at usual interval. If Creatinine Clearance is less than 10 mL/minute: 25%25 of usual dose at usual interval.</value>
 <value>Less than 1 month postnatal age 7 days or less AND body weight 2000 g or less.</value>
 <value>Less than 1 month postnatal age 7 days or less AND body weight greater than 2000 g.</value>
 <value>Postnatal age more than 7 days AND body weight 1200 g or less.</value>

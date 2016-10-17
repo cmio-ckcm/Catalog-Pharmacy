@@ -9,7 +9,7 @@
 <value>INFILTRATION</value>
 </route><form><value>inj VIAL</value>
 </form><drugname><value>chloroprocaine inj VIAL</value>
-</drugname><strength><value>2%</value>
+</drugname><strength><value>2%25</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction></instruction><volume><value>20 mL</value>
 </volume><units><value>mL</value>

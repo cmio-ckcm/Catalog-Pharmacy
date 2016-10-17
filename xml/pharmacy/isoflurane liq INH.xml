@@ -6,11 +6,11 @@
 </dose><route><value>INH</value>
 </route><form><value>liq INH</value>
 </form><drugname><value>isoflurane liq INH</value>
-</drugname><strength><value>99.9%</value>
+</drugname><strength><value>99.9%25</value>
 </strength><frequency><value>ONCE</value>
-</frequency><instruction><value>Administered by inhalation in combination with 100% oxygen</value>
-<value>Administered by inhalation in combination with 60% N2O/40% oxygen</value>
-</instruction><volume></volume><units><value>%</value>
+</frequency><instruction><value>Administered by inhalation in combination with 100%25 oxygen</value>
+<value>Administered by inhalation in combination with 60%25 N2O/40%25 oxygen</value>
+</instruction><volume></volume><units><value>%25</value>
 </units><additionalnotes><value>Induction</value>
 <value>Maintenance</value>
 </additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>

@@ -1,7 +1,7 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "Ringer's inj BAG">
 <dose></dose><route><value>IV</value>
 </route><form><value>inj BAG</value>
-</form><drugname><value>Ringer's inj BAG</value>
+</form><drugname><value>Ringer&amp;apos;s inj BAG</value>
 </drugname><strength></strength><frequency><value>CONTINUOUS</value>
 </frequency><instruction><value>Administer by continuous infusion.</value>
 </instruction><volume><value>1000 mL</value>

@@ -24,11 +24,11 @@
 <value>WEEKLY</value>
 </frequency><instruction><value>Administer by direct injection.</value>
 <value>Administer with 50 mmol sodium bicarbonate inD5W (total volume 1000 mL) over 4 hours.</value>
-<value>Administer dose diluted in 250 mL 0.9% sodium chloride injection over 1 hour.</value>
+<value>Administer dose diluted in 250 mL 0.9%25 sodium chloride injection over 1 hour.</value>
 <value>Administer dose diluted in 100 mL D5W injection over 2 hours.</value>
 <value>Administer dose diluted in 1000 mL D5W over 22 hours. (twenty-two hours)</value>
 <value>Administer dose diluted in 500 mL D5W over 2 hours.</value>
-<value>Administer dose diluted in 1000 mL 0.9% sodium chloride injection over 4 hours.</value>
+<value>Administer dose diluted in 1000 mL 0.9%25 sodium chloride injection over 4 hours.</value>
 </instruction><volume><value>2 mL</value>
 <value>100 mL</value>
 <value>20 mL</value>
@@ -40,7 +40,7 @@
 <value>Administered as a single agent intrathecal injection. Total volume of 5 mL utilizing preservative free normal saline.</value>
 <value>Acute Lymphoblastic Leukemia. Administered as triple intrathecal chemotherapy, mixed with cytarabine and hydrocortisone sodium succinate in a total volume of 5 mL utilizing preservative free normal saline.</value>
 <value>Breast Cancer</value>
-<value>Recurrent or Metastatic Squamous Cell Carcinoma of the Head and Neck. If CrCl greater than 50 mL/minute: give as ordered. If CrCl is 10 to 50 mL/minute: reduce dose to 50%.</value>
+<value>Recurrent or Metastatic Squamous Cell Carcinoma of the Head and Neck. If CrCl greater than 50 mL/minute: give as ordered. If CrCl is 10 to 50 mL/minute: reduce dose to 50%25.</value>
 <value>Osteogenic Sarcoma. Maximum dose: 20 000 mg (20 grams). Monitor urinary pH with each void to ensure pH is not below 7.Monitor methotrexate levels, consideration towards leucovorin Calcium 24 hours after start of methotrexate. Assess for drug interactions (NSAIDS, PPIs).</value>
 <value>Acute Lymphoblastic Leukemia. May also be administered by oral route.</value>
 <value>Bladder Cancer</value>

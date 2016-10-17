@@ -15,13 +15,13 @@
 <value>500 mg/mL</value>
 </strength><frequency><value>ONCE</value>
 <value>CONTINUOUS</value>
-</frequency><instruction><value>DAY 1 of 21. Administer dose diluted in 250 mL 0.9% sodium chloride as prehydration over 30 minutes.</value>
-<value>DAY 2 of 21. Administer dose diluted in 250 mL 0.9% sodium chloride as prehydration over 30 minutes.</value>
-<value>DAY 3 of 21. Administer dose diluted in 250 mL 0.9% sodium chloride as prehydration over 30 minutes.</value>
-<value>DAY 1 of 21. Administer dose diluted in 1000 mL 0.9% sodium chloride as prehydration over 2 hours.</value>
-<value>DAY 1 of 28. Administer dose diluted in 1000 mL 0.9% sodium chloride as prehydration over 2 hours.</value>
-<value>DAY 8 of 28. Administer dose diluted in 1000 mL 0.9% sodium chloride as prehydration over 2 hours.</value>
-<value>DAY 1 of 21. Administer dose diluted in 500 mL 0.9% sodium chloride over 1 hour prior to CISplatin. (Prehydration)</value>
+</frequency><instruction><value>DAY 1 of 21. Administer dose diluted in 250 mL 0.9%25 sodium chloride as prehydration over 30 minutes.</value>
+<value>DAY 2 of 21. Administer dose diluted in 250 mL 0.9%25 sodium chloride as prehydration over 30 minutes.</value>
+<value>DAY 3 of 21. Administer dose diluted in 250 mL 0.9%25 sodium chloride as prehydration over 30 minutes.</value>
+<value>DAY 1 of 21. Administer dose diluted in 1000 mL 0.9%25 sodium chloride as prehydration over 2 hours.</value>
+<value>DAY 1 of 28. Administer dose diluted in 1000 mL 0.9%25 sodium chloride as prehydration over 2 hours.</value>
+<value>DAY 8 of 28. Administer dose diluted in 1000 mL 0.9%25 sodium chloride as prehydration over 2 hours.</value>
+<value>DAY 1 of 21. Administer dose diluted in 500 mL 0.9%25 sodium chloride over 1 hour prior to CISplatin. (Prehydration)</value>
 <value>Administer over 20 minutes for management of pregnancy induced hypertension or premature labor.</value>
 <value>Administer by direct injection over 1 minute.</value>
 <value>Administer by direct injection over 2 minutes.</value>
@@ -31,10 +31,10 @@
 <value>Administer over 5 hours</value>
 <value>Administer over 30 minutes. </value>
 <value>Administer by continuous infusion until delivery or a maximum of 24 hours.</value>
-<value>DAY 1. Administer dose diluted in 1000 mL 0.9% sodium chloride posthydration over 2 hours.</value>
-<value>DAY 8. Administer dose diluted in 1000 mL 0.9% sodium chloride posthydration over 2 hours.</value>
-<value>DAY 1 of 21. Administer dose diluted in 1000 mL 0.9% sodium chloride posthydration over 2 hours.</value>
-<value>DAY 1 of 21. Administer dose diluted in 1000 mL 0.9% sodium chloride at a rate less than or equal to 50 mg/minute.</value>
+<value>DAY 1. Administer dose diluted in 1000 mL 0.9%25 sodium chloride posthydration over 2 hours.</value>
+<value>DAY 8. Administer dose diluted in 1000 mL 0.9%25 sodium chloride posthydration over 2 hours.</value>
+<value>DAY 1 of 21. Administer dose diluted in 1000 mL 0.9%25 sodium chloride posthydration over 2 hours.</value>
+<value>DAY 1 of 21. Administer dose diluted in 1000 mL 0.9%25 sodium chloride at a rate less than or equal to 50 mg/minute.</value>
 </instruction><volume><value>10 mL</value>
 <value>2 mL</value>
 <value>50 mL</value>
@@ -50,19 +50,19 @@
 <value>Severe hypomagnesemia</value>
 <value>Pregnancy induced hypertension</value>
 <value>Antenatal Neuroprotection of preterm infant</value>
-<value>May be used as alternative to 1000 mL 0.9% sodium chloride posthydration.</value>
-<value>May be used as alternative to 1000 mL 0.9% sodium chloride.</value>
-<value>May be used as alternative to 1000 mL 0.9% sodium chloride prehydration.</value>
+<value>May be used as alternative to 1000 mL 0.9%25 sodium chloride posthydration.</value>
+<value>May be used as alternative to 1000 mL 0.9%25 sodium chloride.</value>
+<value>May be used as alternative to 1000 mL 0.9%25 sodium chloride prehydration.</value>
 </additionalnotes><population><value>CISplatin/etoposide (IV). Small Cell Lung Cancer.</value>
 <value>Pemetrexed / CISplatin. Mesothelioma.</value>
-<value>Etoposide (Days 1-5)/CISplatin (Days 1 & 8) with concurrent RT. Pancoast Tumor</value>
+<value>Etoposide (Days 1-5)/CISplatin (Days 1 &amp; 8) with concurrent RT. Pancoast Tumor</value>
 <value>DOXOrubicin/CISplatin/cyclophosphamide (PAC). Thymic Malignancy</value>
 <value>CISplatin/DOXOrubicin/vinCRIStine/cyclophosphamide. Thymoma</value>
 <value>Adjuvant Vinorelbine/CISplatin (every 28 days). Non-Small Cell Lung Cancer</value>
 <value>Adjuvant Vinorelbine/CISplatin (every 21 days). Non-Small Cell Lung Cancer</value>
 <value>Pemetrexed/CISplatin. Non-Small Cell Lung Cancer</value>
 <value>Vinorelbine / CISplatin. Advanced NSCLC</value>
-<value>CISplatin & Vinorelbine with CONCURRENT RT. Non-Small Cell Lung Cancer</value>
+<value>CISplatin &amp; Vinorelbine with CONCURRENT RT. Non-Small Cell Lung Cancer</value>
 <value>Gemcitabine / CISplatin. Non-Small Cell Lung Cancer</value>
 <value>CISplatin/etoposide (po). Small Cell Lung Cancer</value>
 </population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3090</value>

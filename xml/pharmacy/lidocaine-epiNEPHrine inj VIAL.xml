@@ -27,17 +27,17 @@
 <value>INFILTRATION</value>
 </route><form><value>inj VIAL</value>
 </form><drugname><value>lidocaine-epiNEPHrine inj VIAL</value>
-</drugname><strength><value>1%-1:100 000</value>
-<value>1%-1:200 000</value>
-<value>2%-1:100 000</value>
-<value>2%-1:200 000</value>
+</drugname><strength><value>1%25-1:100 000</value>
+<value>1%25-1:200 000</value>
+<value>2%25-1:100 000</value>
+<value>2%25-1:200 000</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction></instruction><volume><value>20 mL</value>
 </volume><units><value>mL</value>
 <value>mg</value>
 <value>mg/kg</value>
-</units><additionalnotes><value>ADULT. EPIDURAL. Dose includes "test" dose.</value>
-<value>ADULT. Caudal EPIDURAL. Dose includes "test" dose.</value>
+</units><additionalnotes><value>ADULT. EPIDURAL. Dose includes &amp;quot;test&amp;quot; dose.</value>
+<value>ADULT. Caudal EPIDURAL. Dose includes &amp;quot;test&amp;quot; dose.</value>
 <value>INFANTS / CHILDREN</value>
 <value>Administer total dose slowly or in incremental doses.</value>
 <value>ADULT. Local infiltration. Administer total dose slowly or in incremental doses.</value>
@@ -47,9 +47,9 @@
 <value>ADULT. Brachial plexus (Axillary) block.</value>
 <value>ADULT. Brachial plexus (Supraclavicular interscalene and subclavian perivascular) block.</value>
 <value>ADULT. 3-in-1 (Femoral, obturator and lateral cutaneous) block.</value>
-<value>ADULT. EPIDURAL. TEST DOSE. Dose includes "test" dose.</value>
-<value>ADULT. Lumbar EPIDURAL. Dose includes "test" dose.</value>
-<value>ADULT. Thoracic EPIDURAL. Dose includes "test" dose.</value>
+<value>ADULT. EPIDURAL. TEST DOSE. Dose includes &amp;quot;test&amp;quot; dose.</value>
+<value>ADULT. Lumbar EPIDURAL. Dose includes &amp;quot;test&amp;quot; dose.</value>
+<value>ADULT. Thoracic EPIDURAL. Dose includes &amp;quot;test&amp;quot; dose.</value>
 <value>ADULT. Sciatic block.</value>
 </additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation><value>Use cautiously in ischemic heart disease, cerebral vascular insufficiency and peripheral vascular disorders.</value>
 </backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>

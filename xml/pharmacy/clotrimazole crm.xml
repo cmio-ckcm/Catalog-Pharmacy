@@ -2,7 +2,7 @@
 <dose></dose><route><value>TOP</value>
 </route><form><value>crm</value>
 </form><drugname><value>clotrimazole crm</value>
-</drugname><strength><value>1%</value>
+</drugname><strength><value>1%25</value>
 </strength><frequency><value>BID</value>
 </frequency><instruction><value>Apply to affected area.</value>
 </instruction><volume></volume><units></units><additionalnotes></additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>

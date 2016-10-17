@@ -10,8 +10,8 @@
 <value>INFILTRATION</value>
 </route><form><value>inj VIAL</value>
 </form><drugname><value>BUPivacaine-epiNEPHrine inj VIAL</value>
-</drugname><strength><value>0.25%-1:200 000</value>
-<value>0.5%-1:200 000</value>
+</drugname><strength><value>0.25%25-1:200 000</value>
+<value>0.5%25-1:200 000</value>
 </strength><frequency><value>ONCE</value>
 <value>Q3H</value>
 <value>CONTINUOUS</value>

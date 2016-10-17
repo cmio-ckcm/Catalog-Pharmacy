@@ -8,18 +8,18 @@
 </drugname><strength><value>1 mg</value>
 </strength><frequency><value>ONCE</value>
 <value>Q24H  </value>
-</frequency><instruction><value>POST NATAL AGE < 48 HOURS: INITIAL DOSE 1 of 3 DOSES. Infuse dose intravenously over 20 minutes.</value>
-<value>POST NATAL AGE < 48 HOURS: INITIAL DOSE 1 of 3 DOSES. Infuse dose intravenously over 30 minutes.</value>
-<value>POST NATAL AGE < 48 HOURS: 2ND OF 3 DOSES. Infuse intravenously at 12 hours after initial dose.</value>
-<value>POST NATAL AGE < 48 HOURS: 3RD OF 3 DOSES. Infuse intravenously at 36 hours after initial dose.</value>
+</frequency><instruction><value>POST NATAL AGE &amp;lt; 48 HOURS: INITIAL DOSE 1 of 3 DOSES. Infuse dose intravenously over 20 minutes.</value>
+<value>POST NATAL AGE &amp;lt; 48 HOURS: INITIAL DOSE 1 of 3 DOSES. Infuse dose intravenously over 30 minutes.</value>
+<value>POST NATAL AGE &amp;lt; 48 HOURS: 2ND OF 3 DOSES. Infuse intravenously at 12 hours after initial dose.</value>
+<value>POST NATAL AGE &amp;lt; 48 HOURS: 3RD OF 3 DOSES. Infuse intravenously at 36 hours after initial dose.</value>
 <value>POST NATAL AGE = 2 TO 7 DAYS: INITIAL DOSE 1 of 3 DOSES. Infuse dose intravenously over 20 minutes.</value>
 <value>POST NATAL AGE = 2 TO 7 DAYS: INITIAL DOSE 1 of 3 DOSES. Infuse dose intravenously over 30 minutes.</value>
 <value>POST NATAL AGE = 2 TO 7 DAYS: 2ND OF 3 DOSES. Infuse intravenously at 12 hours after initial dose.</value>
 <value>POST NATAL AGE = 2 TO 7 DAYS: 3RD OF 3 DOSES. Infuse intravenously at 36 hours after initial dose.</value>
-<value>POST NATAL AGE > 7 DAYS: INITIAL DOSE 1 of 3 DOSES. Infuse dose intravenously over 20 minutes.</value>
-<value>POST NATAL AGE > 7 DAYS: INITIAL DOSE 1 of 3 DOSES. Infuse dose intravenously over 30 minutes.</value>
-<value>POST NATAL AGE > 7 DAYS: 2ND OF 3 DOSES. Infuse intravenously at 12 hours after initial dose.</value>
-<value>POST NATAL AGE > 7 DAYS: 3RD OF 3 DOSES. Infuse intravenously at 36 hours after initial dose.</value>
+<value>POST NATAL AGE &amp;gt; 7 DAYS: INITIAL DOSE 1 of 3 DOSES. Infuse dose intravenously over 20 minutes.</value>
+<value>POST NATAL AGE &amp;gt; 7 DAYS: INITIAL DOSE 1 of 3 DOSES. Infuse dose intravenously over 30 minutes.</value>
+<value>POST NATAL AGE &amp;gt; 7 DAYS: 2ND OF 3 DOSES. Infuse intravenously at 12 hours after initial dose.</value>
+<value>POST NATAL AGE &amp;gt; 7 DAYS: 3RD OF 3 DOSES. Infuse intravenously at 36 hours after initial dose.</value>
 <value>for 3 doses starting at 6 hours of age for Patent Ductus Arteriosus Prophylaxis.</value>
 <value>for 3 doses starting at 9 hours of age for Patent Ductus Arteriosus Prophylaxis.</value>
 <value>for 3 doses starting at 12 hours of age for Patent Ductus Arteriosus Prophylaxis.</value>

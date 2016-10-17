@@ -6,14 +6,14 @@
 </dose><route><value>IV</value>
 </route><form><value>inj VIAL</value>
 </form><drugname><value>sodium thiosulfate inj VIAL</value>
-</drugname><strength><value>25%</value>
+</drugname><strength><value>25%25</value>
 </strength><frequency><value>ONCE</value>
 <value>THREE TIMES WEEKLY</value>
 </frequency><instruction><value>Administer by intermittent infusion.</value>
 <value>Administer after hemodialysis, as directed by nephrology.</value>
 </instruction><volume><value>10 mL</value>
 </volume><units><value>g</value>
-<value>mL of 25% solution/kg </value>
+<value>mL of 25%25 solution/kg </value>
 </units><additionalnotes><value>Cynaide poisoning. Initial dose</value>
 <value>Cynaide poisoning. Subsequent dose, if cyanide toxicity symptoms are still present 30 - 120 minutes after initial dose.</value>
 <value>Calciphylaxis</value>

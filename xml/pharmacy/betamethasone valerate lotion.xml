@@ -2,8 +2,8 @@
 <dose></dose><route><value>TOP</value>
 </route><form><value>lotion</value>
 </form><drugname><value>betamethasone valerate lotion</value>
-</drugname><strength><value>0.05%</value>
-<value>0.1%</value>
+</drugname><strength><value>0.05%25</value>
+<value>0.1%25</value>
 </strength><frequency><value>BID</value>
 <value>DAILY</value>
 </frequency><instruction><value>Apply a few drops to affected skin area and rub in gently.</value>

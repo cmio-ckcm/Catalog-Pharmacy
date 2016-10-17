@@ -11,10 +11,10 @@
 </frequency><instruction><value>for 2 days. Administer dose over 1 to 2 hours. </value>
 <value>Administer on third day off 3day protocol. Administer dose over 1 to 2 hours.</value>
 </instruction><volume></volume><units><value>mg/m2</value>
-</units><additionalnotes><value>10:1 dosing ratio for use with DOXOrubicin as a cardioprotectant. Maintain 10:1 dosing ratio where DOXOrubicin dose is decreased. Recoomend reducing dose by 50% in patients with CrCl less than 40 mL/minute.</value>
-<value>10:1 dosing ratio for use with epirubicin as a cardioprotectant. Maintain 10:1 dosing ratio when epirubicin dose is decreased. Recommend reducing dose 50% in patients with CrCl less than 40 mL/minute.</value>
-<value>Extravasation Treatment. 3 day protocol. First dose should be initiated as soon as possible (within the first 6 hours after extravasation) with subsequent doses 24 hours apart. MAXIMUM dose (DAY 1 & 2): 2000 mg/day. Recommend reducing dose 50% in patients with CrCl less than 40 mL/minute.</value>
-<value>Extravasation Treatment. 3 day protocol. First dose should be initiated as soon as possible (within the first 6 hours after extravasation) with subsequent doses 24 hours apart. MAXIMUM dose (DAY 3): 1000 mg/day. Recommend reducing dose 50% in patients with CrCl less and 40 mL/minute.</value>
+</units><additionalnotes><value>10:1 dosing ratio for use with DOXOrubicin as a cardioprotectant. Maintain 10:1 dosing ratio where DOXOrubicin dose is decreased. Recoomend reducing dose by 50%25 in patients with CrCl less than 40 mL/minute.</value>
+<value>10:1 dosing ratio for use with epirubicin as a cardioprotectant. Maintain 10:1 dosing ratio when epirubicin dose is decreased. Recommend reducing dose 50%25 in patients with CrCl less than 40 mL/minute.</value>
+<value>Extravasation Treatment. 3 day protocol. First dose should be initiated as soon as possible (within the first 6 hours after extravasation) with subsequent doses 24 hours apart. MAXIMUM dose (DAY 1 &amp; 2): 2000 mg/day. Recommend reducing dose 50%25 in patients with CrCl less than 40 mL/minute.</value>
+<value>Extravasation Treatment. 3 day protocol. First dose should be initiated as soon as possible (within the first 6 hours after extravasation) with subsequent doses 24 hours apart. MAXIMUM dose (DAY 3): 1000 mg/day. Recommend reducing dose 50%25 in patients with CrCl less and 40 mL/minute.</value>
 </additionalnotes><population><value>ADULT</value>
 </population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3583</value>
 <value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3584</value>

@@ -17,7 +17,7 @@
 <value>mcg/kg/hour</value>
 <value>mcg/kg</value>
 </units><additionalnotes><value>Sedation in Critical Care.</value>
-<value>Sedation in Critical Care. Rates more than 1.5 mcg/kg/hour do not add to clinical efficacy. Reduce infusion rate by 50% if required post-extubation.</value>
+<value>Sedation in Critical Care. Rates more than 1.5 mcg/kg/hour do not add to clinical efficacy. Reduce infusion rate by 50%25 if required post-extubation.</value>
 <value>Procedural Sedation.</value>
 <value>Procedural Sedation. Recommend a maintenance dose of 0.7 mcg/kg/hour for intubation, until endotracheal tube is secured.</value>
 </additionalnotes><population><value>ADULT</value>

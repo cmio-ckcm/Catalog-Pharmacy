@@ -10,8 +10,8 @@
 <value>INTRAOSSEOUS</value>
 </route><form><value>inj SYR</value>
 </form><drugname><value>sodium bicarbonate inj SYR</value>
-</drugname><strength><value>4.2%</value>
-<value>8.4%</value>
+</drugname><strength><value>4.2%25</value>
+<value>8.4%25</value>
 </strength><frequency><value>ONCE</value>
 <value>CONTINUOUS</value>
 </frequency><instruction><value>Administer by direct injection, may repeat in 10 minutes as indicated by arterial blood gases.</value>

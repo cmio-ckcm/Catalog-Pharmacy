@@ -11,7 +11,7 @@
 </volume><units><value>mg/m2</value>
 </units><additionalnotes><value>If ANC is greater than or equal to 1.5 AND Plts are greater than or equal to 100 x 109/L: Give as ordered. If ANC is less than 1.5 OR Plts are less than 100 x 109/L: Delay 1 week. MAX lifetime epirubicin dose: a) No risk factors: 1000 mg/m2, b) In combination with previous thoracic radiation or anthracycline, anthracenedione or cyclophosphamide treatment: 650 mg/m2.</value>
 </additionalnotes><population><value>Fluorouracil, Epirubicin, Cyclophosphamide (FEC) followed by DOCEtaxel. Breast Cancer (NEOADJUVANT Treatment).</value>
-<value>Fluorouracil, Epirubicin, Cyclophosphamide (FEC) followed by DOCEtaxel & Trastuzumab</value>
+<value>Fluorouracil, Epirubicin, Cyclophosphamide (FEC) followed by DOCEtaxel &amp; Trastuzumab</value>
 </population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3383</value>
 </backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>
 </ahsformularystatus><ahfsname><value>Antineoplastic Agents</value>

@@ -28,7 +28,7 @@
 <value>Administered directly over 1 minute for Dobutamine stress echo reversal.</value>
 <value>Loading Dose: Administer 500 mcg/kg/minute for 3 minutes, then 300 mcg/kg/minute for 2 minutes. (Total 5 minutes)</value>
 <value>Maintenance Dose:.</value>
-<value>Continuous infusion, increase dose by 50 to 100 mcg/kg/minute every 5 to 10 minutes until a reduction of greater than 10% in heart rate or mean blood pressure occurs.</value>
+<value>Continuous infusion, increase dose by 50 to 100 mcg/kg/minute every 5 to 10 minutes until a reduction of greater than 10%25 in heart rate or mean blood pressure occurs.</value>
 </instruction><volume><value>250 mL</value>
 </volume><units><value>mcg/kg/minute</value>
 <value>mcg/kg</value>

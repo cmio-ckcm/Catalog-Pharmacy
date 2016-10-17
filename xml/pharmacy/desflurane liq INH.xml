@@ -4,12 +4,12 @@
 </dose><route><value>INH</value>
 </route><form><value>liq INH</value>
 </form><drugname><value>desflurane liq INH</value>
-</drugname><strength><value>100%</value>
+</drugname><strength><value>100%25</value>
 </strength><frequency><value>CONTINUOUS</value>
-</frequency><instruction><value>Administered by inhalation in combination with 100% oxygen</value>
-<value>Administered by inhalation in combination with 60% N2O/40% oxygen</value>
+</frequency><instruction><value>Administered by inhalation in combination with 100%25 oxygen</value>
+<value>Administered by inhalation in combination with 60%25 N2O/40%25 oxygen</value>
 </instruction><volume><value>240 mL</value>
-</volume><units><value>%</value>
+</volume><units><value>%25</value>
 </units><additionalnotes></additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>General Anesthetics</value>
 </ahfsname><highalert><value>YES</value>

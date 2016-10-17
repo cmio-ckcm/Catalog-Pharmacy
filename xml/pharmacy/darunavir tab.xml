@@ -18,8 +18,8 @@
 <value>Administer with food. Dose given with ritinovir 60 mg.</value>
 <value>Administer with food. Dose given with ritinovir 100mg.</value>
 </instruction><volume></volume><units><value>mg</value>
-</units><additionalnotes><value>Children: 15 - <30 kg body weight</value>
-<value>Children: >=30 to <40 kg body weight</value>
+</units><additionalnotes><value>Children: 15 - &amp;lt;30 kg body weight</value>
+<value>Children: &amp;gt;=30 to &amp;lt;40 kg body weight</value>
 </additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=5661</value>
 <value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3255</value>
 <value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=5662</value>

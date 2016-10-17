@@ -11,9 +11,9 @@
 <value>Q12H</value>
 </frequency><instruction></instruction><volume></volume><units><value>mg</value>
 <value>g</value>
-</units><additionalnotes><value>https://share.ahsnet.ca/teams/PSPP/ppublications/Antimicrobial%20Stewardship%20Backgrounder/Antimicrobial%20Stewardship%20Backgrounder_Issue%202,%20Apr%202014%20-%20Carbapenems.pdf</value>
-<value>CrCl = 10 - 49 mL/min. https://share.ahsnet.ca/teams/PSPP/ppublications/Antimicrobial%20Stewardship%20Backgrounder/Antimicrobial%20Stewardship%20Backgrounder_Issue%202,%20Apr%202014%20-%20Carbapenems.pdf</value>
-<value>CrCl <10 mL/min. https://share.ahsnet.ca/teams/PSPP/ppublications/Antimicrobial%20Stewardship%20Backgrounder/Antimicrobial%20Stewardship%20Backgrounder_Issue%202,%20Apr%202014%20-%20Carbapenems.pdf</value>
+</units><additionalnotes><value>https://share.ahsnet.ca/teams/PSPP/ppublications/Antimicrobial%2520Stewardship%2520Backgrounder/Antimicrobial%2520Stewardship%2520Backgrounder_Issue%25202,%2520Apr%25202014%2520-%2520Carbapenems.pdf</value>
+<value>CrCl = 10 - 49 mL/min. https://share.ahsnet.ca/teams/PSPP/ppublications/Antimicrobial%2520Stewardship%2520Backgrounder/Antimicrobial%2520Stewardship%2520Backgrounder_Issue%25202,%2520Apr%25202014%2520-%2520Carbapenems.pdf</value>
+<value>CrCl &amp;lt;10 mL/min. https://share.ahsnet.ca/teams/PSPP/ppublications/Antimicrobial%2520Stewardship%2520Backgrounder/Antimicrobial%2520Stewardship%2520Backgrounder_Issue%25202,%2520Apr%25202014%2520-%2520Carbapenems.pdf</value>
 </additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2367</value>
 </backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary with Restrictions, Usage guidelines.</value>
 </ahsformularystatus><ahfsname><value>Antibacterials, Miscellaneous beta-Lactams</value>

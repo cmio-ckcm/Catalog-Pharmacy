@@ -12,9 +12,9 @@
 <value>Administer dose undiluted over 1 hour.</value>
 </instruction><volume><value>50 mL</value>
 </volume><units><value>mg/m2</value>
-</units><additionalnotes><value>Head & Neck Cancer. Loading dose: Cycle 1.</value>
-<value>Head & Neck Cancer. Maintenance dose.</value>
-<value>Head & Neck Cancer. Reduced Maintenance dose due to drug effects.</value>
+</units><additionalnotes><value>Head &amp; Neck Cancer. Loading dose: Cycle 1.</value>
+<value>Head &amp; Neck Cancer. Maintenance dose.</value>
+<value>Head &amp; Neck Cancer. Reduced Maintenance dose due to drug effects.</value>
 </additionalnotes><population><value>ADULT</value>
 </population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3354</value>
 </backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>

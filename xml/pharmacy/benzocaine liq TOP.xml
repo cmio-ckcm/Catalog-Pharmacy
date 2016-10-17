@@ -2,7 +2,7 @@
 <dose></dose><route><value>TOP </value>
 </route><form><value>liq TOP</value>
 </form><drugname><value>benzocaine liq TOP</value>
-</drugname><strength><value>10%</value>
+</drugname><strength><value>10%25</value>
 </strength><frequency><value>TID</value>
 <value>QID</value>
 </frequency><instruction><value>Apply a small amount to the affected area.</value>

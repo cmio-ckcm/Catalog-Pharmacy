@@ -2,8 +2,8 @@
 <dose></dose><route><value>TOP</value>
 </route><form><value>crm</value>
 </form><drugname><value>betamethasone valerate crm</value>
-</drugname><strength><value>0.05%</value>
-<value>0.1%</value>
+</drugname><strength><value>0.05%25</value>
+<value>0.1%25</value>
 </strength><frequency><value>BID</value>
 <value>TID</value>
 </frequency><instruction><value>Apply a thin film to affected area and rub into the area.</value>

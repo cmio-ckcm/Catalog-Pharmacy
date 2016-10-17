@@ -10,19 +10,19 @@
 <value>2000 mg</value>
 <value>500 mg</value>
 </strength><frequency><value>ONCE</value>
-</frequency><instruction><value>DAY 1 of 21. Administer dose diluted in 100 to 250 mL - 0.9% sodium chloride over 30 minutes.</value>
-<value>DAY 1 of 21. Administer dose diluted in 100 mL 0.9% sodium chloride over 15 to 60 minutes. (May start administration during post-hydration.)</value>
-<value>DAY 4 of 21. Administer dose diluted in 100 mL 0.9% sodium chloride over 20 to 30 minutes.</value>
-<value>DAY 1 of 21. Administer dose diluted in 100 mL 0.9% sodium chloride over 15 to 60 minutes.</value>
+</frequency><instruction><value>DAY 1 of 21. Administer dose diluted in 100 to 250 mL - 0.9%25 sodium chloride over 30 minutes.</value>
+<value>DAY 1 of 21. Administer dose diluted in 100 mL 0.9%25 sodium chloride over 15 to 60 minutes. (May start administration during post-hydration.)</value>
+<value>DAY 4 of 21. Administer dose diluted in 100 mL 0.9%25 sodium chloride over 20 to 30 minutes.</value>
+<value>DAY 1 of 21. Administer dose diluted in 100 mL 0.9%25 sodium chloride over 15 to 60 minutes.</value>
 </instruction><volume></volume><units><value>mg/m2</value>
 </units><additionalnotes><value>If ANC is greater than or equal to 1.5 AND Plts are greater than or equal to 100 x 109/L: Give as ordered. If ANC is less than 1.5 OR Plts are less than 100 x 109/L: Delay 1 week. If Creatinine Clearance is greater than or equal to 50 mL/minute: Give as ordered. If Creatinine Clearance is less than 50 mL/minute: Contact physician.</value>
 <value>If ANC is greater than or equal to 1.5 AND Plts are greater than or equal to 100 x 109/L: Give as ordered. If ANC is less than 1.5 OR Plts are less than 100 x 109/L: Delay 1 week.</value>
-<value>If ANC is greater than or equal to 1.5 AND Plts are greater than or equal to 100 x 109/L: Give as ordered. If ANC is less than 1.5 OR Plts are less than 100 x 109/L: Delay 1 week. [Part 1: Cycles 1, 2, 3, & 4] </value>
+<value>If ANC is greater than or equal to 1.5 AND Plts are greater than or equal to 100 x 109/L: Give as ordered. If ANC is less than 1.5 OR Plts are less than 100 x 109/L: Delay 1 week. [Part 1: Cycles 1, 2, 3, &amp; 4] </value>
 </additionalnotes><population><value>cyclophosphamide, DOXOrubicin, vinCRIStine (CAV). Small Cell Lung Cancer.</value>
 <value>DOXOrubicin/CISplatin/cyclophosphamide (PAC). Thymic Malignancy</value>
 <value>CISplatin/DOXOrubicin/vinCRIStine/cyclophosphamide. Thymoma</value>
 <value>Fluorouracil, Epirubicin, Cyclophosphamide (FEC) followed by DOCEtaxel. Breast Cancer (NEOADJUVANT Treatment).</value>
-<value>Fluorouracil, Epirubicin, Cyclophosphamide (FEC) followed by DOCEtaxel & Trastuzumab</value>
+<value>Fluorouracil, Epirubicin, Cyclophosphamide (FEC) followed by DOCEtaxel &amp; Trastuzumab</value>
 <value>DOXOrubicin, Cyclophosphamide (AC) followed by DOCEtaxel. Breast Cancer (NEOADJUVANT Treatment).</value>
 <value>DOXOrubicin, Cyclophosphamide (AC) followed by DOCEtaxel and Trastuzumab. Breast Cancer (NEOADJUVANT Treatment).</value>
 <value>DOXOrubicin, Cyclophosphamide (AC) followed by PACLitaxel (weekly) and Trastuzumab. Breast Cancer (NEOADJUVANT Treatment).</value>

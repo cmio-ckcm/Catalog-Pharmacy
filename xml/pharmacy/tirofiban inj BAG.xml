@@ -12,7 +12,7 @@
 <value>Administer as continuous infusion.</value>
 </instruction><volume><value>250 mL</value>
 </volume><units><value>mcg/kg/minute</value>
-</units><additionalnotes><value>Dose decreased by 50%</value>
+</units><additionalnotes><value>Dose decreased by 50%25</value>
 </additionalnotes><population><value>ADULT</value>
 <value>ADULT, with CrCl less than 30 mL/minute.</value>
 </population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=1578</value>

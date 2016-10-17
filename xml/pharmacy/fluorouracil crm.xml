@@ -2,7 +2,7 @@
 <dose></dose><route><value>TOP</value>
 </route><form><value>crm</value>
 </form><drugname><value>fluorouracil crm</value>
-</drugname><strength><value>5%</value>
+</drugname><strength><value>5%25</value>
 </strength><frequency><value>BID</value>
 </frequency><instruction><value>Apply a thin layer of cream locally to lesion.</value>
 </instruction><volume></volume><units></units><additionalnotes><value>Recommend treatment continue until the inflammatory reaction reaches the erosion, ulceration and necrosis stage; then discontinue.</value>

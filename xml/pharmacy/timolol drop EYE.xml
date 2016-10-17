@@ -3,8 +3,8 @@
 </dose><route><value>OPHTH</value>
 </route><form><value>drop EYE</value>
 </form><drugname><value>timolol drop EYE</value>
-</drugname><strength><value>0.25%</value>
-<value>0.5%</value>
+</drugname><strength><value>0.25%25</value>
+<value>0.5%25</value>
 </strength><frequency><value>BID</value>
 <value>DAILY</value>
 </frequency><instruction><value>Instill into LEFT eye.</value>

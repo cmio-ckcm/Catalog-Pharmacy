@@ -2,8 +2,8 @@
 <dose></dose><route><value>TOP</value>
 </route><form><value>oint</value>
 </form><drugname><value>hydrocortisone oint</value>
-</drugname><strength><value>1%</value>
-<value>0.5%</value>
+</drugname><strength><value>1%25</value>
+<value>0.5%25</value>
 </strength><frequency><value>BID</value>
 </frequency><instruction><value>Apply a thin film to affected area and run into area.</value>
 </instruction><volume></volume><units></units><additionalnotes></additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>

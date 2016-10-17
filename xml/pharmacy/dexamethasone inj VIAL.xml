@@ -43,12 +43,12 @@
 <value>DAY 1 of 21. PRN. May be administered by IV route.</value>
 <value>DAY 1 of 21. Administer 30 minutes prior to DOCEtaxel, if oral dexamethasone premedication has not been taken. </value>
 <value>DAY 1 of 7. Administer 30 minutes prior to PACLitaxel.</value>
-<value>DAYS 1, 2 & 3 of 21. If oral anti-emetics have not been taken by patient as instructed, administer 30 to 60 minutes pre-chemotherapy. May be administered by PO route.</value>
-<value>DAYS 1, 2 & 3 of 21. PRN. May be administered by PO route.</value>
+<value>DAYS 1, 2 &amp; 3 of 21. If oral anti-emetics have not been taken by patient as instructed, administer 30 to 60 minutes pre-chemotherapy. May be administered by PO route.</value>
+<value>DAYS 1, 2 &amp; 3 of 21. PRN. May be administered by PO route.</value>
 <value>DAY 1 of 28. If oral anti-emetics have not been taken by patient as instructed, administer 30 to 60 minutes pre-chemotherapy. May be administered by PO route.</value>
 <value>DAY 1 of 28. PRN. May be administered by PO route.</value>
-<value>DAYS 2, 3, 4 & 5 of 28. If oral dexamethasone has not been taken by patient as instructed, administer 30 to 60 minutes pre-chemotherapy. May be administered by PO route.</value>
-<value>DAYS 2, 3, 4 & 5 of 28. PRN. May be administered by PO route.</value>
+<value>DAYS 2, 3, 4 &amp; 5 of 28. If oral dexamethasone has not been taken by patient as instructed, administer 30 to 60 minutes pre-chemotherapy. May be administered by PO route.</value>
+<value>DAYS 2, 3, 4 &amp; 5 of 28. PRN. May be administered by PO route.</value>
 <value>DAY 8 of 28. If oral anti-emetics have not been taken by patient as instructed, administer 30 to 60 minutes pre-chemotherapy. May be administered by PO route.</value>
 <value>DAY 8 of 28. PRN. May be administered by PO route.</value>
 <value>DAY 1 of 21. If aprepitant was prescribed and not taken by patient as instructed, administer PRN. May be administered by PO route.</value>
@@ -66,7 +66,7 @@
 <value>Adjuvant PACLitaxel/CARBOplatin. Non-Small Cell Lung Cancer</value>
 <value>Vinorelbine / CISplatin. Advanced NSCLC</value>
 <value>Vinorelbine / CARBOplatin. Non-Small Cell Lung Cancer (Advanced Stage)</value>
-<value>CISplatin & Vinorelbine with CONCURRENT RT. Non-Small Cell Lung Cancer</value>
+<value>CISplatin &amp; Vinorelbine with CONCURRENT RT. Non-Small Cell Lung Cancer</value>
 <value>Gemcitabine / CARBOplatin. Non-Small Cell Lung Cancer</value>
 <value>Gemcitabine / CISplatin. Non-Small Cell Lung Cancer</value>
 <value>Gemcitabine. Non-Small Cell Lung Cancer</value>
@@ -77,12 +77,12 @@
 <value>CISplatin/etoposide (IV). Small Cell Lung Cancer.</value>
 <value>Carboplatin/Etoposide (IV). Small Cell Lung Cancer.</value>
 <value>CARBOplatin/Etoposide (IV/po). Small Cell Lung Cancer</value>
-<value>Etoposide (Days 1-5)/CISplatin (Days 1 & 8) with concurrent RT. Pancoast Tumor</value>
+<value>Etoposide (Days 1-5)/CISplatin (Days 1 &amp; 8) with concurrent RT. Pancoast Tumor</value>
 <value>DOXOrubicin/CISplatin/cyclophosphamide (PAC). Thymic Malignancy</value>
 <value>Vinorelbine and CARBOplatin with CONCURRENT RT. Non-Small Cell Lung Cancer.</value>
 <value>CISplatin/DOXOrubicin/vinCRIStine/cyclophosphamide. Thymoma</value>
 <value>Fluorouracil, Epirubicin, Cyclophosphamide (FEC) followed by DOCEtaxel. Breast Cancer (NEOADJUVANT Treatment).</value>
-<value>Fluorouracil, Epirubicin, Cyclophosphamide (FEC) followed by DOCEtaxel & Trastuzumab</value>
+<value>Fluorouracil, Epirubicin, Cyclophosphamide (FEC) followed by DOCEtaxel &amp; Trastuzumab</value>
 <value>Fluorouracil, Epirubicin, Cyclophosphamide (FEC) followed by DOCEtaxel and Trastuzumab. Breast Cancer (NEOADJUVANT Treatment).</value>
 <value>DOXOrubicin, Cyclophosphamide (AC) followed by DOCEtaxel. Breast Cancer (NEOADJUVANT Treatment).</value>
 <value>DOXOrubicin, Cyclophosphamide (AC) followed by DOCEtaxel and Trastuzumab. Breast Cancer (NEOADJUVANT Treatment).</value>

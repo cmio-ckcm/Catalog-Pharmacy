@@ -11,9 +11,9 @@
 <value>INFILTRATION</value>
 </route><form><value>inj VIAL</value>
 </form><drugname><value>BUPivacaine inj VIAL</value>
-</drugname><strength><value>0.25%</value>
-<value>0.5%</value>
-<value>0.75%</value>
+</drugname><strength><value>0.25%25</value>
+<value>0.5%25</value>
+<value>0.75%25</value>
 </strength><frequency><value>ONCE</value>
 <value>Q3H</value>
 <value>CONTINUOUS</value>

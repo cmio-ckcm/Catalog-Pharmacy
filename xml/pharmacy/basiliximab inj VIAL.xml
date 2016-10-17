@@ -18,12 +18,12 @@
 <value>Administer 1 dose on day 4 post-transplant. MAXIMUM dose = 20 mg.</value>
 </instruction><volume></volume><units><value>mg</value>
 <value>mg/m2</value>
-</units><additionalnotes><value>Renal Transplant - Infants/Children < 35 kg</value>
-<value>Renal Transplant - Infants/Children > 35 kg</value>
-<value>Liver Transplant - Infants/Children <35 kg.</value>
-<value>Liver Transplant - Infants/Children >35 kg.</value>
-<value>Heart Transplant - Infants/Children < 35 kg</value>
-<value>Heart Transplant - Infants/Children > 35 kg</value>
+</units><additionalnotes><value>Renal Transplant - Infants/Children &amp;lt; 35 kg</value>
+<value>Renal Transplant - Infants/Children &amp;gt; 35 kg</value>
+<value>Liver Transplant - Infants/Children &amp;lt;35 kg.</value>
+<value>Liver Transplant - Infants/Children &amp;gt;35 kg.</value>
+<value>Heart Transplant - Infants/Children &amp;lt; 35 kg</value>
+<value>Heart Transplant - Infants/Children &amp;gt; 35 kg</value>
 <value>Children: 2 to 15 years of age</value>
 </additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation><value>Specialized High Cost Drug List</value>
 </backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>

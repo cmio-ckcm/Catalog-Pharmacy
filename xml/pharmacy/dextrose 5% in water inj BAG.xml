@@ -1,7 +1,7 @@
 <?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/drug-table.xslt"?><drug name = "dextrose 5% in water inj BAG">
 <dose></dose><route><value>IV</value>
 </route><form><value>inj BAG</value>
-</form><drugname><value>dextrose 5% in water inj BAG</value>
+</form><drugname><value>dextrose 5%25 in water inj BAG</value>
 </drugname><strength></strength><frequency><value>CONTINUOUS</value>
 </frequency><instruction><value>Administered by continuous infusion.</value>
 </instruction><volume><value>1000 mL</value>

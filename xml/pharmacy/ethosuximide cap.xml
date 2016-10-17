@@ -14,8 +14,8 @@
 <value>QID</value>
 </frequency><instruction></instruction><volume></volume><units><value>mg</value>
 <value>mg/kg</value>
-</units><additionalnotes><value>Dosage usually not > 1.5 gram daily</value>
-</additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation><value>Dosage usually not > 1.5 gram daily</value>
+</units><additionalnotes><value>Dosage usually not &amp;gt; 1.5 gram daily</value>
+</additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation><value>Dosage usually not &amp;gt; 1.5 gram daily</value>
 </backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>
 </ahsformularystatus><ahfsname><value>Anticonvulsants, Succinimides</value>
 </ahfsname><highalert></highalert><maximumprndose></maximumprndose><din><value>00022799</value>

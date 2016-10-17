@@ -21,7 +21,7 @@
 <value>Administer by continuous infusion, post PCI.</value>
 <value>Administer by direct injection.</value>
 <value>Administer by continuous infusion.</value>
-<value>Administer by continuous infusion. If aPTT luess then 60: Increase dose by 20%. IF aPTT 60 to 90: No Change. IF aPTT greater than 90: Hold infusion 1 hour and restart at 50% prior dose.</value>
+<value>Administer by continuous infusion. If aPTT luess then 60: Increase dose by 20%25. IF aPTT 60 to 90: No Change. IF aPTT greater than 90: Hold infusion 1 hour and restart at 50%25 prior dose.</value>
 </instruction><volume></volume><units><value>mg/kg</value>
 <value>mg/kg/hour</value>
 </units><additionalnotes><value>PCI</value>

@@ -6,7 +6,7 @@
 </frequency><instruction><value>Add dose to recirculation bag prior to photoactivation phase.</value>
 </instruction><volume><value>10 mL</value>
 </volume><units><value>mL</value>
-</units><additionalnotes><value>Dose (mL of methoxsalen) = "Treatment Volume" X 0.017</value>
+</units><additionalnotes><value>Dose (mL of methoxsalen) = &amp;quot;Treatment Volume&amp;quot; X 0.017</value>
 </additionalnotes><population><value>ADULT</value>
 </population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=6501</value>
 </backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>

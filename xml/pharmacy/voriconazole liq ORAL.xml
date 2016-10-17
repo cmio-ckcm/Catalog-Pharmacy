@@ -9,9 +9,9 @@
 </strength><frequency><value>BID</value>
 </frequency><instruction><value>for 2 doses.</value>
 </instruction><volume></volume><units><value>mg</value>
-</units><additionalnotes><value>Loading dose (patients >40 kg) for first 24 hours followed by maintenance dose at 50%. 400 mg = 10 mL suspension.</value>
+</units><additionalnotes><value>Loading dose (patients &amp;gt;40 kg) for first 24 hours followed by maintenance dose at 50%25. 400 mg = 10 mL suspension.</value>
 <value>200 mg = 5 mL suspension.</value>
-<value>Loading dose (patients <40 kg) for first 24 hours followed by maintenance dose at 50%. 200 mg = 5 mL suspension.</value>
+<value>Loading dose (patients &amp;lt;40 kg) for first 24 hours followed by maintenance dose at 50%25. 200 mg = 5 mL suspension.</value>
 <value>100 mg = 2.5 mL suspension.</value>
 </additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2462</value>
 </backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary with Restrictions, Usage guidelines.</value>

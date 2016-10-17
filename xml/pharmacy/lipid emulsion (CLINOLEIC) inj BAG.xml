@@ -5,7 +5,7 @@
 </dose><route><value>IV</value>
 </route><form><value>inj BAG</value>
 </form><drugname><value>lipid emulsion (CLINOLEIC) inj BAG</value>
-</drugname><strength><value>20%</value>
+</drugname><strength><value>20%25</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction><value>Administer over 12 hours</value>
 <value>Administer over 24 hours</value>

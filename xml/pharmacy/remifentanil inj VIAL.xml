@@ -38,12 +38,12 @@
 <value>ADULT. Post-CABG analgesia in Critical Care setting.</value>
 <value>ADULT. Sedation in Critical Care setting.</value>
 <value>ADULT. IV-PCA for Labour</value>
-<value>NEONATE. Anesthesia with Nitrous Oxide 70%.</value>
-<value>NEONATE. Anesthesia with Nitrous Oxide 70%. Supplemental dose.</value>
+<value>NEONATE. Anesthesia with Nitrous Oxide 70%25.</value>
+<value>NEONATE. Anesthesia with Nitrous Oxide 70%25. Supplemental dose.</value>
 <value>NEONATE. Endotracheal Intubation.</value>
 <value>NEONATE. Sedation in Critical Care setting.</value>
-<value>INFANT, 1 to 2 months of age. Anesthesia with Nitrous Oxide 70%.</value>
-<value>INFANT, 1 to 2 months of age. Anesthesia with Nitrous Oxide 70%. Supplemental dose.</value>
+<value>INFANT, 1 to 2 months of age. Anesthesia with Nitrous Oxide 70%25.</value>
+<value>INFANT, 1 to 2 months of age. Anesthesia with Nitrous Oxide 70%25. Supplemental dose.</value>
 <value>CHILDREN, 1 to 2 years of age. Anesthesia with Sevoflurane, Isoflurane or Halothane.</value>
 <value>CHILDREN, 1 to 2 years of age. Anesthesia with Sevoflurane, Isoflurane or Halothane. Supplemental dose.</value>
 <value>CHILDREN, 1 to 2 years of age. Sedation in Critical Care setting.</value>
@@ -52,8 +52,8 @@
 <value>CHILDREN, older than 2 years. Continued Analgesia in Post-op Period.</value>
 <value>ADULT. Induction of anesthesia in non-intubated patients.</value>
 <value>ADULT. Induction of anesthesia.</value>
-<value>ADULT. Maintenance of Anesthesia with nitrous oxide (66%).</value>
-<value>ADULT. Maintenance of Anesthesia with nitrous oxide (66%). Supplemental dose.</value>
+<value>ADULT. Maintenance of Anesthesia with nitrous oxide (66%25).</value>
+<value>ADULT. Maintenance of Anesthesia with nitrous oxide (66%25). Supplemental dose.</value>
 <value>ADULT. Maintenance of Anesthesia with isoflurane.</value>
 <value>ADULT. Maintenance of Anesthesia with isoflurane. Supplemental dose.</value>
 <value>ADULT. Maintenance of Anesthesia with propofol.</value>

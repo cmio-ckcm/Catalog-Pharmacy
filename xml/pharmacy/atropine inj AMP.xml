@@ -46,7 +46,7 @@
 <value>mcg/kg</value>
 <value>mg/hour</value>
 </units><additionalnotes><value>Administer over 20 to 30 seconds</value>
-<value>Administer 10 to 20% of total loading dose per hour.</value>
+<value>Administer 10 to 20%25 of total loading dose per hour.</value>
 </additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation><value>Titrate infusion rate to maintain adequate atropinization without atropine toxicity.</value>
 </backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary.</value>

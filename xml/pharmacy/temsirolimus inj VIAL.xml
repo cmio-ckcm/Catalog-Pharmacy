@@ -7,8 +7,8 @@
 </form><drugname><value>temsirolimus inj VIAL</value>
 </drugname><strength><value>25 mg/mL</value>
 </strength><frequency><value>ONCE</value>
-</frequency><instruction><value>Administer dose over 30 minutes, diluted in 250 mL 0.9% sodium chloride.</value>
-<value>Administer dose over 60 minutes, diluted in 250 mL 0.9% sodium chloride.</value>
+</frequency><instruction><value>Administer dose over 30 minutes, diluted in 250 mL 0.9%25 sodium chloride.</value>
+<value>Administer dose over 60 minutes, diluted in 250 mL 0.9%25 sodium chloride.</value>
 </instruction><volume><value>1.2 mL</value>
 </volume><units><value>mg</value>
 </units><additionalnotes><value>Metastatic Renal Cell Carcinoma. Dose reduction levels level (-1) 20 mg, level (-2) 15 mg. Temsirolimus is contraindicated in patients with bilirubin levels greater than 1.5 times ULN.</value>

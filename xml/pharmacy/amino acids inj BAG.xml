@@ -2,7 +2,7 @@
 <dose></dose><route><value>IV</value>
 </route><form><value>inj BAG</value>
 </form><drugname><value>amino acids inj BAG</value>
-</drugname><strength><value>10%</value>
+</drugname><strength><value>10%25</value>
 </strength><frequency><value>CONTINUOUS</value>
 </frequency><instruction><value>For pharmacy compounding of TPN solutions.</value>
 </instruction><volume><value>1000 mL</value>

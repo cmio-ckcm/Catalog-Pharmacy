@@ -9,19 +9,19 @@
 <value>2 g</value>
 <value>200 mg</value>
 </strength><frequency><value>ONCE</value>
-</frequency><instruction><value>DAY 1 of 21. Administer dose diluted in 0.9% sodium chloride 100 mL over 30 to 60 minutes. Administer concurrently with 250 to 500 mL 0.9% sodium chloride infusion.</value>
-<value>DAY 8 of 21. Administer dose diluted in 0.9% sodium chloride 100 mL over 30 to 60 minutes. Administer concurrently with 250 to 500 mL 0.9% sodium chloride infusion.</value>
-<value>DAY 1 of 21. Administer dose diluted in 0.9% sodium chloride 100 mL over 30 to 60 minutes. Start gemcitabine during pre-hydration.</value>
-<value>DAY 8 of 21. Administer dose diluted in 0.9% sodium chloride 100 mL over 30 to 60 minutes. Administer concurrently with 0.9% sodium chloride infusion of 250 to 500 mL.</value>
-<value>DAY 1 of 21. Administer dose diluted in 0.9% sodium chloride 100 mL over 30 to 60 minutes. Administer concurrently with 0.9% sodium chloride infusion of 250 to 500 mL.</value>
+</frequency><instruction><value>DAY 1 of 21. Administer dose diluted in 0.9%25 sodium chloride 100 mL over 30 to 60 minutes. Administer concurrently with 250 to 500 mL 0.9%25 sodium chloride infusion.</value>
+<value>DAY 8 of 21. Administer dose diluted in 0.9%25 sodium chloride 100 mL over 30 to 60 minutes. Administer concurrently with 250 to 500 mL 0.9%25 sodium chloride infusion.</value>
+<value>DAY 1 of 21. Administer dose diluted in 0.9%25 sodium chloride 100 mL over 30 to 60 minutes. Start gemcitabine during pre-hydration.</value>
+<value>DAY 8 of 21. Administer dose diluted in 0.9%25 sodium chloride 100 mL over 30 to 60 minutes. Administer concurrently with 0.9%25 sodium chloride infusion of 250 to 500 mL.</value>
+<value>DAY 1 of 21. Administer dose diluted in 0.9%25 sodium chloride 100 mL over 30 to 60 minutes. Administer concurrently with 0.9%25 sodium chloride infusion of 250 to 500 mL.</value>
 </instruction><volume><value>26.3 mL</value>
 <value>52.6 mL</value>
 <value>5.3 mL</value>
 </volume><units><value>mg/m2</value>
 </units><additionalnotes><value>If ANC is greater than or equal to 1.5 AND Plts are greater than or equal to 100 x 109/L: Give as ordered. If ANC is less than 1.5 OR Plts are less than 100 x 109/L: Delay 1 week.</value>
-<value>If ANC is greater than 1 AND Plts are greater than 100 x 109/L: Give as ordered. If ANC is greater than or equal to 0.5 and less than or equal to 1 OR Plts are greater than  75 and less than or equal to 100 x 109/L: Give 75% of gemcitabine dose. If ANC is less than 0.5 OR Plts are less than or equal to 75 x 109/L: Delay 1 week.</value>
+<value>If ANC is greater than 1 AND Plts are greater than 100 x 109/L: Give as ordered. If ANC is greater than or equal to 0.5 and less than or equal to 1 OR Plts are greater than  75 and less than or equal to 100 x 109/L: Give 75%25 of gemcitabine dose. If ANC is less than 0.5 OR Plts are less than or equal to 75 x 109/L: Delay 1 week.</value>
 <value>If ANC is greater than or equal to 1.5 AND Plts are greater than or equal to 100 x 109/L: Give as ordered. If ANC is less than 1.5 OR Plts are less than 100 x 109/L: Delay 1 week. If calculated CrCl is greater than or equal to 50 mL/minute: give chemotherapy as ordered. If calculated CrCl is less than 50 mL/minute: Delay 1 week.</value>
-<value>If ANC is greater than 1 AND Plts are greater than 100 x 109/L: Give as ordered. If ANC is greater than or equal to 0.5 and less than or equal to 1 OR Plts are greater than  75 and less than or equal to 100 x 109/L: Give 75% of gemcitabine dose. If ANC is less than 0.5 OR Plts are less than or equal to 75 x 109/L: Hold treatment.</value>
+<value>If ANC is greater than 1 AND Plts are greater than 100 x 109/L: Give as ordered. If ANC is greater than or equal to 0.5 and less than or equal to 1 OR Plts are greater than  75 and less than or equal to 100 x 109/L: Give 75%25 of gemcitabine dose. If ANC is less than 0.5 OR Plts are less than or equal to 75 x 109/L: Hold treatment.</value>
 </additionalnotes><population><value>Gemcitabine / CARBOplatin. Non-Small Cell Lung Cancer</value>
 <value>Gemcitabine / CISplatin. Non-Small Cell Lung Cancer</value>
 <value>Gemcitabine. Non-Small Cell Lung Cancer</value>

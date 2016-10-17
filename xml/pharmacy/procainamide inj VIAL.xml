@@ -23,8 +23,8 @@
 <value>Administer by continuous infusion (Maintenance infusion).</value>
 <value>Administer over 5 minutes by direct injection. May repeat dose every 5 to 10 minutes as required, to a MAXIMUM total loading dose of 15 mg/kg.</value>
 <value>Administer dose over 30 to 60 minutes.</value>
-<value>Administer until arrhythmia is controlled, hypotension occurs, QRS complex widens by 50% of original width or a total dose of 17 mg/kg is administered.</value>
-<value>Administer every 5 minutes until arrhythmia is controlled, hypotension occurs, QRS complex widens by 50% of original width or a total dose of 17 mg/kg is administered.</value>
+<value>Administer until arrhythmia is controlled, hypotension occurs, QRS complex widens by 50%25 of original width or a total dose of 17 mg/kg is administered.</value>
+<value>Administer every 5 minutes until arrhythmia is controlled, hypotension occurs, QRS complex widens by 50%25 of original width or a total dose of 17 mg/kg is administered.</value>
 </instruction><volume><value>10 mL</value>
 </volume><units><value>mg/kg/day</value>
 <value>mg/kg</value>
@@ -35,7 +35,7 @@
 <value>Premature neonates should receive the lowest dose.</value>
 <value>Dose not to exceed 100 mg/dose.</value>
 <value>MAXIMUM dose: 2 g/day.</value>
-<value>Stop infusion if hypotension occurs or if QRS complex widens by more than 50% of baseline.</value>
+<value>Stop infusion if hypotension occurs or if QRS complex widens by more than 50%25 of baseline.</value>
 </additionalnotes><population><value>INFANT / CHILDREN</value>
 <value>NEONATE.</value>
 <value>INFANT / CHILDREN. Loading dose.</value>

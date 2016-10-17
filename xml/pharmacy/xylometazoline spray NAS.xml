@@ -3,8 +3,8 @@
 </dose><route><value>NASAL</value>
 </route><form><value>spray NAS</value>
 </form><drugname><value>xylometazoline spray NAS</value>
-</drugname><strength><value>0.05%</value>
-<value>0.1%</value>
+</drugname><strength><value>0.05%25</value>
+<value>0.1%25</value>
 </strength><frequency><value>Q8H</value>
 <value>Q10H</value>
 </frequency><instruction><value>Administer into each nostril.</value>

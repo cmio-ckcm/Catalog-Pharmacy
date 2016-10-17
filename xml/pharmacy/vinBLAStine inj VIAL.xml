@@ -12,26 +12,26 @@
 </strength><frequency><value>WEEKLY</value>
 <value>ONCE</value>
 <value>DAILY</value>
-</frequency><instruction><value>for 3 doses (Day 2, 15 & 22). Administer dose over 10 minutes diluted in 50 mL 0.9% sodium chloride.</value>
-<value>Administer dose over 10 minutes diluted in 50 mL 0.9% sodium chloride.</value>
+</frequency><instruction><value>for 3 doses (Day 2, 15 &amp; 22). Administer dose over 10 minutes diluted in 50 mL 0.9%25 sodium chloride.</value>
+<value>Administer dose over 10 minutes diluted in 50 mL 0.9%25 sodium chloride.</value>
 <value>Administer undiluted by direct injection.</value>
-<value>for 3 days. Administer dose over 10 minutes diluted in 50 mL 0.9% sodium chloride.</value>
-<value>for 2 doses (DAY 1 & 8). Administer over 10 minutes diluted in 50 mL 0.9% sodium chloride.</value>
-<value>for 2 doses. (DAY 1 & 2). Administer over 10 minutes diluted in 50 mL 0.9% sodium chloride.</value>
+<value>for 3 days. Administer dose over 10 minutes diluted in 50 mL 0.9%25 sodium chloride.</value>
+<value>for 2 doses (DAY 1 &amp; 8). Administer over 10 minutes diluted in 50 mL 0.9%25 sodium chloride.</value>
+<value>for 2 doses. (DAY 1 &amp; 2). Administer over 10 minutes diluted in 50 mL 0.9%25 sodium chloride.</value>
 </instruction><volume><value>10 mL</value>
 </volume><units><value>mg/m2</value>
 <value>mg/kg</value>
 <value>mg/kg/day</value>
-</units><additionalnotes><value>Bladder Cancer. Recommend dosing at 66% of usual dose IF: ANC is less than 1.5 X 109/L and greater than or equal to 1 X 109/L, If ANC is less than 1 X 109/L; Delay chemotherapy for 1 week on DAY 2 or omit dose if on DAY 15 or 22. If platelets less than 100 X 109/L: Contact prescriber. Suggested dose adjustment if bilirubin 25 to 50 umol/L: 50% dose, if bilirubin greater than 50 umol/L: 25% dose.</value>
-<value>Bladder Cancer. Recommend dosing at 66% of usual dose IF: ANC is less than 1.5 X 109/L and greater than or equal to 1 X 109/L, If ANC is less than 1 X 109/L; Delay chemotherapy for 1 week on DAY 2 or omit dose if on DAY 15 or 22. If platelets less than 100 X 109/L: Contact prescriber.</value>
+</units><additionalnotes><value>Bladder Cancer. Recommend dosing at 66%25 of usual dose IF: ANC is less than 1.5 X 109/L and greater than or equal to 1 X 109/L, If ANC is less than 1 X 109/L; Delay chemotherapy for 1 week on DAY 2 or omit dose if on DAY 15 or 22. If platelets less than 100 X 109/L: Contact prescriber. Suggested dose adjustment if bilirubin 25 to 50 umol/L: 50%25 dose, if bilirubin greater than 50 umol/L: 25%25 dose.</value>
+<value>Bladder Cancer. Recommend dosing at 66%25 of usual dose IF: ANC is less than 1.5 X 109/L and greater than or equal to 1 X 109/L, If ANC is less than 1 X 109/L; Delay chemotherapy for 1 week on DAY 2 or omit dose if on DAY 15 or 22. If platelets less than 100 X 109/L: Contact prescriber.</value>
 <value>Bladder Cancer. If ANC is less than 1.5 X 109/L or Platelets are less than 100 X 109/L: HOLD chemotherapy and contact prescriber. Contact prescriber if hepatic impairment present.</value>
 <value>Bladder Cancer. If ANC is less than 1.5 X 109/L or Platelets are less than 100 X 109/L: Delay one week. Contact prescriber if hepatic impairment present. It is strongly suggested vinBLAStine be administered via a minibag to prevent inadvertent intrathecal administration.</value>
-<value>Ca Testes. Suggested dose adjustment if bilirubin 25 to 50 umol/L: 50% dose, if bilirubin greater than 50 umol/L: 25% dose.</value>
-<value>Ca Testes, Germ Cell Cancer. Suggested dose adjustment if bilirubin 25 to 50 umol/L: 50% dose, if bilirubin greater than 50 umol/L: 25% dose.</value>
+<value>Ca Testes. Suggested dose adjustment if bilirubin 25 to 50 umol/L: 50%25 dose, if bilirubin greater than 50 umol/L: 25%25 dose.</value>
+<value>Ca Testes, Germ Cell Cancer. Suggested dose adjustment if bilirubin 25 to 50 umol/L: 50%25 dose, if bilirubin greater than 50 umol/L: 25%25 dose.</value>
 <value>Bladder Cancer. If ANC is less than 1.5 X 109/L or Platelets are less than 100 X 109/L: Delay one week. Contact prescriber if hepatic impairment present.</value>
-<value>Germ Cell Cancer. Suggested dose adjustment if bilirubin 25 to 50 umol/L: 50% dose, if bilirubin greater than 50 umol/L: 25% dose.</value>
-<value>Hodgkin's Lymphoma. Suggested dose adjustment if bilirubin 25 to 50 umol/L: 50% dose, if bilirubin greater than 50 umol/L: 25% dose.</value>
-<value>Hodgkin's Lymphoma. Maximum single dose: 10 mg. Suggested dose adjustment if bilirubin 25 to 50 umol/L: 50% dose, if bilirubin greater than 50 umol/L: 25% dose.</value>
+<value>Germ Cell Cancer. Suggested dose adjustment if bilirubin 25 to 50 umol/L: 50%25 dose, if bilirubin greater than 50 umol/L: 25%25 dose.</value>
+<value>Hodgkin&amp;apos;s Lymphoma. Suggested dose adjustment if bilirubin 25 to 50 umol/L: 50%25 dose, if bilirubin greater than 50 umol/L: 25%25 dose.</value>
+<value>Hodgkin&amp;apos;s Lymphoma. Maximum single dose: 10 mg. Suggested dose adjustment if bilirubin 25 to 50 umol/L: 50%25 dose, if bilirubin greater than 50 umol/L: 25%25 dose.</value>
 </additionalnotes><population><value>ADULT</value>
 </population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=3459</value>
 </backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary.</value>

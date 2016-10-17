@@ -2,7 +2,7 @@
 <dose></dose><route><value>IV</value>
 </route><form><value>inj BOTTLE</value>
 </form><drugname><value>amino acids inj BOTTLE</value>
-</drugname><strength><value>10%</value>
+</drugname><strength><value>10%25</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value>For pharmacy compounding of TPN solutions.</value>
 </instruction><volume></volume><units></units><additionalnotes><value>Contact local Pharmacy for available products.</value>

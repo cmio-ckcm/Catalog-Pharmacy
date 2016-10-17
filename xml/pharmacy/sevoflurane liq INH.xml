@@ -4,12 +4,12 @@
 </dose><route><value>INH</value>
 </route><form><value>liq INH</value>
 </form><drugname><value>sevoflurane liq INH</value>
-</drugname><strength><value>99.97%</value>
+</drugname><strength><value>99.97%25</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value>Administered with oxygen</value>
 <value>Administered with Nitrous Oxide and oxygen</value>
-</instruction><volume></volume><units><value>%</value>
-</units><additionalnotes><value>Suggest reduced dosage in elderly up to 50% by age 80.</value>
+</instruction><volume></volume><units><value>%25</value>
+</units><additionalnotes><value>Suggest reduced dosage in elderly up to 50%25 by age 80.</value>
 </additionalnotes><population><value>ADULT</value>
 <value>NEONATE</value>
 </population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=276</value>

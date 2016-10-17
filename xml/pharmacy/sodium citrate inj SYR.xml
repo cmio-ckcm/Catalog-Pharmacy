@@ -4,7 +4,7 @@
 </dose><route><value>IV</value>
 </route><form><value>inj SYR</value>
 </form><drugname><value>sodium citrate inj SYR</value>
-</drugname><strength><value>4%</value>
+</drugname><strength><value>4%25</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value>Inject into vascular access device as per protocol.</value>
 </instruction><volume></volume><units><value>mL</value>

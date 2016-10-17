@@ -5,12 +5,12 @@
 </dose><route><value>PR</value>
 </route><form><value>enema</value>
 </form><drugname><value>mineral oil enema</value>
-</drugname><strength><value>100%</value>
+</drugname><strength><value>100%25</value>
 </strength><frequency><value>DAILY</value>
 </frequency><instruction></instruction><volume><value>118 mL</value>
 </volume><units><value>enema</value>
 <value>mL</value>
-</units><additionalnotes><value>ADULT & Children 12 years and older.</value>
+</units><additionalnotes><value>ADULT &amp; Children 12 years and older.</value>
 <value>CHILDREN: aged 2 to 11 years.</value>
 </additionalnotes><population></population><indicationprn><value>Constipation</value>
 </indicationprn><backgroundinformation></backgroundinformation><prninformation><value>YES</value>

@@ -2,7 +2,7 @@
 <dose></dose><route><value>TOP</value>
 </route><form><value>crm</value>
 </form><drugname><value>amcinonide crm</value>
-</drugname><strength><value>0.1%</value>
+</drugname><strength><value>0.1%25</value>
 </strength><frequency><value>DAILY</value>
 <value>BID</value>
 </frequency><instruction><value>Apply a thin film to affected area and rub into area.</value>

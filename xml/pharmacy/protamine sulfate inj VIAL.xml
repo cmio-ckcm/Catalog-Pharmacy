@@ -28,7 +28,7 @@
 <value>mg/100 anti-Xa units of LMWH administered/dose</value>
 <value>mg/100 units of dalteparin administered/dose</value>
 </units><additionalnotes><value>MAXIMUM dose: 50 mg.</value>
-<value>Even with higher prtoamine sulfate doses, the PTT may be prolonged longer than seen with unfractionated heparin, as anti-Xa activity is never completely neutralized (MAX ~ 60%).</value>
+<value>Even with higher prtoamine sulfate doses, the PTT may be prolonged longer than seen with unfractionated heparin, as anti-Xa activity is never completely neutralized (MAX ~ 60%25).</value>
 </additionalnotes><population><value>NEONATE. Heparin dose administered within last 4 hours.</value>
 <value>INFANTS / CHILDREN. Heparin dose administered by direct IV injection and time since last heparin dose is less than 30 minutes.</value>
 <value>INFANTS / CHILDREN. Heparin dose administered by direct IV injection and time since last heparin dose is 30 to 60 minutes.</value>

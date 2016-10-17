@@ -34,11 +34,11 @@
 <value>mg/kg/dose</value>
 </units><additionalnotes><value>UP TO MAX DOSE OF 3 mg OR 0.04 mg/kg</value>
 <value>Child: MAX single dose = 0.5 mg. MAX total dose = 1 mg. </value>
-<value>Children/Infants > 5 kg to a MAX single dose of 0.4 mg. MINIMUM dose : 0.1 mg</value>
+<value>Children/Infants &amp;gt; 5 kg to a MAX single dose of 0.4 mg. MINIMUM dose : 0.1 mg</value>
 <value>Neonates</value>
 <value>Organophosphate or Carbamate poisoning</value>
-</additionalnotes><population><value>Neonates/Infants < 5kg</value>
-<value>Children/Infants > 5 kg</value>
+</additionalnotes><population><value>Neonates/Infants &amp;lt; 5kg</value>
+<value>Children/Infants &amp;gt; 5 kg</value>
 </population><indicationprn></indicationprn><backgroundinformation><value>Minimum dose NOT recommended</value>
 </backgroundinformation><prninformation><value>YES</value>
 </prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>

@@ -2,7 +2,7 @@
 <dose></dose><route><value>INFILTRATION</value>
 </route><form><value>inj VIAL</value>
 </form><drugname><value>lidocaine, buffered inj VIAL</value>
-</drugname><strength><value>1%</value>
+</drugname><strength><value>1%25</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction></instruction><volume><value>5 mL</value>
 </volume><units><value>mL</value>

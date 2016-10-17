@@ -10,8 +10,8 @@
 </strength><frequency><value>BID</value>
 </frequency><instruction><value>for 2 doses.</value>
 </instruction><volume></volume><units><value>mg</value>
-</units><additionalnotes><value>Loading dose (patients >40 kg) for first 24 hours followed by maintenance dose at 50%.</value>
-<value>Loading dose (patients <40 kg) for first 24 hours followed by maintenance dose at 50%.</value>
+</units><additionalnotes><value>Loading dose (patients &amp;gt;40 kg) for first 24 hours followed by maintenance dose at 50%25.</value>
+<value>Loading dose (patients &amp;lt;40 kg) for first 24 hours followed by maintenance dose at 50%25.</value>
 </additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation><value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2461</value>
 <value>http://intraweb01.albertahealthservices.ca/Pharmacy/AHS_FORMULARY/search_details.aspx?id=2460</value>
 </backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary with Restrictions, Usage guidelines.</value>

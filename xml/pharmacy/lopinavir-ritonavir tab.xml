@@ -12,7 +12,7 @@
 <value>DAILY</value>
 </frequency><instruction></instruction><volume></volume><units><value>tab</value>
 </units><additionalnotes><value>Patients weighing 15 to 25 kg.</value>
-<value>Patients weighing >25 to 35 kg.</value>
+<value>Patients weighing &amp;gt;25 to 35 kg.</value>
 <value>Patients weighing more than 35 kg.</value>
 <value>Consideration for once daily administration in adult patients with less than three protease-inhibitor associated mutations.</value>
 </additionalnotes><population></population><indicationprn></indicationprn><backgroundinformation></backgroundinformation><prninformation></prninformation><ahsformularystatus><value>Formulary with Restrictions.</value>

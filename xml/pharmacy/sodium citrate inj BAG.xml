@@ -2,7 +2,7 @@
 <dose></dose><route><value>IV</value>
 </route><form><value>inj BAG</value>
 </form><drugname><value>sodium citrate inj BAG</value>
-</drugname><strength><value>4%</value>
+</drugname><strength><value>4%25</value>
 </strength><frequency><value>ONCE</value>
 <value>CONTINUOUS</value>
 </frequency><instruction><value>As per protocol.</value>

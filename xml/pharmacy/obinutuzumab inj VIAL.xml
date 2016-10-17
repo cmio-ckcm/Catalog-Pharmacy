@@ -7,11 +7,11 @@
 </form><drugname><value>obinutuzumab inj VIAL</value>
 </drugname><strength><value>25 mg/mL</value>
 </strength><frequency><value>ONCE</value>
-</frequency><instruction><value>Infuse dose diluted in 250 mL soidium chloride 0.9% at 25 mg/hour over 4 hours. Do not increase infusion rate. [Cycle 1 / Day 1]</value>
-<value>Infuse dose diluted in 250 mL sodium chloride 0.9% at 50 mg/hour. If tolerated, the rate of the infusion may be escalated in increments of 50 mg/hour every 30 minutes to a maximum of 400 mg/hour. [Cycle 1 / Day 2]</value>
-<value>Infuse dose diluted in 250 mL sodium chloride 0.9% at 100 mg/hour. If tolerated, the rate of the infusion may be escalated in increments of 100 mg/hour every 30 minutes to a maximum of 400 mg/hour. [Cycle 1 / Day 8]</value>
-<value>Infuse dose diluted in 250 mL sodium chloride 0.9% at 100 mg/hour. If tolerated, the rate of the infusion may be escalated in increments of 100 mg/hour every 30 minutes to a maximum of 400 mg/hour. [Cycle 1 / Day 15]</value>
-<value>Infuse dose diluted in 250 mL sodium chloride 0.9% at 100 mg/hour. If tolerated, the rate of the infusion may be escalated in increments of 100 mg/hour every 30 minutes to a maximum of 400 mg/hour. [Cycles 2 to 6 / Day 1]</value>
+</frequency><instruction><value>Infuse dose diluted in 250 mL soidium chloride 0.9%25 at 25 mg/hour over 4 hours. Do not increase infusion rate. [Cycle 1 / Day 1]</value>
+<value>Infuse dose diluted in 250 mL sodium chloride 0.9%25 at 50 mg/hour. If tolerated, the rate of the infusion may be escalated in increments of 50 mg/hour every 30 minutes to a maximum of 400 mg/hour. [Cycle 1 / Day 2]</value>
+<value>Infuse dose diluted in 250 mL sodium chloride 0.9%25 at 100 mg/hour. If tolerated, the rate of the infusion may be escalated in increments of 100 mg/hour every 30 minutes to a maximum of 400 mg/hour. [Cycle 1 / Day 8]</value>
+<value>Infuse dose diluted in 250 mL sodium chloride 0.9%25 at 100 mg/hour. If tolerated, the rate of the infusion may be escalated in increments of 100 mg/hour every 30 minutes to a maximum of 400 mg/hour. [Cycle 1 / Day 15]</value>
+<value>Infuse dose diluted in 250 mL sodium chloride 0.9%25 at 100 mg/hour. If tolerated, the rate of the infusion may be escalated in increments of 100 mg/hour every 30 minutes to a maximum of 400 mg/hour. [Cycles 2 to 6 / Day 1]</value>
 </instruction><volume></volume><units><value>mg</value>
 </units><additionalnotes><value>Chronic Lymphocytic Leukemia: HE416P protocol. Cycle 1, Day 1. Pretreatment with an intravenous corticosteroid, an oral analgesic/anti-pyretic and an inatihistamine drug is recommended.</value>
 <value>Chronic Lymphocytic Leukemia: HE416P protocol. Cycle 1, Day 2. Pretreatment with an intravenous corticosteroid, an oral analgesic/anti-pyretic and an inatihistamine drug is recommended.</value>

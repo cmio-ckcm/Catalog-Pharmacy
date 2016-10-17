@@ -3,7 +3,7 @@
 </dose><route><value>BLADDER INSTILLATION</value>
 </route><form><value>irrigation</value>
 </form><drugname><value>dimethyl sulfoxide irrigation</value>
-</drugname><strength><value>50%</value>
+</drugname><strength><value>50%25</value>
 </strength><frequency><value>ONCE</value>
 </frequency><instruction><value>Instill directly into bladder and retain for 15 minutes. Expulsion via spontaneous voiding.</value>
 </instruction><volume></volume><units><value>mL</value>
