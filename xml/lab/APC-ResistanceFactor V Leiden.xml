@@ -1,0 +1,43 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/lab-table.xslt"?>
+<request name= "APC-Resistance/Factor V Leiden">
+<approval>
+<value>2/4/2016</value>
+</approval>
+<owner>
+<value>Laboratory</value>
+</owner>
+<division>
+<value>Coagulation</value>
+</division>
+<ordertype>
+<value>Procedure</value>
+</ordertype>
+<testname>
+<value>APC-Resistance/Factor V Leiden</value>
+</testname>
+<synonym>
+<value>APC resistance, plasma; APCR; L-APCE; Activated Protein C  Resistance</value>
+</synonym>
+<orderedby>
+<value>Part of thrombophilia panel. Calgary V Leiden will only be performed in Molecular Hemtology.  If APC resistance is needed the lab will request the test based on history and will send it to  Edmonton</value>
+</orderedby>
+<frequency>
+<value>1 time only (ever)</value>
+</frequency>
+<orderindications>
+<value>Edmonton: if positive or equivocal, APCGN (genetic testing) is reflex ordered. This is done by the pathologist once APC-R results are available.</value>
+</orderindications>
+<cds>
+</cds>
+<clinicianinstructions>
+</clinicianinstructions>
+<pclocd_loinc>
+<value>52750-7</value>
+</pclocd_loinc>
+<mappingname>
+<value>Activated protein C resistance [Presence] in Platelet poor plasma by Coagulation assay</value>
+</mappingname>
+<orderelement element-field="Priority" element-answer="Routine (Default)"/>
+<orderelement element-field="Specimen" element-answer="Plasma"/>
+<orderelement element-field="Collection by" element-answer="Unit/WardLaboratory"/>
+</request>

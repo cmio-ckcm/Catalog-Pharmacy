@@ -1,0 +1,39 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/lab-table.xslt"?>
+<request name= "Hemosiderin">
+<approval>
+<value>2/4/2016</value>
+</approval>
+<owner>
+<value>Laboratory</value>
+</owner>
+<division>
+<value>Hematology</value>
+</division>
+<ordertype>
+<value>Procedure</value>
+</ordertype>
+<testname>
+<value>Hemosiderin</value>
+</testname>
+<synonym>
+</synonym>
+<orderedby>
+</orderedby>
+<frequency>
+</frequency>
+<orderindications>
+</orderindications>
+<cds>
+</cds>
+<clinicianinstructions>
+</clinicianinstructions>
+<pclocd_loinc>
+<value>4644-1</value>
+</pclocd_loinc>
+<mappingname>
+<value>Hemosiderin</value>
+</mappingname>
+<orderelement element-field="Priority" element-answer="Routine (Default)"/>
+<orderelement element-field="Specimen" element-answer="Urine"/>
+<orderelement element-field="Collection by" element-answer="Unit/WardLaboratory"/>
+</request>

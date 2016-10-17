@@ -1,0 +1,40 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/lab-table.xslt"?>
+<request name= "Bone Marrow Examination">
+<approval>
+<value>2/4/2016</value>
+</approval>
+<owner>
+<value>Laboratory</value>
+</owner>
+<division>
+<value>Hematology</value>
+</division>
+<ordertype>
+<value>Procedure</value>
+</ordertype>
+<testname>
+<value>Bone Marrow Examination</value>
+</testname>
+<synonym>
+<value>DIFFBM; Differential - Bone Marrow</value>
+</synonym>
+<orderedby>
+<value>BM Aspiration; BM Biopsy; Ancillary studies</value>
+</orderedby>
+<frequency>
+</frequency>
+<orderindications>
+</orderindications>
+<cds>
+</cds>
+<clinicianinstructions>
+<value>CBC and differential results should be forwarded with the films.</value>
+</clinicianinstructions>
+<pclocd_loinc>
+</pclocd_loinc>
+<mappingname>
+</mappingname>
+<orderelement element-field="Priority" element-answer="Routine (Default)StatTimed (enter collection time/date)"/>
+<orderelement element-field="Specimen" element-answer="Bone Marrow"/>
+<orderelement element-field="Collection by" element-answer="Unit/WardLaboratory"/>
+</request>

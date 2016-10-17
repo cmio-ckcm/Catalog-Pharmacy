@@ -1,0 +1,41 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/lab-table.xslt"?>
+<request name= "Complete Blood Count (CBC), with differential">
+<approval>
+<value>2/4/2016</value>
+</approval>
+<owner>
+<value>Laboratory</value>
+</owner>
+<division>
+<value>Hematology</value>
+</division>
+<ordertype>
+<value>Procedure</value>
+</ordertype>
+<testname>
+<value>Complete Blood Count (CBC), with differential</value>
+</testname>
+<synonym>
+<value>WBC Differential; CBC1; L-CBCR</value>
+</synonym>
+<orderedby>
+<value>White blood cell count (WBC); red blood cell count (RBC); hemoglobin (Hgb); hematocrit (Hct); mean corpuscular volume (MCV); mean corpuscular hemoglobin concentration (MCHC); red cell distribution (RDW); platelet count (Plt); mean platelet volume (MPV); automated white blood cell differential (percentage and absolute differential counts)</value>
+</orderedby>
+<frequency>
+</frequency>
+<orderindications>
+</orderindications>
+<cds>
+</cds>
+<clinicianinstructions>
+</clinicianinstructions>
+<pclocd_loinc>
+<value>58410-2</value>
+</pclocd_loinc>
+<mappingname>
+<value>CBC</value>
+</mappingname>
+<orderelement element-field="Priority" element-answer="Routine (Default)StatTimed (enter collection time/date)"/>
+<orderelement element-field="Specimen" element-answer="Whole Blood"/>
+<orderelement element-field="Collection by" element-answer="Unit/WardLaboratory"/>
+</request>

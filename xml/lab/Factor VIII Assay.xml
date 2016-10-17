@@ -1,0 +1,42 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/lab-table.xslt"?>
+<request name= "Factor VIII Assay">
+<approval>
+<value>2/4/2016</value>
+</approval>
+<owner>
+<value>Laboratory</value>
+</owner>
+<division>
+<value>Coagulation</value>
+</division>
+<ordertype>
+<value>Procedure</value>
+</ordertype>
+<testname>
+<value>Factor VIII Assay</value>
+</testname>
+<synonym>
+<value>F8</value>
+</synonym>
+<orderedby>
+<value>Part of hemostasis panel</value>
+</orderedby>
+<frequency>
+<value>1 day</value>
+</frequency>
+<orderindications>
+</orderindications>
+<cds>
+</cds>
+<clinicianinstructions>
+</clinicianinstructions>
+<pclocd_loinc>
+<value>3208-6</value>
+</pclocd_loinc>
+<mappingname>
+<value>Coagulation factor VIII activated [Units/volume] in Platelet poor plasma by Coagulation assay</value>
+</mappingname>
+<orderelement element-field="Priority" element-answer="Routine (Default)"/>
+<orderelement element-field="Specimen" element-answer="Plasma"/>
+<orderelement element-field="Collection by" element-answer="Unit/WardLaboratory"/>
+</request>

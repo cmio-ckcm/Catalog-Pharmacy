@@ -1,0 +1,41 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/lab-table.xslt"?>
+<request name= "G6PD Screen">
+<approval>
+<value>2/4/2016</value>
+</approval>
+<owner>
+<value>Laboratory</value>
+</owner>
+<division>
+<value>Hematology</value>
+</division>
+<ordertype>
+<value>Procedure</value>
+</ordertype>
+<testname>
+<value>G6PD Screen</value>
+</testname>
+<synonym>
+<value>G6PD, Erythrocyte Screen; G6PDS; G6PD; Glucose 6-P Dehydrogenase Screen</value>
+</synonym>
+<orderedby>
+</orderedby>
+<frequency>
+</frequency>
+<orderindications>
+<value>Quantitative will only be performed if G6PD Screen is deficient or equivocal.</value>
+</orderindications>
+<cds>
+</cds>
+<clinicianinstructions>
+</clinicianinstructions>
+<pclocd_loinc>
+<value>2356-4</value>
+</pclocd_loinc>
+<mappingname>
+<value>Glucose-6-Phosphate Dehydrogenase; RBC; Screen</value>
+</mappingname>
+<orderelement element-field="Priority" element-answer="Routine (Default)"/>
+<orderelement element-field="Specimen" element-answer="Whole Blood"/>
+<orderelement element-field="Collection by" element-answer="Unit/WardLaboratory"/>
+</request>

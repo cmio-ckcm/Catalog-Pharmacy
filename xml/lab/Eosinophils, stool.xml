@@ -1,0 +1,40 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/lab-table.xslt"?>
+<request name= "Eosinophils, stool">
+<approval>
+<value>2/4/2016</value>
+</approval>
+<owner>
+<value>Laboratory</value>
+</owner>
+<division>
+<value>Hematology</value>
+</division>
+<ordertype>
+<value>Procedure</value>
+</ordertype>
+<testname>
+<value>Eosinophils, stool</value>
+</testname>
+<synonym>
+<value>STEOS; Stool for Wright&amp;apos;s Stain</value>
+</synonym>
+<orderedby>
+</orderedby>
+<frequency>
+</frequency>
+<orderindications>
+</orderindications>
+<cds>
+</cds>
+<clinicianinstructions>
+</clinicianinstructions>
+<pclocd_loinc>
+<value>48049-1</value>
+</pclocd_loinc>
+<mappingname>
+<value>Eosinophils; Stool</value>
+</mappingname>
+<orderelement element-field="Priority" element-answer="Routine (Default)"/>
+<orderelement element-field="Specimen" element-answer="Stool"/>
+<orderelement element-field="Collection by" element-answer="PatientUnit/WardLaboratory"/>
+</request>

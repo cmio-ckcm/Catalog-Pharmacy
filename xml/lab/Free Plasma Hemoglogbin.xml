@@ -1,0 +1,41 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/lab-table.xslt"?>
+<request name= "Free Plasma Hemoglogbin">
+<approval>
+<value>2/4/2016</value>
+</approval>
+<owner>
+<value>Laboratory</value>
+</owner>
+<division>
+<value>Hematology</value>
+</division>
+<ordertype>
+<value>Procedure</value>
+</ordertype>
+<testname>
+<value>Free Plasma Hemoglogbin</value>
+</testname>
+<synonym>
+<value>FPHB; Free Hemoglobin - Blood</value>
+</synonym>
+<orderedby>
+</orderedby>
+<frequency>
+</frequency>
+<orderindications>
+</orderindications>
+<cds>
+<value>Test is performed on plasma. Free Hemoglobin testing on serum is no longer available.</value>
+</cds>
+<clinicianinstructions>
+</clinicianinstructions>
+<pclocd_loinc>
+<value>25433-4</value>
+</pclocd_loinc>
+<mappingname>
+<value>Hemoglobin Free</value>
+</mappingname>
+<orderelement element-field="Priority" element-answer="Routine (Default)Stat"/>
+<orderelement element-field="Specimen" element-answer="Plasma"/>
+<orderelement element-field="Collection by" element-answer="Unit/WardLaboratory"/>
+</request>

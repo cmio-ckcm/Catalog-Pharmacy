@@ -1,0 +1,42 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/lab-table.xslt"?>
+<request name= "Cell Count, CSF">
+<approval>
+<value>2/4/2016</value>
+</approval>
+<owner>
+<value>Laboratory</value>
+</owner>
+<division>
+<value>Hematology</value>
+</division>
+<ordertype>
+<value>Procedure</value>
+</ordertype>
+<testname>
+<value>Cell Count, CSF</value>
+</testname>
+<synonym>
+<value>SFCT; Cell Count - CSF; CSF Cell Count</value>
+</synonym>
+<orderedby>
+<value>Visual inspection (color, clarity, viscosity and other physical properties)Cell counts (WBCs and RBCs)Differential if indicated.</value>
+</orderedby>
+<frequency>
+</frequency>
+<orderindications>
+</orderindications>
+<cds>
+<value>Infection at the puncture sitePatients with coagulopathies</value>
+</cds>
+<clinicianinstructions>
+</clinicianinstructions>
+<pclocd_loinc>
+<value>34563-7</value>
+</pclocd_loinc>
+<mappingname>
+<value>Cell Count</value>
+</mappingname>
+<orderelement element-field="Priority" element-answer="STAT"/>
+<orderelement element-field="Collection by" element-answer="Unit/Ward"/>
+<orderelement element-field="Additional clinical information" element-answer="Free Text"/>
+</request>

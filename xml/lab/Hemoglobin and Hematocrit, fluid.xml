@@ -1,0 +1,40 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/lab-table.xslt"?>
+<request name= "Hemoglobin and Hematocrit, fluid">
+<approval>
+<value>2/4/2016</value>
+</approval>
+<owner>
+<value>Laboratory</value>
+</owner>
+<division>
+<value>Hematology</value>
+</division>
+<ordertype>
+<value>Procedure</value>
+</ordertype>
+<testname>
+<value>Hemoglobin and Hematocrit, fluid</value>
+</testname>
+<synonym>
+<value>HGB Fluid</value>
+</synonym>
+<orderedby>
+</orderedby>
+<frequency>
+</frequency>
+<orderindications>
+</orderindications>
+<cds>
+</cds>
+<clinicianinstructions>
+</clinicianinstructions>
+<pclocd_loinc>
+</pclocd_loinc>
+<mappingname>
+</mappingname>
+<orderelement element-field="Priority" element-answer="Routine (Default)Stat"/>
+<orderelement element-field="Collection by" element-answer="Unit/Ward"/>
+<orderelement element-field="Specify Fluid type" element-answer="Dialysate, peritonealDialysate, renalPleuralPeritonealSynovialOther"/>
+<orderelement element-field="Specify anatomical site (if applicable)" element-answer="Right/left (checkbox), free text or drop down list"/>
+<orderelement element-field="Clinical Impression" element-answer="Free Text"/>
+</request>

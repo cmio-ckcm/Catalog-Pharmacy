@@ -1,0 +1,43 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/lab-table.xslt"?>
+<request name= "Anti-thrombin III, plasma">
+<approval>
+<value>2/4/2016</value>
+</approval>
+<owner>
+<value>Laboratory</value>
+</owner>
+<division>
+<value>Coagulation</value>
+</division>
+<ordertype>
+<value>Procedure</value>
+</ordertype>
+<testname>
+<value>Anti-thrombin III, plasma</value>
+</testname>
+<synonym>
+<value>ATIII, AT3, Antithrombin</value>
+</synonym>
+<orderedby>
+<value>Calgary performs Antithrombin Chromogenic and if that is low reflexes to the AT Antigen.  Part of thrombophilia panel.</value>
+</orderedby>
+<frequency>
+</frequency>
+<orderindications>
+<value>Testing can be done while on heparin or warfarin, but</value>
+</orderindications>
+<cds>
+<value>DO NOT order if patient is on Direct Thrombin Inhibitors such as dabigatran, lepirudin, bivalirudin, or argatroban.</value>
+</cds>
+<clinicianinstructions>
+</clinicianinstructions>
+<pclocd_loinc>
+<value>3174-0</value>
+</pclocd_loinc>
+<mappingname>
+<value>Antithrombin [Units/volume] in Platelet poor plasma by Chromogenic method</value>
+</mappingname>
+<orderelement element-field="Priority" element-answer="Routine (Default)"/>
+<orderelement element-field="Specimen" element-answer="Whole Blood"/>
+<orderelement element-field="Collection by" element-answer="Unit/WardLaboratory"/>
+</request>

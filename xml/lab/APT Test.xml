@@ -1,0 +1,43 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/lab-table.xslt"?>
+<request name= "APT Test">
+<approval>
+<value>2/4/2016</value>
+</approval>
+<owner>
+<value>Laboratory</value>
+</owner>
+<division>
+<value>Coagulation</value>
+</division>
+<ordertype>
+<value>Procedure</value>
+</ordertype>
+<testname>
+<value>APT Test</value>
+</testname>
+<synonym>
+<value>Fetal hemoglobin, qualitative, fluid; Hemoglobin F Screen; HBFS; APT</value>
+</synonym>
+<orderedby>
+</orderedby>
+<frequency>
+</frequency>
+<orderindications>
+<value>Used to identify the source of blood present in newborns  stool gastric contents vomitus</value>
+</orderindications>
+<cds>
+<value>Only orderable for newborns &amp;lt;= 31days</value>
+</cds>
+<clinicianinstructions>
+<value>sample must have visible blood</value>
+</clinicianinstructions>
+<pclocd_loinc>
+<value>18278-2</value>
+</pclocd_loinc>
+<mappingname>
+<value>Hemoglobin F [Presence] in Unspecified specimen by Apt-Downey method</value>
+</mappingname>
+<orderelement element-field="Priority" element-answer="Routine (Default)StatTimed (enter collection time/date)"/>
+<orderelement element-field="Collection by" element-answer="Unit/WardLaboratory"/>
+<orderelement element-field="Specify specimen type" element-answer="Gastric AspirateGastric ContentsStoolVomitus"/>
+</request>

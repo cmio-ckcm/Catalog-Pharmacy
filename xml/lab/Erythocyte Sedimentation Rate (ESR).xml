@@ -1,0 +1,42 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/lab-table.xslt"?>
+<request name= "Erythocyte Sedimentation Rate (ESR)">
+<approval>
+<value>2/4/2016</value>
+</approval>
+<owner>
+<value>Laboratory</value>
+</owner>
+<division>
+<value>Hematology</value>
+</division>
+<ordertype>
+<value>Procedure</value>
+</ordertype>
+<testname>
+<value>Erythocyte Sedimentation Rate (ESR)</value>
+</testname>
+<synonym>
+<value>Sedimentation Rate; ESRRH; ESRRO; ESR</value>
+</synonym>
+<orderedby>
+</orderedby>
+<frequency>
+</frequency>
+<orderindications>
+<value>In most cases, C-Reactive Protein is the preferred test over ESR.</value>
+</orderindications>
+<cds>
+<value>ESRs are unreliable in anemia, leading to false increases. Cannot report ESR if RBCs are &amp;lt;2.5 x 1012/L.</value>
+</cds>
+<clinicianinstructions>
+</clinicianinstructions>
+<pclocd_loinc>
+<value>30341-2</value>
+</pclocd_loinc>
+<mappingname>
+<value>Erythrocyte Sedimentation Rate</value>
+</mappingname>
+<orderelement element-field="Priority" element-answer="Routine (Default) StatTimed (enter collection time/date)"/>
+<orderelement element-field="Specimen" element-answer="Whole Blood"/>
+<orderelement element-field="Collection by" element-answer="Unit/WardLaboratory"/>
+</request>

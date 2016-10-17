@@ -1,0 +1,45 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/lab-table.xslt"?>
+<request name= "Cell Count, fluid">
+<approval>
+<value>2/4/2016</value>
+</approval>
+<owner>
+<value>Laboratory</value>
+</owner>
+<division>
+<value>Hematology</value>
+</division>
+<ordertype>
+<value>Procedure</value>
+</ordertype>
+<testname>
+<value>Cell Count, fluid</value>
+</testname>
+<synonym>
+<value>Cell Count (Generic) - Fluid; Fluid Cell Count - Peritoneal or Renal Dialysis; Cell Count Peritoneal Fluid;  Fluid Peritoneal - Cell Count; Cell Count Pleural - Fluid; Pleural Fluid Cell Count; Cell Count Synovial - Fluid;</value>
+</synonym>
+<orderedby>
+<value>Visual inspection (color, clarity, viscosity and other physical properties)Cell counts (WBCs and RBCs)Morphological evaluation (differential)</value>
+</orderedby>
+<frequency>
+</frequency>
+<orderindications>
+</orderindications>
+<cds>
+<value>Some constituent tests of the analysis may not be performed if gross contamination has occurred.</value>
+</cds>
+<clinicianinstructions>
+<value>Physician should indicate clinical impression and indicate tests he/she feels are necessary.Indicate the source of specimen on container:Dialysate, peritonealDialysate, renalPleuralPeritonealSynovialOther</value>
+</clinicianinstructions>
+<pclocd_loinc>
+<value>34557-9</value>
+</pclocd_loinc>
+<mappingname>
+<value>Cell count and Differential panel - Body fluid</value>
+</mappingname>
+<orderelement element-field="Priority" element-answer="Routine (Default)StatTimed (enter collection time/date)"/>
+<orderelement element-field="Collection by" element-answer="Unit/Ward"/>
+<orderelement element-field="Specify Fluid type" element-answer="Dialysate, peritonealDialysate, renalPleuralPeritonealSynovialOther"/>
+<orderelement element-field="Specify anatomical site (if applicable)" element-answer="Right/left (checkbox)"/>
+<orderelement element-field="Clinical Impression" element-answer="Free Text"/>
+</request>

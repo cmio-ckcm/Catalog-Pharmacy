@@ -1,0 +1,40 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/lab-table.xslt"?>
+<request name= "Hemoglobin">
+<approval>
+<value>2/4/2016</value>
+</approval>
+<owner>
+<value>Laboratory</value>
+</owner>
+<division>
+<value>Hematology</value>
+</division>
+<ordertype>
+<value>Procedure</value>
+</ordertype>
+<testname>
+<value>Hemoglobin</value>
+</testname>
+<synonym>
+<value>HGB; HGB1</value>
+</synonym>
+<orderedby>
+</orderedby>
+<frequency>
+</frequency>
+<orderindications>
+</orderindications>
+<cds>
+</cds>
+<clinicianinstructions>
+</clinicianinstructions>
+<pclocd_loinc>
+<value>718-7</value>
+</pclocd_loinc>
+<mappingname>
+<value>Hemoglobin</value>
+</mappingname>
+<orderelement element-field="Priority" element-answer="Routine (Default) StatTimed (enter collection time/date)"/>
+<orderelement element-field="Specimen" element-answer="Whole Blood"/>
+<orderelement element-field="Collection by" element-answer="Unit/WardLaboratory"/>
+</request>

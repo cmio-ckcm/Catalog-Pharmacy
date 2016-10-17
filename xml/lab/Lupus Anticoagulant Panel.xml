@@ -1,0 +1,75 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/lab-table.xslt"?>
+<request name= "Lupus Anticoagulant Panel">
+<approval>
+<value>2/4/2016</value>
+<value>Approval</value>
+</approval>
+<owner>
+<value>Laboratory</value>
+<value>Owner</value>
+</owner>
+<division>
+<value>Coagulation</value>
+<value>Division</value>
+</division>
+<ordertype>
+<value>Procedure</value>
+<value>Type</value>
+</ordertype>
+<testname>
+<value>Lupus Anticoagulant Panel</value>
+<value>Name</value>
+</testname>
+<synonym>
+<value>LUP, LAC, LA, Dilute Russell&amp;apos;s Viper Venom time; Lupus Type Inhibitor; DVVT, DVVC, DVVM, SLRAT</value>
+<value>Synonym</value>
+</synonym>
+<orderedby>
+<value>PT, PTT, TT,</value>
+<value>Ordered by</value>
+</orderedby>
+<frequency>
+<value>1 week</value>
+<value>Frequency</value>
+</frequency>
+<orderindications>
+<value>Anticardiolipin reflex ordered with every Lupus Anticoagulant (and vice versa)</value>
+<value>Order Indications</value>
+</orderindications>
+<cds>
+<value>CDS</value>
+</cds>
+<clinicianinstructions>
+<value>Clinician Instructions</value>
+</clinicianinstructions>
+<pclocd_loinc>
+<value>75881-3 </value>
+<value>PCLOCD/LOINC</value>
+</pclocd_loinc>
+<mappingname>
+<value>Lupus anticoagulant aPTT, dRVVT and PT screening panel W Reflex</value>
+<value>Mapping Name</value>
+</mappingname>
+<orderelement element-field="Priority" element-answer="Routine (Default) 
+Stat
+"/>
+<orderelement element-field="Specimen" element-answer="Plasma"/>
+<orderelement element-field="Collection by" element-answer="Unit/Ward
+Laboratory
+"/>
+<orderelement section="Reason for Screening"/>
+<orderelement element-field="Thrombotic Concerns" element-answer="Yes/No If yes, please describe (free text)"/>
+<orderelement element-field="Rheumatologic/Autoimmune Concerns?" element-answer="Yes/No If yes, please describe (free text)"/>
+<orderelement element-field="Fertility Concerns" element-answer="Yes/No If yes, please describe (free text)"/>
+<orderelement element-field="Pregnant" element-answer="Yes/No If yes, number of weeks gestation (free text)"/>
+<orderelement element-field="History of Pregnancy Loss" element-answer="Yes/No If yes, please state number of weeks gestation and date for each loss (free text)"/>
+<orderelement section="Medication History"/>
+<orderelement element-field="Anticoagulants" element-answer="Yes/No If yes, check all that apply and specify date and time of last dose"/>
+<orderelement element-field="" element-answer="Coumadin/Warfarin: 
+Heparin:(Specify type) free text
+Pradaxa/DabigatranXarelto/Rivaroxaban: 
+Eliquis/Apixaban
+Other Anticoagulant(s
+"/>
+<orderelement element-field="Order Element/field" element-answer="Order element: Answer"/>
+</request>

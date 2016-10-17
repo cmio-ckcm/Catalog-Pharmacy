@@ -1,0 +1,42 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/lab-table.xslt"?>
+<request name= "Factor VIII Inhibitor">
+<approval>
+<value>2/4/2016</value>
+</approval>
+<owner>
+<value>Laboratory</value>
+</owner>
+<division>
+<value>Coagulation</value>
+</division>
+<ordertype>
+<value>Procedure</value>
+</ordertype>
+<testname>
+<value>Factor VIII Inhibitor</value>
+</testname>
+<synonym>
+<value>INHAF8, Bethesda Assay, Nijmegen Assay</value>
+</synonym>
+<orderedby>
+<value>Part of hemostasis panel</value>
+</orderedby>
+<frequency>
+<value>1 week</value>
+</frequency>
+<orderindications>
+</orderindications>
+<cds>
+</cds>
+<clinicianinstructions>
+</clinicianinstructions>
+<pclocd_loinc>
+<value>3204-5</value>
+</pclocd_loinc>
+<mappingname>
+<value>Factor VIII Inhibitor</value>
+</mappingname>
+<orderelement element-field="Priority" element-answer="Routine (Default)"/>
+<orderelement element-field="Specimen" element-answer="Plasma"/>
+<orderelement element-field="Collection by" element-answer="Unit/WardLaboratory"/>
+</request>

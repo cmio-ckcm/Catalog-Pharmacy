@@ -1,0 +1,41 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/lab-table.xslt"?>
+<request name= "Anti-Beta2-Glycoprotein I">
+<approval>
+<value>2/4/2016</value>
+</approval>
+<owner>
+<value>Laboratory</value>
+</owner>
+<division>
+<value>Coagulation</value>
+</division>
+<ordertype>
+<value>Procedure</value>
+</ordertype>
+<testname>
+<value>Anti-Beta2-Glycoprotein I</value>
+</testname>
+<synonym>
+<value>Anti-B2GpI</value>
+</synonym>
+<orderedby>
+<value>Anti-B2GpI</value>
+</orderedby>
+<frequency>
+<value>1 month</value>
+</frequency>
+<orderindications>
+<value>Testing will only be processed if Anti-cardiolipin and Lupus Anticoagulant are negative.</value>
+</orderindications>
+<cds>
+</cds>
+<clinicianinstructions>
+</clinicianinstructions>
+<pclocd_loinc>
+</pclocd_loinc>
+<mappingname>
+</mappingname>
+<orderelement element-field="Priority" element-answer="Routine (Default)"/>
+<orderelement element-field="Specimen" element-answer="Plasma"/>
+<orderelement element-field="Collection by" element-answer="Unit/WardLaboratory"/>
+</request>

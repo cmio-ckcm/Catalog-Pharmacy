@@ -1,0 +1,62 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="../../web/xslt/lab-table.xslt"?>
+<request name= "D-Dimer">
+<approval>
+<value>2/4/2016</value>
+</approval>
+<owner>
+<value>Laboratory</value>
+</owner>
+<division>
+<value>Hematology</value>
+</division>
+<ordertype>
+<value>Procedure</value>
+</ordertype>
+<testname>
+<value>D-Dimer</value>
+</testname>
+<synonym>
+<value>DDIMER(DVT/PE and DIC); DDIMER; L-DDEL; L-DD</value>
+</synonym>
+<orderedby>
+</orderedby>
+<frequency>
+</frequency>
+<orderindications>
+<value>Low pretest probability for VTE or PE; Disseminated intravascular coagulation (DIC)</value>
+</orderindications>
+<cds>
+<value>The pretest probability of the presence of VTE is the major factor determining the potential value of D-dimer measurement. D-dimer tests should only be ordered in patients with a low clinical probability after assessment with a well-validated clinical probability score guide, such as the Wells criteria. A low pretest probability and a negative D-dimer assay essentially rules out VTE and no further evaluation is indicated. In patients with an intermediate to high pretest probability of VTE, a d-dimer assay is not recommended initially because a negative result cannot safely exclude the diagnosis of VTE. Additional radiographic studies should be pursued to make a definitive diagnosis.</value>
+</cds>
+<clinicianinstructions>
+<value>Complete pretest probability  scoring for VTE or PE prior to ordering. </value>
+</clinicianinstructions>
+<pclocd_loinc>
+<value>55449-3</value>
+</pclocd_loinc>
+<mappingname>
+<value>Fibrin D-dimer in Platelet poor plasma (order only)</value>
+</mappingname>
+<orderelement element-field="Priority" element-answer="Routine (Default)StatTimed (enter collection time/date)"/>
+<orderelement element-field="Collection by" element-answer="Unit/WardLaboratory"/>
+<orderelement section="DVT pre-test assessment"/>
+<orderelement element-field="Active Cancer" element-answer="Yes/No"/>
+<orderelement element-field="Paralysis, paresis, or recent plaster immobilization of the lower extremity " element-answer="Yes/No"/>
+<orderelement element-field="Recently bedridden for more than 3 days or major surgery within 4 weeks " element-answer="Yes/No"/>
+<orderelement element-field="Localized tenderness along the distribution of the deep venous system " element-answer="Yes/No"/>
+<orderelement element-field="Entire leg swollen " element-answer="Yes/No"/>
+<orderelement element-field="Calf swelling by more than 3 cm when compared to asymptomatic leg " element-answer="Yes/No"/>
+<orderelement element-field="Pitting edema (greater in the symptomatic leg)" element-answer="Yes/No"/>
+<orderelement element-field="Collateral superficial veins (nonvaricose) " element-answer="Yes/No"/>
+<orderelement element-field="Alternative Diagnosis as likely or more possible than that of deep venous thrombosis (DVT) " element-answer="Yes/No"/>
+<orderelement section="Well&amp;apos;s score result"/>
+<orderelement section="PE pre-test assessment"/>
+<orderelement element-field="Clinical signs and symptoms of DVT (leg swelling and pain with palpitation of the deep veins)" element-answer="Yes/No"/>
+<orderelement element-field="Pulmonary Embolism as likely or more possible than an alternative diagnosis" element-answer="Yes/No"/>
+<orderelement element-field="Heart rate greater than 100 beats per minute " element-answer="Yes/No"/>
+<orderelement element-field="Immobilization or surgery in the previous 4 weeks " element-answer="Yes/No"/>
+<orderelement element-field="Previous deep vein thrombosis/pulmonary embolism " element-answer="Yes/No"/>
+<orderelement element-field="Hemoptysis " element-answer="Yes/No"/>
+<orderelement element-field="Malignancy (treatment ongoing or within previous 6 months or palliative) " element-answer="Yes/No"/>
+<orderelement section="Wells Score Result"/>
+</request>
