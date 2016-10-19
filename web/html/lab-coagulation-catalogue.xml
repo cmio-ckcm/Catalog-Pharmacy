@@ -1,0 +1,201 @@
+<catalogue title='Lab Coagulation Catalogue [test1]'><orderitem>
+<title>Lupus Anticoagulant Panel</title>
+<modelfile>Lupus Anticoagulant Panel.xml</modelfile>
+<type>Coagulation</type>
+</orderitem>
+<orderitem>
+<title>Anti-Beta2-Glycoprotein I</title>
+<modelfile>Anti-Beta2-Glycoprotein I.xml</modelfile>
+<type>Coagulation</type>
+</orderitem>
+<orderitem>
+<title>Anticardiolipin antibody</title>
+<modelfile>Anticardiolipin antibody.xml</modelfile>
+<type>Coagulation</type>
+</orderitem>
+<orderitem>
+<title>Anti-Factor Xa</title>
+<modelfile>Anti-Factor Xa.xml</modelfile>
+<type>Coagulation</type>
+</orderitem>
+<orderitem>
+<title>Anti-thrombin III, plasma</title>
+<modelfile>Anti-thrombin III, plasma.xml</modelfile>
+<type>Coagulation</type>
+</orderitem>
+<orderitem>
+<title>APC-Resistance/Factor V Leiden</title>
+<modelfile>APC-ResistanceFactor V Leiden.xml</modelfile>
+<type>Coagulation</type>
+</orderitem>
+<orderitem>
+<title>APT Test</title>
+<modelfile>APT Test.xml</modelfile>
+<type>Hematology</type>
+</orderitem>
+<orderitem>
+<title>Bone Marrow Examination</title>
+<modelfile>Bone Marrow Examination.xml</modelfile>
+<type>Hematology</type>
+</orderitem>
+<orderitem>
+<title>Cell Count, CSF</title>
+<modelfile>Cell Count, CSF.xml</modelfile>
+<type>Hematology</type>
+</orderitem>
+<orderitem>
+<title>Cell Count, fluid</title>
+<modelfile>Cell Count, fluid.xml</modelfile>
+<type>Coagulation</type>
+</orderitem>
+<orderitem>
+<title>Closure Time</title>
+<modelfile>Closure Time.xml</modelfile>
+<type>Hematology</type>
+</orderitem>
+<orderitem>
+<title>Complete Blood Count (CBC), no diff</title>
+<modelfile>Complete Blood Count (CBC), no diff.xml</modelfile>
+<type>Hematology</type>
+</orderitem>
+<orderitem>
+<title>Complete Blood Count (CBC), with differential</title>
+<modelfile>Complete Blood Count (CBC), with differential.xml</modelfile>
+<type>Hematology</type>
+</orderitem>
+<orderitem>
+<title>Crystals, Fluid</title>
+<modelfile>Crystals, Fluid.xml</modelfile>
+<type>Hematology</type>
+</orderitem>
+<orderitem>
+<title>D-Dimer</title>
+<modelfile>D-Dimer.xml</modelfile>
+<type>Hematology</type>
+</orderitem>
+<orderitem>
+<title>Differential, CSF</title>
+<modelfile>Differential, CSF.xml</modelfile>
+<type>Hematology</type>
+</orderitem>
+<orderitem>
+<title>Eosinophil Count - Nasal</title>
+<modelfile>Eosinophil Count - Nasal.xml</modelfile>
+<type>Hematology</type>
+</orderitem>
+<orderitem>
+<title>Eosinophils, fluid</title>
+<modelfile>Eosinophils, fluid.xml</modelfile>
+<type>Hematology</type>
+</orderitem>
+<orderitem>
+<title>Eosinophils, stool</title>
+<modelfile>Eosinophils, stool.xml</modelfile>
+<type>Hematology</type>
+</orderitem>
+<orderitem>
+<title>Eosinophils, urine</title>
+<modelfile>Eosinophils, urine.xml</modelfile>
+<type>Hematology</type>
+</orderitem>
+<orderitem>
+<title>Erythocyte Sedimentation Rate (ESR)</title>
+<modelfile>Erythocyte Sedimentation Rate (ESR).xml</modelfile>
+<type>Coagulation</type>
+</orderitem>
+<orderitem>
+<title>Factor II Assay</title>
+<modelfile>Factor II Assay.xml</modelfile>
+<type>Coagulation</type>
+</orderitem>
+<orderitem>
+<title>Factor IX Assay</title>
+<modelfile>Factor IX Assay.xml</modelfile>
+<type>Coagulation</type>
+</orderitem>
+<orderitem>
+<title>Factor V Assay</title>
+<modelfile>Factor V Assay.xml</modelfile>
+<type>Coagulation</type>
+</orderitem>
+<orderitem>
+<title>Factor VII Assay</title>
+<modelfile>Factor VII Assay.xml</modelfile>
+<type>Coagulation</type>
+</orderitem>
+<orderitem>
+<title>Factor VIII Assay</title>
+<modelfile>Factor VIII Assay.xml</modelfile>
+<type>Coagulation</type>
+</orderitem>
+<orderitem>
+<title>Factor VIII Inhibitor</title>
+<modelfile>Factor VIII Inhibitor.xml</modelfile>
+<type>Coagulation</type>
+</orderitem>
+<orderitem>
+<title>Factor X Assay</title>
+<modelfile>Factor X Assay.xml</modelfile>
+<type>Coagulation</type>
+</orderitem>
+<orderitem>
+<title>Factor XI Assay</title>
+<modelfile>Factor XI Assay.xml</modelfile>
+<type>Coagulation</type>
+</orderitem>
+<orderitem>
+<title>Factor XII Assay</title>
+<modelfile>Factor XII Assay.xml</modelfile>
+<type>Coagulation</type>
+</orderitem>
+<orderitem>
+<title>Factor XIII Screen</title>
+<modelfile>Factor XIII Screen.xml</modelfile>
+<type>Coagulation</type>
+</orderitem>
+<orderitem>
+<title>Fibrinogen</title>
+<modelfile>Fibrinogen.xml</modelfile>
+<type>Hematology</type>
+</orderitem>
+<orderitem>
+<title>Free Plasma Hemoglogbin</title>
+<modelfile>Free Plasma Hemoglogbin.xml</modelfile>
+<type>Hematology</type>
+</orderitem>
+<orderitem>
+<title>G6PD Screen</title>
+<modelfile>G6PD Screen.xml</modelfile>
+<type>Hematology</type>
+</orderitem>
+<orderitem>
+<title>Hemoglobin</title>
+<modelfile>Hemoglobin.xml</modelfile>
+<type>Hematology</type>
+</orderitem>
+<orderitem>
+<title>Hemoglobin and Hematocrit, fluid</title>
+<modelfile>Hemoglobin and Hematocrit, fluid.xml</modelfile>
+<type>Hematology</type>
+</orderitem>
+<orderitem>
+<title>Hemoglobinopathy Investigation</title>
+<modelfile>Hemoglobinopathy Investigation.xml</modelfile>
+<type>Hematology</type>
+</orderitem>
+<orderitem>
+<title>Hemosiderin</title>
+<modelfile>Hemosiderin.xml</modelfile>
+<type>Coagulation</type>
+</orderitem>
+<orderitem>
+<title>Hemostasis Panel</title>
+<modelfile>Hemostasis Panel.xml</modelfile>
+<type>Coagulation</type>
+</orderitem>
+<orderitem>
+<title>Heparin Induced Thrombocytopenia (HIT)</title>
+<modelfile>Heparin Induced Thrombocytopenia (HIT).xml</modelfile>
+<type>Coagulation</type>
+</orderitem>
+</catalogue>
