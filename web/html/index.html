@@ -14,30 +14,22 @@
 
     #first {
         float:left;
-        width: 33%;
-        height: 100%;
+        width: 30%;
+        height: 15%;
 
     }
 
     #second {
         float:left;
-        width: 67%;
-        height: 30%;
+        width: 30%;
+        height: 85%;
     }
 
-    #third {
-        float:left;
-        width: 67%;
-        height: 70%;
-        background: blue;
-    }
     
     #fullright {
-        float: left;
-        width: 67%;
-        height: 100%;
-
-            
+        float: right;
+        width: 70%;
+        height: 99%;
     }
 
 
@@ -198,27 +190,27 @@ function loadCatalogue() {
     
 <body>
     <div id="wrapper">
-        <div id="first" style="overflow-y: auto;">
+        <div id="fullright" style="overflow-y: auto;">
+        
+        
+        </div>
+        
+        <div id="first" >
 
             <h2>Service Catalogues</h2>
             <H4>an experiment</h4>
             <input type="text" id="myInput" onkeyup="searchTable()" placeholder="Search for products.." title="Type in a title">
-
+        
+        </div>
+        
+        <div id = "second" style="overflow-y: auto;">
             <table id="myTable">
-            </table>
-            
-            
+            </table>        
         
         </div>
         
+
         
-        
-        <div id="fullright">
-        
-        
-        
-        
-        </div>
     </div>
 
 </body>
