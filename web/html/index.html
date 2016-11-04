@@ -12,24 +12,28 @@
         height:100%;
     }
 
+
+    
     #search {
         float:left;
-        width: 30%;
+        width: 25%;
         height: 20%;
 
+        z-index: -1;
     }
 
     #table {
         float:left;
-        width: 30%;
+        width: 25%;
         height: 80%;
+
         overflow-y: auto;
     }
 
     
     #detail {
         float: right;
-        width: 70%;
+        width: 75%;
         height: 99%;
     }
 
@@ -89,7 +93,9 @@ p {
   border-collapse: collapse;
   width: 100%;
   border: 1px solid #ddd;
-  font-size: 18px;
+
+  overflow-y: visible;
+  font-size: 16px;
 }
 
 #myTable th, #myTable td {
@@ -119,9 +125,19 @@ td:hover{
 </style>
 </head>
 
-<body onload="searchTable()"</body>
+
 
 <script>
+
+    
+    
+var gCatalogueLabCoagulation = { catalogue_file : "lab-coagulation-catalogue.xml",
+                       model_path : "../../xml/pharmacy/"};
+
+var gCataloguePharmacy = { catalogue_file : "pharmacy-catalogue.xml",
+                       model_path : "../../xml/pharmacy/"};
+
+var gCatalogs = [ {gCataloguePharmacy, gCatalogueLabCoagulation}];
 
 function loadURL(u) { 
 
@@ -186,22 +202,23 @@ function loadCatalogue(cataloguefile, cataloguemodelpath) {
     
 <body>
     <div id="wrapper">
-        <div id="detail" style="overflow-y: auto;"></div>
-        
         <div id="search" >
-            <h2>Service Catalogues</h2>
-            <H4>an experiment</h4>
+            <h3>Service Catalogues experiment</h3>
             <input type="text" id="myInput" onkeyup="searchTable()" placeholder="Search for products.." title="Type in a title">
             <select id="selecter">
                 <option data-cataloguefile="pharmacy-catalogue.xml",        data-modelpath="../../xml/pharmacy/">Pharmacy</option>
                 <option data-cataloguefile="lab-coagulation-catalogue.xml", data-modelpath="../../xml/lab/">Lab Coagulation</option>
-            </select>
+            </select>            
         </div>
-        
-        <div id = "table" style="overflow-y: auto;">
+        <div id="detail" ></div>        
+        <div id = "table">
+
             <table id="myTable">
             </table> 
         </div>
+
+        
+        
     </div>
 
     <script>
@@ -212,11 +229,13 @@ function loadCatalogue(cataloguefile, cataloguemodelpath) {
             console.log(cataloguefile);
             console.log(modelpath);
             loadCatalogue(cataloguefile,modelpath);
-
+            document.getElementById("myInput").value = "";
         };
 
     </script>
 
     
 </body>
+    
+<body onload="document.getElementById('selecter').onchange()"</body>
 </html>
