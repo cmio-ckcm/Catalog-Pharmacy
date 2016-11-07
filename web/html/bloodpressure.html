@@ -1,0 +1,291 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+       <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="{$language}" lang="{$language}" dir="ltr">
+            <head>
+                <title><xsl:value-of select="oe:concept"/></title>
+                <meta http-equiv="Content-Language" content="{$language}"/>
+                <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+                <link rel="stylesheet" type="text/css" href="{$css-file-path}"/>
+				 <script type="text/javascript">
+                   
+            <!--
+                function toggleList(id)
+                {
+                    elem = document.getElementById(id);
+                    elem.style.display == 'none' ? elem.style.display = 'block' : elem.style.display='none';
+                }
+                function toggleExpandAll(topId)
+                {
+                    var elem = document.getElementById(topId+"_ExpandAll")
+                    elem.innerHTML == "Expand All" ? elem.innerHTML = "Collapse All" : elem.innerHTML = "Expand All"
+                    var topelem = document.getElementById(topId+"_treeRoot")                         
+                    var elems = topelem.getElementsByTagName("div")
+                    for(i=0;i<=elems.length-1;i++)
+                    {
+                        if(elems[i].className == "expandable")
+                        {
+                              //   elems[i].style.display == "none" ? elems[i].style.display = "block" : elems[i].style.display = "none"
+                        	// We changed it already
+                        	elem.innerHTML == "Collapse All" ? elems[i].style.display = "block" : elems[i].style.display = "none"                
+                        }
+                    }
+                }
+                function toggleAnnotations(topId)
+                {
+                    var elem = document.getElementById(topId+"_annotationCommand")
+                    elem.innerHTML == "Show Annotations" ? elem.innerHTML = "Hide Annotations" : elem.innerHTML = "Show Annotations"
+                    var topelem = document.getElementById(topId+"_treeRoot")                         
+                    var elems = topelem.getElementsByTagName("div")
+                    for (i=0;i<=elems.length-1;i++)
+                    {
+                        if(elems[i].className == "annotation")
+                        {
+							//We changed the elem already
+                            elem.innerHTML == "Hide Annotations" ? elems[i].style.display = "block" : elems[i].style.display = "none";
+                        }
+                    }
+                }
+            -->
+			</script>
+            </head>
+            <body class="clickabletree">
+	<div xmlns="http://www.w3.org/1999/xhtml" id="abcde_top">
+   <h1 class="clickabletree bordered-title">Blood pressure</h1>
+   <div id="information">
+      <h2 class="clickabletree">Purpose</h2>
+      <p class="clickabletree" id="purpose">Not Specified</p>
+      <h2 class="clickabletree">Original author</h2>
+      <p class="clickabletree" id="original_authors">Original Author: Not Specified</p>
+   </div>
+</div>
+<div xmlns="http://www.w3.org/1999/xhtml" class="description">
+   <table class="section">
+      <tr>
+         <td class="clickabletree sectionHead">Archetype ID</td>
+         <td class="clickabletree sectionBody">openEHR-EHR-OBSERVATION.sample_blood_pressure.v1</td>
+      </tr>
+      <tr>
+         <td class="clickabletree sectionHead">Template ID</td>
+         <td class="clickabletree sectionBody">52bd0aed-7c7f-4584-97c7-2de1235bbd29</td>
+      </tr>
+      <tr>
+         <td class="clickabletree sectionHead">MetaDataSet:Sample Set </td>
+         <td class="clickabletree sectionBody">Template metadata sample set </td>
+      </tr>
+   </table>
+</div>
+<div xmlns="http://www.w3.org/1999/xhtml"
+     class="treeRoot"
+     id="abcde_treeRoot">
+   <h1 class="clickabletree">
+      <img class="image"
+           src="pics/archetypes/small/observation.png"
+           align="middle"
+           alt="OBSERVATION"/>Routine Blood pressure</h1>
+   <a id="abcde_ExpandAll"
+      class="clickabletree ExpandAllLink"
+      href="javascript:toggleExpandAll('abcde')">Collapse All</a>   
+				<a id="abcde_annotationCommand"
+      class="clickabletree"
+      href="javascript:toggleAnnotations('abcde')">Show Annotations</a>
+   <div style="margin-left:0.5cm;" id="root1">
+      <p class="clickabletree">
+         <a class="clickabletree" href="javascript:toggleList('sabcde_1.1.1')">[+/-]</a>
+         <img class="image"
+              src="pics/archetypes/datatypes/small/history.png"
+              align="middle"
+              alt="HISTORY"/>
+         <span title="history Structural node">data [1]</span>
+      </p>
+      <div id="sabcde_1.1.1"
+           class="expandable"
+           style="display:block; margin-left:0.5cm;">
+         <p class="clickabletree">
+            <a class="clickabletree" href="javascript:toggleList('sabcde_1.1.1.1')">[+/-]</a>
+            <img class="image"
+                 src="pics/archetypes/datatypes/small/timing.png"
+                 align="middle"
+                 alt="EVENT"/>
+            <span title="Other event in event history">any event
+				<font color="#C0C0C0"> [0..*] 
+				</font></span>
+         </p>
+         <div id="sabcde_1.1.1.1"
+              class="expandable"
+              style="display:block; margin-left:0.5cm;">
+            <p class="clickabletree">
+               <a class="clickabletree"
+                  href="javascript:toggleList('sabcde_1.1.1.1.1.1')">[+/-]</a>
+               <span title="@ internal @">data [1]</span>
+            </p>
+            <div id="sabcde_1.1.1.1.1.1"
+                 class="expandable"
+                 style="display:block; margin-left:0.5cm;">
+               <p class="clickabletree">
+                  <img class="image"
+                       src="pics/archetypes/datatypes/small/quantity.png"
+                       align="middle"
+                       alt="ELEMENT"/>
+                  <span title="Peak systemic arterial blood pressure over one cycle - measured in systolic or contraction phase of the heart cycle">Systolic
+				<font color="#C0C0C0">
+				</font>  <input size="4" name="Systolicat0004" value="   0"/> mm[Hg]</span>
+               </p>
+               <p class="clickabletree">
+                  <img class="image"
+                       src="pics/archetypes/datatypes/small/quantity.png"
+                       align="middle"
+                       alt="ELEMENT"/>
+                  <span title="Minimum systemic arterial blood pressure over one cycle - measured in the diastolic or relaxation phase">Diastolic
+				<font color="#C0C0C0">
+				</font>  <input size="4" name="Diastolicat0005" value="   0"/> mm[Hg]</span>
+               </p>
+               <p class="clickabletree">
+                  <img class="image"
+                       src="pics/archetypes/datatypes/small/text.png"
+                       align="middle"
+                       alt="ELEMENT"/>
+                  <span title="Comment on blood pressure reading">Comment
+				<font color="#C0C0C0">
+				</font>  <textarea rows="1"
+                               cols="15"
+                               style="vertical-align: top;"
+                               name="Commentat0033"> </textarea>
+                  </span>
+               </p>
+                      
+                </div>
+            <!--s1.1.1.1.1.1-->
+            <p class="clickabletree">
+               <a class="clickabletree"
+                  href="javascript:toggleList('sabcde_1.1.1.1.2.1')">[+/-]</a>
+               <span title="@ internal @">state [1]</span>
+            </p>
+            <div id="sabcde_1.1.1.1.2.1"
+                 class="expandable"
+                 style="display:block; margin-left:0.5cm;">
+               <p class="clickabletree">
+                  <a class="clickabletree"
+                     href="javascript:toggleList('sabcde_1.1.1.1.2.1.1')">[+/-]</a>
+                  <img class="image"
+                       src="pics/archetypes/datatypes/small/cluster.png"
+                       align="middle"
+                       alt="CLUSTER"/>
+                  <span title="Record information about level of exertion">Level of Exertion (Training sample)
+				<font color="#C0C0C0"> [0..*] 
+				</font></span>
+               </p>
+               <div class="clickabletree"
+                    style="border: 1px solid #336699; display:block; margin-top: 0.15cm; padding-bottom: 0.25cm; margin-right: 0.25cm; margin-bottom: 0.25cm">
+                  <div id="sabcde_1.1.1.1.2.1.1"
+                       class="expandable"
+                       style="display:block; margin-left:0.5cm;">
+                     <p class="clickabletree">
+                        <a class="clickabletree"
+                           href="javascript:toggleList('sabcde_1.1.1.1.2.1.1.1')">[+/-]</a>
+                        <img class="image"
+                             src="pics/archetypes/datatypes/small/cluster.png"
+                             align="middle"
+                             alt="CLUSTER"/>
+                        <span title="Amount of work being done during exercise">Exercise intensity
+				<font color="#C0C0C0">
+				</font></span>
+                     </p>
+                     <div class="clickabletree"
+                          style="border: 1px solid #336699; display:block; margin-top: 0.15cm; padding-bottom: 0.25cm; margin-right: 0.25cm; margin-bottom: 0.25cm">
+                        <div id="sabcde_1.1.1.1.2.1.1.1"
+                             class="expandable"
+                             style="display:block; margin-left:0.5cm;">
+                           <p class="clickabletree">
+                              <img class="image"
+                                   src="pics/archetypes/datatypes/small/text.png"
+                                   align="middle"
+                                   alt="ELEMENT"/>
+                              <span title="Semiquantitative description of the intensity of exercise undertaken">Intensity
+				<font color="#C0C0C0">
+				</font>  <select size="1" name="Intensityat0011">
+                                    <option>Low Intensity</option>
+                                    <option>Medium Intensity</option>
+                                    <option>High Intensity</option>
+                                    <option>Flat Out</option>
+                                 </select>
+                              </span>
+                           </p>
+                        </div>
+                        <!--1.1.1.1.2.1.1.1-->
+                     </div>
+                  </div>
+                  <!--1.1.1.1.2.1.1-->
+               </div>
+                      
+                </div>
+            <!--s1.1.1.1.2.1-->
+                      
+                </div>
+         <!--s1.1.1.1-->
+                      
+                </div>
+      <!--s1.1.1-->
+   </div>
+   <p class="clickabletree">
+      <a class="clickabletree" href="javascript:toggleList('sabcde_1.2.1')">[+/-]</a>
+      <span title="">protocol [1]</span>
+   </p>
+   <div id="sabcde_1.2.1"
+        class="expandable"
+        style="display:block; margin-left:0.5cm;">
+      <p class="clickabletree">
+         <img class="image"
+              src="pics/archetypes/datatypes/small/text.png"
+              align="middle"
+              alt="ELEMENT"/>
+         <span title="">
+				<font color="#C0C0C0">
+				</font>  <select size="1" name="at0013">
+               <option/>
+               <option/>
+               <option/>
+               <option/>
+               <option/>
+               <option/>
+               <option/>
+            </select>
+         </span>
+      </p>
+      <p class="clickabletree">
+         <a class="clickabletree" href="javascript:toggleList('sabcde_1.2.1.2')">[+/-]</a>
+         <img class="image"
+              src="pics/archetypes/datatypes/small/cluster.png"
+              align="middle"
+              alt="CLUSTER"/>
+         <span title="The details of the device used">Device details (training sample)
+				<font color="#C0C0C0"> [0..*] 
+				</font></span>
+      </p>
+      <div class="clickabletree"
+           style="border: 1px solid #336699; display:block; margin-top: 0.15cm; padding-bottom: 0.25cm; margin-right: 0.25cm; margin-bottom: 0.25cm">
+         <div id="sabcde_1.2.1.2"
+              class="expandable"
+              style="display:block; margin-left:0.5cm;">
+            <p class="clickabletree">
+               <img class="image"
+                    src="pics/archetypes/datatypes/small/text.png"
+                    align="middle"
+                    alt="ELEMENT"/>
+               <span title="The name of the device">Device name
+				<font color="#C0C0C0">
+				</font>  <textarea rows="1"
+                            cols="15"
+                            style="vertical-align: top;"
+                            name="Device nameat0001"> </textarea>
+               </span>
+            </p>
+         </div>
+         <!--1.2.1.2-->
+      </div>
+                      
+                </div>
+   <!--s1.2.1-->
+</div>
+				</body>
+			</html>
+	<!--HTML automatically generated by Operational Template To HTML Tree transform v1.1 (14/12/2009).-->

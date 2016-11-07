@@ -25,7 +25,7 @@
     #table {
         float:left;
         width: 25%;
-        height: 80%;
+        height: 100%;
 
         overflow-y: auto;
     }
@@ -202,16 +202,15 @@ function loadCatalogue(cataloguefile, cataloguemodelpath) {
     
 <body>
     <div id="wrapper">
-        <div id="search" >
+        <div id="detail" ></div>        
+        <div id = "table">
             <h3>Service Catalogues experiment</h3>
             <input type="text" id="myInput" onkeyup="searchTable()" placeholder="Search for products.." title="Type in a title">
+
             <select id="selecter">
                 <option data-cataloguefile="pharmacy-catalogue.xml",        data-modelpath="../../xml/pharmacy/">Pharmacy</option>
                 <option data-cataloguefile="lab-coagulation-catalogue.xml", data-modelpath="../../xml/lab/">Lab Coagulation</option>
             </select>            
-        </div>
-        <div id="detail" ></div>        
-        <div id = "table">
 
             <table id="myTable">
             </table> 
